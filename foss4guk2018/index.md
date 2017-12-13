@@ -13,10 +13,11 @@ Our call for papers for our workshop and presentation tracks are now open. The d
 * [Workshop Submission](https://docs.google.com/forms/d/1EkvwsftL_pFEZTy4GQSwZDvFVNo4H42M10i5nc1p3Jw/)
 * [Presentation Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
 
+# Sponsorship
 
-# We Need Your Help!
+We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
 
-The committee is now in place, but we are still looking for volunteers and also sponsors. Please contact Max Stephan if you are interested in hearing about the various sponsorship packages available.
+**Please see our sponsorship form [here](https://docs.google.com/forms/d/17Qu_bqh6U_gkkv1KK6QLSWdwaTXnAwibh-G4gW0nhU0/edit)**
 
 # Committee 
 
@@ -94,10 +95,6 @@ Here are some hotels the committee has stayed in previously and can recommend:
 ### Code Sprint
 
 As it stands we currently have a proposed venue that we will annouce in the next month or so upon confirmation. 
-
-### [Sponsorship](sponsors.html)
-
-We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
 
 <!-- ### Students
 
