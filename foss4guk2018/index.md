@@ -4,19 +4,20 @@ layout: foss4guk2018
 
 <h1> FOSS4G UK 2018 </h1>
 
-On the 9th to 10th of March 2018, OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
+On the 8th to 9th of March 2018 (and the 10th of the Code Sprint!), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
 
 # Call for Papers Open
 
-Our call for papers is now open. The deadline is January 8th.
+Our call for papers for our workshop and presentation tracks are now open. The deadline for both is **January 8th**.
 
 * [Workshop Submission](https://docs.google.com/forms/d/1EkvwsftL_pFEZTy4GQSwZDvFVNo4H42M10i5nc1p3Jw/)
-* [Paper Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
+* [Presentation Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
 
+# Sponsorship
 
-# We Need Your Help!
+We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
 
-The committee is now in place, but we are still looking for volunteers and also sponsors. Please contact Max Stephan if you are interested in hearing about the various sponsorship packages available.
+**Please see our sponsorship form [here](https://docs.google.com/forms/d/17Qu_bqh6U_gkkv1KK6QLSWdwaTXnAwibh-G4gW0nhU0/edit)**
 
 # Committee 
 
@@ -37,7 +38,7 @@ The current committee line up is:
 
 ### What
 
-Conference format to be confirmed, but expect something similar to [FOSS4G UK 2016]() (Southampton), and/or [FOSS4G 2013, Nottingham](http://2013.foss4g.org/) only somewhat smaller.
+Conference format to be confirmed, but expect something similar to [FOSS4G UK 2016](http://uk.osgeo.org/foss4guk2016/) (Southampton), and/or [FOSS4G 2013, Nottingham](http://2013.foss4g.org/) only somewhat smaller.
 [![FOSS4G 2013](./images/foss4g2013.jpg)](./images/foss4g2013.jpg)
 
 ### When
@@ -75,17 +76,25 @@ EC1R 0BE
 
 To be announced
 
-### Accommodation and Party
+### Party
 
-To be announced 
+To be announced
+
+### Accommodation
+
+London has many levels of accomodation available. It's worth keeping an eye on websites like [booking.com](https://www.booking.com/), [trivago](https://www.trivago.co.uk/) and [expedia](https://www.expedia.co.uk/Hotels). 
+
+We've created a predefined search on Google Maps that might [help you narrow down your choice](https://encrypted.google.com/search?safe=strict&hl=en&rlla=0&hotel_dates=2018-03-07%2C2018-03-10&sz=14&hotel_ds=1&tbm=lcl&ei=xwUsWomTOcT_ULarj8AE&hotel_occupancy=2&q=hotels&oq=hotels&gs_l=psy-ab.3...109705.110150.0.110267.6.4.0.0.0.0.0.0..0.0....0...1c.1.64.psy-ab..6.0.0....0.RhrW4b011bg#rlfi=hd:2018-03-07,2018-03-10;si:;mv:!1m3!1d40195.88868441375!2d-0.07171367998103051!3d51.510579556401375!3m2!1i1500!2i777!4f13.1;tbs:lf_hd:-1,lf_ho:2,lrf:!1m4!1u13!2m2!13m1!1b1!1m4!1u10!2m2!11m1!1e6!1m4!1u10!2m2!11m1!1e4!1m4!1u10!2m2!11m1!1e5!1m4!1u10!2m2!11m1!1e10!1m4!1u10!2m2!11m1!1e2!1m4!1u10!2m2!11m1!1e1!1m4!1u10!2m2!11m1!1e3!1m4!1u10!2m2!11m1!1e7!2m1!1e4!2m1!1e13!2m25!1e10!4m2!11m1!1e6!4m2!11m1!1e4!4m2!11m1!1e5!4m2!11m1!1e10!4m2!11m1!1e2!4m2!11m1!1e1!4m2!11m1!1e3!4m2!11m1!1e7!2m7!1e17!4m2!17m1!1e3!4m2!17m1!1e8!2m26!1e7!4m4!7m3!1m1!1u150!3sGBP!4m4!7m3!1m1!1u200!3sGBP!4m4!7m3!1m1!1u250!3sGBP!4m4!7m3!1m1!1u400!3sGBP!5m4!7m3!1m1!1u153!3sGBP!2m4!1e2!5m2!2m1!2e8!3sIAE,lf:1,lf_ui:6).
+
+Here are some hotels the committee has stayed in previously and can recommend:
+
+* [Qbic](https://qbichotels.com/london-city/) (Aldgate) - cheap, modern, clean and affordable. Located in Aldgate it's a short tube to Farringdon, and walkable for the brave.
+* [Town Hall](https://www.townhallhotel.com/) (Bethnal Green) - set in Bethnal Greens old town hall, great hotel for more lenient budgets.
+
 
 ### Code Sprint
 
 As it stands we currently have a proposed venue that we will annouce in the next month or so upon confirmation. 
-
-### [Sponsorship](sponsors.html)
-
-We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
 
 <!-- ### Students
 
