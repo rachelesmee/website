@@ -4,7 +4,7 @@ layout: default
 
 ### FOSS4G 2018 
 
-We are currently planning FOSS4G UK 2018. If you would like to get involved please see the [FOSS4G UK 2018 page](./foss4guk2018/).
+FOSS4G UK 2018 will be happening on the 8th to 9th of March. If you are interested in finding out more, please see the event page [FOSS4G UK 2018 page](./foss4guk2018/).
 
 ### Events
 

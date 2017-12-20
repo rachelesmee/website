@@ -4,7 +4,9 @@ layout: foss4guk2018
 
 <h1> FOSS4G UK 2018 </h1>
 
-On the 8th to 9th of March 2018 (and the 10th of the Code Sprint!), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
+On the 8th to 9th of March 2018 (and the 10th of the Code Sprint!), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. 
+
+The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
 
 # Call for Papers Open
 
