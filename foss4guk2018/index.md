@@ -10,9 +10,8 @@ The agenda and keynotes will be announced over the coming months and we're looki
 
 # Call for Papers Open
 
-Our call for papers for our workshop and presentation tracks are now open. The deadline for both is **January 8th**.
+The deadline for Presentation submissions has been extended till both is **January 15th**. Workshop submissions are closed.
 
-* [Workshop Submission](https://docs.google.com/forms/d/1EkvwsftL_pFEZTy4GQSwZDvFVNo4H42M10i5nc1p3Jw/)
 * [Presentation Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
 
 # Sponsorship
