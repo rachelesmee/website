@@ -10,7 +10,7 @@ The agenda and keynotes will be announced over the coming months and we're looki
 
 # Call for Papers Open
 
-The deadline for Presentation submissions has been extended till both is **January 15th**. Workshop submissions are closed.
+The deadline for Presentation submissions has been extended till **January 15th**. Workshop submissions are closed.
 
 * [Presentation Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
 
