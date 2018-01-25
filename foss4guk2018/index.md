@@ -8,11 +8,9 @@ On the **8th to 9th of March 2018** (and the **10th for the Code Sprint**!), OSG
 
 The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
 
-# Call for Papers Open
+# Tickets and Registration
 
-The deadline for Presentation submissions has been extended till **January 15th**. Workshop submissions are closed.
-
-* [Presentation Submission](https://docs.google.com/forms/d/1KGQAkCUIV_ucWIFzTDplD7LkLwGVC6U4LZS7YJ4wUpw/)
+Tickets and registration will be announced shortly.
 
 # Sponsorship
 
@@ -52,7 +50,7 @@ Conference format to be confirmed, but expect something similar to [FOSS4G UK 20
 
 ### Where
 
-The Geovation Hub
+Urban Innovation Centre
 1 Sekforde Street
 Clerkenwell Green
 London
@@ -68,7 +66,7 @@ EC1R 0BE
 * ~3hrs 40mins from Cardiff by train
 * ~1hr 25min flight from Edinburgh to London Stansted
 
-#### Getting to the Geovation Hub
+#### Getting to the Urban Innovation Centre
 * ~7 minute walk from Farringdon Tube Station
 * ~17 minute walk from Chancery Lane Tube Station
 * ~19 minute walk from Angel Tube Station 
@@ -107,6 +105,10 @@ Thanks to the generosity of the AGI and our other sponsors we have some free pla
  * Are you prepared to offer a small amount of time to help the organisers?
 
 **Confirm that you can meet your own travel and accommodation costs - FOSS4GUK will pay the delegate fee, lunches and attendance at the party on Tuesday night** -->
+
+# Call for Papers Open
+
+Call for papers is now closed.
 
 # Code of Conduct
 Participants at FOSS4G UK 2018 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
