@@ -12,6 +12,10 @@ The agenda and keynotes will be announced over the coming months and we're looki
 
 Tickets and registration will be announced shortly.
 
+# Agenda
+
+Agenda will be announced shortly.
+
 # Sponsorship
 
 We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
@@ -26,7 +30,7 @@ The current committee line up is:
 * **Co-Chair** - Tom Chadwin (Northumberland National Park)
 * **Events Coordinator** - Isabel Ulitzsch (Geovation)
 * **Treasurer** - Steven Feldman (KnowWhere Consulting)
-* **Swag Coordinator** - Sam Franklin (DeepSky Consulting)
+* **Swag Coordinator** - Sam Franklin (Institute of Environmental Analytics)
 * **Sponsor Coordinator** - Max Stephan (Geovation)
 * **Workshop Coordinator** - Nick Bearman (Clear Mapping)
 * **Party Planner** - Dennis Bauszus
@@ -71,13 +75,9 @@ EC1R 0BE
 * ~17 minute walk from Chancery Lane Tube Station
 * ~19 minute walk from Angel Tube Station 
 
-### Registration
-
-To be announced
-
 ### Party
 
-To be announced
+The FOSS4G UK 2018 Party will be taking place on the Thursday at The Bowler, about 5 minutes walk from the venue. 
 
 ### Accommodation
 
