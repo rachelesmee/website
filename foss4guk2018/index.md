@@ -6,15 +6,17 @@ layout: foss4guk2018
 
 On the **8th to 9th of March 2018** (and the **10th for the Code Sprint**!), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2018. 
 
-The agenda and keynotes will be announced over the coming months and we're looking to make it a great event at a accessible price point.
+# Agenda
+
+Please see a PDF of our current agenda (subject to change) [here](https://drive.google.com/file/d/1E6aGXunMCBoqj_T5wQS40qqr0PowP9EJ/view).
 
 # Tickets and Registration
 
-Tickets and registration will be announced shortly.
+Due to the restriction in size of the venue, we have a capacity of 130 people in total. We will be releasing tickets in batches to help allow a fairer distribution of tickets.
 
-# Agenda
+Tickets are now available [here](https://www.eventbrite.co.uk/e/foss4guk-2018-tickets-42528417642 )
 
-Agenda will be announced shortly.
+If you feel that you are under financial circumstances that prevent you from being able to attend, please contact us to discuss.
 
 # Sponsorship
 
