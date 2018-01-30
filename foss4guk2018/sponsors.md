@@ -17,7 +17,7 @@ If your idea needs location information to make it work, [Geovation](https://geo
 ---
 
 <a name="esriuk"></a>
-[![alt text](images/0015-gold-esri.png "Esri UK")](http://www.esriuk.com)
+[![alt text](images/0015-gold-esri.PNG "Esri UK")](http://www.esriuk.com)
 
 At [Esri](http://www.esriuk.com) we believe that the OS geospatial community of developers has a vital role to play, working alongside the broader GIS community, in delivering world-class geospatial solutions to customers.  FOSS4GUK 2018 is a great opportunity for us all to collaborate, engage with and learn from the community as a whole.
 
