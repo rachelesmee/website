@@ -16,8 +16,15 @@ If your idea needs location information to make it work, [Geovation](https://geo
 
 ---
 
+<a name="esriuk"></a>
+[![alt text](images/0015-gold-esri.png "Esri UK")](http://www.esriuk.com)
+
+At [Esri](http://www.esriuk.com) we believe that the OS geospatial community of developers has a vital role to play, working alongside the broader GIS community, in delivering world-class geospatial solutions to customers.  FOSS4GUK 2018 is a great opportunity for us all to collaborate, engage with and learn from the community as a whole.
+
+---
+
 <a name="astun"></a>
-[![alt text](images/astun_lge.png "Astun")](http://www.astuntechnology.com) 
+[![alt text](images/astun_lge.png "Astun")](http://www.astuntechnology.com)
 
 At [Astun](http://www.astuntechnology.com) we are passionate about geography and passionate about open (source, standards and data), and to be honest we are a bit geeky. We believe that the power of geography can enable our clients to manage assets more efficiently, inform better decisions, improve services and drive down costs. We want to help you to realise those benefits via an open and transparent business model that does not penalise clients when their demand increases or needs change, and which allows us to run a successful and sustainable business.
 
@@ -25,23 +32,30 @@ We believe that open source is a game changer within our industry that delivers 
 
 ---
 
-<a name="esriuk"></a>
-[![alt text](images/esri_logo.png "Esri UK")](http://www.esriuk.com) 
+<a name="carto"></a>
+[![alt text](images/0018-silver-carto.png "Carto")](http://www.carto.com)
 
-[Esri](http://www.esriuk.com) is an important voice in the GIS community, working for almost 40 years to promote and develop the use and benefit of spatial technologies across society using our ArcGIS Platform. Esri UK carries out this work in the UK and Ireland, we are looking forward to FOSS4GUK 2016 and the chance to engage and learn from the wider spatial community.
+[CARTO](http://www.carto.com) is the platform for turning location data into business outcomes. CARTO’s open cloud platform offers visual insights on where things happen, why they happen, and predict what will happen in the future. We accelerate innovation, find efficiencies, power new use cases, and disrupt business models through the use of Location Intelligence.
 
 ---
 
 <a name="geolytix"></a>
-[![alt text](images/geolytix.png "Geolytix")](http://www.geolytix.co.uk) 
+[![alt text](images/geolytix.png "Geolytix")](http://www.geolytix.co.uk)
 
-Location Planning experts providing data and consultancy for industries across the globe. We have extensive retail and demographic data which we use along with our expertise to find the right network strategy solution for our customers. 
+Location Planning experts providing data and consultancy for industries across the globe. We have extensive retail and demographic data which we use along with our expertise to find the right network strategy solution for our customers.
 
 ---
 
 <a name="google"></a>
 [![alt text](images/google_small.png "Google")](http://www.google.com)
 
-[Google’s](http://www.google.com) Open Source Programs Office serves the open source community through code releases, student outreach and the provision of resources. Recognising the vital role that open source software plays at Google, the Open Source Programs Office is tasked with maintaining a healthy relationship with the open source software development community. For more info see [developers.google.com](https://developers.google.com/open-source/)
+Free and open source software has been part of our technical and organizational foundation since Google’s early beginnings. Last year for example we released Cartographer, a real-time simultaneous localization and mapping (SLAM) library in 2D and 3D and Google Earth Enterprise (GEE), the enterprise product that allows developers to build and host their own private maps and 3D globes.  For more details see [https://opensource.google.com/] or contact [eparsons@google.com](mailto:eparsons@google.com)
+
+---
+
+<a name="scisys"></a>
+[![alt text](images/0020-bronze-Scisys.jpg "Scisys")](http://www.scisys.co.uk)
+
+[SCISYS](http://www.scisys.co.uk) are a software development house. We have with a long track record of integrating geospatial capabilities to deliver enterprise scale location based services. Increasingly this means connecting multiple data sources or exposing open data. This is where open standards and open source approaches bring real benefit. Operating in a number of domains recent open source projects include for MoD, Met Office, Defra, Forestry Commission and UK PowerNetworks.
 
 ---
