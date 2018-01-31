@@ -54,8 +54,8 @@ Free and open source software has been part of our technical and organizational 
 ---
 
 <a name="scisys"></a>
-[![alt text](images/0020-bronze-Scisys.jpg "Scisys")](http://www.scisys.co.uk)
+[![alt text](images/0020-bronze-Scisys.jpg "Scisys")](http://gis.scisys.co.uk)
 
-[SCISYS](http://www.scisys.co.uk) are a software development house. We have with a long track record of integrating geospatial capabilities to deliver enterprise scale location based services. Increasingly this means connecting multiple data sources or exposing open data. This is where open standards and open source approaches bring real benefit. Operating in a number of domains recent open source projects include for MoD, Met Office, Defra, Forestry Commission and UK PowerNetworks.
+[SCISYS](http://gis.scisys.co.uk) are a software development house. We have with a long track record of integrating geospatial capabilities to deliver enterprise scale location based services. Increasingly this means connecting multiple data sources or exposing open data. This is where open standards and open source approaches bring real benefit. Operating in a number of domains recent open source projects include for MoD, Met Office, Defra, Forestry Commission and UK PowerNetworks.
 
 ---
