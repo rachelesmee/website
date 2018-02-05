@@ -46,6 +46,13 @@ Location Planning experts providing data and consultancy for industries across t
 
 ---
 
+<a name="axismaps"></a>
+[![alt text](images/0019-bronze-axis-maps.png "Axis Maps")](http://www.axismaps.com)
+
+[Axis Maps](http://www.axismaps.com) has been building custom interactive maps for over 10 years for a wide range of public and private clients. Based in the US and UK, this team of designers, developers, and cartographers focuses on bringing the traditions of cartography to the web.
+
+---
+
 <a name="google"></a>
 [![alt text](images/google_small.png "Google")](http://www.google.com)
 
