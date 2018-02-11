@@ -8,16 +8,16 @@ layout: foss4guk2018
 
 |Title| Main Presenter | Room |
 |-----|-------------|-------------|
-|[pgRouting, PostGIS and QGIS](workshops.html#pgRouting,-PostGIS-and-QGIS)| Ross McDonald | Workspace |
-|[Build Your Own Geospatial Microservice Using Python/Flask/PostGIS](workshops.html#Build-Your-Own-Geospatial-Microservice-Using-Python/Flask/PostGIS)| Iain Hunter | Hub Space |
-|[Data Visualisation with QGIS](workshops.html#Data-Visualisation-with-QGIS)| Tom Armitage | Workspace |
-|[Postgres and PostGIS](workshops.html#Postgres-and-PostGIS)| Jorge Sanz | Hubspace |
-|[Introduction to D3.js and Leaflet](workshops.html#Introduction-to-D3.js-and-Leaflet)| John McCrae | Workspace |
-|[Don't be Afarid to Commit](workshops.html#Don't-be-afarid-to-commit)| Jo Cook | Hub Space |
-|[Creating Web Maps using OpenLayers](workshops.html#Creating-Web-Maps-using-OpenLayers)| Matt Walker & Thomas Gratier | Hubspace |
-|[Introduction to GeoNetwork](workshops.html#Introduction-to-GeoNetwork)| Joana Simoes | Workspace |
-|[An Introduction to Processing Satellite Imagery ](workshops.html#An-Introduction-to-Processing-Satellite-Imagery )| Alastair Graham | Boardroom |
-|[How to Contribute to GeoTools and GeoServer](workshops.html#How-to-Contribute-to-GeoTools-and-GeoServer)| Ian Turton | Hub Space |
+|[pgRouting, PostGIS and QGIS](workshops.html#pgrouting,-postgis-and-qgis)| Ross McDonald | Workspace |
+|[Build Your Own Geospatial Microservice Using Python/Flask/PostGIS](workshops.html#build-your-own-geospatial-microservice-using-python/flask/postgis)| Iain Hunter | Hub Space |
+|[Data Visualisation with QGIS](workshops.html#data-visualisation-with-qgis)| Tom Armitage | Workspace |
+|[Postgres and PostGIS](workshops.html#postgres-and-postgis)| Jorge Sanz | Hub Space |
+|[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3.js-and-leaflet)| John McCrae | Workspace |
+|[Don't be Afarid to Commit](workshops.html#don't-be-afarid-to-commit)| Jo Cook | Hub Space |
+|[Creating Web Maps using OpenLayers](workshops.html#creating-web-maps-using-openlayers)| Matt Walker & Thomas Gratier | Hub Space |
+|[Introduction to GeoNetwork](workshops.html#introduction-to-geonetwork)| Joana Simoes | Workspace |
+|[An Introduction to Processing Satellite Imagery ](workshops.html#an-introduction-to-processing-satellite-imagery )| Alastair Graham | Boardroom |
+|[How to Contribute to GeoTools and GeoServer](workshops.html#how-to-contribute-to-geotools-and-geoserver)| Ian Turton | Hub Space |
 
 - - -
 
