@@ -8,12 +8,12 @@ layout: foss4guk2018
 
 |Title| Main Presenter | Room |
 |-----|-------------|-------------|
-|[pgRouting, PostGIS and QGIS](workshops.html#pgrouting,-postgis-and-qgis)| Ross McDonald | Workspace |
+|[pgRouting, PostGIS and QGIS](workshops.html#pgrouting-postgis-and-qgis)| Ross McDonald | Workspace |
 |[Build Your Own Geospatial Microservice Using Python/Flask/PostGIS](workshops.html#build-your-own-geospatial-microservice-using-python/flask/postgis)| Iain Hunter | Hub Space |
 |[Data Visualisation with QGIS](workshops.html#data-visualisation-with-qgis)| Tom Armitage | Workspace |
 |[Postgres and PostGIS](workshops.html#postgres-and-postgis)| Jorge Sanz | Hub Space |
-|[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3.js-and-leaflet)| John McCrae | Workspace |
-|[Don't be Afarid to Commit](workshops.html#don't-be-afarid-to-commit)| Jo Cook | Hub Space |
+|[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3js-and-leaflet)| John McCrae | Workspace |
+|[Don't be Afarid to Commit](workshops.html#dont-be-afarid-to-commit)| Jo Cook | Hub Space |
 |[Creating Web Maps using OpenLayers](workshops.html#creating-web-maps-using-openlayers)| Matt Walker & Thomas Gratier | Hub Space |
 |[Introduction to GeoNetwork](workshops.html#introduction-to-geonetwork)| Joana Simoes | Workspace |
 |[An Introduction to Processing Satellite Imagery ](workshops.html#an-introduction-to-processing-satellite-imagery )| Alastair Graham | Boardroom |
