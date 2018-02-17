@@ -9,14 +9,13 @@ layout: foss4guk2018
 |Title| Main Presenter | Room |
 |-----|-------------|-------------|
 |[pgRouting, PostGIS and QGIS](workshops.html#pgrouting-postgis-and-qgis)| Ross McDonald | Workspace |
-|[Build Your Own Geospatial Microservice Using Python/Flask/PostGIS](workshops.html#build-your-own-geospatial-microservice-using-python/flask/postgis)| Iain Hunter | Hub Space |
-|[Data Visualisation with QGIS](workshops.html#data-visualisation-with-qgis)| Tom Armitage | Workspace |
-|[Postgres and PostGIS](workshops.html#postgres-and-postgis)| Jorge Sanz | Hub Space |
-|[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3js-and-leaflet)| John McCrae | Workspace |
-|[Don't be Afarid to Commit](workshops.html#dont-be-afarid-to-commit)| Jo Cook | Hub Space |
 |[Creating Web Maps using OpenLayers](workshops.html#creating-web-maps-using-openlayers)| Matt Walker & Thomas Gratier | Hub Space |
-|[Introduction to GeoNetwork](workshops.html#introduction-to-geonetwork)| Joana Simoes | Workspace |
-|[An Introduction to Processing Satellite Imagery ](workshops.html#an-introduction-to-processing-satellite-imagery )| Alastair Graham | Boardroom |
+|[Data Visualisation with QGIS](workshops.html#data-visualisation-with-qgis)| Tom Armitage | Workspace |
+|[An Introduction to Processing Satellite Imagery ](workshops.html#an-introduction-to-processing-satellite-imagery )| Alastair Graham | Hub Space |
+|[Don't Be Afarid to Commit](workshops.html#dont-be-afarid-to-commit)| Jo Cook | Boardroom |
+|[Postgres and PostGIS](workshops.html#postgres-and-postgis)| Jorge Sanz | Workspace |
+|[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3js-and-leaflet)| John McCrae | Workspace |
+|[Introduction to GeoNetwork](workshops.html#introduction-to-geonetwork)| Joana Simoes | Boardroom |
 |[How to Contribute to GeoTools and GeoServer](workshops.html#how-to-contribute-to-geotools-and-geoserver)| Ian Turton | Hub Space |
 
 - - -
@@ -35,19 +34,17 @@ How to build a routable network with pgRouting, PostGIS and QGIS and solve some 
 
 - - -
 
-### Build Your Own Geospatial Microservice Using Python/Flask/PostGIS
+### Creating Web Maps using OpenLayers
 
-**Iain Hunter, thinkWhere**
+**Matt Walker, Astun Technology & Thomas Gratier, WebGeoDataVore**
 
-**Thurs 11:00 - 13:00, Complexity: Intermediate**
+**Thurs 11:00 - 13:00, Complexity: Beginner**
 
-In this workshop we demonstrate how Python can be used to create a web based geospatial microservice that you can share with the world. Microservices have an HTTP API that responds to requests from the web. Consequently, they can be called by any application, third party, or programming language and can be simply integrated into your existing applications. We'll show the power of Python microservices to save teams from duplicating spatial code across multiple applications.
+Creating web maps using OpenLayers			
 
-We'll show how geospatial features can be transmitted over the web as GeoJSON and routed via the Python Flask web framework to our sample spatial app. The app performs simple queries on a PostGIS database, but this approach can be easily modified for larger workloads or more complex tasks. Swagger provides documentation and a convenient portal to the microservice. Finally, we'll show a real world example of microservices for that we've built at thinkWhere for the latest Humanitarian OpenStreetMap Team Tasking Manager software.
-
-**Recommended experience:** Basic Python programming; Git experience (useful)	
-
-**Requirements:** Python 3, Git, Docker (optional) 
+**Recommended Experience:** Basic web development
+ 
+**Requirements:** See http://openlayers.org/workshop/en/ 
 
 - - -
 
@@ -55,7 +52,7 @@ We'll show how geospatial features can be transmitted over the web as GeoJSON an
 
 **Tom Armitage, EDINA, University of Edinburgh**
 
-**Thurs 14:30 - 16:00,  Complexity: Intermediate**
+**Thurs 14:00 - 16:00,  Complexity: Intermediate**
 
 How to use some of the more advanced cartographic functions of QGIS. We will cover Draw Effects, Blend modes and Proportional Symbols. We wil lalso look at two plugins, Time Manager to animate data over time, and QGIS2ThreeJS to create 3D maps from statistical data.
 
@@ -65,11 +62,41 @@ How to use some of the more advanced cartographic functions of QGIS. We will cov
 
 - - -
 
+### An Introduction to Processing Satellite Imagery 
+
+**Alastair Graham, Geoger Ltd**
+
+**Thurs 14:00 - 16:00, Complexity: Beginner**
+
+What satellite imagery actually collects, the difference between sensors, how to find data,  how to pre-process imagery, how to create simple indices, how to compare data.
+
+**Recommended Experience:** To be comfortable using a command line interface
+
+**Requirements:** QGIS and GDAL will need to be installed, the workshop will be planned and tested on Ubuntu Linux - I will try to test it on Windows if I can.
+
+- - -
+
+### Don't Be Afarid to Commit
+
+**Jo Cook, Astun Technology**
+
+**Fri 11:00 - 12:30, Complexity: Beginner**
+
+Getting going with git and github, how to commit to projects and properly submit bugs.
+How to use git and github to commit and submit pull requests to a sample repository. 
+How to properly submit good bugs to a project. 
+
+**Recommended Experience:** Basic computing skills, ability to follow instructions
+
+**Requirements:** It will be and updated version of http://archaeogeek.github.io/foss4gukdontbeafraid/ which already has prerequisites. 
+
+- - -
+
 ### Postgres and PostGIS
 
 **Jorge Sanz, Carto**
 
-**Thurs 15:00 - 16:00, Complexity: Intermediate**
+**Fri 11:30 - 12:30, Complexity: Intermediate**
 
 This workshop will be compelling for current PostGIS users that want to go beyond the most basic usage. With live exercises covering how to perform interesting analysis which leverage advanced and powerful techniques:
 
@@ -92,43 +119,13 @@ If you answered **no** to three or more of these questions this workshop may be 
 
 **John McCrae, 1Spatial**
 
-**Fri 09:30 - 11:00, Complexity: Beginner**
+**Fri 13:30 - 15:30, Complexity: Beginner**
 
 A fun introduction to D3.js and Leaflet - In this workshop we will build a mapping application that uses the D3.js library to enhance your data with visualizations. We will attempt to shed some light on the dark art of D3.js and look at how it interacts with Leaflet. D3.js is a lot of fun and has a vast amount of visualization potential, it uses web standards so is very accessible so is a logical pairing for Leaflet. We will use NodeJS and MongoDB to complete the stack and at the end of the workshop you will have working code and a mapping application running on a live URL.
 
 **Recommended Experience:** A little prior knowledge of HTML and JavaScript
 
 **Requirements:** A working Internet connection
-
-- - -
-
-### Don't be Afarid to Commit
-
-**Jo Cook, Astun Technology**
-
-**Fri 09:30 - 11:00, Complexity: Beginner**
-
-Getting going with git and github, how to commit to projects and properly submit bugs.
-How to use git and github to commit and submit pull requests to a sample repository. 
-How to properly submit good bugs to a project. 
-
-**Recommended Experience:** Basic computing skills, ability to follow instructions
-
-**Requirements:** It will be and updated version of http://archaeogeek.github.io/foss4gukdontbeafraid/ which already has prerequisites. 
-
-- - -
-
-### Creating Web Maps using OpenLayers
-
-**Matt Walker, Astun Technology & Thomas Gratier, WebGeoDataVore**
-
-**Fri 11:00 - 12:30, Complexity: Beginner**
-
-Creating web maps using OpenLayers			
-
-**Recommended Experience:** Basic web development
- 
-**Requirements:** See http://openlayers.org/workshop/en/ 
 
 - - -
 
@@ -145,20 +142,6 @@ More specifically, attendees will learn how-to create metadata using standards b
 **Recommended Experience:** No specific skills are required, although some basic knowledge of metadata and OGC web services is recommended.
 
 **Requirements:** There are no specific requirements, as users will access Geonetwork from a cloud instance, using a browser.
-
-- - -
-
-### An Introduction to Processing Satellite Imagery 
-
-**Alastair Graham, Geoger Ltd**
-
-**Fri 13:30 - 15:30, Complexity: Beginner**
-
-What satellite imagery actually collects, the difference between sensors, how to find data,  how to pre-process imagery, how to create simple indices, how to compare data.
-
-**Recommended Experience:** To be comfortable using a command line interface
-
-**Requirements:** QGIS and GDAL will need to be installed, the workshop will be planned and tested on Ubuntu Linux - I will try to test it on Windows if I can.
 
 - - -
 
