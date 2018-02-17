@@ -44,7 +44,7 @@ Creating web maps using OpenLayers
 
 **Recommended Experience:** Basic web development
  
-**Requirements:** See http://openlayers.org/workshop/en/ 
+**Requirements:** See [http://openlayers.org/workshop/en/](http://openlayers.org/workshop/en/) 
 
 - - -
 
@@ -54,7 +54,7 @@ Creating web maps using OpenLayers
 
 **Thurs 14:00 - 16:00,  Complexity: Intermediate**
 
-How to use some of the more advanced cartographic functions of QGIS. We will cover Draw Effects, Blend modes and Proportional Symbols. We wil lalso look at two plugins, Time Manager to animate data over time, and QGIS2ThreeJS to create 3D maps from statistical data.
+How to use some of the more advanced cartographic functions of QGIS. We will cover Draw Effects, Blend modes and Proportional Symbols. We will also look at two plugins, Time Manager to animate data over time, and QGIS2ThreeJS to create 3D maps from statistical data.
 
 **Recommended Experience:** A beginner level knowledge of QGIS  
 
@@ -88,7 +88,7 @@ How to properly submit good bugs to a project.
 
 **Recommended Experience:** Basic computing skills, ability to follow instructions
 
-**Requirements:** It will be and updated version of http://archaeogeek.github.io/foss4gukdontbeafraid/ which already has prerequisites. 
+**Requirements:** It will be an updated version of [http://archaeogeek.github.io/foss4gukdontbeafraid/](http://archaeogeek.github.io/foss4gukdontbeafraid/), please see prerequisites listed there (essentially a GitHub account, Git(Hub) installed, a text editor (e.g. atom)). 
 
 - - -
 
