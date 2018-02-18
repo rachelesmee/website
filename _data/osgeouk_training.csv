@@ -1,21 +1,7 @@
 description,date,organisation,location,link
-Introduction to QGIS: Understanding and Presenting Spatial Data,15 January 2018,"University of Southampton,Southampton",Clear Mapping Co,http://bit.ly/2qMrm2q
-Introduction to Spatial Data & Using R as a GIS,16 January 2018,Clear Mapping Co,"University of Southampton,Southampton",http://bit.ly/2hNq57p
-Python Essentials, 16 January 2018, Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
-Python for QGIS, 16 January 2018, Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
-QGIS Advanced - Processing / Editing Skills,17 Jauary 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-processing-and-editing-skills/
-QGIS Essentials,23-24 January 2018,Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
-QGIS Advanced - Cartographic Skills,25 January 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-cartographic-skills/
-Geoserver Essentials,30-31 January 2018,Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
-Geoserver Advanced,1 February 2018,Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
-Introduction to GIS using QGIS,5 February 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/introduction-gis-using-qgis/
-Introduction to GIS using QGIS,6 February 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/introduction-gis-using-qgis/
-Introduction to QGIS,5-6 February 2018,Cadline,Staines,https://training.cadline.co.uk/products/qgis-introduction-training-course/
-QGIS Conversion Training,15 Febrary 2018,"EDINA,University of Edinburgh",Edinburgh,https://edina.ac.uk/training-and-events
 PostGIS User,15 February 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-user/
 PostGIS Admin,16 February 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-administrator/
 PostGIS Essentials,20-21 February 2018,Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
-Spatial Data Visualisation,22 February 2018,"EDINA,University of Edinburgh",Edinburgh,https://edina.ac.uk/training-and-events
 QGIS Advanced - Analytical Skills,9 March 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-analytical-skills/
 Introduction to GeoServer,12-13 March 2018,Cadline,Staines,https://training.cadline.co.uk/products/geoserver-intoduction-training-course/
 PostGIS Essentials,13-14 March 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
@@ -38,9 +24,7 @@ QGIS Fastrack,16 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services
 PostGIS User,21 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-user/
 PostGIS Admin,22 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-administrator/
 Introduction to QGIS,21-22 May 2018,Cadline,Staines,https://training.cadline.co.uk/products/qgis-introduction-training-course/
-Spatial Data Visualisation,24 May 2018,"EDINA,University of Edinburgh",Edinburgh,https://edina.ac.uk/training-and-events
 QGIS Advanced - Analytical Skills,13 June 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-analytical-skills/
-QGIS Conversion Training,14 June 2018,"EDINA,University of Edinburgh",Edinburgh,https://edina.ac.uk/training-and-events
 QGIS Advanced - Cartographic Skills,19 June 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-cartographic-skills/
 QGIS Advanced - Analytical Skills,20 June 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-analytical-skills/
 QGIS Advanced - Processing & Editing Skills,21 June 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-processing-and-editing-skills/
@@ -48,7 +32,6 @@ Introduction to GeoServer,25-26 June 2018,Cadline,Staines,https://training.cadli
 Python Essentials,26 June 2018,Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
 Python for QGIS,27 June 2018,Astun Technology,"Epsom,Surrey",https://astuntechnology.com/training-courses/
 QGIS Advanced - Processing / Editing Skills,27 June 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-processing-and-editing-skills/
-Spatial Data Visualisation,5 July 2018,"EDINA,University of Edinburgh",Edinburgh,https://edina.ac.uk/training-and-events
 QGIS Advanced - Cartographic Skills,13 July 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-cartographic-skills/
 QGIS Fastrack,18 July 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
 PostGIS User,9 August 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/postgis-user/

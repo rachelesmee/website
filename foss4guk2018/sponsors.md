@@ -46,6 +46,13 @@ Location Planning experts providing data and consultancy for industries across t
 
 ---
 
+<a name="wrld"></a>
+[![alt text](images/0021-silver-wrld.png "WRLD")](https://www.wrld3d.com)
+
+WRLD produces a dynamic 3D mapping platform for smart cities and buildings, gaming, AR/VR experiences, and more. We provide all the tools you’ll need to quickly develop or embed an engaging, high-performance, custom mapping experience with our cross-platform SDK and APIs. Anyone can create and publish rich, dynamic 3D maps, no coding required. Write once, make it available on web and mobile apps.
+
+---
+
 <a name="axismaps"></a>
 [![alt text](images/0019-bronze-axis-maps.png "Axis Maps")](http://www.axismaps.com)
 
