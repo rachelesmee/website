@@ -8,7 +8,7 @@ On the **8th to 9th of March 2018** (and the **10th for the Code Sprint**!), OSG
 
 # Agenda
 
-Please see a PDF of our current agenda (subject to change) [here](https://drive.google.com/file/d/1E6aGXunMCBoqj_T5wQS40qqr0PowP9EJ/view).
+Please see a PDF of our current agenda (subject to change) [here](foss4guk2018-agenda.pdf).
 
 # Tickets and Registration
 
@@ -21,33 +21,20 @@ Due to the restriction in size of the venue, we have a capacity of 130 people in
 
 If you feel that you are under financial circumstances that prevent you from being able to attend, please contact us to discuss.
 
+# Code of Conduct
+Participants at FOSS4G UK 2018 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
+
 # Sponsorship
 
 We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
 
 Please see the **[sponsorship form](https://docs.google.com/forms/d/17Qu_bqh6U_gkkv1KK6QLSWdwaTXnAwibh-G4gW0nhU0/edit)** for more information and to register interest.
 
-# Committee 
-
-The current committee line up is:
-
-* **Chair** - James Milner (3D Repo)
-* **Co-Chair** - Tom Chadwin (Northumberland National Park)
-* **Events Coordinator** - Isabel Ulitzsch (Geovation)
-* **Treasurer** - Steven Feldman (KnowWhere Consulting)
-* **Swag Coordinator** - Sam Franklin (Institute of Environmental Analytics)
-* **Sponsor Coordinator** - Max Stephan (Geovation)
-* **Workshop Coordinator** - Nick Bearman (Clear Mapping Co)
-* **Party Planner** - Dennis Bauszus
-
-* **Code Sprint Coordinators** - Dennis Bauszus / Tom Chadwin / James Milner
-
 # The Event
 
 ### What
 
 Conference format to be confirmed, but expect something similar to [FOSS4G UK 2016](http://uk.osgeo.org/foss4guk2016/) (Southampton), and/or [FOSS4G 2013, Nottingham](http://2013.foss4g.org/) only somewhat smaller.
-[![FOSS4G 2013](./images/foss4g2013.jpg)](./images/foss4g2013.jpg)
 
 ### When
 
@@ -98,25 +85,28 @@ Here are some hotels the committee has stayed in previously and can recommend:
 
 ### Code Sprint
 
-As it stands we currently have a proposed venue that we will annouce in the next month or so upon confirmation. 
+The Code sprint will be 9-5 at [Geolytix](https://www.google.com/maps/place/GEOLYTIX/@51.5274234,-0.116575,17z/data=!4m5!3m4!1s0x48761b47b00578b3:0xd6a50e79900bcae!8m2!3d51.5273967!4d-0.1152554?hl=en). Lunch will be provided thanks to the generosity of our sponsors. 
 
-<!-- ### Students
 
-Thanks to the generosity of the AGI and our other sponsors we have some free places available for students.  If you would like to attend FOSS4GUK mail the team at osgeouk@gmail.com with the subject 'Student Bursary' telling them: 
+# Committee 
 
- * The details of your current course of study
- * Why you want to attend FOSS4G UK?
- * Day 1, Day 2 or both?
- * Are you prepared to offer a small amount of time to help the organisers?
+The current committee line up is:
 
-**Confirm that you can meet your own travel and accommodation costs - FOSS4GUK will pay the delegate fee, lunches and attendance at the party on Tuesday night** -->
+* **Chair** - James Milner (3D Repo)
+* **Co-Chair** - Tom Chadwin (Northumberland National Park)
+* **Events Coordinator** - Isabel Ulitzsch (Geovation)
+* **Treasurer** - Steven Feldman (KnowWhere Consulting)
+* **Swag Coordinator** - Sam Franklin (Institute of Environmental Analytics)
+* **Sponsor Coordinator** - Max Stephan (Geovation)
+* **Workshop Coordinator** - Nick Bearman (Clear Mapping Co)
+* **Party Planner** - Dennis Bauszus
+
+* **Code Sprint Coordinators** - Dennis Bauszus / Tom Chadwin / James Milner
+
 
 # Call for Papers Open
 
 Call for papers is now closed.
-
-# Code of Conduct
-Participants at FOSS4G UK 2018 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
 
 # Contact
 
