@@ -12,7 +12,7 @@ layout: foss4guk2018
 |[Creating Web Maps using OpenLayers](workshops.html#creating-web-maps-using-openlayers)| Matt Walker & Thomas Gratier | Hub Space |
 |[Data Visualisation with QGIS](workshops.html#data-visualisation-with-qgis)| Tom Armitage | Workspace |
 |[An Introduction to Processing Satellite Imagery ](workshops.html#an-introduction-to-processing-satellite-imagery )| Alastair Graham | Hub Space |
-|[Don't Be Afarid to Commit](workshops.html#dont-be-afarid-to-commit)| Jo Cook | Boardroom |
+|[Getting Started with Git](workshops.html#getting-started-with-git)| Jo Cook | Boardroom |
 |[Postgres and PostGIS](workshops.html#postgres-and-postgis)| Jorge Sanz | Workspace |
 |[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3js-and-leaflet)| John McCrae | Workspace |
 |[Introduction to GeoNetwork](workshops.html#introduction-to-geonetwork)| Joana Simoes | Boardroom |
@@ -76,7 +76,7 @@ What satellite imagery actually collects, the difference between sensors, how to
 
 - - -
 
-### Don't Be Afarid to Commit
+### Getting Started with Git
 
 **Jo Cook, Astun Technology**
 
