@@ -12,7 +12,7 @@ layout: foss4guk2018
 |[Creating Web Maps using OpenLayers](workshops.html#creating-web-maps-using-openlayers)| Matt Walker & Thomas Gratier | Hub Space |
 |[Data Visualisation with QGIS](workshops.html#data-visualisation-with-qgis)| Tom Armitage | Workspace |
 |[An Introduction to Processing Satellite Imagery ](workshops.html#an-introduction-to-processing-satellite-imagery )| Alastair Graham | Hub Space |
-|[Getting Started with Git](workshops.html#getting-started-with-git)| Jo Cook | Boardroom |
+|[Getting Started with Git and GitHub](workshops.html#getting-started-with-git)| Jo Cook | Boardroom |
 |[Postgres and PostGIS](workshops.html#postgres-and-postgis)| Jorge Sanz | Workspace |
 |[Introduction to D3.js and Leaflet](workshops.html#introduction-to-d3js-and-leaflet)| John McCrae | Workspace |
 |[Introduction to GeoNetwork](workshops.html#introduction-to-geonetwork)| Joana Simoes | Boardroom |
@@ -76,19 +76,17 @@ What satellite imagery actually collects, the difference between sensors, how to
 
 - - -
 
-### Getting Started with Git
+### Getting Started with Git and GitHub
 
 **Jo Cook, Astun Technology**
 
 **Fri 11:00 - 12:30, Complexity: Beginner**
 
-Getting going with git and github, how to commit to projects and properly submit bugs.
-How to use git and github to commit and submit pull requests to a sample repository. 
-How to properly submit good bugs to a project. 
+Getting going with Git and GitHub.How to use Git and GitHub to commit and submit pull requests to code repositories, either minor documentation fixes or more major fixes using Pull Requests. An introduction to other repositories such as GitLab, and how integration with online documentation hubs such as ReadTheDocs works, so you can submit fixes to those too. 
 
 **Recommended Experience:** Basic computing skills, ability to follow instructions
 
-**Requirements:** It will be an updated version of [http://archaeogeek.github.io/foss4gukdontbeafraid/](http://archaeogeek.github.io/foss4gukdontbeafraid/), please see prerequisites listed there (essentially a GitHub account, Git(Hub) installed, a text editor (e.g. atom)). 
+**Requirements:** A GitHub Username, Git installed, a good text editor. 
 
 - - -
 
