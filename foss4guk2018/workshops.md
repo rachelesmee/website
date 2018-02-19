@@ -86,7 +86,7 @@ Getting going with Git and GitHub.How to use Git and GitHub to commit and submit
 
 **Recommended Experience:** Basic computing skills, ability to follow instructions
 
-**Requirements:** A GitHub Username, Git installed, a good text editor. 
+**Requirements:** A GitHub Username, Git installed, a good text editor (not wordpad or notepad. Link to online workshop to follow. 
 
 - - -
 
