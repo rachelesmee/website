@@ -149,9 +149,13 @@ More specifically, attendees will learn how-to create metadata using standards b
 
 **Fri 14:30 - 15:30, Complexity: Beginner**
 
-How to contribute to GeoTools and GeoServer, using git, mvn and eclipse.
+This workshop will introduce users to contributing to the GeoTools and GeoServer projects. It assumes that you are a Java developer and are used to compiling and debugging Java code. You will need to have installed git (see https://www.atlassian.com/git/tutorials/install-git for details on how to do this). As an existing Java developer, you will already have an IDE installed and Java 8 (either Oracles or OpenJDK).
 
-**Recommended Experience:** None
+The workshop will take you through the process of forking the git repositories, creating a branch, building the projects and testing them. Before looking at how to debug an issue, create a unit test and a fix for your issue and finally how to publish that fix and get it incorporated into the main project.
+
+If this workshop fires you up then come along to the code sprint on Saturday to put these ideas into action.
+
+**Recommended Experience:** Java Development
 
 **Requirements:** Bring your own laptop 
 
