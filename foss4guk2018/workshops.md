@@ -54,11 +54,15 @@ Creating web maps using OpenLayers
 
 **Thurs 14:00 - 16:00,  Complexity: Intermediate**
 
-How to use some of the more advanced cartographic functions of QGIS. We will cover Draw Effects, Blend modes and Proportional Symbols. We will also look at two plugins, Time Manager to animate data over time, and QGIS2ThreeJS to create 3D maps from statistical data.
+This workshop will show you how to use some of the more advanced cartographic functions of QGIS to represent a range of location-based datasets with their attribute information. To do this we will look at proportional symbols, 3D representation and temporal changes. We’ll also use Draw Effects and Blend modes to create visualisations with more impact.
 
 **Recommended Experience:** A beginner level knowledge of QGIS  
 
-**Requirements:** QGIS 2.18 must be installed.
+**Requirements:** 
+
+- A laptop with QGIS 2.18 installed, the instructions are for PC but they should work on Mac and Linux.
+- It would be helpful to install the following plugins: QuickMapServices, OpenLayers, TimeManager, QGIS2ThreeJS.
+- Data will be provided on a USB memory stick.
 
 - - -
 
