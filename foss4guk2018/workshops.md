@@ -123,11 +123,11 @@ If you answered **no** to three or more of these questions this workshop may be 
 
 **Fri 13:30 - 15:30, Complexity: Beginner**
 
-A fun introduction to D3.js and Leaflet - In this workshop we will build a mapping application that uses the D3.js library to enhance your data with visualizations. We will attempt to shed some light on the dark art of D3.js and look at how it interacts with Leaflet. D3.js is a lot of fun and has a vast amount of visualization potential, it uses web standards so is very accessible so is a logical pairing for Leaflet. We will use NodeJS and MongoDB to complete the stack and at the end of the workshop you will have working code and a mapping application running on a live URL.
+A fun introduction to D3.js and Leaflet - In this workshop we will build a mapping application that uses the D3.js library to enhance your data with visualizations. We will attempt to shed some light on the dark art of D3.js and look at how it interacts with Leaflet. D3.js is a lot of fun and has a vast amount of visualization potential, it uses web standards, so is very accessible and is a logical pairing for Leaflet. We will use NodeJS and MongoDB to complete the stack and at the end of the workshop you will have working code and a mapping application running on a live URL.
 
 **Recommended Experience:** A little prior knowledge of HTML and JavaScript
 
-**Requirements:** A working Internet connection
+**Requirements:** A working Internet connection. Bring your own laptop. Install Git, Node.js and create free accounts for Heroku and mLab (Mongo host) - please feel free to connect if you need any assistance - see you there!
 
 - - -
 
