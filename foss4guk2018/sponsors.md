@@ -39,6 +39,15 @@ We believe that open source is a game changer within our industry that delivers 
 
 ---
 
+<a name="geocat"></a>
+[![alt text](images/0027-silver-geocat-large.png "GeoCat")](https://www.geocat.net/)
+
+GeoCat: Facilitator of open source, open data, interoperability and INSPIRE
+
+[Geocat](https://www.geocat.net/) is an SME based in the Netherlands and Spain. Our mission is to use and improve proven open source software projects to facilitate publishing to SDI’s. We provide support services on the full publication chain, from data transformation, metadata creation, data publication, service implementation, validation, monitoring and hosting. We are happy to sponsor this year’s FOSS4G UK 2018 conference in London.
+
+---
+
 <a name="geolytix"></a>
 [![alt text](images/geolytix.png "Geolytix")](http://www.geolytix.co.uk)
 
@@ -49,7 +58,7 @@ Location Planning experts providing data and consultancy for industries across t
 <a name="wrld"></a>
 [![alt text](images/0021-silver-wrld.png "WRLD")](https://www.wrld3d.com)
 
-WRLD produces a dynamic 3D mapping platform for smart cities and buildings, gaming, AR/VR experiences, and more. We provide all the tools you’ll need to quickly develop or embed an engaging, high-performance, custom mapping experience with our cross-platform SDK and APIs. Anyone can create and publish rich, dynamic 3D maps, no coding required. Write once, make it available on web and mobile apps.
+[WRLD](https://www.wrld3d.com) produces a dynamic 3D mapping platform for smart cities and buildings, gaming, AR/VR experiences, and more. We provide all the tools you’ll need to quickly develop or embed an engaging, high-performance, custom mapping experience with our cross-platform SDK and APIs. Anyone can create and publish rich, dynamic 3D maps, no coding required. Write once, make it available on web and mobile apps.
 
 ---
 
