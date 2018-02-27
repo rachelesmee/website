@@ -81,8 +81,6 @@ This workshop will show you how to use some of the more advanced cartographic fu
 
 Following a brief introduction to the main aspects of satellite remote sensing, the workshop will allow attendees to answer a real world question, using a mix of two different types of open satellite data. By the end of the workshops the attendees should have a basic understanding of how to search for data, and interrogate an image to investigate changes in agricultural landcover over a growing season. Any updates to the workshop will be posted here [http://geoger.co.uk/2018/02/24/foss4guk-workshop-details/](http://geoger.co.uk/2018/02/24/foss4guk-workshop-details/) and submitted to the FOSS4G:UK webpage. 
 
-<!-- **Recommended Experience:** To be comfortable using a command line interface -->
-
 **Requirements:** 
 
 Software:  Attendees will need to have a working copy of QGIS with the Semi Automatic Classification plugin and Zonal Statistics installed and enabled. 
