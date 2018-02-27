@@ -14,19 +14,11 @@ Please see a PDF of our current agenda (subject to change) [here](foss4guk2018-a
 
 ## Workshops
 
-See a list of workshops and requirements for attendance [here](workshops.html).
-
+See a list of workshops and requirements for attendance [here](workshops.html). You can update your workshop preferences from the [Eventbrite page](https://www.eventbrite.co.uk/e/foss4guk-2018-tickets-42528417642).
 
 # Tickets and Registration
 
-Due to the restriction in size of the venue, we have a capacity of 130 people in total. We will be releasing tickets in batches to help allow a fairer distribution of tickets. The current batches will be released on:
-
-* Monday 12th of February at 1:00pm
-* Wednesday the 21st of February at 1:00pm 
-
-**Tickets will be available from this link [here](https://www.eventbrite.co.uk/e/foss4guk-2018-tickets-42528417642 )**
-
-If you feel that you are under financial circumstances that prevent you from being able to attend, please contact us to discuss.
+Tickets have now sold out. You can join the waitlist from our [Eventbrite page](https://www.eventbrite.co.uk/e/foss4guk-2018-tickets-42528417642).
 
 # Code of Conduct
 Participants at FOSS4G UK 2018 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
