@@ -49,7 +49,7 @@ OpenLayers makes it easy to put a dynamic map in any web page. It can display ma
 - A laptop with [Node](https://nodejs.org/) v6 or higher
 - Download the latest version of openlayers-workshop-en.zip from [workshop release](https://github.com/openlayers/workshop/releases)
 - Extract the zip, change into the `openlayers-workshop-en` directory and install the dependencies by opening a command prompt or terminal window and running:
-    npm install
+    `npm install`
 
 For further information see [http://openlayers.org/workshop/en/](http://openlayers.org/workshop/en/) 
 
