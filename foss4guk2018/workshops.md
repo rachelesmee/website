@@ -68,15 +68,19 @@ This workshop will show you how to use some of the more advanced cartographic fu
 
 ### An Introduction to Processing Satellite Imagery 
 
-**Alastair Graham, Geoger Ltd**
+**Alastair Graham, Geoger Ltd.**
 
 **Thurs 14:00 - 16:00, Complexity: Beginner**
 
-What satellite imagery actually collects, the difference between sensors, how to find data,  how to pre-process imagery, how to create simple indices, how to compare data.
+Following a brief introduction to the main aspects of satellite remote sensing, the workshop will allow attendees to answer a real world question, using a mix of two different types of open satellite data. By the end of the workshops the attendees should have a basic understanding of how to search for data, and interrogate an image to investigate changes in agricultural landcover over a growing season. Any updates to the workshop will be posted here [http://geoger.co.uk/2018/02/24/foss4guk-workshop-details/](http://geoger.co.uk/2018/02/24/foss4guk-workshop-details/) and submitted to the FOSS4G:UK webpage. 
 
-**Recommended Experience:** To be comfortable using a command line interface
+<!-- **Recommended Experience:** To be comfortable using a command line interface -->
 
-**Requirements:** QGIS and GDAL will need to be installed, the workshop will be planned and tested on Ubuntu Linux - I will try to test it on Windows if I can.
+**Requirements:** 
+
+Software:  Attendees will need to have a working copy of QGIS with the Semi Automatic Classification plugin and Zonal Statistics installed and enabled. 
+
+Data: Attendees will need to download the data for the workshop beforehand. This will be placed in the following folder before the conference - [https://goo.gl/uhcdcx](https://goo.gl/uhcdcx).
 
 - - -
 
