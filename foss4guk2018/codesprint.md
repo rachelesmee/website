@@ -22,12 +22,14 @@ It is important to realize that you do not need any specific skills or knowledge
 
 However, if you expect to spend the day being taught how to use software, you’ll be disappointed. Please bear this in mind, and if you think the codesprint is therefore not for you, please give up your ticket – we have very limited places (fewer than a sixth of the places available for the main conference), so many people who do want to contribute will be unable to attend.
 
-We believe that we will work on the following software:
+We believe that we will work on the following software (dev attending in parentheses):
 
-- QGIS
-- Geoserver/Geotools
-- Leaflet.VectorGrid
-- qgis2web
-- OpenLayers (possibly)
+- QGIS (Martin Dobias TBC)
+- Geoserver/Geotools (Ian Turton)
+- Leaflet.VectorGrid (Ivan Sanchez Ortega via video)
+- qgis2web (Tom Chadwin)
+- OpenLayers (Thomas Gratier)
 
-There will be experienced developers of each of these software packages present. They will be our focus.
+These applications will therefore be our focus.
+
+#### Please bring your own laptop - no hardware will be provided by Geolytix

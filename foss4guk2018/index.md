@@ -42,6 +42,7 @@ Conference format to be confirmed, but expect something similar to [FOSS4G UK 20
 
 #### Codesprint (To be confirmed)
 * 10th of March 2018 (Saturday)
+* see [codesprint page](codesprint.html) for details
 
 ### Where
 
