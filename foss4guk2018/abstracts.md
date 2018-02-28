@@ -12,7 +12,7 @@ layout: foss4guk2018
 |-----|-------------|-------------|
 |[Welcome](abstracts.html#welcome)| James Milner, 3D Repo & Laura Alderson, Geovation | Auditorium |
 |[OSGeo: A Brief Introduction](abstracts.html#osgeo-a-breif-introduction)| Jo Cook, OSGeo:UK | Auditorium |
-|[Spatial Data Infrastructures: in the age of Docker and Microservices](abstracts.html#keynote)| Joana Simoes, Geocat | Auditorium |
+|[Keynote: Spatial Data Infrastructures: in the age of Docker and Microservices](abstracts.html#keynote-spatial-data-infrastructures-in-the-age-of-docker-and-microservices)| Joana Simoes, Geocat | Auditorium |
 |[QGIS: A Sustainable Open Source](abstracts.html#qgis-a-sustainable-open-source)| Saber Razmjooei, Lutra Consulting | Auditorium |
 |[Publishing MapAction Maps: A QGIS Plugin](abstracts.html#publishing-mapaction-maps-a-qgis-plugin)| Ant Scott, MapAction | Auditorium |
 |[QGIS Anywhere](abstracts.html#qgis-anywhere)| Martin Dobias, Lutra Consulting | Auditorium |
@@ -70,7 +70,7 @@ An introduction to OSGeo and what it does.
 
 - - -
 
-### Spatial Data Infrastructures: in the age of Docker and Microservices
+### Keynote: Spatial Data Infrastructures: in the age of Docker and Microservices
 
 **Joana Simoes, Geocat**
 
