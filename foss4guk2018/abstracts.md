@@ -33,10 +33,10 @@ layout: foss4guk2018
 |[CARTO as a Platform](abstracts.html#carto-as-a-platform)| Jorge Sanz, Carto | Auditorium |
 |[Open Drones](abstracts.html#open-drones)| Thomas Starnes, RSPB | Auditorium |
 |[Pirate Maps: Portable Maps on the Raspberry Pi](abstracts.html#pirate-maps-portable-maps-on-the-raspberry-pi)| Ian Turton, Astun Technology | Workspace |
-|[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Workspace |
+|[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[3D Web GIS with the I3S Standard](abstracts.html#d-web-gis-with-the-i3s-standard)| Dan Cronin, Esri UK | Hub Space |
 |[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Fakhar Khalid, SenSat | Hub Space |
-|[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Presenter | Boardroom |
+|[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
 |[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)| Pascal Coulon, Defra/SCISYS | Auditorium |
 |[Blink Raster: A New C++ Library for Map Algebra](abstracts.html#blink-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
