@@ -33,15 +33,15 @@ layout: foss4guk2018
 |[CARTO as a Platform](abstracts.html#carto-as-a-platform)| Jorge Sanz, Carto | Auditorium |
 |[Open Drones](abstracts.html#open-drones)| Thomas Starnes, RSPB | Auditorium |
 |[Pirate Maps: Portable Maps on the Raspberry Pi](abstracts.html#pirate-maps-portable-maps-on-the-raspberry-pi)| Ian Turton, Astun Technology | Workspace |
-|[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
+|[GIS: Software or Solution](abstracts.html#gis-software-or-solution)| John Byrne, Mapail | Workspace |
 |[3D Web GIS with the I3S Standard](abstracts.html#d-web-gis-with-the-i3s-standard)| Dan Cronin, Esri UK | Hub Space |
 |[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Fakhar Khalid, SenSat | Hub Space |
+|[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
 |[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)| Pascal Coulon, Defra/SCISYS | Auditorium |
 |[Blink Raster: A New C++ Library for Map Algebra](abstracts.html#blink-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
 |[Using non-PostGIS Data with Foreign Data Wrapper](abstracts.html#using-non-postgis-data-with-foreign-data-wrapper)| Aileen Heal, Astun Technology | Workspace |
-|[GIS: Software or Solution](abstracts.html#gis-software-or-solution)| John Byrne, Mapail | Workspace |
 |[Show Off Your Spatial!](abstracts.html#show-off-your-spatial)| *You* | Hub Space |
 |[The Importance of Design in Geo: GeoDataViz Toolkit](abstracts.html#the-importance-of-design-in-geo-geodataviz-toolkit)| Charley Glynn, Ordnance Survey | Auditorium |
 |[Better Digital Cartography with OpenLayers 4](abstracts.html#better-digital-cartography-with-openlayers-4)| Oliver O'Brian, UCL | Auditorium |
@@ -205,11 +205,11 @@ the Raspberry Pi makes it ideal to use in situations when a simple plug and play
 
 - - -
 
-### Migrating Accessibility Measures to Open Source
+### GIS: Software or Solution
 
-**Richard Williams, University of South Wales**
+**John Byrne, Mapail**
 
-There is a large literature that has explored the use of ‘floating catchment area’ (FCA) techniques in measuring access to a range of primary and secondary health services. This paper describes the development of open source tools which incorporate FCA techniques initially applied in the context of mapping and modelling access to mobile cancer services. Tests completed on the open source tool allow it be used to compare to an existing proprietary tool developed for use in ArcGIS. This study includes reflections on the underlying data used within these models as well as the software itself in order to better understand differences in outputs and computational speed when performing FCA analyses in an open source environment.
+GIS is now a software engineering process as much as any other discipline. As such how it is handled can and should be done in a consistent and repeatable process. This talk will discuss how we have taken a GIS solution containing both open source and commercial code and migrate it through a repeatable and testable environment build process from development to live.
 
 - - -
 
@@ -230,6 +230,14 @@ The Indexed 3D Scene (I3S) format can store and serve a range of massively large
 This exploratory paper proposes an augmentation machine learning approach to fuse multispectral satellite data and supplementary open source spatial data with SfM based point cloud to classify dense urban regions. An object-based image analysis classification technique was used to traditionally classify multispectral and multiscale Sentinel-2 MSI imagery for Cambridge. The 10m and 20m spatial resolution classified images were then augmented and enhanced using 2.5cm GSD (Ground Sampling Distance) aerial orthorectified imagery. The resulting information was then fused with dense point cloud data generated using SfM. This allowed the point cloud in 3D space to be enhanced with ancillary sub-resolution multispectral information. A nearest-neighbour algorithm was then used to reclassify objects in 3D space using the augmented point clouds. The early exploratory results are promising; however, the object classification accuracy can be improved in both type I and type II errors. 
 
 A ground validation schema was also adopted to measure accuracies of the results and open source data such as existing building footprint were used to tighten up the classification outputs. 
+
+- - -
+
+### Migrating Accessibility Measures to Open Source
+
+**Richard Williams, University of South Wales**
+
+There is a large literature that has explored the use of ‘floating catchment area’ (FCA) techniques in measuring access to a range of primary and secondary health services. This paper describes the development of open source tools which incorporate FCA techniques initially applied in the context of mapping and modelling access to mobile cancer services. Tests completed on the open source tool allow it be used to compare to an existing proprietary tool developed for use in ArcGIS. This study includes reflections on the underlying data used within these models as well as the software itself in order to better understand differences in outputs and computational speed when performing FCA analyses in an open source environment.
 
 - - -
 
@@ -284,14 +292,6 @@ PostgreSQL foreign data wrappers [https://wiki.postgresql.org/wiki/Foreign_data_
 There are a number of foreign data wrappers (FDW) extensions which support spatial data.
 
 This presentation will show how you can install some of these extensions and show how to read/write to spatial data in different databases (including a different PostGIS database and an Oracle database) and files e.g. ESRI shape, ESRI file geodatabases, MapInfo TAB files etc. or even web services e.g. WFS.
-
-- - -
-
-### GIS: Software or Solution
-
-**John Byrne, Mapail**
-
-GIS is now a software engineering process as much as any other discipline. As such how it is handled can and should be done in a consistent and repeatable process. This talk will discuss how we have taken a GIS solution containing both open source and commercial code and migrate it through a repeatable and testable environment build process from development to live.
 
 - - -
 
