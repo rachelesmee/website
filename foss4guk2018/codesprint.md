@@ -24,7 +24,7 @@ However, if you expect to spend the day being taught how to use software, you’
 
 We believe that we will work on the following software (dev attending in parentheses):
 
-- QGIS (Martin Dobias TBC)
+- QGIS (Martin Dobias)
 - Geoserver/Geotools (Ian Turton)
 - Leaflet.VectorGrid (Ivan Sanchez Ortega via video)
 - qgis2web (Tom Chadwin)
