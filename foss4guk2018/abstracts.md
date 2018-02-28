@@ -36,7 +36,6 @@ layout: foss4guk2018
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Workspace |
 |[3D Web GIS with the I3S Standard](abstracts.html#d-web-gis-with-the-i3s-standard)| Dan Cronin, Esri UK | Hub Space |
 |[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Fakhar Khalid, SenSat | Hub Space |
-|[GeoJSON: My New Friend](abstracts.html#geojson-my-new-friend)| Simon Miles, The Loose Goat | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Presenter | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
 |[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)| Pascal Coulon, Defra/SCISYS | Auditorium |
@@ -231,14 +230,6 @@ The Indexed 3D Scene (I3S) format can store and serve a range of massively large
 This exploratory paper proposes an augmentation machine learning approach to fuse multispectral satellite data and supplementary open source spatial data with SfM based point cloud to classify dense urban regions. An object-based image analysis classification technique was used to traditionally classify multispectral and multiscale Sentinel-2 MSI imagery for Cambridge. The 10m and 20m spatial resolution classified images were then augmented and enhanced using 2.5cm GSD (Ground Sampling Distance) aerial orthorectified imagery. The resulting information was then fused with dense point cloud data generated using SfM. This allowed the point cloud in 3D space to be enhanced with ancillary sub-resolution multispectral information. A nearest-neighbour algorithm was then used to reclassify objects in 3D space using the augmented point clouds. The early exploratory results are promising; however, the object classification accuracy can be improved in both type I and type II errors. 
 
 A ground validation schema was also adopted to measure accuracies of the results and open source data such as existing building footprint were used to tighten up the classification outputs. 
-
-- - -
-
-### GeoJSON: My New Friend
-
-**Simon Miles, The Loose Goat**
-
-How to create and reuse GeoJSON data.
 
 - - -
 
