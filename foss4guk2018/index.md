@@ -8,9 +8,10 @@ On the **8th to 9th of March 2018** (and the **10th for the Code Sprint**!), OSG
 
 # Agenda
 
-## Agenda PDF
+## Agenda Details
 
 Please see a PDF of our current agenda (subject to change) [here](foss4guk2018-agenda.pdf).
+For abstract details please see the [abstracts page](./abstracts.html) 
 
 ## Workshops
 
