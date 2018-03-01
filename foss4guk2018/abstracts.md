@@ -374,11 +374,11 @@ Big Spatial Data technology based on geospatial attributes for the Cloud is rela
 
 - - -
 
-### Keynote
+### Keynote: Geospatial Industry Trends
 
-**Peter Batty, Ubisence**
+**Peter Batty, Ubisense**
 
-*Keynote.* 
+This talk will discuss current and future trends in the geospatial industry. Peter will talk about the increasing importance of open source and share some of his experiences of building large scale enterprise geospatial applications on open source foundations over the past ten years. He will look at upcoming changes in the broader geospatial industry which will be dramatic, especially in terms of how we capture and maintain data about the world around us. 
 
 - - -
 
