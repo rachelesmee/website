@@ -34,7 +34,7 @@ layout: foss4guk2018
 |[Open Drones](abstracts.html#open-drones)| Thomas Starnes, RSPB | Auditorium |
 |[Pirate Maps: Portable Maps on the Raspberry Pi](abstracts.html#pirate-maps-portable-maps-on-the-raspberry-pi)| Ian Turton, Astun Technology | Workspace |
 |[GIS: Software or Solution](abstracts.html#gis-software-or-solution)| John Byrne, Mapail | Workspace |
-|[3D Web GIS with the I3S Standard](abstracts.html#d-web-gis-with-the-i3s-standard)| Dan Cronin, Esri UK | Hub Space |
+|[3D Web GIS with the I3S Standard](abstracts.html#d-web-gis-with-the-i3s-standard)| Dan Cronin & Richard Mumford, ESRI UK | Hub Space |
 |[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Fakhar Khalid, SenSat | Hub Space |
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
@@ -219,7 +219,7 @@ GIS is now a software engineering process as much as any other discipline. As su
 
 ### 3D Web GIS with the I3S Standard
 
-**Dan Cronin, Esri UK**
+**Dan Cronin & Richard Mumford, ESRI UK**
 
 The Indexed 3D Scene (I3S) format can store and serve a range of massively large 3D GIS datasets over the web.  The OGC adopted I3S as a Community Standard in 2017, providing a new open specification for sharing 3D content.  This session will showcase data, examine the underlying technology and consider the place of I3S in the broader 3D GIS community. 
 
