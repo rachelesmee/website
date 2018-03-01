@@ -287,7 +287,7 @@ In particular it achieves this efficiency by combining the [Expression Template]
 
 The library is intended to especially useful for environmental modelling, including Map Algebra operations, Cellular Automata modelling, spatial statistics and multi-scale analysis.
 
-\[1]Tomlin CD. Geographic information systems and cartographic modeling. Prentice Hall; 1990.
+\[1] Tomlin CD. Geographic information systems and cartographic modeling. Prentice Hall; 1990.
 
 - - -
 
