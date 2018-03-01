@@ -49,7 +49,7 @@ layout: foss4guk2018
 |[Visualising School Catchment Areas](abstracts.html#visualising-school-catchment-areas)| Ross McDonald, Angus Council | Auditorium |
 |[Can Free and Open Source Geospatial Solutions Replace Proprietary Software in a Business Environment?](abstracts.html#can-free-and-open-source-geospatial-solutions-replace-proprietary-software-in-a-business-environment)| Chris Gale, ONS | Hub Space |
 |[Is Europe Losing Out on Open Source Big Geospatial Data Analytics?](abstracts.html#is-europe-losing-out-on-open-source-big-geospatial-data-analytics)| Marc Vloemans, LocationTech/Eclipse Foundation | Hub Space |
-|[Keynote: Geospatial Industry Trends](abstracts.html#keynote)| Peter Batty, Ubisense | Auditorium |
+|[Keynote: Geospatial Industry Trends](abstracts.html#keynote-geospatial-industry-trends)| Peter Batty, Ubisense | Auditorium |
 |[Close](abstracts.html#close)| James Milner, 3D Repo | Auditorium |
 
 - - -
