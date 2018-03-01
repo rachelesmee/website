@@ -40,7 +40,7 @@ layout: foss4guk2018
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
 |[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)| Pascal Coulon, Defra/SCISYS | Auditorium |
-|[Blink Raster: A New C++ Library for Map Algebra](abstracts.html#blink-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
+|[Pronto Raster: A New C++ Library for Map Algebra](abstracts.html#pronto-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
 |[Using non-PostGIS Data with Foreign Data Wrapper](abstracts.html#using-non-postgis-data-with-foreign-data-wrapper)| Aileen Heal, Astun Technology | Workspace |
 |[Show Off Your Spatial!](abstracts.html#show-off-your-spatial)| *You* | Hub Space |
 |[The Importance of Design in Geo: GeoDataViz Toolkit](abstracts.html#the-importance-of-design-in-geo-geodataviz-toolkit)| Charley Glynn, Ordnance Survey | Auditorium |
@@ -277,13 +277,17 @@ This presentation will address some of the key step employed to automate the ret
 
 - - -
 
-### Blink Raster: A New C++ Library for Map Algebra
+### Pronto Raster: A New C++ Library for Map Algebra
 
 **Alex Hagen-Zanker, University of Surrey**
 
-The Blink Raster library is a C++ library for Map Algebra operations. Map Algebra is a long established conceptual framework for geographical data analysis. It is a versatile and highly generic framework, classifying local, focal, zonal and global operations. However existing libraries and tools that implement Map Algebra operations are not as generic and instead offer a limited set of specific functions. The Blink Raster library aims to overcome this and provides an efficient computational framework that allows local, focal, zonal and global operations using user-specified functions.
+The [Pronto Raster](https://github.com/ahhz/raster) library is a C++ library for Map Algebra operations. Map Algebra is a long established conceptual framework for geographical data analysis [1]. It is a versatile and highly generic framework, classifying local, focal and zonal operations. Many tools and libraries exist that offer Map Algebra functionality. However existing libraries are limited by offering specific tools with little room for customization; Or, when they are customizable, it is at a substantial loss of efficiency. The Pronto Raster library aims to overcome this and provides an efficient computational framework that allows local, focal and zonal operations to be applied with user-specified functions using standard and straightforward C++ idioms.
 
-The library uses GDAL to access and write raster data. A central concept in the library is the Raster, which is essentially a Range that iterates over the cells in a matrix of values. The core focal and zonal operations produce Expression Templates that model the Range concept. Therefore the outcome of zonal or focal operations on one or more Rasters is another Raster that does not hold data itself but directs to the data in the input rasters and combines the data lazily once the outcome Raster is iterated over. It thus becomes possible to combine and nest operations on rasters without creating temporary files. An additional benefit is that it is trivial to apply functions to only compute a subsection of the output Raster, which in turn makes the library very amenable to future parallellization.
+In particular it achieves this efficiency by combining the [Expression Template](https://www.cct.lsu.edu/~hkaiser/spring_2012/files/ExpressionTemplates-ToddVeldhuizen.pdf) technique and the [Range](https://github.com/ericniebler/range-v3) concept. By exposing raster data as ranges, values in a raster can be iterated over using the C++11 range-based for-loop. It hides the complexity of raster data access, such as caching blocks of data, behind the most standard and basic interface. The Expression Template technique means that operations on raster data can be performed without unnecessarily creating temporary datasets for intermediate results, making operations more efficient and robust than existing approaches. A number of elementary spatial operators provide transformed views of existing raster datasets, that also do not require creating temporary datasets, such as iterating over a subraster, or iterating over cells in a raster at a spatial offset. These elementary spatial transforms can be combined into more complex spatial operations - all without creating unnecessary temporary datasets - including highly efficient moving window analysis.
+
+The library is intended to especially useful for environmental modelling, including Map Algebra operations, Cellular Automata modelling, spatial statistics and multi-scale analysis.
+
+\[1]Tomlin CD. Geographic information systems and cartographic modeling. Prentice Hall; 1990.
 
 - - -
 
