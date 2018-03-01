@@ -100,7 +100,7 @@ The current committee line up is:
 * **Treasurer** - Steven Feldman (KnowWhere Consulting)
 * **Swag Coordinator** - Sam Franklin (Institute of Environmental Analytics)
 * **Sponsor Coordinator** - Max Stephan (Geovation)
-* **Workshop Coordinator** - Nick Bearman (University College, London)
+* **Workshop Coordinator** - Nick Bearman (University College London)
 * **Party Planner** - Dennis Bauszus (Geolytix)
 
 * **Code Sprint Coordinators** - Dennis Bauszus, Tom Chadwin, James Milner
