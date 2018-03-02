@@ -172,11 +172,15 @@ I have been on a journey to create a fantastic client side map rendering experie
 
 - - -
 
-### Keynote
+### Keynote: Extracting intelligent information from aerial images using machine learning
 
 **Mathilde Ørstavik, Norkart**
 
-*Keynote*
+The revolution within machine learning has given rise to new, real-life, applications, especially within computer vision. This talk will focus on not just how these new machine learning techniques work, but how they can be exploited for geospatial purposes. When analyzing georeferenced images, you will not only learn what the images are depicting but you can also derive where in the world the recognized objects exist. This gives a whole new meaning to the extracted data.
+
+At Norkart we have combined our knowledge of geographical data with the newest machine learning techniques. We have tested to what extent we can extract geographical information from aerial and satellite imagery by using deep learning.Several convolutional neural networks for segmentation have been implemented and tested on multispectral geospatial images as well as traditional RGB images to improve the accuracy further.
+
+Is it possible to extract sufficiently accurate building data in order to automatically calculate the effect of solar panels? Can you discover buildings that are built illegally? Can you extract information to helps risk analysis for insurance purposes? These are questions that will be discussed further, based on our results.
 
 - - -
 
