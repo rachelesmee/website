@@ -126,7 +126,15 @@ In use of working examples the session will look at the use database functions t
 
 **Serbulent Ocal, BT/EE**
 
-Creating spatial web services with Java technologies which can geocoding & reverse geocoding.
+Telecommunications industry is adapting in a major way as new trends have emerged in software and services such as 5G, Artificial Intelligence (AI), Cloud, Internet of Things (IoT), Smart Cities, VR/AR and Open Source.
+
+The huge expansion and development of telecommunications industry means that the landscape has become much more complex than it was ten or twenty years ago. There are new ways of working as stakeholders need to cooperate and share information more openly. So that there is a need of web services to provide smart networked communications environment for co-operation and sharing information.
+
+In order to fully understand what a web service is and to appreciate what it can do for mobile technologies, with an emphasis on future 5G (fifth generation); there is a need to understand the software development challenges in mobile technology such as Java EE, open source, APIs (open – private), REST APIs & Spatial Web Servers (Geoserver&Geowebcahe) and client components.
+
+This presentation will first outline these challenges with demonstrating some examples. Then, based on E-Business (Telecommunications), it will provide an overview of how we created spatial web services (Geocoding & Coverage) as REST Style Web Services.
+
+As a working example, I’d like to introduce EE Coverage Checker Application, and share my experiences while creating these REST Style Web Services.
 
 - - -
 
