@@ -21,7 +21,7 @@ layout: foss4guk2018
 |[XYZ - Modular Web Mapping, Reporting and Development for Consultants](abstracts.html#xyz---modular-web-mapping-reporting-and-development-for-consultants)| Dennis Bauszus, Geolytix | Auditorium |
 |[Load Balancing & Load Testing Strategies for Web Map Servers](abstracts.html#load-balancing-load-testing-strategies-for-web-map-servers)| Ian Turton, Astun Technology | Auditorium |
 |[Vector Tile Rendering with Open Source Tools and Open Data](abstracts.html#vector-tile-rendering-with-open-source-tools-and-open-data)| Dave Barter, Nautoguide Ltd | Auditorium |
-|[Keynote](abstracts.html#keynote)| Mathilde Ørstavik, Norkart | Auditorium |
+|[Keynote: Extracting intelligent information from aerial images using machine learning](abstracts.html#keynote-extracting-intelligent-information-from-aerial-images-using-machine-learning)| Mathilde Ørstavik, Norkart | Auditorium |
 |[Close](abstracts.html#close)| Tom Chadwin, Northumberland National Park | Auditorium |
 
 - - -
