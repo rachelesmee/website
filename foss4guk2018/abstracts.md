@@ -39,7 +39,7 @@ layout: foss4guk2018
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
-|[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)| Pascal Coulon, Defra/SCISYS | Auditorium |
+|[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)|  Steve Wilkinson & Pascal Coulon, Defra/SCISYS | Auditorium |
 |[Pronto Raster: A New C++ Library for Map Algebra](abstracts.html#pronto-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
 |[Using non-PostGIS Data with Foreign Data Wrapper](abstracts.html#using-non-postgis-data-with-foreign-data-wrapper)| Aileen Heal, Astun Technology | Workspace |
 |[Show Off Your Spatial!](abstracts.html#show-off-your-spatial)| *You* | Hub Space |
@@ -279,7 +279,7 @@ The second part concerning what we are actually going to be doing with this data
 
 ### Enabling Transformation Through, Efficient Use of Earth Observation Data
 
-**Pascal Coulon, Defra/SCISYS**
+** Steve Wilkinson & Pascal Coulon, Defra/SCISYS**
 
 Defra wanted to build on two earlier Proofs of Concept to deliver an infrastructure to provide access to analysis ready EO data and to demonstrate how this can be applied to support operational areas and to provide data feeds across Defra and related partners. Defra Partners include for example the Defra Earth Observation Centre of Excellence (EOCoE), a collaborative group of Defra bodies and external organisations. 
 
