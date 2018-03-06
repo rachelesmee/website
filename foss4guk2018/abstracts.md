@@ -265,7 +265,7 @@ This talk will show off GeoViewer2, OS's new internal data viewer, which is used
 
 ### Enabling Transformation Through, Efficient Use of Earth Observation Data
 
-** Steve Wilkinson & Pascal Coulon, Defra/SCISYS**
+**Steve Wilkinson & Pascal Coulon, Defra/SCISYS**
 
 Defra wanted to build on two earlier Proofs of Concept to deliver an infrastructure to provide access to analysis ready EO data and to demonstrate how this can be applied to support operational areas and to provide data feeds across Defra and related partners. Defra Partners include for example the Defra Earth Observation Centre of Excellence (EOCoE), a collaborative group of Defra bodies and external organisations. 
 
