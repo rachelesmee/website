@@ -35,7 +35,7 @@ layout: foss4guk2018
 |[Pirate Maps: Portable Maps on the Raspberry Pi](abstracts.html#pirate-maps-portable-maps-on-the-raspberry-pi)| Ian Turton, Astun Technology | Workspace |
 |[GIS: Software or Solution](abstracts.html#gis-software-or-solution)| John Byrne, Mapail | Workspace |
 |[3D Web GIS with the I3S Standard](abstracts.html#d-web-gis-with-the-i3s-standard)| Dan Cronin & Richard Mumford, ESRI UK | Hub Space |
-|[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Fakhar Khalid, SenSat | Hub Space |
+|[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Sheikh Fakhar Khalid, SenSat | Hub Space |
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
@@ -237,7 +237,7 @@ The Indexed 3D Scene (I3S) format can store and serve a range of massively large
 
 ### Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning
 
-**Fakhar Khalid, SenSat**
+**Sheikh Fakhar Khalid, SenSat**
 
 3D points clouds are traditionally generated using two common techniques; LiDAR and SfM (Structure for Motion) based photogrammetry. Full waveform LiDAR tends to use single wavelength, restricting their use to topographical analysis only. Even though LiDAR data can be augmented with RGB values from a visible range camera, it is not an ideal case for unravelling spectral classes in order to autonomously detect objects on the terrain. Recent years have seen emergence of multispectral LiDAR platforms which allows spectral variations to be analysed in addition to topographical information, but they tend to require large UAV platforms. 
 
