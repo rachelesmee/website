@@ -22,7 +22,7 @@ layout: foss4guk2018
 |[Load Balancing & Load Testing Strategies for Web Map Servers](abstracts.html#load-balancing-load-testing-strategies-for-web-map-servers)| Ian Turton, Astun Technology | Auditorium |
 |[Vector Tile Rendering with Open Source Tools and Open Data](abstracts.html#vector-tile-rendering-with-open-source-tools-and-open-data)| Dave Barter, Nautoguide Ltd | Auditorium |
 |[Keynote: Extracting intelligent information from aerial images using machine learning](abstracts.html#keynote-extracting-intelligent-information-from-aerial-images-using-machine-learning)| Mathilde Ørstavik, Norkart | Auditorium |
-|[Close](abstracts.html#close)| Tom Chadwin, Northumberland National Park | Auditorium |
+|[Close: Owt for Nowt and Tuppence Change](abstracts.html#close-owt-for-nowt-and-tuppence-change)| Tom Chadwin, OSGeo/Northumberland National Park | Auditorium |
 
 - - -
 
@@ -39,7 +39,7 @@ layout: foss4guk2018
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
-|[Enabling Transformation Through, Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)|  Steve Wilkinson & Pascal Coulon, Defra/SCISYS | Auditorium |
+|[Enabling Transformation Through Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)|  Steve Wilkinson & Pascal Coulon, Defra/SCISYS | Auditorium |
 |[Pronto Raster: A New C++ Library for Map Algebra](abstracts.html#pronto-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
 |[Using non-PostGIS Data with Foreign Data Wrapper](abstracts.html#using-non-postgis-data-with-foreign-data-wrapper)| Aileen Heal, Astun Technology | Workspace |
 |[Show Off Your Spatial!](abstracts.html#show-off-your-spatial)| *You* | Hub Space |
@@ -184,11 +184,9 @@ Is it possible to extract sufficiently accurate building data in order to automa
 
 - - -
 
-### Close
+### Close: Owt for Nowt and Tuppence Change
 
-**Tom Chadwin, Northumberland National Park**
-
-*Close*
+**Tom Chadwin, OSGeo/Northumberland National Park**
 
 - - -
 
