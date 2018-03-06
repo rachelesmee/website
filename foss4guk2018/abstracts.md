@@ -38,8 +38,8 @@ layout: foss4guk2018
 |[Multispectral Augmented Classification of 3D Dense Point Cloud Using Machine Learning](abstracts.html#multispectral-augmented-classification-of-3d-dense-point-cloud-using-machine-learning)| Sheikh Fakhar Khalid, SenSat | Hub Space |
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
-|[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
 |[Enabling Transformation Through Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)|  Steve Wilkinson & Pascal Coulon, Defra/SCISYS | Auditorium |
+|[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
 |[Pronto Raster: A New C++ Library for Map Algebra](abstracts.html#pronto-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
 |[Using non-PostGIS Data with Foreign Data Wrapper](abstracts.html#using-non-postgis-data-with-foreign-data-wrapper)| Aileen Heal, Astun Technology | Workspace |
 |[Show Off Your Spatial!](abstracts.html#show-off-your-spatial)| *You* | Hub Space |
@@ -263,18 +263,6 @@ This talk will show off GeoViewer2, OS's new internal data viewer, which is used
 
 - - -
 
-### Satellite Data, Raw to Useful
-
-**Matt Debont, JNCC/DEFRA**
-
-There are now 6 Sentinel Satellites in orbit beaming down TB's of free data, but what can we actually do with it? Following on from a potential talk ""Enabling Transformation through efficient use of Earth Observation data"" around what we at JNCC / DEFRA are trying to do with Sentinel data. From collating the data to processing it into a form that is more immediately useful using AWS cloud services and open source tools to how we envision using that data to improve governance on the environment and further use by academia and the general public.
-
-The talk can be roughly split into two parts, the first part mostly around processing the data using docker containers and AWS Batch to contain the logic, orchestrated by Luigi (a workflow management system).
-
-The second part concerning what we are actually going to be doing with this data, and how it can be used by others. I would like to talk about some of the data products that have already been developed as well as some more embryonic ones and how they are created. This could also take on a more free form discussion about possible ways the data could be used once processed to a standard form.
-
-- - -
-
 ### Enabling Transformation Through, Efficient Use of Earth Observation Data
 
 ** Steve Wilkinson & Pascal Coulon, Defra/SCISYS**
@@ -284,6 +272,18 @@ Defra wanted to build on two earlier Proofs of Concept to deliver an infrastruct
 With the support from their delivery partner SCISYS, a cloud based open architecture platform using solely open source components has been designed. Based mainly OSGeo components, the project is delivering a scalable and extensible platform for the delivery of Sentinel 1 and Sentinel 2 OGC feeds.
 
 This presentation will address some of the key step employed to automate the retrieval and processing of raw sentinel 1 and sentinel 2. In the second part this presentation will demonstrate how a clustered environment coupled with elastic computing enabled the delivery of a scalable platform. 
+
+- - -
+
+### Satellite Data, Raw to Useful
+
+**Matt Debont, JNCC/DEFRA**
+
+There are now 6 Sentinel Satellites in orbit beaming down TB's of free data, but what can we actually do with it? Following on from a potential talk ""Enabling Transformation through efficient use of Earth Observation data"" around what we at JNCC / DEFRA are trying to do with Sentinel data. From collating the data to processing it into a form that is more immediately useful using AWS cloud services and open source tools to how we envision using that data to improve governance on the environment and further use by academia and the general public.
+
+The talk can be roughly split into two parts, the first part mostly around processing the data using docker containers and AWS Batch to contain the logic, orchestrated by Luigi (a workflow management system).
+
+The second part concerning what we are actually going to be doing with this data, and how it can be used by others. I would like to talk about some of the data products that have already been developed as well as some more embryonic ones and how they are created. This could also take on a more free form discussion about possible ways the data could be used once processed to a standard form.
 
 - - -
 
