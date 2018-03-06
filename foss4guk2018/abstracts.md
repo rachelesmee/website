@@ -39,7 +39,7 @@ layout: foss4guk2018
 |[Migrating Accessibility Measures to Open Source](abstracts.html#migrating-accessibility-measures-to-open-source)| Richard Williams, University of South Wales | Boardroom |
 |[Building GeoViewer 2: OS Internal Data Viewer](abstracts.html#building-geoviewer-2-os-internal-data-viewer)| Tim Martin | Boardroom |
 |[Enabling Transformation Through Efficient Use of Earth Observation Data](abstracts.html#enabling-transformation-through-efficient-use-of-earth-observation-data)|  Steve Wilkinson & Pascal Coulon, Defra/SCISYS | Auditorium |
-|[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont, JNCC/DEFRA | Auditotium |
+|[Satellite Data, Raw to Useful](abstracts.html#satellite-data-raw-to-useful)| Matt Debont & Lynn Heeley, JNCC/DEFRA | Auditotium |
 |[Pronto Raster: A New C++ Library for Map Algebra](abstracts.html#pronto-raster-a-new-c-library-for-map-algebra)| Alex Hagen-Zanker, University of Surrey | Auditorium |
 |[Using non-PostGIS Data with Foreign Data Wrapper](abstracts.html#using-non-postgis-data-with-foreign-data-wrapper)| Aileen Heal, Astun Technology | Workspace |
 |[Show Off Your Spatial!](abstracts.html#show-off-your-spatial)| *You* | Hub Space |
@@ -277,7 +277,7 @@ This presentation will address some of the key step employed to automate the ret
 
 ### Satellite Data, Raw to Useful
 
-**Matt Debont, JNCC/DEFRA**
+**Matt Debont & Lynn Heeley, JNCC/DEFRA**
 
 There are now 6 Sentinel Satellites in orbit beaming down TB's of free data, but what can we actually do with it? Following on from a potential talk ""Enabling Transformation through efficient use of Earth Observation data"" around what we at JNCC / DEFRA are trying to do with Sentinel data. From collating the data to processing it into a form that is more immediately useful using AWS cloud services and open source tools to how we envision using that data to improve governance on the environment and further use by academia and the general public.
 
