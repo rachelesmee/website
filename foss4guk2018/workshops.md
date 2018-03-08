@@ -28,6 +28,8 @@ layout: foss4guk2018
 
 How to build a routable network with pgRouting, PostGIS and QGIS and solve some simple routing problems.
 
+Downloads at [http://mixedbredie.github.io/pgrouting-workshop/](http://mixedbredie.github.io/pgrouting-workshop/).
+
 **Recommended Experience:** Basic understanding of PostGIS and QGIS.
 
 **Requirements:** Installed PostgreSQL database with PostGIS and pgRouting extensions. Installed QGIS with pgRouting Layer plugin.
