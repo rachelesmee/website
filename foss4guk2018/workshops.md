@@ -126,6 +126,8 @@ If you answered **no** to three or more of these questions this workshop may be 
 
 **Requirements:** We'll use a full cloud-based approach, so just a modern desktop browser will be enough. 
 
+[Workshop materials](https://github.com/CartoDB/carto-workshop/tree/180309-foss4g-uk)
+
 - - -
 
 ### Introduction to D3.js and Leaflet
