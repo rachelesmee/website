@@ -313,6 +313,8 @@ There are a number of foreign data wrappers (FDW) extensions which support spati
 
 This presentation will show how you can install some of these extensions and show how to read/write to spatial data in different databases (including a different PostGIS database and an Oracle database) and files e.g. ESRI shape, ESRI file geodatabases, MapInfo TAB files etc. or even web services e.g. WFS.
 
+[Slides](https://t.co/n1PRHeswQp)
+
 - - -
 
 ### Show Off Your Spatial!
