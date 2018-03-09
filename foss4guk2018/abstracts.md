@@ -198,6 +198,8 @@ CARTO is a successful service and Open Source product stack used by organization
 
 First, we’ll focus on the APIs and Location Data Services offered by CARTO and our plans to evolve them in 2018. Secondly, we’ll cover our JavaScript SDK: CARTO.js. This brand new library offers a different approach; more developer focused and low-level. Finally, we will discuss CARTO for Python developers, with our Python SDK and the CARTOFrames library we’ve created on top  to enable direct integration with Pandas and Jupyter Notebook, the increasingly popular environment for Data Scientists.
 
+[Slides](https://t.co/Ul4d1BVaIC)
+
 - - -
 
 ### Open Drones
