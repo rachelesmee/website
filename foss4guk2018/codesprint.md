@@ -42,6 +42,8 @@ Issues TBC
 
 ## qgis2web (Tom Chadwin)
 
+Please install QGIS3, qgis2web master branch, and qgis plugin reloader
+
 - [Rule-Based Styled layer won't show in leaflet](https://github.com/tomchadwin/qgis2web/issues/620)
 - [Processing algorithms not migrated to v3](https://github.com/tomchadwin/qgis2web/issues/609)
 - [Support REST WMTS layers](https://github.com/tomchadwin/qgis2web/issues/610)
@@ -60,4 +62,4 @@ Issues TBC
 
 These applications will therefore be our focus.
 
-#### Please bring your own laptop - no hardware will be provided by Geolytix
+#### Please bring your own laptop - no hardware will be provided by Geolytix, and make sure you have a Github account
