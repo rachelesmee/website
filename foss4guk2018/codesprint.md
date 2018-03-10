@@ -34,28 +34,29 @@ Issues TBC
 
 ## Leaflet.VectorGrid (Ivan Sanchez Ortega via video)
 
-- https://github.com/Leaflet/Leaflet.VectorGrid/issues/136
-- https://github.com/Leaflet/Leaflet.VectorGrid/pull/129
-- https://github.com/Leaflet/Leaflet.VectorGrid/pull/130
-- https://github.com/Leaflet/Leaflet.VectorGrid/pull/131
-- add Labelgun implementation demo (after #131)
+- [Cancel requests](https://github.com/Leaflet/Leaflet.VectorGrid/issues/136)
+- [Allow function in array returned by style function](https://github.com/Leaflet/Leaflet.VectorGrid/pull/129)
+- [Pass feat.type in styleOptions](https://github.com/Leaflet/Leaflet.VectorGrid/pull/130)
+- [Add onEachFeature](https://github.com/Leaflet/Leaflet.VectorGrid/pull/131)
+- add Labelgun implementation demo - needs #131
 
 ## qgis2web (Tom Chadwin)
 
-- https://github.com/tomchadwin/qgis2web/issues/620
-- https://github.com/tomchadwin/qgis2web/issues/609
-- https://github.com/tomchadwin/qgis2web/issues/610
-- https://github.com/tomchadwin/qgis2web/issues/602
-- https://github.com/tomchadwin/qgis2web/issues/573
-- https://github.com/tomchadwin/qgis2web/issues/572
-- https://github.com/tomchadwin/qgis2web/issues/570
-- https://github.com/tomchadwin/qgis2web/issues/569
-- https://github.com/tomchadwin/qgis2web/issues/453
-- https://github.com/tomchadwin/qgis2web/issues/377
+- [Rule-Based Styled layer won't show in leaflet](https://github.com/tomchadwin/qgis2web/issues/620)
+- [Processing algorithms not migrated to v3](https://github.com/tomchadwin/qgis2web/issues/609)
+- [Support REST WMTS layers](https://github.com/tomchadwin/qgis2web/issues/610)
+- [Calling appendChild() on a null node does nothing](https://github.com/tomchadwin/qgis2web/issues/602)
+- [North arrow/compass rose](https://github.com/tomchadwin/qgis2web/issues/573)
+- [Marker line symbols](https://github.com/tomchadwin/qgis2web/issues/572)
+- [Graticule/grid](https://github.com/tomchadwin/qgis2web/issues/570)
+- [Remove layer visible option from layer settings](https://github.com/tomchadwin/qgis2web/issues/569)
+- [Update wiki](https://github.com/tomchadwin/qgis2web/issues/453)
+- [Handle QGIS3 clustered layers](https://github.com/tomchadwin/qgis2web/issues/377
+- [Nested layer groups](https://github.com/tomchadwin/qgis2web/issues/175)
 
 ## OpenLayers (Thomas Gratier)
 
-- https://github.com/openlayers/openlayers/issues/7475
+- [Declutter only labels](https://github.com/openlayers/openlayers/issues/7475)
 
 These applications will therefore be our focus.
 
