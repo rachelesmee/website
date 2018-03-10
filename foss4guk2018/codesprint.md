@@ -24,11 +24,38 @@ However, if you expect to spend the day being taught how to use software, you’
 
 We believe that we will work on the following software (dev attending in parentheses):
 
-- QGIS (Martin Dobias)
-- Geoserver/Geotools (Ian Turton)
-- Leaflet.VectorGrid (Ivan Sanchez Ortega via video)
-- qgis2web (Tom Chadwin)
-- OpenLayers (Thomas Gratier)
+## QGIS (Martin Dobias)
+
+Issues TBC
+
+## Geoserver/Geotools (Ian Turton)
+
+Issues TBC
+
+## Leaflet.VectorGrid (Ivan Sanchez Ortega via video)
+
+- https://github.com/Leaflet/Leaflet.VectorGrid/issues/136
+- https://github.com/Leaflet/Leaflet.VectorGrid/pull/129
+- https://github.com/Leaflet/Leaflet.VectorGrid/pull/130
+- https://github.com/Leaflet/Leaflet.VectorGrid/pull/131
+- add Labelgun implementation demo (after #131)
+
+## qgis2web (Tom Chadwin)
+
+- https://github.com/tomchadwin/qgis2web/issues/620
+- https://github.com/tomchadwin/qgis2web/issues/609
+- https://github.com/tomchadwin/qgis2web/issues/610
+- https://github.com/tomchadwin/qgis2web/issues/602
+- https://github.com/tomchadwin/qgis2web/issues/573
+- https://github.com/tomchadwin/qgis2web/issues/572
+- https://github.com/tomchadwin/qgis2web/issues/570
+- https://github.com/tomchadwin/qgis2web/issues/569
+- https://github.com/tomchadwin/qgis2web/issues/453
+- https://github.com/tomchadwin/qgis2web/issues/377
+
+## OpenLayers (Thomas Gratier)
+
+- https://github.com/openlayers/openlayers/issues/7475
 
 These applications will therefore be our focus.
 
