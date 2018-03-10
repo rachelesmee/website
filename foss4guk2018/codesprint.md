@@ -51,7 +51,7 @@ Issues TBC
 - [Graticule/grid](https://github.com/tomchadwin/qgis2web/issues/570)
 - [Remove layer visible option from layer settings](https://github.com/tomchadwin/qgis2web/issues/569)
 - [Update wiki](https://github.com/tomchadwin/qgis2web/issues/453)
-- [Handle QGIS3 clustered layers](https://github.com/tomchadwin/qgis2web/issues/377
+- [Handle QGIS3 clustered layers](https://github.com/tomchadwin/qgis2web/issues/377)
 - [Nested layer groups](https://github.com/tomchadwin/qgis2web/issues/175)
 
 ## OpenLayers (Thomas Gratier)
