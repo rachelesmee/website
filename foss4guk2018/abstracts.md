@@ -188,6 +188,8 @@ Is it possible to extract sufficiently accurate building data in order to automa
 
 **Tom Chadwin, OSGeo/Northumberland National Park**
 
+[Blogpost](https://medium.com/@tomchadwin/owt-for-nowt-and-tuppence-change-82834249b734)
+
 - - -
 
 ### CARTO as a Platform
