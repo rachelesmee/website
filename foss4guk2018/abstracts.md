@@ -361,6 +361,8 @@ This talk will go through some of the myriad ways these effects can be used and 
 
 A case study on how spatial data was used to help visualise school catchment areas in different ways.  From simple maps made in QGIS to interactive 3D maps in a browser and 3D scenes made in Blender.
 
+[Slides](https://www.slideshare.net/RossMcDonald1/visualising-school-catchment-areas-foss4guk-2018)
+
 - - -
 
 ### Can Free and Open Source Geospatial Solutions Replace Proprietary Software in a Business Environment?
