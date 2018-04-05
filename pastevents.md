@@ -4,6 +4,10 @@ layout: default
 
 ### Past events
 
+#### 2018
+
+* [FOSS4G UK 2018 page](/foss4guk2018/)
+
 #### 2017 
 
 * [OSGeo:UK AGM 2017](./agm/agm2017.html)
