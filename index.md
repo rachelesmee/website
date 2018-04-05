@@ -2,9 +2,9 @@
 layout: default
 ---
 
-### FOSS4G 2018 
+### UK QGIS User Group South West 
 
-FOSS4G UK 2018 will be happening on the 8th to 9th of March. If you are interested in finding out more, please see the event page [FOSS4G UK 2018 page](./foss4guk2018/).
+There'll be a meeting of the UK QGIS South West user group in Chippenham on the 12th June 2018 - for details see the [Eventbrite page](https://www.eventbrite.co.uk/e/qgis-south-west-england-meeting-tickets-44876986274) or contact [Antony Scott](https://twitter.com/antscott)/[Pascal Coulon](https://twitter.com/pascal_coulon)
 
 ### Events
 
