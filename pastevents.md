@@ -6,7 +6,7 @@ layout: default
 
 #### 2018
 
-* [FOSS4G UK 2018 page](/foss4guk2018/)
+* [FOSS4G UK 2018](/foss4guk2018/)
 
 #### 2017 
 
