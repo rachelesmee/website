@@ -19,3 +19,6 @@ In March 2018 OSGeo:UK sponsored the following
 * [QGIS Silver Sponsorship](https://www.qgis.org/en/site/about/sponsorship.html): €2,500 
 * FOSS4G Travel Grant Programme $1,500
 * GeoServer Project Steering Committee $1,500 to be used for SLD integration between QGIS and GeoServer
+
+#### 2018-9
+* [PostGIS via Regina Obe](https://www.patreon.com/reginaobe/overview) : $60 per month inc VAT
