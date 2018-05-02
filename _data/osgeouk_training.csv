@@ -1,27 +1,13 @@
 description,date,organisation,location,link
-QGIS Fastrack,20 March 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
-PostGIS DBA Essentials,20 March 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
-Python Essentials,20 March 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
-GeoServer Essentials,20-21 March 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
-Location Data and Mapping with QGIS, 21 March 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
-Python for QGIS,21 March 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
-Introduction to GIS using QGIS,27 March 2018,thinkWhere,Manchester,http://www.thinkwhere.com/services/training/introduction-gis-using-qgis/
-Introduction to GIS using QGIS,28 March 2018,thinkWhere,Manchester,http://www.thinkwhere.com/services/training/introduction-gis-using-qgis/
-QGIS Fastrack,29 March 2018,thinkWhere,Manchester,http://www.thinkwhere.com/services/training/qgis-fast-track/
-QGIS Advanced - Processing / Editing Skills,16 April 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-processing-and-editing-skills/
-Open Source GIS Integration,23-24 April 2018,Cadline,Staines,https://training.cadline.co.uk/products/open-source-gis-integration-training-course/
-QGIS Advanced - Cartographic Skills,24 April 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-cartographic-skills/
-QGIS Essentials,24-25 April 2018,Astun Technology,"Epsom Surrey",https://astuntechnology.com/training-courses/
-GeoServer Essentials,1-2 May 2018,Astun Technology,"Epsom Surrey",https://astuntechnology.com/training-courses/
-GeoServer Advanced,3 May 2018,Astun Technology,"Epsom Surrey",https://astuntechnology.com/training-courses/
+GeoServer Advanced,3 May 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 Introduction to QGIS,10 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/introduction
 Introduction to QGIS,11 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/introduction-gis-using-qgis/
 QGIS Fastrack,16 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
-QGIS Advanced,17 May 2018,Astun Technology,"Epsom Surrey",https://astuntechnology.com/training-courses/
+QGIS Advanced,17 May 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 PostGIS User,21 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-user/
 PostGIS Admin,22 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-administrator/
 Introduction to QGIS,21-22 May 2018,Cadline,Staines,https://training.cadline.co.uk/products/qgis-introduction-training-course/
-PostGIS Essentials,22-23 May 2018,Astun Technology,"Epsom Surrey",https://astuntechnology.com/training-courses/
+PostGIS Essentials,22-23 May 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 Location Data and Mapping with QGIS,5 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 GeoServer Essentials,5-6 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 QGIS Essentials,6-7 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
@@ -37,6 +23,8 @@ Python for QGIS,27 June 2018,Astun Technology,Birmingham,https://astuntechnology
 PostGIS DBA Essentials,28 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 QGIS Advanced,28 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 QGIS Advanced - Processing / Editing Skills,27 June 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-processing-and-editing-skills/
+QGIS 3 for Early Adpters,4-5 July 2018,Astun Technology,Bristol,https://astuntechnology.com/qgis-training/
+Python Essentials,10 July 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 QGIS Advanced - Cartographic Skills,13 July 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-cartographic-skills/
 QGIS Fastrack,18 July 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
 PostGIS User,9 August 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/postgis-user/
