@@ -1,8 +1,4 @@
 description,date,organisation,location,link
-QGIS Fastrack,16 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
-PostGIS User,21 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-user/
-PostGIS Admin,22 May 2018,thinkWhere,Stirling,http://www.thinkwhere.com/services/training/postgis-administrator/
-Introduction to QGIS,21-22 May 2018,Cadline,Staines,https://training.cadline.co.uk/products/qgis-introduction-training-course/
 PostGIS Essentials,22-23 May 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 GeoServer Essentials,5-6 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 QGIS Essentials,6-7 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
@@ -18,7 +14,6 @@ Python for QGIS,27 June 2018,Astun Technology,Birmingham,https://astuntechnology
 QGIS Advanced,28 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 QGIS Advanced - Processing / Editing Skills,27 June 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-processing-and-editing-skills/
 PostGIS DBA Essentials,28 June 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
-Location Data and Mapping with QGIS,3 July 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 GeoServer Essentials,3-4 July 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 QGIS 3 for Early Adopters,4-5 July 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 GeoServer Advanced,5 July 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
@@ -42,6 +37,7 @@ Introduction to QGIS,17-18 September 2018,Cadline,Staines,https://training.cadli
 GeoServer Essentials,18-19 September 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 QGIS Advanced - Analytical Skills,21 September 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-analytical-skills/
 Introduction to GeoServer,8-9 October 2018,Cadline,Staines,https://training.cadline.co.uk/products/geoserver-intoduction-training-course/
+GeoServer Advanced,20 September 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 QGIS Essentials,9-10 October 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 QGIS Advanced,11 October 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
 QGIS Fastrack,19 October 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
@@ -61,4 +57,6 @@ PostGIS Essentials,4-5 December 2018,Astun Technology,Birmingham,https://astunte
 QGIS Fastrack,6 December 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
 QGIS Advanced - Analytical Skills,11 December 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-analytical-skills/
 Confident Spatial Analysis,17 January 2019,Clear Mapping Co,"University of Southampton,Southampton",http://bit.ly/2hNhBNy
+Python Essentials,5 December 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 PostGIS DBA Essentials,6 December 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+Python for QGIS,6 December 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
