@@ -22,3 +22,4 @@ In March 2018 OSGeo:UK sponsored the following
 
 #### 2018-9
 * [PostGIS via Regina Obe](https://www.patreon.com/reginaobe/overview) : $60 per month inc VAT
+* [PostGIS Code Sprint](https://trac.osgeo.org/postgis/wiki/PostGISCodeSprint2018): $1,500
