@@ -6,6 +6,7 @@ layout: default
 
 #### 2018
 
+* UK QGIS User Group South West
 * [FOSS4G UK 2018](/foss4guk2018/)
 
 #### 2017 

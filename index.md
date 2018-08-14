@@ -2,10 +2,6 @@
 layout: default
 ---
 
-### UK QGIS User Group South West 
-
-There'll be a meeting of the UK QGIS South West user group in Chippenham on the 12th June 2018 - for details see the [Eventbrite page](https://www.eventbrite.co.uk/e/qgis-south-west-england-meeting-tickets-44876986274) or contact [Antony Scott](https://twitter.com/antscott)/[Pascal Coulon](https://twitter.com/pascal_coulon)
-
 ### Events
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
@@ -33,8 +29,6 @@ __Trustees__
 * [Dave Barter](https://twitter.com/NautoGuide)
 * [Alastair Graham](https://twitter.com/ajggeoger)
 * [Matt Travis](https://twitter.com/Yakus)
-
-As of August 2017 we're working towards registration as a Charitable Organisation. This is in progress, but our adopted constitution can be found [here](/files/OSGeoUK_Final_Charity_Constitution.html){:target="_newpage"}
 
 ### Funding
 
