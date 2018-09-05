@@ -6,6 +6,8 @@ layout: default
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
+* [2018 AGM 12th September 2018 12PM BST](agm/agm2018.html){:target="_newpage"} (google hangout link to be circulated in advance)
+
 ### Contact
 
 For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}
