@@ -4,7 +4,7 @@ layout: foss4guk2019
 
 <!-- <h1> FOSS4G UK 2019 </h1> -->
 
-In **Edinburgh** on the **19th to 20th of September 2019** (and the **21st** for the Code Sprint), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2019. 
+In **Edinburgh** on the **19-20 September 2019** (and the **21st** for the Code Sprint), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2019. 
 
 # Tickets and Registration
 
@@ -42,7 +42,7 @@ EH8 8AS
 
 # Contact
 
-For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk).
+For updates follow [@foss4guk on Twitter](https://twitter.com/foss4guk) and [@osgeouk](https://twitter.com/osgeouk) on Twitter.
 
 # Donate
 
