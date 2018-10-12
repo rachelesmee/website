@@ -42,7 +42,7 @@ EH8 8AS
 
 # Contact
 
-For updates follow [@foss4guk on Twitter](https://twitter.com/foss4guk) and [@osgeouk](https://twitter.com/osgeouk) on Twitter.
+For updates follow [@foss4guk](https://twitter.com/foss4guk) and [@osgeouk](https://twitter.com/osgeouk) on Twitter.
 
 # Donate
 
