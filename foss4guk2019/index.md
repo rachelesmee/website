@@ -6,24 +6,9 @@ layout: foss4guk2019
 
 In **Edinburgh** on the **19-20 September 2019** (and the **21st** for the Code Sprint), OSGeo:UK will be bringing together all those interested in free and open source geospatial software for FOSS4G UK 2019. 
 
-# Tickets and Registration
-
-Tickets have not yet been released, but stay tuned...
-
-# Code of Conduct
-Participants at FOSS4G UK 2019 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
-
-# Sponsorship
-
-We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
-
-# The Event
-
-### What
-
 Conference format to be confirmed, but expect something similar to [FOSS4G UK 2018](http://uk.osgeo.org/foss4guk2018/) (London) and [FOSS4G UK 2016](http://uk.osgeo.org/foss4guk2016/) (Southampton).
 
-### When
+## When
 
 #### Conference 
 * 19th - 20th of September 2019 (Thursday and Friday)
@@ -31,20 +16,29 @@ Conference format to be confirmed, but expect something similar to [FOSS4G UK 20
 #### Codesprint (To be confirmed)
 * 21st of September 2019 (Saturday)
 
-### Where
+## Where
 
-Dynamic Earth<br>
-Holyrood Rd<br>
-Edinburgh<br>
-EH8 8AS
+Dynamic Earth, Holyrood Rd<br>
+Edinburgh, EH8 8AS
 
 <iframe src="https://a.tiles.mapbox.com/v4/ordnancesurvey.m41j649p/zoompan.html?access_token=pk.eyJ1Ijoib3JkbmFuY2VzdXJ2ZXkiLCJhIjoicmR0dXZkQSJ9.aERX_Ol_wRfwgC2Onl9__g#17/55.9509/-3.1748" width="100%" height="350px" style="border: none; padding-bottom: 30px;"></iframe>
 
-# Contact
+## Tickets and Registration
+
+Tickets have not yet been released, but stay tuned...
+
+## Sponsorship
+
+We want to keep the cost of entry to FOSS4GUK as low as possible, whilst also providing a quality event - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, there are opportunities for the smallest to the largest companies, and even for one man bands. 
+
+## Code of Conduct
+Participants at FOSS4G UK 2019 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
+
+## Contact
 
 For updates follow [@foss4guk](https://twitter.com/foss4guk) and [@osgeouk](https://twitter.com/osgeouk) on Twitter.
 
-# Donate
+## Donate
 
 Help us support and promote the use of open source geospatial software within the UK by donating via PayPal using the button below:
 
