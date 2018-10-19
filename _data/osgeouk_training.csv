@@ -1,8 +1,4 @@
 description,date,organisation,location,link
-Introduction to GeoServer,8-9 October 2018,Cadline,Staines,https://training.cadline.co.uk/products/geoserver-intoduction-training-course/
-QGIS Essentials,9-10 October 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
-QGIS Advanced,11 October 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
-QGIS Fastrack,19 October 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-fast-track/
 QGIS Advanced - Cartographic Skills,26 October 2018,Thinkwhere,Stirling,http://www.thinkwhere.com/services/training/qgis-cartographic-skills/
 PostGIS Essentials,30-31 October 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 PostGIS DBA Essentials,1 November 2018,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
@@ -26,10 +22,15 @@ GeoServer Advanced,16 January 2019,Astun Technology,Bristol,https://astuntechnol
 Python Essentials,17 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 Python for QGIS,17 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 Confident Spatial Analysis,17 January 2019,Clear Mapping Co,"University of Southampton,Southampton",http://bit.ly/2hNhBNy
+QGIS Essentials,29-30 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
+QGIS Advanced,31 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
+PostGIS Essentials,12-13 February 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 PostGIS DBA Essentials,14 February 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 GeoServer Essentials,26-27 February 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 GeoServer Advanced,28 February 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/
 Python Essentials,5 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
 Python for QGIS,6 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
+QGIS Essentials,12-13 March 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
+QGIS Advanced,14 March 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 PostGIS DBA Essentials,28 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
 GeoServer Essentials,30 April 1 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
