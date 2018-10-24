@@ -6,7 +6,12 @@ layout: default
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
-* [2018 AGM 12th September 2018 12PM BST](agm/agm2018.html){:target="_newpage"}
+* FOSS4GUK 2019 (details coming soon)
+
+### News
+
+* [OSGeo:UK Response](/files/Government_ callforevidence_geospatial_ OSGeoUK_response.pdf){:target="_newpage"} to UK Government's [call for evidence to be geospatial world leader](https://www.gov.uk/government/news/government-launch-call-for-evidence-to-be-geospatial-world-leader){:target="_newpage"}
+
 
 ### Contact
 
