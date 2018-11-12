@@ -1,6 +1,4 @@
 description,date,organisation,location,link
-QGIS Beginner,12-13 November 2018,thinkWhere,Manchester,https://thinkwhere.com/services/training/
-Open Source GIS Integration,12-13 November 2018,Cadline,Staines,https://training.cadline.co.uk/products/open-source-gis-integration-training-course/
 QGIS Essentials,13-14 November 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 QGIS Beginner,14-15 November 2018,thinkWhere,Edinburgh,https://thinkwhere.com/services/training/
 QGIS Advanced,15 November 2018,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
@@ -8,6 +6,8 @@ QGIS Advanced,26 November 2018,thinkWhere,Stirling,https://thinkwhere.com/servic
 QGIS Advanced,29 November 2018,thinkWhere,Manchester,https://thinkwhere.com/services/training/
 QGIS Beginner,6-7 December 2018,thinkWhere,Edinburgh,https://thinkwhere.com/services/training/
 QGIS Advanced,10 December 2018,thinkWhere,Edinburgh,https://thinkwhere.com/services/training/
+PostGIS Essentials,11-12 December 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
+PostGIS DBA Essentials,13 December 2018,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 GeoServer Essentials,15-16 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 Python Essentials,16 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
 GeoServer Advanced,17 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
@@ -26,6 +26,7 @@ Python for QGIS,6 March 2019,Astun Technology,Epsom Surrey,https://astuntechnolo
 QGIS Beginner,11-12 March 2019,thinkWhere,Edinburgh,https://thinkwhere.com/services/training/
 PostGIS Essentials,26-27 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
 PostGIS DBA Essentials,28 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
+GeoServer Essentials,30 April-1 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 Python Essentials,1 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 GeoServer Advanced,2 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 Python for QGIS,2 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
