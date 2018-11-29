@@ -14,7 +14,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## <span style="color:#f1b106;">Gold+ T Shirt Sponsor </span> &nbsp; £2500
+## ~~<span style="color:#f1b106;">Gold+ T Shirt Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Logo on the event T shirt
 * 3x Tickets
 * Large Banner logo
