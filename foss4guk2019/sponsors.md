@@ -17,15 +17,17 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 ## ~~<span style="color:#f1b106;">Gold+ T Shirt Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Logo on the event T shirt
 * 3x Tickets
+* Booth
 * Large Banner logo
 * Large Website logo
 
 ---
 
-## <span style="color:#f1b106;">Gold+ Party Sponsor </span> &nbsp; £2500
+## ~~<span style="color:#f1b106;">Gold+ Party Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Extra publicity at mentions of the party
 * Your own banners at the party
 * 3x Tickets
+* Booth
 * Large Banner logo
 * Large Website logo
 
@@ -35,6 +37,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 * Extra publicity and good will
 * Your own banners by the Childcare room
 * 3x Tickets
+* Booth
 * Large Banner logo
 * Large Website logo
 
