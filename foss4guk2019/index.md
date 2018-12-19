@@ -6,7 +6,7 @@ layout: foss4guk2019
 
 FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 September 2019** (plus an Ice Breaker on the **18th** and a Code Sprint on the **21st**, both TBC).
 
-<a href="/" alt="OSGeo UK Chapter" title="OSGeo UK Chapter">OSGeo:UK</a> will be bringing together all those interested in free and open source geospatial software for this fantastic event. Conference format TBC, but you can get a flavour of things to come by looking back at [FOSS4G UK 2018](http://uk.osgeo.org/foss4guk2018/).
+[OSGeo:UK](/ "OSGeo UK Chapter") will be bringing together all those interested in free and open source geospatial software for this fantastic event. Conference format TBC, but you can get a flavour of things to come by looking back at [FOSS4G UK 2018](http://uk.osgeo.org/foss4guk2018/ "FOSS4G UK 2018").
 
 
 ## Where
