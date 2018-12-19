@@ -1,7 +1,7 @@
 ---
 layout: foss4guk2019
 ---
-## Sponsorship
+<h2 style="margin-top:0;">Sponsorship</h2>
 
 We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship will help us to do that. If you are interested in sponsoring FOSS4GUK, have a look at our various sponsorhip options detailed below:
 
@@ -14,7 +14,16 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## ~~<span style="color:#f1b106;">Gold+ T Shirt Sponsor </span> &nbsp; £2500~~ **TAKEN**
+## <span class="gold">Gold+ Live Feed Sponsor </span> &nbsp; £2500
+* Logo splash screen before each live presentation
+* 3x Tickets
+* Booth
+* Large Banner logo
+* Large Website logo
+
+---
+
+## ~~<span class="gold">Gold+ T Shirt Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Logo on the event T shirt
 * 3x Tickets
 * Booth
@@ -23,7 +32,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## ~~<span style="color:#f1b106;">Gold+ Party Sponsor </span> &nbsp; £2500~~ **TAKEN**
+## ~~<span class="gold">Gold+ Party Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Extra publicity at mentions of the party
 * Your own banners at the party
 * 3x Tickets
@@ -33,7 +42,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## ~~<span style="color:#f1b106;">Gold+ Childcare Sponsor </span> &nbsp; £2500~~ **TAKEN**
+## ~~<span class="gold">Gold+ Childcare Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Extra publicity and good will
 * Your own banners by the Childcare room
 * 3x Tickets
@@ -43,7 +52,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## <span style="color:#f1b106;">Gold Tier</span> &nbsp; £2000
+## <span class="gold">Gold Tier</span> &nbsp; £2000
 * 3x Tickets
 * Booth
 * Large Banner logo
@@ -51,7 +60,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## <span style="color:#868888;">Silver Tier </span> &nbsp; £1000
+## <span class="silver">Silver Tier </span> &nbsp; £1000
 * 2x Tickets
 * Booth
 * Medium Banner logo
@@ -59,7 +68,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## <span style="color:#b54d00;">Bronze Tier </span> &nbsp; £500
+## <span class="bronze">Bronze Tier </span> &nbsp; £500
 * Small Banner logo
 * Small Website logo
 * Promotional material at registration
