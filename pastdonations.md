@@ -24,3 +24,4 @@ In March 2018 OSGeo:UK sponsored the following
 * [PostGIS via Regina Obe](https://www.patreon.com/reginaobe/overview) : $60 per month inc VAT
 * [PostGIS Code Sprint](https://trac.osgeo.org/postgis/wiki/PostGISCodeSprint2018): $1,500
 * [GeoServer Java 2018 Code Sprint](https://wiki.osgeo.org/wiki/Java_2018_Code_Sprint) : $750
+* [Openlayers 6: call for funding](https://github.com/openlayers/openlayers/wiki/Openlayers-6:-call-for-funding) : €1000 
