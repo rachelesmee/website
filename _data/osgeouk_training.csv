@@ -1,10 +1,4 @@
 description,date,organisation,location,link
-QGIS Essentials,29-30 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
-QGIS Advanced,31 January 2019,Astun Technology,Bristol,https://astuntechnology.com/training-courses/ 
-QGIS Advanced,1 February 2019,thinkWhere,Stirling,https://thinkwhere.com/services/training/
-PostGIS User,7 February 2019,thinkWhere,Stirling,https://thinkwhere.com/services/training/
-PostGIS Administrator,8 February 2019,thinkWhere,Stirling,https://thinkwhere.com/services/training/
-QGIS Beginner,11-12 February 2019,thinkWhere,Manchester,https://thinkwhere.com/services/training/
 QGIS Advanced,25 February 2019,thinkWhere,Manchester,https://thinkwhere.com/services/training/
 Python Essentials,5 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
 Python for QGIS,6 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
@@ -12,10 +6,6 @@ QGIS Beginner,11-12 March 2019,thinkWhere,Edinburgh,https://thinkwhere.com/servi
 PostGIS Essentials,26-27 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
 Introduction to Spatial Data & Using R as a GIS,27 March 2019,Geospatial Training Solutions,"Southampton",http://bit.ly/2KrQFwC
 PostGIS DBA Essentials,28 March 2019,Astun Technology,Epsom Surrey,https://astuntechnology.com/training-courses/ 
-GeoServer Essentials,30 April-1 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
-Python Essentials,1 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
-GeoServer Advanced,2 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
-Python for QGIS,2 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 QGIS Essentials,14-15 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 QGIS Advanced,16 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
 Introduction to Spatial Data & Using R as a GIS,23 May 2019,Geospatial Training Solutions,"UCL, London",http://bit.ly/2KrQFwC
