@@ -52,6 +52,15 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
+<span class="gold">Gold+ Live Stream Sponsor </span> &nbsp; £2500
+* Extra publicity on live stream
+* 3x Tickets
+* Booth
+* Large Banner logo
+* Large Website logo
+
+---
+
 ## <span class="gold">Gold Tier</span> &nbsp; £2000
 * 3x Tickets
 * Booth
