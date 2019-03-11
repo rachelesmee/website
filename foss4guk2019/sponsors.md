@@ -14,7 +14,7 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 
 ---
 
-## <span class="gold">Gold+ Live Feed Sponsor </span> &nbsp; £2500
+## <span class="gold">Gold+ Live Stream Sponsor </span> &nbsp; £2500
 * Logo splash screen before each live presentation
 * 3x Tickets
 * Booth
@@ -45,15 +45,6 @@ We want to keep the cost of entry to FOSS4G UK as low as possible - sponsorship 
 ## ~~<span class="gold">Gold+ Childcare Sponsor </span> &nbsp; £2500~~ **TAKEN**
 * Extra publicity and good will
 * Your own banners by the Childcare room
-* 3x Tickets
-* Booth
-* Large Banner logo
-* Large Website logo
-
----
-
-<span class="gold">Gold+ Live Stream Sponsor </span> &nbsp; £2500
-* Extra publicity on live stream
 * 3x Tickets
 * Booth
 * Large Banner logo
