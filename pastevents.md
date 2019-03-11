@@ -6,6 +6,7 @@ layout: default
 
 #### 2018
 
+* Special General Meeting Friday 7th December. Proposed changes [here](https://docs.google.com/document/d/1NnQBSQ5w9d8LyxnDLryAFQTvF5YFEXki2WiE-gF7NdY/edit?usp=sharing){:target="_newpage"} (all passed).
 * UK QGIS User Group South West
 * [FOSS4G UK 2018](/foss4guk2018/)
 * [OSGeo:UK AGM 2018](agm/agm2018.html)
