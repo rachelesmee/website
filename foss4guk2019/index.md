@@ -2,7 +2,9 @@
 layout: foss4guk2019
 ---
 
-<h2 style="margin-top:0;">What</h2>
+<h3 style="margin-top:0;"><a href="talks_workshops.html" style="color:#bb4505;">FOSS4G UK 2019 call for talks and workshops now open!</a></h3>
+<h2 style="margin-top:40px;">What</h2>
+
 [OSGeo:UK](/ "OSGeo UK Chapter") will be bringing together all those interested in **free and open source geospatial software** for this fantastic event. Conference format TBC, but you can get a flavour of things to come by looking back at [FOSS4G UK 2018](http://uk.osgeo.org/foss4guk2018/ "FOSS4G UK 2018").
 
 ## When
