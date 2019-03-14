@@ -5,7 +5,7 @@ layout: foss4guk2019
 
 We're pleased to announce that the <span style="color:#bb4505; font-weight:bold;">FOSS4G UK 2019 call for talks and workshops is now open.</span>
 
-This year FOSS4G UK will be at Dynamic Earth in Edinburgh from the <strong>18th to 21st September</strong>, with the main conference on the 19th and 20th. This conference is a friendly, relaxed conference where we discuss all things free, open source and geo-related.
+This year FOSS4G UK will be at Dynamic Earth in Edinburgh from the <strong>18th to 21st September</strong>, with the main conference on the 19th and 20th. This is a friendly, relaxed conference where we discuss all things free, open source and geo-related.
 
 <h3 style="margin-top:40px;">Talks</h3>
 If you have something interesting you'd like to share with the community about your use of free and open source software in the world of Geospatial, then we'd love to hear from you. We welcome submissions from all subject areas, and have slots available for <strong>20 minute</strong> talks. Talk proposals should be no longer than <strong>500 words</strong>.
