@@ -19,7 +19,7 @@ FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 Septem
 
 ## Tickets and Registration
 
-Tickets will no more than £40 per day, with concession rates available too. They've not been released yet, but keep an eye out for an announcement.
+Tickets will no more than <strong>£40 per day</strong>, with concession rates available too. They've not been released yet, but keep an eye out for an announcement.
 
 ## Code of Conduct
 Participants at FOSS4G UK 2019 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
