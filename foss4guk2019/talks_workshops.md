@@ -3,7 +3,7 @@ layout: foss4guk2019
 ---
 <h2 style="margin-top:0;">Talks & Workshops</h2>
 
-We're pleased to announce that the <span style="color:#bb4505; font-weight:bold;">FOSS4G UK 2019 call for talks and workshops is now open.</span>
+We're pleased to announce that the <span style="color:#6c932c; font-weight:bold;">FOSS4G UK 2019 call for talks and workshops is now open.</span>
 
 This year FOSS4G UK will be at Dynamic Earth in Edinburgh from the 18th to 21st September, with the main conference on the <strong>19th and 20th</strong> (icebreaker on the 18th, code sprint on the 21st) This is a friendly, relaxed conference where we discuss all things free, open source and geo-related.
 
@@ -12,13 +12,13 @@ Tickets will be no more than <strong>£40 per day</strong>, with concession rate
 <h3 style="margin-top:40px;">Talks</h3>
 If you have something interesting you'd like to share with the community about your use of free and open source software in the world of Geospatial, then we'd love to hear from you. We welcome submissions from all subject areas, and have slots available for <strong>20 minute</strong> talks. Talk proposals should be no longer than <strong>500 words</strong>.
 
-<span style="color:#bb4505; font-weight:bold;">Submit your talk here:</span> <a href="http://tinyurl.com/foss4g-talk-proposal" style="font-weight:bold;" target="_blank" title="FOSS4GUK2019 Talk Submission Form" alt="FOSS4GUK2019 Talk Submission Form">http://tinyurl.com/foss4g-talk-proposal</a>
+<span style="color:#6c932c; font-weight:bold;">Submit your talk here:</span> <a href="http://tinyurl.com/foss4g-talk-proposal" style="font-weight:bold;" target="_blank" title="FOSS4GUK2019 Talk Submission Form" alt="FOSS4GUK2019 Talk Submission Form">http://tinyurl.com/foss4g-talk-proposal</a>
 &nbsp;
 
 <h3 style="margin-top:40px;">Workshops</h3>
 If you would like to lead a workshop, we will be running two parallel workshop sessions during the main conference. Proposals can be from shorter hands-on demo sessions to whole-day in-depth tutorials. We will select proposals to create a varied programme.
 
-<span style="color:#bb4505; font-weight:bold;">Submit your workshop here:</span> <a href="http://tinyurl.com/foss4g-workshop-proposal" style="font-weight:bold;" target="_blank" title="FOSS4GUK2019 Workshop Submission Form" alt="FOSS4GUK2019 Workshop Submission Form">http://tinyurl.com/foss4g-workshop-proposal</a>
+<span style="color:#6c932c; font-weight:bold;">Submit your workshop here:</span> <a href="http://tinyurl.com/foss4g-workshop-proposal" style="font-weight:bold;" target="_blank" title="FOSS4GUK2019 Workshop Submission Form" alt="FOSS4GUK2019 Workshop Submission Form">http://tinyurl.com/foss4g-workshop-proposal</a>
 
 <h3 style="margin-top:40px;">Unconference</h3>
 There will also be an opportunity during the conference itself to contribute to an 'unconference' session - this is likely to be an informal session of lightning-style talks (more details closer to the event).
