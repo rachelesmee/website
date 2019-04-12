@@ -6,7 +6,9 @@ layout: default
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
-* **FOSS4GUK 2019 will be hosted in Edinburgh from 19th September 2019 to 21st September 2019 (codesprint on the last day). More details [here](https://uk.osgeo.org/foss4guk2019/){:target="_newpage"}**
+See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
+
+**FOSS4GUK 2019 will be hosted in Edinburgh from 19th September 2019 to 21st September 2019 (codesprint on the last day). More details [here](https://uk.osgeo.org/foss4guk2019/){:target="_newpage"}**
 
 
 ### News
