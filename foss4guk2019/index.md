@@ -2,7 +2,6 @@
 layout: foss4guk2019
 ---
 
-<h3 style="margin-top:0;">Call for talks and workshops <a href="talks_workshops.html">now open..</a></h3>
 <h2 style="margin-top:40px;">What</h2>
 
 [OSGeo:UK](/ "OSGeo UK Chapter") will be bringing together all those interested in **free and open source geospatial software** for this fantastic event. Conference format TBC, but you can get a flavour of things to come by looking back at [FOSS4G UK 2018](http://uk.osgeo.org/foss4guk2018/ "FOSS4G UK 2018").
@@ -16,6 +15,10 @@ FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 Septem
 <strong>Dynamic Earth</strong>, Edinburgh. EH8 8AS. [<a href="http://umap.openstreetmap.fr/en/map/foss4g-uk-2019_313534#16/55.9504/-3.1744" target="_blank">big map</a>]
 
 <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/foss4g-uk-2019_313534?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
+
+## Talks & Workshops
+
+Our call for talks and workshops is now <strong>closed</strong>, but we'll have opportunities for lightning talks and the 'Unconference'. See the <a href="talks_workshops.html" alt="Talks & Workshops" title="Talks & Workshops">Talks & Workshops</a> page for more information.
 
 ## Tickets and Registration
 
