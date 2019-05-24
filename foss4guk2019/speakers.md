@@ -1,0 +1,40 @@
+---
+layout: foss4guk2019
+---
+<h2 style="margin-top:0;">Keynote Speakers</h2>
+
+<img src="images/headshots_200px/denise_mckenzie.jpg" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+<h3 style="margin-bottom:0; padding-bottom:0;">Denise McKenzie</h3>
+<em>Open Geospatial Consortium</em>
+
+<div style="text-align:justify; text-justify: inter-word;">Denise is an Aussie who lives in England in the historic town of Winchester.  She joined OGC in 2012 and spends her time managing the Communication and Outreach program globally for the consortium. The program handles the planning and execution of marketing, communication and education to raise awareness and increase implementation of open geospatial and location standards by technology providers and users worldwide. Part of Denise's role is to oversee OGC Alliance Partnerships including representation at the United Nations Global Geographic Information Management (UNGGIM) committee. She has a member of the Board of the Association for Geographic Information in the UK and the Global Advisory Board for the Location Based Marketing Association. Prior to her role with OGC, she worked for over 12 years with the Victorian Government (Australia) in areas of geospatial strategic policy, collaboration and innovation.</div>
+<br>
+<hr/>
+<br>
+<img src="images/headshots_200px/neil_headshot_crop.jpg" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+<h3 style="margin-bottom:0; padding-bottom:0;">Neil Chue Hong</h3>
+<em>University of Edinburgh</em>
+
+<div style="text-align:justify; text-justify: inter-word;">Neil Chue Hong is the PI and Director of the Software Sustainability Institute, a national facility for cultivating world-class research through software, led by the University of Edinburgh and funded by all seven of the UKRI Research Councils. He is the Editor-in-Chief of the Journal of Open Research Software, chair of the EPSRC Strategy Advisory Team on e-infrastructure, co-editor of "Software Engineering for Science" and co-chair of the SE4Science workshop series, co-author of "Best Practices for Scientific Computing" and "An Open Science Peer Review Oath", and a member of the OECD Global Science Forum Expert Group on Digital Skills for Science and The Carpentries Advisory Council. His current research interests include barriers and incentives in research software ecosystems and the role of software as a research object. From 2007-2010, Neil was Director of OMII-UK, which provided and supported free, open-source software to the UK e-Research community. He received an MPhys degree in computational physics from the University of Edinburgh.</div>
+<br>
+<hr/>
+<br>
+<img src="images/headshots_200px/a_rae.jpg" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+<h3 style="margin-bottom:0; padding-bottom:0;">Alistair Rae</h3>
+<em>University of Sheffield</em>
+
+<div style="text-align:justify; text-justify: inter-word;">Alistair is an urban and regional analyst who likes to make maps that help me understand things better. He works at the University of Sheffield in the Department of Urban Studies and Planning and his recent academic work has focused on topics such as local government boundary reform, the rise of short-term lets, functional regions, housing markets, deprivation, inequality and a few other things. He uses a mix of different kinds of software in his work but he loves open source and have been a big fan of QGIS for a few years now. He also likes to share his work on twitter (@undertheraedar) and on his blog (www.statsmapsnpix.com), where he also sometimes publishes tutorials and shares data. He's delighted to have been asked to speak at FOSS4GUK 2019 and is really looking forward to the workshops, learning new stuff, and meeting up with friends old and new.</div>
+<br>
+<hr/>
+<br>
+<h3 style="margin-bottom:0; padding-bottom:0;">Shona Nicol</h3>
+<em>The Scottish Government</em>
+
+<div style="text-align:justify; text-justify: inter-word;">Bio coming soon.</div>
+
+
+
+
+
+
+
