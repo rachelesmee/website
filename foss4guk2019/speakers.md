@@ -20,10 +20,10 @@ layout: foss4guk2019
 <hr/>
 
 <img src="images/headshots_200px/a_rae.jpg" style="float:right; padding-left:15px; padding-bottom:15px;"/>
-<h3 style="margin-bottom:0; padding-bottom:0;">Alisdair Rae</h3>
+<h3 style="margin-bottom:0; padding-bottom:0;">Alasdair Rae</h3>
 <em>University of Sheffield</em>
 
-<div style="text-align:justify; text-justify: inter-word;">Alisdair is an urban and regional analyst who likes to make maps that help me understand things better. He works at the University of Sheffield in the Department of Urban Studies and Planning and his recent academic work has focused on topics such as local government boundary reform, the rise of short-term lets, functional regions, housing markets, deprivation, inequality and a few other things. He uses a mix of different kinds of software in his work but he loves open source and has been a big fan of QGIS for a few years now. He also likes to share his work on twitter (@undertheraedar) and on his blog (www.statsmapsnpix.com), where he also sometimes publishes tutorials and shares data. He's delighted to have been asked to speak at FOSS4GUK 2019 and is really looking forward to the workshops, learning new stuff, and meeting up with friends old and new.</div>
+<div style="text-align:justify; text-justify: inter-word;">Alasdair is an urban and regional analyst who likes to make maps that help him understand things better. He works at the University of Sheffield in the Department of Urban Studies and Planning and his recent academic work has focused on topics such as local government boundary reform, the rise of short-term lets, functional regions, housing markets, deprivation, inequality and a few other things. He uses a mix of different kinds of software in his work but he loves open source and has been a big fan of QGIS for a few years now. He also likes to share his work on twitter (@undertheraedar) and on his blog (www.statsmapsnpix.com), where he also sometimes publishes tutorials and shares data. He's delighted to have been asked to speak at FOSS4GUK 2019 and is really looking forward to the workshops, learning new stuff, and meeting up with friends old and new.</div>
 <br>
 <hr/>
 
