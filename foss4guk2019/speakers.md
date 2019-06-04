@@ -28,9 +28,10 @@ layout: foss4guk2019
 <hr/>
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Shona Nicol</h3>
+<img src="images/headshots_200px/SN_head_shot.jpg" style="float:right; padding-left:15px; padding-bottom:15px;"/>
 <em>The Scottish Government</em>
 
-<div style="text-align:justify; text-justify: inter-word;">Bio coming soon.</div>
+<div style="text-align:justify; text-justify: inter-word;">Shona is the Head of the Geographical Information Science and Analysis Team (GI-SAT) in the Scottish Government Digital Directorate and sits on the Association of Geographic Information (AGI) Scotland Executive Committee. Shona has worked in GI-SAT since 2001, as a GIS Analyst, Operations Manager and now as Team Leader. The team provide a centre of excellence for geospatial data in the public sector, unlocking its value using geospatial and data science tools and techniques. Her primary responsibilities include managing a number of collaborative data procurements - the One Scotland Mapping Agreement (OSMA) with Ordnance Survey and a number other agreements for aerial photography, web services and addressing. She also supports the various Scottish public sector geospatial groups in their role of promoting and developing the use of geospatial data in Scottish Government and in the wider public sector, ensures that Scottish Ministers’ obligations under the Inspire Directive are met and that the Scottish Spatial Data Infrastructure is delivered successfully. She is currently developing a shared, cross sector vision on geospatial. Prior to joining GI-SAT, Shona studied at the University of Edinburgh obtaining an MSc in Geographical Information Science.</div>
 
 
 
