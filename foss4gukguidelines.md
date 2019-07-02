@@ -90,6 +90,10 @@ In the past we have offered a 50% discount for students (with some proof of stud
 
 The codesprint should ideally be free to attendees, whether or not they attend the rest of the conference, and you should be able to find a sponsor who will cover the cost of catering and room hire.
 
+#### Ticketing
+
+OSGeo:UK has an account with [EventBrite](https://www.eventbrite.co.uk/), which should be used for selling tickets. While other sites may be cheaper, the OSGeo:UK committee need to retain over all control over this year on year. The password for logging in can be provided on request. Be aware of fees before deciding on prices!
+
 #### Free Tickets
 
 It’s OK to give free tickets to Keynote Speakers and members of the Local Organising Committee (if their employers are unwilling or unable to fund them). 
