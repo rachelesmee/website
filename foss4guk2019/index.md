@@ -14,7 +14,7 @@ FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 Septem
 
 **Code Sprint**: Edinburgh conference and training venue on Sat 21st Sep. 16 St Mary's Street, Edinburgh EH1 1SU
 
-<span style="font-size:11px; font-style:italics;">The Code Sprint provides the opportunity for projects to get together to make plans, work on new features, write documentation and generally collaborate. We provide comfortable facilities with all the power and wifi you could need, it's up to the individual projects to decide what the time is used for. While a code sprint is obviously a place for developers it's worth remembering that it's not just about writing code – as we all know a project has many needs including documentation, testing, and providing feedback. What better way to give feedback and give back to the project that you love than to spend a day with the project’s developers. There are roles that need to be filled, no matter what your expertise.</span>
+<span style="font-size:11px; font-style:italic;">The Code Sprint provides the opportunity for projects to get together to make plans, work on new features, write documentation and generally collaborate. We provide comfortable facilities with all the power and wifi you could need, it's up to the individual projects to decide what the time is used for. While a code sprint is obviously a place for developers it's worth remembering that it's not just about writing code - as we all know a project has many needs including documentation, testing, and providing feedback. What better way to give feedback and give back to the project that you love than to spend a day with the project's developers. There are roles that need to be filled, no matter what your expertise.</span>
 
 ## Where
 
