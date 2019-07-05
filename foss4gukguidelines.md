@@ -46,6 +46,11 @@ Sponsors will expect some opportunity to promote their organisations.
 Providing space for a mini exhibition (small tables and a banner) in the area where the food and coffees are served is a good idea.
 Sponsors can be linked to specific elements of the conference e.g. the party, a t-shirt (if you have one), the lunches, the codesprint, streaming or videoing.
 
+Top level sponsors will expect, and should be entitled to, a speaking slot. This should be explicit in the sponsorship details that you send out. It should be subject to the following caveats:
+
+ * The talk should not be a corporate sales pitch
+ * You, as the LOC, reserve the right to review and discuss the content of the talk in advance and suggest changes if you feel it contravenes the above point.
+
 Sponsors logos can be displayed at the venue, on the web site etc.
 Please take good care of the sponsors, they are a key supporter of FOSS4GUK and our community and deserve our gratitude.
 
