@@ -28,7 +28,7 @@ Our call for talks and workshops is now <strong>closed</strong>, but we'll have 
 
 ## Tickets and Registration
 
-Tickets are **&#163;80 for the two day conference**, including lunch and refreshments and will be released in July 2019 - watch this space!
+Tickets are **&#163;80 for the two day conference**, including lunch and refreshments and are **[available to purchase here](https://www.eventbrite.co.uk/e/foss4guk-2019-tickets-64538005913 "FOSS4GUK 2019 Tickets"){:target="_blank"}**.
 
 ## Code of Conduct
 Participants at FOSS4G UK 2019 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
