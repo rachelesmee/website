@@ -18,9 +18,9 @@ FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 Septem
 
 ## Where
 
-<strong>Dynamic Earth</strong>, Edinburgh. EH8 8AS. [<a href="http://umap.openstreetmap.fr/en/map/foss4g-uk-2019_313534#16/55.9504/-3.1744" target="_blank">big map</a>]
+<strong>Dynamic Earth</strong>, Edinburgh. EH8 8AS. [<a href="https://www.openstreetmap.org/?mlat=55.95054&mlon=-3.17442#map=17/55.95054/-3.17442&layers=N" target="_blank">big map</a>]
 
-<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.fr/en/map/foss4g-uk-2019_313534?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=undefined&captionBar=false"></iframe>
+<iframe width="100%" height="300" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.openstreetmap.org/export/embed.html?bbox=-3.1804025173187256%2C55.948971542525946%2C-3.168429136276245%2C55.95210127574314&amp;layer=mapnik&amp;marker=55.95053644075777%2C-3.1744158267974854" style="border: 1px solid black"></iframe>
 
 ## Talks & Workshops
 
