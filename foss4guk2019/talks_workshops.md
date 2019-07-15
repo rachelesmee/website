@@ -10,7 +10,7 @@ Take a look at our **[draft programme](FOSS4GUK_2019_Programme_draft.pdf "FOSS4G
 Tickets are **&#163;80 for the two day conference**, including lunch and refreshments and will be released in July 2019.
 
 <h3 style="margin-top:40px;">Unconference</h3>
-If you've missed the talks deadline but still have something you'd like to say, there will also be an opportunity during to contribute to an 'unconference' session - this is likely to be an informal session of lightning-style talks (more details closer to the event).
+If you've missed the talks deadline but still have something you'd like to say, there will also be an opportunity to contribute during an 'unconference' session - this is likely to be an informal session of lightning-style talks (more details closer to the event).
 
 ![FOSS4GUK 2018 Talk](images/foss4guk_2018_talk.jpg "FOSS4GUK 2018 Talk")
 Photo <a href="https://twitter.com/JohnSMcCrae/status/972147230089113600" target="_blank" alt="John McCrae on Twitter" title="John McCrae on Twitter">&copy; John McCrae</a>
