@@ -1,6 +1,13 @@
 description,date,organisation,location,link
-QGIS Essentials,14-15 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
-QGIS Advanced,16 May 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/ 
-Introduction to Spatial Data & Using R as a GIS,23 May 2019,Geospatial Training Solutions,"UCL, London",http://bit.ly/2KrQFwC
-Confident Spatial Analysis and Statistics in R & GeoDa,24 May 2019,Geospatial Training Solutions,"UCL, London",http://bit.ly/2KrQFwC
-"Exploring, visualising and mapping data: an R course",12-14 June 2019,Geospatial Training Solutions,"University of Glasgow, Glasgow",http://bit.ly/2WRdDnW
+Python Essentials,17 September 2019,Astun Technology,Edinburgh,https://astuntechnology.com/training-courses/
+Python for QGIS,18 September 2019,Astun Technology,Edinburgh,https://astuntechnology.com/training-courses/
+Python Essentials,24 September 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
+Python for QGIS,25 September 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
+QGIS Essentials,8-9 October 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
+QGIS Advanced,10 October 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
+Python Essentials,15 October 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+Python for QGIS,16 October 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+PostGIS Essentials,12-13 November 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+PostGIS DBA Essentials,14 November 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+GeoServer Essentials,26-27 November 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
+GeoServer Advanced,28 November 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
