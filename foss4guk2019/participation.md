@@ -14,13 +14,13 @@ The childcare will be provided by **[Around the World Childcare](http://aroundth
 
 We are also offering grants of up to &pound;100 to help cover **childcare costs at home** that you are incurring specifically to enable you to attend the conference. We will reimburse these costs after the conference, and will require proof of payment - i.e. a receipt or letter from the childcare provider. Please get in touch if you would like more information about this.
 
-Children/babies will also welcome at the conference itself.
+Children/babies will also be welcome at the conference itself.
 <br>
 <hr/>
 
 ### Hearing Support
 
-If you let us know during registration that you require a sign language interpreter, then we will make arrangements to have this available (There are induction loops in the auditoriums.)
+If you let us know during registration that you require a sign language interpreter, then we will make arrangements to have this available (there is an induction loop in the main auditorium).
 <br>
 <hr/>
 
@@ -39,7 +39,7 @@ Dynamic Earth's **[accessibility statement](https://www.dynamicearth.co.uk/media
 ### Inclusivity
 We would like to encourage everyone to add pronouns to their name badges - we will provide a space for this. The more people who do this, the more welcome and included everyone will feel.
 
-During the social parts of the conference, why not try ways to make things **[less intimidating](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ "Pac-man appraoch to conferences"){:target="_blank"}** and easier for others to join in the conversation.
+During the social parts of the conference, why not try ways to make things **[less intimidating](https://www.ericholscher.com/blog/2017/aug/2/pacman-rule-conferences/ "Pac-man appraoch to conferences"){:target="_blank"}** and easier for others to join in the conversation. And there's always **[more for us to think about...](https://github.com/mxsasha/lessobviouschecklist "The Less Obvious Conference Checklist"){:target="_blank"}**
 <br>
 <hr/>
 
