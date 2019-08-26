@@ -4,7 +4,9 @@ layout: foss4guk2019
 
 <h2 style="margin-top:40px;">What</h2>
 
-[OSGeo:UK](/ "OSGeo UK Chapter") will be bringing together all those interested in **free and open source geospatial software** for this fantastic event. Two days of talks, workshops and networing - take a look at our **[draft programme](FOSS4GUK_2019_Programme_draft.pdf "FOSS4GUK 2019 Draft Programme"){:target="_blank"}** or see what [last year's event](http://uk.osgeo.org/foss4guk2018/ "FOSS4G UK 2018") was like.
+[OSGeo:UK](/ "OSGeo UK Chapter") will be bringing together all those interested in **free and open source geospatial software** for this fantastic event. Two days of talks, workshops and networing - you take a look at our what [last year's event](http://uk.osgeo.org/foss4guk2018/ "FOSS4G UK 2018") was like to get a flavour of things to come!
+
+Our **[draft programme](FOSS4GUK_2019_Programme.pdf "FOSS4GUK 2019 rogramme"){:target="_blank"}** is now out - we're really excited at the range of talks & workshops on offer.
 
 ## When
 
