@@ -5,7 +5,7 @@ layout: foss4guk2019
 
 Our call for talks and workshops ended on 30th April and we've had lots of amazing submissions on both fronts, so we're looking forward to a fantastic few days! It'll be a friendly, relaxed conference where we discuss all things free, open source and geo-related.
 
-Take a look at our **[programme](FOSS4GUK_2019_Programme.pdf "FOSS4GUK 2019 Programme"){:target="_blank"}**.
+Take a look at our **[2019 Programme](FOSS4GUK_2019_Programme.pdf "FOSS4GUK 2019 Programme"){:target="_blank"}** - packed full of interesting talks & workshops!
 
 Tickets are **&#163;80 for the two day conference**, including lunch and refreshments and will be released in July 2019.
 
