@@ -9,12 +9,9 @@ We are aiming to make FOSS4G UK 2019 as welcoming, inclusive and accessible as p
 
 ### Children
 
-We have organised complementary **on-site childcare** for up to 10 children, age 8 or under. This will be available between 0900 and 1700 each day. This service requires sign up when you purchase your conference tickets so that we can ensure we have appropriate staff numbers.
-The childcare will be provided by **[Around the World Childcare](http://aroundtheworldnursery.co.uk/ "Around the World Childcare"){:target="_blank"}** - they fit in well with our ethos as they are a not for profit, charitable, social enterprise.
+We are offering grants of up to &pound;100 to help cover **childcare costs at home** that you are incurring specifically to enable you to attend the conference. We will reimburse these costs after the conference, and will require proof of payment - i.e. a receipt or letter from the childcare provider. Please get in touch if you would like more information about this.
 
-We are also offering grants of up to &pound;100 to help cover **childcare costs at home** that you are incurring specifically to enable you to attend the conference. We will reimburse these costs after the conference, and will require proof of payment - i.e. a receipt or letter from the childcare provider. Please get in touch if you would like more information about this.
-
-Children/babies will also be welcome at the conference itself.
+Children & babies will also be welcome at the conference itself.
 <br>
 <hr/>
 
