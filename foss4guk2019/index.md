@@ -12,11 +12,11 @@ Our **[2019 Programme](FOSS4GUK_2019_Programme.pdf "FOSS4GUK 2019 Programme"){:t
 
 FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 September 2019**
 
-**Ice Breaker**: NLS Map Room tour (two tours, 11 people on each), 4pm and 5pm on Wed 18th Sep at Causewayside Building, 33 Salisbury Place, Edinburgh, EH9 ISL
+**Ice Breaker**: NLS Map Room tour (two tours, 11 people on each), **4pm and 5pm** on **Wed 18th Sep** at Causewayside Building, 33 Salisbury Place, Edinburgh, EH9 ISL
 
-**Party**: [The Counting House](https://www.countinghouseedinburgh.co.uk/ "The Counting House"){:target="_blank"}, 36 West Nicholson Street Edinburgh EH8 9DD. 6pm - 11pm. Canapes and hot food will be served during the evening.
+**Party**: **[The Counting House](https://www.countinghouseedinburgh.co.uk/ "The Counting House"){:target="_blank"}**, 36 West Nicholson Street Edinburgh EH8 9DD. **6pm - 11pm** on **Thurs 19th Sep**. Canapes and hot food will be served during the evening.
 
-**Community Sprint**: Edinburgh conference and training venue on Sat 21st Sep. 16 St Mary's Street, Edinburgh EH1 1SU
+**Community Sprint**: Edinburgh conference and training venue on **Sat 21st Sep** - 16 St Mary's Street, Edinburgh EH1 1SU
 
 ## Where
 
