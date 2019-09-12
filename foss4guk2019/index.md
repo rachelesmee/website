@@ -16,7 +16,7 @@ FOSS4GUK 2019 is in **Edinburgh** with the main conference on the **19-20 Septem
 
 **Party**: **[The Counting House](https://www.countinghouseedinburgh.co.uk/ "The Counting House"){:target="_blank"}**, 36 West Nicholson Street Edinburgh EH8 9DD. **6pm - 11pm** on **Thurs 19th Sep**. Canapes and hot food will be served during the evening.
 
-**Community Sprint**: [Edinburgh conference and training venue](https://edintrain.com/location-and-accesibility/){:target="_blank"} on **Sat 21st Sep** - 16 St Mary's Street, Edinburgh EH1 1SU
+**Community Sprint**: **[Edinburgh conference and training venue](https://edintrain.com/){:target="_blank"}**, 16 St Mary's Street, Edinburgh, EH1 1SU. **9am - 5 pm** on **Sat 21st Sep**. Catering will be provided.
 
 ## Where
 
