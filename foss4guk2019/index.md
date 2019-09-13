@@ -32,7 +32,7 @@ Our call for talks and workshops is now <strong>closed</strong>, but we'll have 
 
 <h3>**FOSS4GUK 2019 IS NOW SOLD OUT!**</h3>
 
-Tickets are **&#163;80 for the two day conference**, including lunch and refreshments and are <span style="text-decoration: line-through;>**[available to purchase here](https://www.eventbrite.co.uk/e/foss4guk-2019-tickets-64538005913 "FOSS4GUK 2019 Tickets"){:target="_blank"}**.</span>
+Tickets are **&#163;80 for the two day conference**, including lunch and refreshments and are <span style="text-decoration: line-through;">**[available to purchase here](https://www.eventbrite.co.uk/e/foss4guk-2019-tickets-64538005913 "FOSS4GUK 2019 Tickets"){:target="_blank"}**.</span>
 
 NB Conference speakers will be emailed a separate link to purchase tickets.
 
