@@ -3,7 +3,7 @@ layout: foss4guk2019
 ---
 <h2 style="margin-top:0;">Live Streaming</h2>
 
-All our talks will be streamed live on YouTube so you can catch all the action from anywhere in the world. The links to both streams will be made **available soon**, so watch this space!
+All our talks will be streamed live on YouTube so you can catch all the action from anywhere in the world. The links to both streams will be made **available soon**, so watch this space.
 
 This is a fantastic opportunity to see a large range of excellent talks, made freely available to anyone. Please share this chance with as many people on possible! We're using the hashtag **#foss4guk2019** across social media...
 
