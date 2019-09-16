@@ -5,7 +5,7 @@ layout: foss4guk2019
 
 <img src="images/headshots_200px/denise_mckenzie.jpg" style="float:right; padding-left:15px; padding-bottom:15px;"/>
 <h3 style="margin-bottom:0; padding-bottom:0;">Denise McKenzie</h3>
-<em>Open Geospatial Consortium</em>
+<em>Consultant | AGI Board Member | LBMA Global Advisory Board</em>
 
 <div style="text-align:justify; text-justify: inter-word;">Denise is an Aussie who lives in England in the historic town of Winchester. A global geospatial specialist Denise has worked in the industry for nearly 20 years evangelising the benefits, value and application of geospatial information across Government, Private Sector and Academia in domains including Smart Cities & IoT, Agriculture, Defence, Marketing, Insurance and many more. She has worked with UNGGIM for the past 6 years leading the development of the UNGGIM Geospatial Standards Guides in collaboration with ISO and IHO and leading OGC's Communication and Outreach Program globally.  Denise is also a member of the Board of the Association for Geographic Information in the UK and the Global Advisory Board for the Location Based Marketing Association. Prior to her role with OGC, she worked for over 12 years with the Victorian Government (Australia) in areas of geospatial strategic policy, collaboration and innovation.</div>
 <br>
