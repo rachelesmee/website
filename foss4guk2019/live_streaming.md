@@ -13,19 +13,19 @@ This is a fantastic opportunity to see a large range of excellent talks, made fr
 
 <h3>Day 1 - Biosphere Green</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12rzUW4ps74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/12rzUW4ps74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3 style="margin-top:30px;">Day 1 - Biosphere Blue</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jKuQnCvgQPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/jKuQnCvgQPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3 style="margin-top:30px;">Day 2 - Biosphere Green</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DlAfbwGrT30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/DlAfbwGrT30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3 style="margin-top:30px;">Day 2 - Biosphere Blue</h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cZT_Az2rNTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/cZT_Az2rNTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>&nbsp;<br>
 Our live streaming has been made available by the kind sponsorship of **[Astun Technology](https://astuntechnology.com/ "Astun Technology"){:target="_blank"}**.
