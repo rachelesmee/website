@@ -11,21 +11,21 @@ This is a fantastic opportunity to see a large range of excellent talks, made fr
 
 * Take a look at our **[Programme](FOSS4GUK_2019_Programme.pdf "FOSS4GUK 2019 Programme"){:target="_blank"}** and **[detailed abstracts](FOSS4GUK_2019_Abstracts.pdf "FOSS4GUK 2019 Talk Abstracts"){:target="_blank"}** to see what's on and when.
 
-<h3>Day 1 - Biosphere Green</h3>
+<h3 style="margin-top:20px;">Day 1 - Biosphere Green</h3>
 
-<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/12rzUW4ps74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/12rzUW4ps74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3 style="margin-top:40px;">Day 1 - Biosphere Blue</h3>
 
-<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/jKuQnCvgQPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/jKuQnCvgQPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3 style="margin-top:40px;">Day 2 - Biosphere Green</h3>
 
-<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/DlAfbwGrT30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/DlAfbwGrT30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h3 style="margin-top:40px;">Day 2 - Biosphere Blue</h3>
 
-<iframe style="width:100%; max-width:560px; height:auto" src="https://www.youtube.com/embed/cZT_Az2rNTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/cZT_Az2rNTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 &nbsp;<br>
 Our live streaming has been made available by the kind sponsorship of **[Astun Technology](https://astuntechnology.com/ "Astun Technology"){:target="_blank"}**.
