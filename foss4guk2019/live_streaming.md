@@ -13,23 +13,20 @@ This is a fantastic opportunity to see a large range of excellent talks, made fr
 
 <h3 style="margin-top:20px;">Day 1 - Biosphere Green</h3>
 
-<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/12rzUW4ps74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/12rzUW4ps74" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h3 style="margin-top:40px;">Day 1 - Biosphere Blue</h3>
 
-<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/jKuQnCvgQPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/jKuQnCvgQPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h3 style="margin-top:40px;">Day 2 - Biosphere Green</h3>
 
-<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/DlAfbwGrT30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/DlAfbwGrT30" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <h3 style="margin-top:40px;">Day 2 - Biosphere Blue</h3>
 
-<iframe style="width:100%; max-width:560px; height:56%; max-height:315px" src="https://www.youtube.com/embed/cZT_Az2rNTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/cZT_Az2rNTg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 &nbsp;<br>
 Our live streaming has been made available by the kind sponsorship of **[Astun Technology](https://astuntechnology.com/ "Astun Technology"){:target="_blank"}**.
-
-
-
 
