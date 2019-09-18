@@ -1,6 +1,4 @@
 description,date,organisation,location,link
-Python Essentials,24 September 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
-Python for QGIS,25 September 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
 QGIS Essentials,8-9 October 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
 QGIS Advanced,10 October 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
 Python Essentials,15 October 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
@@ -9,8 +7,10 @@ PostGIS Essentials,12-13 November 2019,Astun Technology,Birmingham,https://astun
 PostGIS DBA Essentials,14 November 2019,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 GeoServer Essentials,26-27 November 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
 GeoServer Advanced,28 November 2019,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
-GeoServer Essentials,14-15 January,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
-GeoServer Advanced,16 January,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
+GeoServer Essentials,14-15 January 2020,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
+GeoServer Advanced,16 January 2020,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
+Python Essentials,22 January 2020,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
+Python for QGIS,23 January 2020,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 QGIS Essentials,28-29 January,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 QGIS Advanced,30 January 2020,Astun Technology,Bristol,https://astuntechnology.com/training-courses/
 Python Essentials,3 March 2020,Astun Technology,Epsom,https://astuntechnology.com/training-courses/
@@ -20,4 +20,6 @@ PostGIS DBA Essentials,19 March 2020,Astun Technology,Epsom,https://astuntechnol
 QGIS Essentials,12-13 May 2020,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 QGIS Advanced,14 May 2020,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 GeoServer Essentials,9-10 June 2020,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+Python Essentials,10 June 2020,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
 GeoServer Advanced,11 June 2020,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
+Python for QGIS,11 June 2020,Astun Technology,Birmingham,https://astuntechnology.com/training-courses/
