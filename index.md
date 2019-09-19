@@ -4,7 +4,17 @@ layout: default
 
 ### Events
 
-**The OSGeo:UK AGM will be held at FOSS4GUK 2019 (details below), on 19th September at 13:00 (room tbc). For those unable to attend in person, a Google Hangout link will be provided on the mailing list on the day. The agenda will be posted here in due course.**
+**The OSGeo:UK AGM will be held at FOSS4GUK 2019 (details below), on 19th September at 13:00 in the Turret Room. For those unable to attend in person, there is a [Google Hangout link](https://meet.google.com/pyu-remz-rbo){:target="_newpage"}: you will need to request entry, which will be accepted! The agenda is below.**
+
+__OSGeo:UK AGM 2019 Agenda__
+
+* OSGeo:UK 2018 AGM Minutes
+* Report on activities
+* Reports and accounts: 2018-19
+* Appointment of officers
+* Future activities - including FOSS4G UK 2020?
+* Any other business
+* Date of next AGM
 
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
