@@ -4,7 +4,7 @@ layout: default
 
 ### Events
 
-**The OSGeo:UK AGM will be held at FOSS4GUK 2019 (details below), on 19th September at 13:00 in the Turret Room. For those unable to attend in person, there is a [Google Hangout link](https://meet.google.com/pyu-remz-rbo){:target="_newpage"}: you will need to request entry, which will be accepted! The agenda is below.**
+**The OSGeo:UK AGM will be held at FOSS4GUK 2019 (details below), on 19th September at 13:00 in the Turret Room. For those unable to attend in person, there is a [Google Hangout link](https://meet.google.com/pyu-remz-rbo){:target="_newpage"} you will need to request entry, which will be accepted! The agenda is below.**
 
 __OSGeo:UK AGM 2019 Agenda__
 
