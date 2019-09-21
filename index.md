@@ -10,25 +10,28 @@ See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for 
 
 **Call for volunteers to organise an event in 2020!**
 
-If you're interested in organising either a single-day event of some kind, or fancy trying your hands at FOSS4GUK 2020 then contact us on the mailing list
+If you're interested in organising either a single-day event of some kind, or fancy trying your hands at FOSS4GUK 2020 then contact us on the mailing list.
 
 
 ### News
 
-* [FOSS4GUK 2019](/foss4guk2019/){:target="_newpage"} has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.
+[FOSS4GUK 2019](/foss4guk2019/){:target="_newpage"} has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.
 
 
 ### Contact
 
-For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}
+For updates follow [@osgeouk on Twitter](https://twitter.com/osgeouk) or [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}.
+
 
 ### Training
 
-See the [training page](training.html) for details of upcoming training courses related to OSGeo projects.
+See the [training page](training.html) for details of upcoming training courses related to OSGeo projects. 
+
+Training providers- see the instructions at the bottom of that page for how to add your own courses to the list.
 
 ### Legal
 
-OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf){:target="_newpage"}
+OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2016, can be found [here](/files/OSGeo UK Final Constitution - Signed.pdf){:target="_newpage"}.
 
 __Officers__
 
