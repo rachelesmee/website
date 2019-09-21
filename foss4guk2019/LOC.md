@@ -6,7 +6,7 @@ layout: foss4guk2019
 <img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
 <h3 style="margin-bottom:0; padding-bottom:0;">Ross MacDonald</h3>
 <em>Co-chair and sponsor coordinator | Angus Council</em>
-<li><a href="https://twitter.com/mixedbredie" target=_blank><i class="fa fa-twitter"></i></a></li>
+[Ross on Twitter](https://twitter.com/mixedbredie "Twitter"){:target="_blank"}
 
 <br>
 <hr/>
