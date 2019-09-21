@@ -23,7 +23,7 @@ layout: foss4guk2019
 
 <img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
 <h3 style="margin-bottom:0; padding-bottom:0;">Fiona Hemsly-Flint</h3>
-<em>Committee coordinator | Independent Constultant</em>
+<em>Committee coordinator | Independent Consultant</em>
 
 [Fiona on LinkedIn](https://www.linkedin.com/in/fiona-hemsley-flint-225b6616/ "LinkedIn"){:target="_blank"}
 
