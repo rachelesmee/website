@@ -5,7 +5,7 @@ layout: foss4guk2019
 
 <img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
 <h3 style="margin-bottom:0; padding-bottom:0;">Ross McDonald</h3>
-<em>Co-chair and sponsor coordinator | Angus Council</em>
+<em>Co-chair | Angus Council</em>
 
 [Ross on Twitter](https://twitter.com/mixedbredie "Twitter"){:target="_blank"}
 
@@ -86,7 +86,7 @@ layout: foss4guk2019
 
 <img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
 <h3 style="margin-bottom:0; padding-bottom:0;">Christine Browne</h3>
-<em>Committee member | buccleuch estates</em>
+<em>Committee member | Buccleuch Estates</em>
 
 [Christine on LinkedIn](https://www.linkedin.com/in/christine-brown-1a0b5a9 "LinkedIn"){:target="_blank"}
 
