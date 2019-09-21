@@ -3,7 +3,9 @@ layout: foss4guk2019
 ---
 <h2 style="margin-top:0;">Organising Committee</h2>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+<img src="images/IMG_20190920_140535.jpg" style="float:centre; padding-left:15px; padding-bottom:15px;"/>
+
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Ross McDonald</h3>
 <em>Co-chair | Angus Council</em>
 
@@ -12,7 +14,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Tom Armitage</h3>
 <em>Co-chair | Innovation IT</em>
 
@@ -21,7 +23,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Fiona Hemsly-Flint</h3>
 <em>Committee coordinator | Independent Consultant</em>
 
@@ -30,7 +32,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Matt Travis</h3>
 <em>Treasurer | Astun Tech</em>
 
@@ -39,7 +41,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Rog Garbett</h3>
 <em>Volunteer coordinator | Angus Council</em>
 
@@ -48,7 +50,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Barry Rowlingson</h3>
 <em>Workshop coordinator | Lancaster University</em>
 
@@ -57,7 +59,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Louise Sing</h3>
 <em>Speaker coordinator | Forest Research</em>
 
@@ -66,7 +68,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Phil Taylor</h3>
 <em>Website and communications | Centre for Ecology and Hydrology</em>
 
@@ -75,7 +77,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Mike Spencer</h3>
 <em>Community sprint coordinator | Scotland's Rural College</em>
 
@@ -84,7 +86,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Christine Browne</h3>
 <em>Committee member | Buccleuch Estates</em>
 
@@ -93,7 +95,7 @@ layout: foss4guk2019
 <br>
 <hr/>
 
-<img src="" style="float:right; padding-left:15px; padding-bottom:15px;"/>
+
 <h3 style="margin-bottom:0; padding-bottom:0;">Tom Chadwin</h3>
 <em>Voice of reason | Northumberland National Park</em>
 
