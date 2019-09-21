@@ -4,28 +4,18 @@ layout: default
 
 ### Events
 
-**The OSGeo:UK AGM will be held at FOSS4GUK 2019 (details below), on 19th September at 13:00 in the Turret Room. For those unable to attend in person, there is a [Google Hangout link](https://meet.google.com/pyu-remz-rbo){:target="_newpage"} you will need to request entry, which will be accepted! The agenda is below.**
-
-__OSGeo:UK AGM 2019 Agenda__
-
-* OSGeo:UK 2018 AGM Minutes
-* Report on activities
-* Reports and accounts: 2018-19
-* Appointment of officers
-* Future activities - including FOSS4G UK 2020?
-* Any other business
-* Date of next AGM
-
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
-**FOSS4GUK 2019 will be hosted in Edinburgh from 19th September 2019 to 21st September 2019 (codesprint on the last day). More details [here](https://uk.osgeo.org/foss4guk2019/){:target="_newpage"}**
+**Call for volunteers to organise an event in 2020!**
+
+If you're interested in organising either a single-day event of some kind, or fancy trying your hands at FOSS4GUK 2020 then contact us on the mailing list
 
 
 ### News
 
-* [OSGeo:UK Response](/files/Government_ callforevidence_geospatial_ OSGeoUK_response.pdf){:target="_newpage"} to UK Government's [call for evidence to be geospatial world leader](https://www.gov.uk/government/news/government-launch-call-for-evidence-to-be-geospatial-world-leader){:target="_newpage"}
+* [FOSS4GUK 2019](/foss4guk2019/){:target="_newpage"} has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.
 
 
 ### Contact

@@ -4,6 +4,11 @@ layout: default
 
 ### Past events
 
+#### 2019
+
+* [FOSS4G UK 2019](/foss4guk2019/)
+* [OSGeo:UK AGM 2019](agm/agm2019minutes.html) 
+
 #### 2018
 
 * Special General Meeting Friday 7th December. Proposed changes [here](https://docs.google.com/document/d/1NnQBSQ5w9d8LyxnDLryAFQTvF5YFEXki2WiE-gF7NdY/edit?usp=sharing){:target="_newpage"} (all passed).
