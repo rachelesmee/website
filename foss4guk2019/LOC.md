@@ -24,7 +24,7 @@ layout: foss4guk2019
 <hr/>
 
 
-<h3 style="margin-bottom:0; padding-bottom:0;">Fiona Hemsly-Flint</h3>
+<h3 style="margin-bottom:0; padding-bottom:0;">Fiona Hemsley-Flint</h3>
 <em>Committee coordinator | Independent Consultant</em>
 
 [Fiona on LinkedIn](https://www.linkedin.com/in/fiona-hemsley-flint-225b6616/ "LinkedIn"){:target="_blank"}
