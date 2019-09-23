@@ -4,7 +4,12 @@ layout: foss4guk2019
 <h2 style="margin-top:0;">Organising Committee</h2>
 
 <img src="images/IMG_20190920_140535.jpg" style="float:centre; padding-left:15px; padding-bottom:15px;"/>
+<em>From L to R: Tom Armitage, Mike Spencer, Matt Travis, Ross McDonald, Christine Brown, Fiona Hemsley-Flint, Phil Taylor, Roger Garbett, Alastair Graham (vol), Tom Chadwin</em>
 
+<img src="images/loc1.jpg" style="float:centre; padding-left:15px; padding-bottom:15px;"/>
+<em>From L to R: Matt Travis, Tom Armitage, Roger Garbett, Alastair Graham (vol), Ross McDonald, Barry Rowlingson, Christine Brown, Mike Spencer, Fiona Hemsley-Flint, Juliette Maire (vol), Tom Chadwin</em>
+
+<br>
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Ross McDonald</h3>
 <em>Co-chair | Angus Council</em>
@@ -87,7 +92,7 @@ layout: foss4guk2019
 <hr/>
 
 
-<h3 style="margin-bottom:0; padding-bottom:0;">Christine Browne</h3>
+<h3 style="margin-bottom:0; padding-bottom:0;">Christine Brown</h3>
 <em>Committee member | Buccleuch Estates</em>
 
 [Christine on LinkedIn](https://www.linkedin.com/in/christine-brown-1a0b5a9 "LinkedIn"){:target="_blank"}
@@ -97,7 +102,7 @@ layout: foss4guk2019
 
 
 <h3 style="margin-bottom:0; padding-bottom:0;">Tom Chadwin</h3>
-<em>Voice of reason | Northumberland National Park</em>
+<em>Committee member | Northumberland National Park</em>
 
 [Tom on Twitter](https://twitter.com/tomchadwin "Twitter"){:target="_blank"}
 
