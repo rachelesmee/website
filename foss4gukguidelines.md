@@ -16,11 +16,16 @@ Secondly, as a gentle reminder, you have volunteered to organise the event on be
 
 Typically a FOSS4GUK conference will run for 2-3 days. 
 
-Past events have included a parallel workshop stream within the main event but this format is not rigid: you could run a day of workshops the day before the event. Events have also included a hack day or codesprint, usually on the day after the main event (these have typically been attended by 15-20 people).
+Past events have included a parallel workshop stream within the main event but this format is not rigid: you could run a day of workshops the day before the event. During the main event you should plan for at least two streams of talks running in parallel. Try to allow 30 minutes for each keynote and standard talk, which can include time for questions.
+
+Don’t forget time in your programme for breaks, these are vital for networking and refreshment. People will be unhappy if sessions run into breaks, so good time-keeping is essential. We suggest that an organiser is present at all talks to help ensure they stick to limits. Prompts should be shown to the speaker at the halfway point, and with 5 minutes and 1 minute to go. The organiser should use their discretion on intervention for over-running talks, but not at the expense of following speakers.
+
+Events have also included a hack day or codesprint, usually on the day after the main event (these have typically been attended by 15-20 people). Hack days or codesprints can involve documentation as well as coding, and it’s important to organise and publicise them well. There are many resources online to how to do this- see https://hackathon.guide/ for example, and remember that the term “hack day” or “hackathon” may be off-putting or unknown to some delegates.
 
 #### Social
 
 People expect a social event on the evening between the first and second days of the conference. Please remember that not everyone is keen on alcohol, and quite a few people have dietary preferences or requirements. More people will attend the party if it is included in the price of the conference pass but that may push up the cost of the pass if you can’t get a sponsor(s) to pay for the party.
+Publicising the requirement to pay and/or register for the social event is crucial. Don’t assume people will read the smallprint on Eventbrite. Send at least one specific mail to all attendees before the event about this.
 
 It’s a good idea to organise a meetup or communal meal for the evening before the conference (particularly if you run workshops on the day before). This could be as simple as pre-booking space in a bar or restaurant with everyone paying their own way.
 
@@ -40,6 +45,8 @@ If you wish to use a platform such as Slack or Basecamp for organisational commu
 
 Please consider whether it’s possible to archive the discussions when the event has finished. Again it is often necessary to refer back to previous discussions in future years.
 
+Should you require a headed paper template, or official communications from OSGeo:UK, such as for overseas delegates or speakers, please contact us.
+
 #### Sponsors
 
 Sponsors will expect some opportunity to promote their organisations. 
@@ -48,11 +55,14 @@ Sponsors can be linked to specific elements of the conference e.g. the party, a 
 
 Top level sponsors will expect, and should be entitled to, a speaking slot. This should be explicit in the sponsorship details that you send out. It should be subject to the following caveats:
 
- * The talk should not be a corporate sales pitch
+ * The talk should not be a corporate sales pitch, and must relate to open source software and its application, or use within a project.
+ * If they wish to present, they must use the same submission system as the other presenters (but will get a guaranteed slot)
  * You, as the LOC, reserve the right to review and discuss the content of the talk in advance and suggest changes if you feel it contravenes the above point.
 
 Sponsors logos can be displayed at the venue, on the web site etc.
-Please take good care of the sponsors, they are a key supporter of FOSS4GUK and our community and deserve our gratitude.
+Please take good care of the sponsors, they are a key supporter of FOSS4GUK and our community and deserve our gratitude. It is important, however, to specify exactly what they will get for their sponsorship, such as whether they can put out leaflets (generally yes) and if these will be included in any bags provided as part of swag (see below). If you are planning to provide free tickets to sponsors, be explicit as to how many and at what level of sponsorship these are available.
+
+OSGeo:UK should be treated as a sponsor, in that we should be allocated space for a stand and at least one banner. We will also need to be allocated a full-length keynote slot (or a very early slot on the first day if the keynotes are all taken) to articulate what OSGeo and FOSS4G are all about, and provide a gentle reminder what open source means. If possible, space should be provided for a workshop or round-table discussion/unconference in which we can address questions about open source. You will need to include a timeslot for the OSGeo:UK AGM, but this can be at lunch time. This should be promoted as part of the event, to encourage attendance.
 
 #### Swag
 
@@ -63,7 +73,7 @@ If you are going to offer a t-shirt, remember to add sizing as an option when se
 #### Food
 
 As a rule of thumb, conference attendees will eat more food than you think…
-You must cater for special dietary requirements, and as such should include these as options when purchasing a ticket.
+You must cater for special dietary requirements, in particular vegetarian/vegan/gluten free/nut allergies, and as such should include these as options when purchasing a ticket.
 
 Please try to avoid using disposable plates, cups etc as much as possible to help minimise the environmental footprint of the event.
 More and more conferences are also asking attendees to bring their own water bottles and reusable cups, so this is also something to consider in the promotional literature.
@@ -97,7 +107,7 @@ The codesprint should ideally be free to attendees, whether or not they attend t
 
 #### Ticketing
 
-OSGeo:UK has an account with [EventBrite](https://www.eventbrite.co.uk/), which should be used for selling tickets. While other sites may be cheaper, the OSGeo:UK committee need to retain over all control over this year on year. The password for logging in can be provided on request. Be aware of fees before deciding on prices!
+OSGeo:UK has an account with [EventBrite](https://www.eventbrite.co.uk/), which should be used for selling tickets. While other sites may be cheaper, the OSGeo:UK committee need to retain overall control over this year on year. The password for logging in can be provided on request. Be aware of fees before deciding on prices!
 
 #### Free Tickets
 
@@ -112,7 +122,7 @@ You can [apply for your FOSS4GUK to be supported by the TGP](https://wiki.osgeo.
 
 #### Inclusivity
 
-OSGeo:UK wants to promote inclusivity across gender, race, and ability. You should consider how you can further that objective and whether a TGP could assist in that objective. Do take into account, however, that  furthering the representation of one subset of people may negatively impact other attendees.
+OSGeo:UK wants to promote inclusivity across gender, race, and ability. You should consider how you can further that objective and whether a Travel Grant Program could assist in that objective. Do take into account, however, that  furthering the representation of one subset of people may negatively impact other attendees.
 
 If there is a desire to provide childcare facilities, we would welcome that, provided there is enough demand, and that the same care is taken over costs as for any other part of the event. Demand can be gauged either during ticket sales, or informally before the event.
 
@@ -122,9 +132,8 @@ Your event must comply with the [OSGeo Code of Conduct](https://www.osgeo.org/co
 
 #### Environment
 
-Try to consider how you can minimise the environmental footprint of your event. 
+Try to consider how you can minimise the environmental footprint of your event. When ordering banners, please choose ones that can be recycled.
 
+### Lessons learned from previous events
 
-
-
-
+FOSS4GUK 2018 https://docs.google.com/document/d/1ZolGqZvBXaBJUldoGFHkCtbS2jAiNw0K2OYU2-59JPU/edit?usp=sharing (comment only link)
