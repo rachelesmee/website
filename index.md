@@ -14,7 +14,7 @@ OSGeo:UK are planning a one day online FOSS4G event which will run at the end of
 
 We welcome technical talks, demos (we're not sure we can accommodate workshops), user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces... In fact we welcome any talks that are based on Open Source Geo and are not pushing a sales message. Please submit talks or demos for FOSS4G UK Online [here](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform){:target="_newpage"}
 
-If you want to volunteer or help in some way please [email us](mailto:osgeuk@gmail.com)
+If you want to volunteer or help in some way please [email us](mailto:osgeuk@gmail.com?subject=FOSSS4GUK2020)
 
 
 ### News
