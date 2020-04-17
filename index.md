@@ -8,9 +8,13 @@ Thinking of an Open Source GIS event, and after some support? Contact us on the 
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
-**Call for volunteers to organise an event in 2020!**
+**FOSS4GUK 2020 Online**
 
-If you're interested in organising either a single-day event of some kind, or fancy trying your hands at FOSS4GUK 2020 then contact us on the mailing list.
+We will be hosting FOSS4GUK Online at the end of May or the beginning of June. We are currently working out the details of the event and the tech stuff and will confirm more details soon.
+
+Please submit talks or demos for FOSS4G UK Online [here](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform){:target="_newpage"}"}
+
+If you want to volunteer to help in some way please contact us on the mailing list.
 
 
 ### News
