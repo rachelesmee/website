@@ -10,9 +10,9 @@ See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for 
 
 ### FOSS4GUK 2020 Online
 
-We will be hosting FOSS4GUK Online at the end of May or the beginning of June. We are currently working out the details of the event and the tech stuff and will confirm more details soon.
+OSGeo:UK are planning a one day online FOSS4G event which will run at the end of May or in early June (dates to be finalised soon). This will be an online-only event intended to give us a little FOSS4G fix while we are in, or just coming out of, lock-down. It will be a chance to share some of the work we've been doing during (or in spite of) this strange time, as well as a useful experiment in how we can run online conferences alongside our face to face events in the future.
 
-Please submit talks or demos for FOSS4G UK Online [here](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform){:target="_newpage"}
+We welcome technical talks, demos (we're not sure we can accommodate workshops), user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces... In fact we welcome any talks that are based on Open Source Geo and are not pushing a sales message. Please submit talks or demos for FOSS4G UK Online [here](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform){:target="_newpage"}
 
 If you want to volunteer or help in some way please [email us](mailto:osgeuk@gmail.com)
 
