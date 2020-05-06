@@ -8,13 +8,19 @@ Thinking of an Open Source GIS event, and after some support? Contact us on the 
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
-### FOSS4GUK 2020 Online
+## FOSS4GUK 2020 Online
 
-OSGeo:UK are planning a one day online FOSS4G event which will run at the end of May or in early June (dates to be finalised soon). This will be an online-only event intended to give us a little FOSS4G fix while we are in, or just coming out of, lock-down. It will be a chance to share some of the work we've been doing during (or in spite of) this strange time, as well as a useful experiment in how we can run online conferences alongside our face to face events in the future.
+OSGeo:UK are planning a one day online FOSS4G event on 17th June 2020. This will be an online-only event intended to give us a little FOSS4G fix while we are in, or just coming out of, lock-down. It will be a chance to share some of the work we've been doing during (or in spite of) this strange time, as well as a useful experiment in how we can run online conferences alongside our face to face events in the future.
 
-We welcome technical talks, demos (we're not sure we can accommodate workshops), user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces... In fact we welcome any talks that are based on Open Source Geo and are not pushing a sales message. Please submit talks or demos for FOSS4G UK Online [here](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform){:target="_newpage"}
+We welcome technical talks, demos, user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces... In fact we welcome any talks that are based on Open Source Geo and are not pushing a sales message. 
 
-If you want to volunteer or help in some way please [email us](mailto:osgeouk@gmail.com?subject=FOSSS4GUK2020)
+We will also be offering a small number of workshops (ca 90 minutes) which will need to be instruction rather than fully interactive. 
+
+Please submit talks or workshops for FOSS4G UK Online [here](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform){:target="_newpage"}
+
+If you want to volunteer or help in some way please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform){:target="_newpage"}
+
+Much more detail will follow in the next week or so. See you on 17th June.
 
 
 ### News
