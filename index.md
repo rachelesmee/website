@@ -20,7 +20,7 @@ Please submit talks or workshops for FOSS4G UK Online [here](https://docs.google
 
 If you want to volunteer or help in some way please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform){:target="_newpage"}
 
-Much more detail will follow in the next week or so. *See you on 17th June*
+Much more detail will follow in the next week or so. **See you on 17th June**
 
 
 ### News
