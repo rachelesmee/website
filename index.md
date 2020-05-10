@@ -20,7 +20,7 @@ Please submit talks or workshops for FOSS4G UK Online [here](https://docs.google
 
 If you want to volunteer or help in some way please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform){:target="_newpage"}
 
-For regular updates and news follow us on twitter we are [@OSGeoUK](https://twitter.com/osgeouk){:target="_newpage"} or use the twitter hashtag [#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUKOnline){:target="_newpage"}
+For regular updates and news follow us on twitter we are [@FOSS4GUK](https://twitter.com/foss4guk){:target="_newpage"} or use the twitter hashtag [#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUKOnline){:target="_newpage"}
 
 Much more detail will follow in the next week or so. **See you on 17th June**
 
