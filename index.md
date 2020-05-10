@@ -2,12 +2,6 @@
 layout: default
 ---
 
-### Events
-
-Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
-
-See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
-
 ## FOSS4GUK 2020 Online
 
 OSGeo:UK are planning a one day online FOSS4G event on 17th June 2020. This will be an online-only event intended to give us a little FOSS4G fix while we are in, or just coming out of, lock-down. It will be a chance to share some of the work we've been doing during (or in spite of) this strange time, as well as a useful experiment in how we can run online conferences alongside our face to face events in the future.
@@ -24,6 +18,11 @@ For regular updates and news follow us on twitter we are [@FOSS4GUK](https://twi
 
 Much more detail will follow in the next week or so. **See you on 17th June**
 
+### Events
+
+Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
+
+See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
 ### News
 
