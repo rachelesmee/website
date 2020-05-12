@@ -1,37 +1,33 @@
 ## FOSS4G UK Online 2020
-OSGeo:UK are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of other FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
+OSGeo:UK are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
 ## Programme
-We welcome technical talks, demos, user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces… In fact we welcome any talks based on Open Source Geo (and not pushing a sales message).
+[We are accepting submissions](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform) until _18th May_ - technical talks, demos, user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces… In fact we welcome any talks based on Open Source Geo (and not pushing a sales message). We're also hoping to offer some short workshops where you can play along or just sit back and learn as you marvel.
 
-We're also hoping to offer some short workshops where you can play along or just site back and marvel.
+The final programme will be published here in late May - we're planning on some great keynotes too.
 
-Please submit talks or workshops for FOSS4G UK Online here
+## Helping out
+We (the OSGeo:UK committee) would appreciate any help you can provide, either before, during, or after the event - please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform) if you are able to chip in.
 
-If you want to volunteer or help in some way please fill in this form
-
-For regular updates and news follow us on twitter we are @FOSS4GUK or use the twitter hashtag #FOSS4GUKOnline
-
-Much more detail will follow in the next week or so. See you on 17th June
+## News
+For regular updates follow us on Twitter we are @FOSS4GUK/#FOSS4GUKOnline.
 
 ## When
-
-End of May, beginning of June. Dates will be finalised asap.
+17th June 2020 - full timings to follows.
 
 ## Where
+Whereever in the world you are on June 1th, and on Zoom.
 
+## Talks/Workshops
+To follow.
 
-## Talks & Workshops
-
-
-## Tickets and Registration
-
+## Tickets/Registration
+To follow.
 
 ## Code of Conduct
 Participants at FOSS4G UK 2019 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
 
 ## Contact
-
-For updates follow [@foss4guk](https://twitter.com/foss4guk) and [@osgeouk](https://twitter.com/osgeouk) on Twitter.
+For updates follow [@foss4guk](https://twitter.com/foss4guk) and [@osgeouk](https://twitter.com/osgeouk) on Twitter, and for direct comms use  [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
 
 <p>&nbsp;</p>
