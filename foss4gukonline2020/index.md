@@ -25,7 +25,7 @@ To follow.
 To follow.
 
 ## Code of Conduct
-Participants at FOSS4G UK Online 20202 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
+Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
 
 ## Contact
 [@FOSS4GUK](https://twitter.com/foss4guk) or [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
