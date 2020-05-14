@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## FOSS4GUK 2020 Online
+## [FOSS4GUK 2020 Online](foss4gukonline2020.html)
 
 OSGeo:UK are planning a one day online FOSS4G event on 17th June 2020. This will be an online-only event intended to give us a little FOSS4G fix while we are in, or just coming out of, lock-down. It will be a chance to share some of the work we've been doing during (or in spite of) this strange time, as well as a useful experiment in how we can run online conferences alongside our face to face events in the future.
 
