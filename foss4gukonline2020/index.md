@@ -9,7 +9,7 @@
 The final programme will be published here in late May - we're planning on some great keynotes too.
 
 ## Helping out
-We (the [OSGeo:UK committee](#committee)) would appreciate any help you can provide, either before, during, or after the event - please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform) if you are able to chip in.
+We (the [OSGeo:UK committee](#who)) would appreciate any help you can provide, either before, during, or after the event - please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform) if you are able to chip in.
 
 ## News
 For regular updates follow us on [Twitter](https://twitter.com/foss4guk)/[#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUKOnline&src=typed_query).
