@@ -25,13 +25,12 @@ Wherever in the world you are on June 17th... and on Zoom.
 
 ## Who
 The confererence is organised by the OSGeo:UK Committee:
-<div id="comittee"/>
-[Alistair Graham](https://twitter.com/ajggeoger)
-[Ant Scott](https://twitter.com/antscott)
-[Dave Barter](https://twitter.com/citizenfishy)
-[Jo Cook](https://twitter.com/archaeogeek)
-[Matt Travis](https://twitter.com/yakus)
-[Steven Feldman](https://twitter.com/stevenfeldman)
+* [Alistair Graham](https://twitter.com/ajggeoger)
+* [Ant Scott](https://twitter.com/antscott)
+* [Dave Barter](https://twitter.com/citizenfishy)
+* [Jo Cook](https://twitter.com/archaeogeek)
+* [Matt Travis](https://twitter.com/yakus)
+* [Steven Feldman](https://twitter.com/stevenfeldman)
 
 ## Talks/Workshops
 To follow.
@@ -40,7 +39,7 @@ To follow.
 To follow.
 
 ## Cost
-The event will be free to attend - but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation to a charity which is apprpropriate to our challenging times.
+The event will be free to attend - but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation to a charity which is appropriate to our challenging times.
 
 ## Code of Conduct
 Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
