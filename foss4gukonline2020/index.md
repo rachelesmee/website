@@ -15,7 +15,7 @@ We (the [OSGeo:UK committee](#who)) would appreciate any help you can provide, e
 For regular updates follow us on [Twitter](https://twitter.com/foss4guk)/[#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUKOnline&src=typed_query).
 
 ## When
-17th June 2020 - full timings to follows.
+17th June 2020 - full timings to follow.
 
 ## Where
 Wherever in the world you are on June 17th... and on Zoom.
@@ -39,7 +39,7 @@ To follow.
 To follow.
 
 ## Cost
-The event will be free to attend - but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation to a charity which is appropriate to our challenging times.
+The event will be free to attend - but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation to a charity that is appropriate to our challenging times.
 
 ## Code of Conduct
 Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
