@@ -17,6 +17,7 @@ For regular updates follow us on [Twitter](https://twitter.com/foss4guk)/[#FOSS4
 
 ## Where
 Wherever in the world you are on June 17th... and on Zoom.
+![alt text](images/tanya-nevidoma-ENYIbB4i5t0-unsplash "Photo by Tanya Nevidoma on Unsplash")
 
 ## Talks/Workshops
 To follow.
