@@ -25,7 +25,7 @@ Wherever in the world you are on June 17th... and on Zoom.
 
 ## Who
 The confererence is organised by the OSGeo:UK Committee:
-* [Alistair Graham](https://twitter.com/ajggeoger)
+* [Alastair Graham](https://twitter.com/ajggeoger)
 * [Ant Scott](https://twitter.com/antscott)
 * [Dave Barter](https://twitter.com/citizenfishy)
 * [Jo Cook](https://twitter.com/archaeogeek)
