@@ -1,8 +1,10 @@
 ## FOSS4G UK Online 2020
+<img src="images/foss4guk_2020_logo_800x800.png" width="250" height="250" alt="Graphic by Rosalid Cuttle" align="middle">
+
 [OSGeo:UK](https://uk.osgeo.org/) are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
 ## Programme
-[We are accepting submissions](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform) until _18th May (11pm London time)_ - technical talks, demos, user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces… in fact any talks based on Open Source Geo (and not pushing a sales message). We're also hoping to offer some short workshops where you can play along or just sit back and marvel as you learn.
+[We are accepting submissions](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform) until _18th May (midnight anywhere)_ - technical talks, demos, user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces… in fact any talks based on Open Source Geo (and not pushing a sales message). We're also hoping to offer some short workshops where you can play along or just sit back and marvel as you learn.
 
 <img src="images/curtis-macnewton-vVIwtmqsIuk-unsplash.jpg" width="300" height="250" alt="Photo by Curtis MacNewton on Unsplash" align="middle">
 
