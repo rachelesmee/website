@@ -1,14 +1,14 @@
 ## FOSS4G UK Online 2020
-<img src="images/foss4guk_2020_logo_800x800.png" width="250" height="250" alt="Graphic by Rosalid Cuttle" align="middle">
+<img src="images/FOSS4GUK-2020-Logo-v4-text-as-paths.svg" width="250" height="250" alt="Graphic by Rosalid Cuttle" align="middle">
 
 [OSGeo:UK](https://uk.osgeo.org/) are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
 ## Programme
-[We are accepting submissions](https://docs.google.com/forms/d/e/1FAIpQLSe_1Hs7RGp1sx7sPAB2KMBanDW36ELkxHJE8nl5_3iMnVivjg/viewform) until _18th May (midnight anywhere)_ - technical talks, demos, user stories (particularly ones about the use of FOSS4G tech during the Covid19 crisis), thought pieces… in fact any talks based on Open Source Geo (and not pushing a sales message). We're also hoping to offer some short workshops where you can play along or just sit back and marvel as you learn.
+Submissions are now closed - we are working on the programme and will announce it as soon as we can - it will include technical talks, demos, user stories, and thought pieces.
 
 <img src="images/curtis-macnewton-vVIwtmqsIuk-unsplash.jpg" width="300" height="250" alt="Photo by Curtis MacNewton on Unsplash" align="middle">
 
-The final programme will be published here in late May - we're planning on some great keynotes too.
+The final programme will be published in late May - we're planning on some great keynotes too.
 
 ## Helping out
 We (the [OSGeo:UK committee](#who)) would appreciate any help you can provide, either before, during, or after the event - please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform) if you are able to chip in.
