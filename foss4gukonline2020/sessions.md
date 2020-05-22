@@ -1,4 +1,4 @@
-*"This draft list of  presentations may change""*
+**This draft list of  presentations may change**
 
 # Improving severe-weather resilience for Mongolian and Kyrgyz herding communities using earth observation imagery
 
