@@ -1,29 +1,22 @@
 # Improving severe-weather resilience for Mongolian and Kyrgyz herding communities using earth observation imagery
 
-Alison Hopkin	Deimos Space UK	
+Alison Hopkin, Deimos Space UK	
 
-## Abstract
-
-_SIBELIUs uses an Open Data Cube to provide improved pasture monitoring capabilities in Mongolia and Kyrgyzstan to support their herding communities_
+_SIBELIUs uses an Open Data Cube to provide improved pasture monitoring capabilities in Mongolia and Kyrgyzstan to support their herding communities._
 
 SIBELIUs uses Open Data Cube (ODC) technology to provide improved pasture monitoring capabilities in Mongolia and Kyrgyzstan to support their large and economically significant herding communities. Satellite Earth observation provides an efficient means for monitoring environmental parameters, such as pasture, snow and drought, over large regions, which can facilitate improved pasture management decisions. The SIBELIUs team is working with key Mongolian and Kyrgyz stakeholders to develop ODC Technology to serve a wide range of users. SIBELIUS is supported by the UK Space Agency’s International Partnership Programme (IPP). In both Mongolia and Kyrgyzstan, SIBELIUs is using three existing networks to deliver the benefits of the project to the herding communities: (1) government agencies coordinating livestock and land use, (2) directly to the herders through social media, text messaging and television broadcasts, (3) through finance and insurance sectors.
 
 # GeoServer 2.17 Updates!	
 
-Andrea Aime, Jody Garnett	GeoServer Project Steering Committee
-
-## Abstract
+Andrea Aime, Jody Garnett,	GeoServer Project Steering Committee
 
 _What is new with GeoServer 2.17!_ 
 
 A cheerful tour of new extensions, the latest research and development, improved map rendering and more!	The GeoServer team shares what is new with GeoServer 2.17!  GeoServer is a popular OSGeo project for publishing your geospatial data using industry standards for vector, raster and mapping.   To support online presentation we are scaling back our “state of talk” to strictly focus on new features available in GeoServer 2.17. Attend this presentation for a cheerful tour of new extensions, the latest research and development, improved map rendering and more!
 
-
 # awesome-earthobservation-code
 
-Andrew Cutts	Andrew Cutts (freelancer)
-
-## Abstract
+Andrew Cutts, freelancer
 
 _Finding Earth Observation code is hard. awesome-earthobservation-code attempts to address this. It has over 270+ resources in one place._
 
@@ -31,15 +24,15 @@ Earth Observation is one of the fastest growing areas of Geospatial today. Yet f
 
 # ArcGIS to QGIS in One Easy Lesson
 
-Ant Scott	MapAction	
+Ant Scott, MapAction	
 
-_This demo will showcase SLYR, an ArcGIS to QGIS  toolkit from North Road, and its  use by MapAction to support interoperability and partnership._
+_This demo will showcase SLYR, an ArcGIS to QGIS toolkit from North Road, and its use by MapAction to support interoperability and partnership._
 
 SLYR is a QGIS plugin which has been developed by North Road Software to provide a route for the conversion of ArcGIS artefacts for use in QGIS. While the process is not yet 100 % faithful to the original, it’s improving with regular releases. As well as a drag and drop facility for e.g. MSDs and layer files, the plugin also installs a set of tools in the Processing Toolbox which can be used independently and incoporated into processing models.  The context for the demo will be MapAction’s use of SLYR to support interoperability between its work with Arc (mainly used in emergency missions) and QGIS (used in training and capacity building), and in particular to allow Arc products created in humanitarian response missions to be converted to QGIS for handover at the end of the mission to partners who are QGIS users.  While the plugin has not yet been released as open source, North Road plan to do so once a specific funding threshold for development has been reached, with a six month delay. 
 
 #	OGC APIs and the evolution of OGC standards - an update
 
-Athina Trakas	OGC
+Athina Trakas,	OGC
 
 _State-of-play of the OGC API development. The work has been progressing, to develop various OGC API standards that support a variety of resources._
 
@@ -47,7 +40,7 @@ API technologies are in focus of standardization discussions within the geospati
 
 # My Thirty Years of Spatial Disease Modelling
 
-Barry Rowlingson	Lancaster University	
+Barry Rowlingson,	Lancaster University	
 
 _A review of "Open" in spatial epidemiology over the past thirty years._
 
@@ -55,7 +48,7 @@ Nearly thirty years ago I quit my Physics PhD and began to drag GIS, statistics 
 
 # Using FOSS4G to track COVID-19 in Romania
 
-Cristina Andra Vrînceanu	geo-spatial.org
+Cristina Andra Vrînceanu,	geo-spatial.org
 
 _Geo-spatial.org’s Covid-19 app, built entirely on FOSS, delivers correct, complete and updated official information on the virus spread in Romania._
 
@@ -63,7 +56,7 @@ Our platform contains several maps and graphs depicting the different dimensions
 
 # Women in Geospatial+ - Changing the status-quo by creating a strong network of Women in Geospatial+ leaders and changemakers
 
-Cristina Vrînceanu, Julia Wagemann	Women in Geospatial +
+Cristina Vrînceanu, Julia Wagemann,	Women in Geospatial +
 
 _Women in Geospatial+ is a professional network promoting gender-equality and diversity in geospatial field, aimed at women and other minority genders._
 
@@ -71,31 +64,31 @@ Women in Geospatial+ started in March 2019 and grew into a vibrant and active co
 
 # Don’t Lose Your Way!  Crowd sourcing the nation's forgotten paths.
 
-Dan Ormsby, Jack Cornish, Matt Walker	The Ramblers & Astun Technology
+Dan Ormsby, Jack Cornish, Matt Walker,	The Ramblers & Astun Technology
 
 _Walking charity the Ramblers, crowd sourced every lost historic path in England and Wales in just 6 weeks.  We’ll look back at how, why and what next!_
 
-In February and March 2020, every lost historic path in England and Wales was mapped in a crowd sourcing campaign run by the Ramblers using OS-Geo technologies at its heart.    Attracting national media attention, over 3,500 volunteers did a “spot the difference” comparison of over 150,000 sq km of historic and contemporary OS maps and digitised the missing paths.    The exercise is Phase 1 in a program to save historic rights of way before a legislative deadline of 2026 beyond which they will be lost forever.  In this talk by Ramblers project lead Jack Cornish with Dan Ormsby and Matt Walker from Astun we’ll look at how, why and what next.
+In February and March 2020, every lost historic path in England and Wales was mapped in a crowd sourcing campaign run by the Ramblers using OS-Geo technologies at its heart. Attracting national media attention, over 3,500 volunteers did a “spot the difference” comparison of over 150,000 sq km of historic and contemporary OS maps and digitised the missing paths. The exercise is Phase 1 in a program to save historic rights of way before a legislative deadline of 2026 beyond which they will be lost forever. In this talk by Ramblers project lead Jack Cornish with Dan Ormsby and Matt Walker from Astun we’ll look at how, why and what next.
 
 # Locus Charter - Helping to use location data ethically and responsibly
 
-Denise McKenzie	Benchmark Initiative, Geovation
+Denise McKenzie,	Benchmark Initiative, Geovation
 
-_The Locus Charter is an international set of principles and guidance for ethical and good practice in using location data_	
+_The Locus Charter is an international set of principles and guidance for ethical and good practice in using location data._
 
 In 2019 the Omidyar Network funded 2 programmes of work looking at ethical implications of using location data - Benchmark Initiative in the UK and EthicalGEO in the USA. Since then the world has seen an unprecedented situation arise with the spread of COVID-19 across most countries in the world. Location data has been at the fore of understand, predicting and trying to manage the outbreak. A key topic that has arisen during this has been the question "what constitutes ethical use of location data?" This is being openly debated particularly in the use of contact tracing apps that are being developed by many governments across the world. The Locus Charter is a collaboration between the teams a Benchmark and EthicalGEO to develop an agreed set of international principles to help guide practitioners towards the ethical and responsible use of location data in their projects. The program will be reaching its public consultation phase in June.   www.benchmarkinitiative.com www.ethicalgeo.org
 
 # Stay home and innovate: redesigning an Earth Observation-fuelled accelerator supporting SMEs and start-ups
 
-Dimitrios Papadakis	Evenflow SPRL
+Dimitrios Papadakis,	Evenflow SPRL
 
 _The PARSEC Accelerator, distributing €2.5 Million to SMEs and start-ups, enabled innovation from the safety of home as a response to the COVID-19._
 
-The PARSEC Accelerator, which will distribute €2.5 Million in equity-free funding for Earth Observation-based innovation, was one of the Copernicus-enabled business opportunities that Evenflow presented at the FOSS4G Bucharest in August 2019. After the successful start to 2020, with the PARSEC Open Call 1 attracting 348 SMEs and start-ups from 36 different countries and resulting in 100 competitive winners (#100PARSEC), the COVID-19 pandemic changed the rules of the game. The international team behind the accelerator committed to continue supporting innovation of SMEs, and therefore redesigned the first stage and the second Open Call of the accelerator. This enabled innovation to continue from the safety of home within the PARSEC ecosystem, and created a more open and borderless accelerator. Format : lightning talk/ presentation + visual support (PPT) Duration (flexible) : 3-5 minutes
+The PARSEC Accelerator, which will distribute €2.5 Million in equity-free funding for Earth Observation-based innovation, was one of the Copernicus-enabled business opportunities that Evenflow presented at the FOSS4G Bucharest in August 2019. After the successful start to 2020, with the PARSEC Open Call 1 attracting 348 SMEs and start-ups from 36 different countries and resulting in 100 competitive winners (#100PARSEC), the COVID-19 pandemic changed the rules of the game. The international team behind the accelerator committed to continue supporting innovation of SMEs, and therefore redesigned the first stage and the second Open Call of the accelerator. This enabled innovation to continue from the safety of home within the PARSEC ecosystem, and created a more open and borderless accelerator.
 
 # Using FOSS to develop a spatial and temporal visualisation of COVID-19 data
 
-Eddie Boyle	University of Edinburgh	
+Eddie Boyle,	University of Edinburgh	
 
 _A visualisation of the spatial and temporal distribution of the 2020 COVID-19 pandemic using open technologies and resources._
 
@@ -103,15 +96,15 @@ There are many visualisations on all media platforms of datasets relating to the
 
 # The bloody guts of Tiff files
 
-Emily Selwood	Satellite Applications Catapult Limited
+Emily Selwood,	Satellite Applications Catapult Limited
 
 _The humble tiff file is used for storing raster data, this talk will take a dive into the internal structure of the format._
 
-The humble tiff file is used for storing raster data, when creating them there are many options, it can be difficult to know exactly what options mean and what the implications of them. This talk will dive into the internals of the file format, explaining the overall structure and the historical reasons for some of the options. Then we will go deeper into the bits and bytes and why things are laid out the way they are.  This talk will make use of the tiffhax project to explain things ( https://github.com/emilyselwood/tiffhax )
+The humble tiff file is used for storing raster data, when creating them there are many options, it can be difficult to know exactly what options mean and what the implications of them. This talk will dive into the internals of the file format, explaining the overall structure and the historical reasons for some of the options. Then we will go deeper into the bits and bytes and why things are laid out the way they are.  This talk will make use of the tiffhax project to explain things (https://github.com/emilyselwood/tiffhax).
 
 # What every GIS user should know about projections
 
-Ian Turton	Astun Technology
+Ian Turton,	Astun Technology
 
 _A frequent query raised by newcomers to QGIS is "Why don't my layers line up?"._
 
@@ -123,27 +116,27 @@ Iván Sánchez Ortega
 
 _How graphics tech (WebGL, texture formats and shaders) and multispectral imagery (GeoTIFFs with multiple bands or samples) are a perfect match._
 
-An overview on the work done in Leaflet.TileLayer.GL (and its OpenLayers port) to let web applications consume raw GeoTIFF data (including multiple bands and pixel formats), in order to perform raster algebra in the web browser itself (that's called "edge computing" for buzzword-loving people)
+An overview on the work done in Leaflet.TileLayer.GL (and its OpenLayers port) to let web applications consume raw GeoTIFF data (including multiple bands and pixel formats), in order to perform raster algebra in the web browser itself (that's called "edge computing" for buzzword-loving people).
 
 # Gisquick demo presentation
 
-Jáchym Čepický	OpenGeoLabs
+Jáchym Čepický,	OpenGeoLabs
 
 _Gisquick is an open source geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries._
 
-Gisquick is an open source (GNU/GPL) geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries. We are going to demonstrate it's new features, like vector data editing, setting of user access rights to each layer and direct on-the-fly publishing of projects form QGIS Desktop to Gisquick server.   See more at http://gisquick.org or try your own demo at https://projects.gisquick.org
+Gisquick is an open source (GNU/GPL) geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries. We are going to demonstrate it's new features, like vector data editing, setting of user access rights to each layer and direct on-the-fly publishing of projects form QGIS Desktop to Gisquick server.   See more at http://gisquick.org or try your own demo at https://projects.gisquick.org.
 
 # Solving Geospatial Problems with JavaScript
 
-James Milner	Dent Reality
+James Milner,	Dent Reality
 
-_A overview of solving common geometry problems in JavaScript with tools like Turf.js and JSTS_
+_A overview of solving common geometry problems in JavaScript with tools like Turf.js and JSTS._
 
 We deal with points, lines and polygons all day. Making them bend to our will can be tricky, especially on the web where our tooling might be slightly more restrained than on the desktop. This talk will dive into solve geospatial problems that require us to do things like manipulating geometries and dealing with the relationships between them. We can expect to see how we might do operations like scaling, rotating and moving geometries as well as seeing if they intersect or overlap with others. We will take a look specifically at the Turf.js and JSTS libraries that are available as JavaScript modules. It is recommended attendees have a basic understanding of JavaScript.
 
 # Labelling cans on a production line: automating metadata creation
 
-Jo Cook	Astun Technology
+Jo Cook,	Astun Technology
 
 _A demo of new tools for automatically creating metadata from spatial files or databases._
 
@@ -151,7 +144,7 @@ Feeling overwhelmed by the thought of creating and maintaining metadata on your 
 
 # Processing Large Geospatial Datasets on the Cloud, using FOSS
 
-Joana Simoes	EarthPulse
+Joana Simoes,	EarthPulse
 
 _Learn how we tackled the tech challenges involved in processing a large volume of noisy, geospatial data, using FOSS and cloud computing._
 
@@ -159,7 +152,7 @@ Large volumes of geotagged network data, are generated everyday using sensor dev
 
 # GeoServer Orientation
 
-Jody Garnett	GeoCat
+Jody Garnett,	GeoCat
 
 _Welcome to GeoServer, a popular web service for publishing your geospatial data using industry standards for vector, raster and mapping._
 
@@ -167,7 +160,7 @@ Welcome to GeoServer, a popular web service for publishing your geospatial data 
 
 # GeoNetwork Orientation
 
-Jody Garnett	GeoCat
+Jody Garnett,	GeoCat
 
 _Welcome to GeoNetwork, a leading web service for keeping track of spatial information used by your organization._
 
@@ -175,7 +168,7 @@ Welcome to GeoNetwork, a leading web service for keeping track of the spatial in
 
 # Delivering a digital register of common land in Wales with the help of Open Source Geo
 
-Kathryn Ratcliffe	CGI	
+Kathryn Ratcliffe,	CGI	
 
 _The project showcases the benefits of enhancing commercial technologies and products with those available in the open source geo community._
 
@@ -183,7 +176,7 @@ The Electronic Register of Common Land and Towns and Village Greens in Wales ena
 
 # Working with big spatial data workflows (or, what would John Snow do?)
 
-María Arias de Reyna Domínguez	Red Hat
+María Arias de Reyna Domínguez,	Red Hat
 
 _In situations where we have to handle big spatial data, I wonder: What would John Snow do? He would like us to use the proper FOSS4G tools._
 
@@ -191,7 +184,7 @@ Most of our software is fueled by data. But when we deal with big spatial data, 
 
 # Teaching QGIS: Certification and Running QGIS in the Cloud
 
-Nick Bearman	Geospatial Training Solutions / UCL
+Nick Bearman,	Geospatial Training Solutions / UCL
 
 _Teaching short courses using QGIS. I will cover the QGIS Certification Programme and discuss how I hosted QGIS in Amazon WorkSpaces._
 
@@ -199,15 +192,15 @@ I will show how I teach my GIS short courses using QGIS, covering two different 
 
 # Managing Open Data with an Open Architecture
 
-Pascal Coulon	Welsh Government / CGI
+Pascal Coulon,	Welsh Government / CGI
 
-_Delivering a Open Data in Wales with the help of Open Source Geo_
+_Delivering Open Data in Wales with the help of Open Source Geo._
 
-The Welsh Government is responsible for the managment and publication of Open Data across Wales. The Data Map Wales platform is one of the tactical applications for the Welsh Government.  The solution was driven through the use of OSGeo based solution. The key innovative element has been driven in the use of the Geonode combined with spatial functions enabling the maximum re-use of capabilities across the solution This paper will then address the key element of architecture and governance for the implementation of a Spatial Open Architecture; including: -Use of open standards allowing a plug and play architecture where products could be replaced as solution’s requirements evolves -Use of Open Source products reducing initial investment and strengthening the use of Open Standards -Decoupling business logic from the client tier and reducing dependencies on parts of the solution
+The Welsh Government is responsible for the managment and publication of Open Data across Wales. The Data Map Wales platform is one of the tactical applications for the Welsh Government.  The solution was driven through the use of OSGeo based solution. The key innovative element has been driven in the use of the Geonode combined with spatial functions enabling the maximum re-use of capabilities across the solution This paper will then address the key element of architecture and governance for the implementation of a Spatial Open Architecture; including: -Use of open standards allowing a plug and play architecture where products could be replaced as solution’s requirements evolves -Use of Open Source products reducing initial investment and strengthening the use of Open Standards -Decoupling business logic from the client tier and reducing dependencies on parts of the solution.
 
 # GeoNetwork & SEO
 
-Paul van Genuchten	GeoCat BV
+Paul van Genuchten,	GeoCat BV
 
 _An evaluation of Search Engine Optimisation in GeoNetwork and how to optimize the SEO via configuration._
 
@@ -215,7 +208,7 @@ In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The
 
 # Collecting data using QGIS and Input app
 
-Peter Wells	Lutra Consulting
+Peter Wells,	Lutra Consulting
 
 _Using QGIS and Input app, users can go out (!!!) and collect data. Input app is a free and open source app based on QGIS with a simplified interface._
 
@@ -223,7 +216,7 @@ Data collection is a key part of most GIS workflows. We have created an open sou
 
 # Extracting OpenStreetMap data for region highlights compatible with OpenMapTiles
 
-Roman Karavia	Neue Zürcher Zeitung (NZZ)	
+Roman Karavia,	Neue Zürcher Zeitung (NZZ)	
 
 _Want to show Hubei Province (China) on an OpenMapTiles map? This talk shows how to extract region polygons for the entire planet from OpenStreetMap._
 
@@ -231,15 +224,15 @@ Mapbox Vector Tiles are an established standard to create web maps with custom s
 
 # Native support for vector tiles in QGIS
 
-Saber Razmjooei	Lutra Consulting	
+Saber Razmjooei,	Lutra Consulting	
 
 _With QGIS 3.14, we have introduced native support for vector tiles in QGIS. It allows users to load, render, style and generate vector tiles in QGIS._
 
-Earlier in 2020, we ran a crowdfunding campaign to add support for vector tile in QGIS: https://www.lutraconsulting.co.uk/crowdfunding/vectortile-qgis/
+Earlier in 2020, we ran a crowdfunding campaign to add support for vector tile in QGIS: https://www.lutraconsulting.co.uk/crowdfunding/vectortile-qgis/.
 
 # Mapping the World in 3D using Commodity Video and Photos
 
-Sean Gorman	Pixel8earth Inc.	
+Sean Gorman,	Pixel8earth Inc.	
 
 _Empower the community to create a high accuracy 3D point cloud of the world using commodity cameras and open data._
 
@@ -248,7 +241,7 @@ There is an increasing demand for 3D data to power augmented reality, autonomy a
 
 # Running an online FOSS4G - some reflections
 
-Steven Feldman	KnowWhere Consulting	
+Steven Feldman,	KnowWhere Consulting	
 
 _This is the first online FOSS4G event, how did we get here? What can we learn? What does the future hold?_
 
@@ -256,7 +249,7 @@ This is the first online FOSS4G event, how did we get here? What can we learn? W
 
 # Optimized publishing of map and dataservices with GeoServer, Gestyler, Geowebcache and MapProxy
 
-Till Adams	terrestris GmbH & Co KG	
+Till Adams,	terrestris GmbH & Co KG	
 
 _The talk presents one Open Source toolset for the set-up of geodata-services that consists of GeoServer/GeoWebcache, GeoStyler and MapProxy._
 
@@ -264,15 +257,15 @@ Just a few years ago, the very existence of geo-services based on a uniform API 
 
 # Big Earth Observation- and Geodata analysis with actinia and GRASS GIS
 
-Till Adams	mundialis GmbH & Co KG	
+Till Adams,	mundialis GmbH & Co KG	
 
-_We present a cloudbased technologx, that allows "big geodata analysis" in process chains, that make use of actinia and GRASS GIS._
+_We present a cloudbased technology, that allows "big geodata analysis" in process chains, that make use of actinia and GRASS GIS._
 
 Geo- and EO-data are more and more available, especially the growing Open Data policy of organisations fuels this process. With this awareness and demand for geo-based decision support increases. We want to present an implementation of the new paradigm of "bring processes to the data". In the talk we present how big geodata analysis process chains could be easily implemented in a cloud environment by using actinia and GRASS GIS (both OSGeo projects) for the process algorithms. The combination of both allows cloud optimized geodata processing triggered through simple API-calls. In the first part we show the architectural design and the interactions between actinia and GRASS GIS. In the 2nd part we present examples of process chains. These are - automated surface-type detection from orthophotos  - on-demand creation of cloud free Sentinel-2 scenes using temporal interpolation - gap-filling of high-resolution land surface temperature data from MODIS-satellite data.
 
 # Serverless PostGIS
 
-Tomas Holderness	Addresscloud	
+Tomas Holderness,	Addresscloud	
 
 _Learn how to create an on-demand pay-as-you-go PostGIS database with Amazon Aurora._
 
@@ -280,7 +273,7 @@ PostGIS, the leading relational spatial database, is now available to use with A
 
 # Thinking Strategically about (open) geospatial
 
-Will Cadell	Sparkgeo	
+Will Cadell,	Sparkgeo	
 
 _It's easy to build something because it's fun. But thinking strategically can turn a fun project into a million-dollar business, we should do that._
 
@@ -288,7 +281,7 @@ Geospatial people are really good at building geospatial things for geospatial p
 
 # OpenAQ: An open source platform to understand the world’s air quality
 
-Sruti Modekurty	OpenAQ	
+Sruti Modekurty,	OpenAQ	
 
 _OpenAQ uses the power of open air quality data and open source tools to convene and empower communities around the world to fight air pollution._
 
