@@ -2,4 +2,4 @@
 layout: default
 ---
 
-#Code of Conduct for FOSS4GUK Online
+# Code of Conduct for FOSS4GUK Online
