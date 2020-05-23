@@ -5,7 +5,7 @@ layout: default
 
 ## Finding the Streams
 
-The links and logins for each of the streams will be on the Eventbrite site - you will receive an email early in the morning pointing you to the stream links etc. 
+The links and logins for each of the streams will be on the Eventbrite site on the day of the event - you will receive an email early in the morning pointing you to the stream links etc. 
 
 **Please don't share the links with anyone else**, each stream has a fixed capacity (just like a conference room) and if you share the details other registered delegates may not be able to get into the room = bad karma.
 
