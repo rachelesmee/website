@@ -21,7 +21,7 @@ We have disabled the facility to chat with other attendees in the zoom app becau
 
 ## The Coffee Bar
 
-Throughout the day there will be a 4th stream called the Coffee Bar. When you arrive in the waiting room you will automatically be assigned to a "breakout room" with 3 or 4 other people. You don't know who you will meet and neither do we! Hopefully it will be fun. You can leave a "breakout room" and return tot the Coffee Bar waiting room to be assigned to another random group.
+Throughout the day there will be a 4th stream called the Coffee Bar. When you arrive in the waiting room you will automatically be assigned to a "breakout room" with 3 or 4 other people. You don't know who you will meet and neither do we! Hopefully it will be fun. You can leave a "breakout room" and return to the Coffee Bar waiting room to be assigned to another random group.
 
 ## The Back Channel
 
