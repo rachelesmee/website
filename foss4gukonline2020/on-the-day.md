@@ -11,11 +11,11 @@ The links and logins for each of the streams will be on the Eventbrite site on t
 
 When you select the link to a stream and enter the password you will be placed in a waiting room for a minute or two until the host opens the room and admits you.
 
-All delegates will be muted when they enter a room and the host will have the choice to unmute and mute dependent on the numbers in the room.
+All delegates will be muted when they enter a room and the host and co-host will have the choice to unmute and mute dependent on the numbers in the room.
 
 ## Asking Questions
 
-You can ask a question during a presentation by using the zoom chat facility (it will only allow you to send a message to the host and co-hosts), the host will select a few questions at the end of the talk and wil invite you to ask your question or if there are a lot of questions the host may amalgamate them and ask them on your behalf.
+You can ask a question during a presentation by using the zoom chat facility (it will only allow you to send a message to the host and co-host), the host will select a few questions at the end of the talk and will invite you to ask your question, or if there are a lot of questions the host may amalgamate them and ask them on your behalf.
 
 We have disabled the facility to chat with other attendees in the zoom app because it can get too noisy in big sessions.
 
@@ -41,4 +41,4 @@ We will be recording video of all sessions, your image could appear in some of t
 
 # Be Nice
 
-This is a first for us, we hope we have thought of everything and that the day runs smoothly. But if stuff goes wrong please be patient, we will get problems fixed as fast as we can and will provide updates via the Twitter channel.
+This is a first for us, we hope we have thought of everything and that the day runs smoothly. But if stuff goes wrong, please be patient, we will get problems fixed as fast as we can and will provide updates via the Twitter channel.
