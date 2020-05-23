@@ -35,10 +35,10 @@ Book mark the hashtag [#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUK
 
 If you need some help during the day we will have a couple of volunteers monitoring [#FOSS4GUKHelp](https://twitter.com/search?q=%23FOSS4GUKHelp&src=typed_query) and they will try to assist you.
 
-# Video
+## Video
 
 We will be recording video of all sessions, your image could appear in some of the video (or in screenshots that we may post to Twitter). If you do not want your image to appear you can switch off the video in your zoom client, you will still be able to watch the presenters and hear or speak.
 
-# Be Nice
+## Be Nice
 
 This is a first for us, we hope we have thought of everything and that the day runs smoothly. But if stuff goes wrong, please be patient, we will get problems fixed as fast as we can and will provide updates via the Twitter channel.
