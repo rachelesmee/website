@@ -8,7 +8,7 @@ layout: default
 
 Zoom is the video communication platform being used for FOSS4GUK Online 2020.
 
-These guidelines are meant as a tool to help presenters and attendees have an enjoyable event, and should be read alongside the general [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/), which applies to all platforms and communication mediums.
+These guidelines are meant as a tool to help presenters and attendees have an enjoyable event, and should be read alongside the general [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/){:target="_newpage"}, which applies to all platforms and communication mediums.
 
 
 ## Guidelines for Presenters
