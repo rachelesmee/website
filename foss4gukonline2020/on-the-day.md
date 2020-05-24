@@ -3,6 +3,8 @@ layout: default
 ---
 # On the Day
 
+# Delegates
+
 ## Finding the Streams
 
 The links and logins for each of the streams will be on the Eventbrite site on the day of the event - you will receive an email early in the morning pointing you to the stream links etc. 
@@ -39,6 +41,23 @@ If you need some help during the day we will have a couple of volunteers monitor
 
 We will be recording video of all sessions, your image could appear in some of the video (or in screenshots that we may post to Twitter). If you do not want your image to appear you can switch off the video in your zoom client, you will still be able to watch the presenters and hear or speak.
 
-## Be Nice
+# Presenters
+
+## General Guidelines for Presenters
+
+Familiarise yourself with the general Zoom support at https://support.zoom.us/hc/en-us?_ga=2.108582594.1173578146.1590246499-1331059216.1586446393. One of the conference committee will be in touch with you before the event to trial presenting and screen sharing.
+
+## Recommendations during your presentation:
+
+- Turn off system notifications to prevent any interference.
+- Make sure your phone (and others in the vicinity) are on silent
+- Close all sensitive documents and unrelated programs before sharing the screen
+  eg. Emails.
+- Test your presentation beforehand to make sure everything goes smoothly.
+- Keep your desktop clean. Make sure there is no offensive or/and distracting
+  background.
+
+
+# Be Nice
 
 This is a first for us, we hope we have thought of everything and that the day runs smoothly. But if stuff goes wrong, please be patient, we will get problems fixed as fast as we can and will provide updates via the Twitter channel.
