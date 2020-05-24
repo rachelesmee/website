@@ -32,7 +32,7 @@ The confererence is organised by the OSGeo:UK Committee:
 * [Steven Feldman](https://twitter.com/stevenfeldman)
 
 ## How
-We will be running the event on Zoom, and we encourage you to download the latest Zoom client for Linux, Windows, Mac, Android or iOS to participate. You do not need to sign up with Zoom to use the client to join our event. There is also an option to connect just using the zoom browser client with reduced functionality.
+We will be running the event on Zoom, and we encourage you to [download the latest Zoom client](https://zoom.us/download){:target="_newpage"} for Linux, Windows, Mac, Android or iOS to participate. You do not need to sign up with Zoom to use the client to join our event. There is also an option to connect just using the zoom browser client with reduced functionality.
 
 
 ## Tickets/Registration
