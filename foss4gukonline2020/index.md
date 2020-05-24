@@ -33,7 +33,10 @@ The confererence is organised by the OSGeo:UK Committee:
 
 
 ## Tickets/Registration
-To follow.
+
+Registration opens at 00:00 BST on 15th May and closes at 24:00 on 16th June (unless we are sold out before then).
+
+Register [here](https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388){:target="_newpage"}
 
 ## Cost
 The event will be free to attend but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
@@ -41,6 +44,10 @@ The event will be free to attend but on registration we will be strongly encoura
 * [OSGeo:UK](https://paypal.me/osgeouk)
 * [MapAction](https://mapaction.org/donate/)
 * A charity of your choice
+
+## On the Day
+
+[Some Practical Guidance for Delegates and Presenters](on-the-day)
 
 ## Code of Conduct
 Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct).
