@@ -4,11 +4,9 @@
 [OSGeo:UK](https://uk.osgeo.org/) are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
 ## Programme
-Submissions are now closed - we are working on the programme and will announce it as soon as we can - it will include technical talks, demos, user stories, and thought pieces.
+The full session listing is [here](sessions.html) - the detailed schedule will be published later this week. There are three parallel streams with specific themes, and all sessions will be recorded so you can catch up later if there are clashes between your favourite topics.
 
 <img src="images/curtis-macnewton-vVIwtmqsIuk-unsplash.jpg" width="300" height="250" alt="Photo by Curtis MacNewton on Unsplash" align="middle">
-
-The final programme will be published in late May - we're planning on some great keynotes too.
 
 ## Helping out
 We (the [OSGeo:UK committee](#who)) would appreciate any help you can provide, either before, during, or after the event - please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform) if you are able to chip in.
@@ -23,7 +21,6 @@ For regular updates follow us on [Twitter](https://twitter.com/foss4guk)/[#FOSS4
 Wherever in the world you are on June 17th... and on Zoom.
 
 <img src="images/tanya-nevidoma-ENYIbB4i5t0-unsplash.jpg" width="300" height="250" alt="Photo by Tanya Nevidoma on Unsplash" halign="center">
-<!--![alt text](images/tanya-nevidoma-ENYIbB4i5t0-unsplash.jpg  "Photo by Tanya Nevidoma on Unsplash" | width=250)-->
 
 ## Who
 The confererence is organised by the OSGeo:UK Committee:
@@ -34,14 +31,16 @@ The confererence is organised by the OSGeo:UK Committee:
 * [Matt Travis](https://twitter.com/yakus)
 * [Steven Feldman](https://twitter.com/stevenfeldman)
 
-## Talks/Workshops
-To follow.
 
 ## Tickets/Registration
 To follow.
 
 ## Cost
-The event will be free to attend - but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation to a charity that is appropriate to our challenging times.
+The event will be free to attend but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
+
+* [OSGeo:UK](https://paypal.me/osgeouk)
+* [MapAction](https://mapaction.org/donate/)
+* A charity of your choice
 
 ## Code of Conduct
 Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
