@@ -33,7 +33,7 @@ Our Twitter account is [@FOSS4GUK](https://twitter.com/foss4guk) where we will p
 
 Book mark the hashtag [#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUKOnline&src=typed_query) to follow the conversion between all of the attendees.
 
-### Help
+## Help
 
 If you need some help during the day we will have a couple of volunteers monitoring [#FOSS4GUKHelp](https://twitter.com/search?q=%23FOSS4GUKHelp&src=typed_query) and they will try to assist you.
 
