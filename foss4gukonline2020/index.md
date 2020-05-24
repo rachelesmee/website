@@ -43,7 +43,7 @@ The event will be free to attend but on registration we will be strongly encoura
 * A charity of your choice
 
 ## Code of Conduct
-Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [OSGeo Code of Conduct](http://www.osgeo.org/code_of_conduct).
+Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct).
 
 ## Contact
 [@FOSS4GUK](https://twitter.com/foss4guk) or [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
