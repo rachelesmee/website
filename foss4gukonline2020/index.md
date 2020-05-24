@@ -36,7 +36,7 @@ The confererence is organised by the OSGeo:UK Committee:
 
 Registration opens at 00:00 BST on 15th May and closes at 24:00 on 16th June (unless we are sold out before then).
 
-Register [here](https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388)
+Register [here](https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388){:target="_newpage"}
 
 ## Cost
 The event will be free to attend but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
