@@ -1,5 +1,5 @@
 ## FOSS4G UK Online 2020
-<img src="images/FOSS4GUK-2020-Logo-v4-text-as-paths.svg" width="250" height="250" alt="Graphic by Rosalid Cuttle" align="middle">
+<img src="images/FOSS4GUK-2020-Logo-v4-text-as-paths.svg" width="300" height="300" alt="Graphic by Rosalid Cuttle" align="middle">
 
 [OSGeo:UK](https://uk.osgeo.org/) are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
@@ -31,10 +31,12 @@ The confererence is organised by the OSGeo:UK Committee:
 * [Matt Travis](https://twitter.com/yakus)
 * [Steven Feldman](https://twitter.com/stevenfeldman)
 
+## How
+We will be running the event on Zoom, and we encourage you to download the latest Zoom client for Linux, Windows, Mac, Android or iOS to participate. You do not need to sign up with Zoom to use the client to join our event. There is also an option to connect just using the zoom browser client with reduced functionality.
+
 
 ## Tickets/Registration
-
-Registration opens at 00:00 BST on 15th May and closes at 24:00 on 16th June (unless we are sold out before then).
+Registration opens at 00:00 BST on 25th May and closes at 24:00 on 16th June (unless we are sold out before then).
 
 Register [here](https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388){:target="_newpage"}
 
