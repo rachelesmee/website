@@ -45,7 +45,7 @@ We will be recording video of all sessions, your image could appear in some of t
 
 ## General Guidelines for Presenters
 
-Familiarise yourself with the general Zoom support at https://support.zoom.us/hc/en-us?_ga=2.108582594.1173578146.1590246499-1331059216.1586446393. One of the conference committee will be in touch with you before the event to trial presenting and screen sharing.
+Familiarise yourself with the general [Zoom support](https://support.zoom.us/hc/en-us?_ga=2.108582594.1173578146.1590246499-1331059216.1586446393). One of the conference committee will be in touch with you before the event to trial presenting and screen sharing.
 
 ## Recommendations during your presentation:
 
