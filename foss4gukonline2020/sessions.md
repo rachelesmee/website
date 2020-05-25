@@ -195,7 +195,7 @@ I will show how I teach my GIS short courses using QGIS, covering two different 
 
 # Managing Open Data with an Open Architecture (demo)
 
-Pascal Coulon,	Welsh Government / CGI
+Pascal Coulon, CGI, Tom Colley, Welsh Government
 
 _Delivering Open Data in Wales with the help of Open Source Geo._
 
@@ -203,7 +203,7 @@ The Welsh Government is responsible for the managment and publication of Open Da
 
 # GeoNetwork & SEO (presentation)
 
-Paul van Genuchten,	GeoCat BV
+Paul van Genuchten,	GeoCat BV, Jo Cook, Astun Technology 
 
 _An evaluation of Search Engine Optimisation in GeoNetwork and how to optimize the SEO via configuration._
 
