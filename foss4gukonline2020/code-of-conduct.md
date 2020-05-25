@@ -23,7 +23,7 @@ Online conferences must be moderated in the normal sense, from starting and stop
 
 The host and co-host are there to manage the technical and communications aspects of the sessions, and process, and to allow presenters to focus on their content - both presenters and attendees should channel issues and questions through them to help the sessions run smoothly
 
-The meeting host or co-host reserves the right to place bad actors or trolls Òon holdÓ, or Òin the waiting roomÓ. They will not be able to participate in the call until the hold is removed.
+The meeting host or co-host reserves the right to place bad actors or trolls 'on hold', or 'in the waiting room'. They will not be able to participate in the call until the hold is removed.
 
 If there are further instances of inappropriate behaviour (as defined by the OSGeo Code of Conduct) the participant will be removed from the presentation permanently. This prevents their return to any part of the event, on any device, so should not be used lightheartedly.
 
@@ -42,7 +42,7 @@ Presentations where a code of conduct violation is known to have occurred will b
 
 ## Guidelines for Attendees
 
-Please donÕt share the links with anyone else, each stream has a fixed capacity (just like a conference room) and if you share the details other registered delegates may not be able to get into the room = bad karma.
+Please don't share the links with anyone else, each stream has a fixed capacity (just like a conference room) and if you share the details other registered delegates may not be able to get into the room = bad karma.
 
 When you select the link to a stream and enter the password you will be placed in a waiting room for a minute or two until the host opens the room and admits you.
 
