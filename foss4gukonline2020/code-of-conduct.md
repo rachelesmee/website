@@ -27,16 +27,16 @@ The meeting host or co-host reserves the right to place bad actors or trolls 'on
 
 If there are further instances of inappropriate behaviour (as defined by the OSGeo Code of Conduct) the participant will be removed from the presentation permanently. This prevents their return to any part of the event, on any device, so should not be used lightheartedly.
 
-The meeting host or co-host, or OSGeo:UK conference organising committee reserves the right to Òlock the meetingÓ completely, which prevents any new attendees accessing the event. They also have the right to end the event completely if there are continued episodes of contravention of the Code of Conduct by multiple individuals.
+The meeting host or co-host, or OSGeo:UK conference organising committee reserves the right to 'lock the meeting' completely, which prevents any new attendees accessing the event. They also have the right to end the event completely if there are continued episodes of contravention of the Code of Conduct by multiple individuals.
 
 ### Escalating and/Reporting a Problem
 
-Issues that cannot be handled by the presentation host and co-host should be escalated to the OSGeo:UK conference committee by emailing [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
+Issues that cannot be handled by the presentation host and co-host should be escalated to the OSGeo:UK conference committee by [e-mail](mailto:foss4guk.osgeouk@gmail.com).
 
 
 ### Meeting recordings
 
-All presentations will be recorded and uploaded to the OSGeo:UK YouTube channel for public viewing. This is done on an opt-out basis. If you do not wish for your presentation to be recorded, or after the presentation donÕt wish for the recording to be uploaded to YouTube, then you must explicitly contact the OSGeo:UK conference committee by XXX.
+All presentations will be recorded and uploaded to the OSGeo:UK YouTube channel for public viewing. This is done on an opt-out basis. If you do not wish for your presentation to be recorded, or after the presentation donÕt wish for the recording to be uploaded to YouTube, then you must explicitly contact the OSGeo:UK conference committee by [e-mail](mailto:foss4guk.osgeouk@gmail.com).
 
 Presentations where a code of conduct violation is known to have occurred will be treated separately and a joint decision between the presenter, co-host, and the conference organising committee will be made as to whether the recording should be made available.
 
