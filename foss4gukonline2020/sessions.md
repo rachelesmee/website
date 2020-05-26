@@ -33,14 +33,6 @@ _This demo will showcase SLYR, an ArcGIS to QGIS toolkit from North Road, and it
 
 SLYR is a QGIS plugin which has been developed by North Road Software to provide a route for the conversion of ArcGIS artefacts for use in QGIS. While the process is not yet 100 % faithful to the original, it’s improving with regular releases. As well as a drag and drop facility for e.g. MSDs and layer files, the plugin also installs a set of tools in the Processing Toolbox which can be used independently and incoporated into processing models.  The context for the demo will be MapAction’s use of SLYR to support interoperability between its work with Arc (mainly used in emergency missions) and QGIS (used in training and capacity building), and in particular to allow Arc products created in humanitarian response missions to be converted to QGIS for handover at the end of the mission to partners who are QGIS users.  While the plugin has not yet been released as open source, North Road plan to do so once a specific funding threshold for development has been reached, with a six month delay. 
 
-#	OGC APIs and the evolution of OGC standards - an update (presentation)
-
-Athina Trakas,	OGC
-
-_State-of-play of the OGC API development. The work has been progressing, to develop various OGC API standards that support a variety of resources._
-
-API technologies are in focus of standardization discussions within the geospatial community. Discussions and initiatives in the OGC reached a milestone in 2018: the release of the first of the OGC API standards. Since then work has been progressing to develop additional OGC API standards supporting a variety of resources.  OGC members & staff investigated the potential value that OpenAPI could offer to geospatial services. Existing web service standards were effectively web APIs, modernizing their means of getting content to the web required a fairly fundamental change in the underlying design. The first OGC API standard approved & published was Part 1 of the OGC API – Features standard.  The pattern “OGC API [resource]” was coined and led to initiatives to define and test draft OGC APIs for Coverages, Maps, Tiles, Styles & Processes. Outputs will support the evolution of a solid, common core and the advancement of a new generation of OGC standards leveraging modern Web API approaches
-
 # My Thirty Years of Spatial Disease Modelling (presentation)
 
 Barry Rowlingson,	Lancaster University	
@@ -104,6 +96,14 @@ Emily Selwood,	Satellite Applications Catapult Limited
 _The humble tiff file is used for storing raster data, this talk will take a dive into the internal structure of the format._
 
 The humble tiff file is used for storing raster data, when creating them there are many options, it can be difficult to know exactly what options mean and what the implications of them. This talk will dive into the internals of the file format, explaining the overall structure and the historical reasons for some of the options. Then we will go deeper into the bits and bytes and why things are laid out the way they are.  This talk will make use of the tiffhax project to explain things (https://github.com/emilyselwood/tiffhax).
+
+# OGC APIs and the evolution of OGC standards - an update (presentation)
+
+Gobe Hobona,	OGC
+
+_State-of-play of the OGC API development. The work has been progressing, to develop various OGC API standards that support a variety of resources._
+
+API technologies are in focus of standardization discussions within the geospatial community. Discussions and initiatives in the OGC reached a milestone in 2018: the release of the first of the OGC API standards. Since then work has been progressing to develop additional OGC API standards supporting a variety of resources.  OGC members & staff investigated the potential value that OpenAPI could offer to geospatial services. Existing web service standards were effectively web APIs, modernizing their means of getting content to the web required a fairly fundamental change in the underlying design. The first OGC API standard approved & published was Part 1 of the OGC API – Features standard.  The pattern “OGC API [resource]” was coined and led to initiatives to define and test draft OGC APIs for Coverages, Maps, Tiles, Styles & Processes. Outputs will support the evolution of a solid, common core and the advancement of a new generation of OGC standards leveraging modern Web API approaches
 
 # What every GIS user should know about projections (presentation)
 
