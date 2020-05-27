@@ -8,6 +8,18 @@ The full session listing is [here](sessions.html) - the detailed schedule will b
 
 <img src="images/curtis-macnewton-vVIwtmqsIuk-unsplash.jpg" width="300" height="250" alt="Photo by Curtis MacNewton on Unsplash" align="middle">
 
+## Tickets/Registration
+Registration is open now, and closes at 24:00 on 16th June (unless we are sold out before then).
+
+Register [on Eventbrite here](https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388){:target="_newpage"}.
+
+## Cost
+The event is free to attend but we strongly encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
+
+* [OSGeo:UK](https://paypal.me/osgeouk)
+* [MapAction](https://mapaction.org/donate/)
+* A charity of your choice
+
 ## Helping out
 We (the [OSGeo:UK committee](#who)) would appreciate any help you can provide, either before, during, or after the event - please sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSe6pVdrMBN4BYw6pEfjPXD8z_oRMZWxQ-tvsh2mrwTcn8aP8Q/viewform) if you are able to chip in.
 
@@ -34,21 +46,7 @@ The confererence is organised by the OSGeo:UK Committee:
 ## How
 We will be running the event on Zoom, and we encourage you to [download the latest Zoom client](https://zoom.us/download){:target="_newpage"} for Linux, Windows, Mac, Android or iOS to participate. You do not need to sign up with Zoom to use the client to join our event. There is also an option to connect just using the zoom browser client with reduced functionality.
 
-
-## Tickets/Registration
-Registration opens at 00:00 BST on 25th May and closes at 24:00 on 16th June (unless we are sold out before then).
-
-Register [here](https://www.eventbrite.co.uk/e/foss4guk-2020-online-registration-105523419388){:target="_newpage"}
-
-## Cost
-The event will be free to attend but on registration we will be strongly encouraging attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
-
-* [OSGeo:UK](https://paypal.me/osgeouk)
-* [MapAction](https://mapaction.org/donate/)
-* A charity of your choice
-
 ## On the Day
-
 [Some Practical Guidance for Delegates and Presenters](on-the-day)
 
 ## Code of Conduct
