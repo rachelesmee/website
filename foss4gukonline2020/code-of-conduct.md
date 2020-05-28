@@ -36,7 +36,7 @@ Issues that cannot be handled by the presentation host and co-host should be esc
 
 ### Meeting recordings
 
-All presentations will be recorded and uploaded to the OSGeo:UK YouTube channel for public viewing. This is done on an opt-out basis. If you do not wish for your presentation to be recorded, or after the presentation donÕt wish for the recording to be uploaded to YouTube, then you must explicitly contact the OSGeo:UK conference committee by [e-mail](mailto:foss4guk.osgeouk@gmail.com).
+All presentations will be recorded and uploaded to the OSGeo:UK YouTube channel for public viewing. This is done on an opt-out basis. If you do not wish for your presentation to be recorded, or after the presentation don't wish for the recording to be uploaded to YouTube, then you must explicitly contact the OSGeo:UK conference committee by [e-mail](mailto:foss4guk.osgeouk@gmail.com).
 
 Presentations where a code of conduct violation is known to have occurred will be treated separately and a joint decision between the presenter, co-host, and the conference organising committee will be made as to whether the recording should be made available.
 
