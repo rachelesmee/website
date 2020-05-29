@@ -1,7 +1,6 @@
-The programme below is divided into five themes, running in three paralllel streams. If you have registered, you will be sent links for all streams, and you can jump in an out as you wish.
+The programme is divided into seven themes, running in three parallel streams. If you have registered, you will in due course be sent links for all streams, and you can jump in an out as you wish. _The programme may still change - so please check nearer the time for any updates_.
 
-The themes are as follows:
-
+The themes are:
 * 🗃️ Metadata: Discussing the data about data
 * 🏛️ Platform: Infrastructure associated with data and analytics
 * 🗺️ Mapping: Core GIS stuff about space and place
