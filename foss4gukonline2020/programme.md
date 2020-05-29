@@ -11,6 +11,8 @@ The themes are:
 
 Note that to trigger recording, each stream will be briefly turned on and off between talks, so if you unable to get in at any point, please keep trying.
 
+*All times are London (BST).*
+
 | Time  | Stream 1  | Stream 2  | Stream 3 &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | ------------- |----------| -------------| -------------|
 | 09:00	09:25 | Jo Cook, OSGeo Introduction || |
