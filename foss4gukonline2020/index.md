@@ -4,7 +4,9 @@
 [OSGeo:UK](https://uk.osgeo.org/) are running a one day online FOSS4G event on 17th June 2020. This will give us all a little FOSS4G fix in this strange time, and make a small contribution to the big holes left by the cancellation of IRL FOSS4G events. We'll share some of the work we’ve been doing since the world changed, and maybe pave the way for more online events in future.
 
 ## Programme
-The full session listing is [here](sessions.html) - the detailed schedule will be published later this week. There are three parallel streams with specific themes, and all sessions will be recorded so you can catch up later if there are clashes between your favourite topics.
+The schedule for the day is [here](programme.html), and the full session listing of abstracts is [here](sessions.html). This is still subject to change, so keep an eye out for updates.
+
+There are three parallel streams of roughly 30 minutes sessions covering seven themes. All sessions will be recorded so you can catch up later if there are clashes between your favourite topics.
 
 <img src="images/curtis-macnewton-vVIwtmqsIuk-unsplash.jpg" width="300" height="250" alt="Photo by Curtis MacNewton on Unsplash" align="middle">
 
@@ -51,6 +53,9 @@ We will be running the event on Zoom, and we encourage you to [download the late
 
 ## Code of Conduct
 Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct).
+
+## Acknowledgements
+Rosalind Cuttle kindly designed our lovely lockdown logo for us - many thanks to her!
 
 ## Contact
 [@FOSS4GUK](https://twitter.com/foss4guk) or [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
