@@ -12,7 +12,7 @@ The themes are as follows:
 
 Note that to trigger recording, each stream will be briefly turned on and off between talks, so if you unable to get in at any point, please keep trying.
 
-| Time  | Stream 1  | Stream 2  | Stream 3 &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+| Time  | Stream 1  | Stream 2  | Stream 3 &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 | ------------- |----------| -------------| -------------|
 | 09:00	09:25 | Jo Cook, OSGeo Introduction || |
 | 09:30	10:00 |🗺️ Ant Scott [ArcGIS to QGIS in One Easy Lesson with SLYR](https://uk.osgeo.org/foss4gukonline2020/sessions.html#arcgis-to-qgis-in-one-easy-lesson-demo) |🌍 Emily Selwood, [The bloody guts of Tiff files (presentation)](https://uk.osgeo.org/foss4gukonline2020/sessions.html#the-bloody-guts-of-tiff-files-presentation)|🏛️ Pascal Coulon, [Managing Open Data with an Open Architecture](https://uk.osgeo.org/foss4gukonline2020/sessions.html#managing-open-data-with-an-open-architecture-demo)|
