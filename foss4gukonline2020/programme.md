@@ -13,7 +13,7 @@ Note that to trigger recording, each stream will be briefly turned on and off be
 
 *All times are London (BST).*
 
-| Time  | Stream 1  | Stream 2  | Stream 3  |
+| Time  | 🐦 Nightingale  | 🛰️ Sentinel  | ⛵ Mercator |
 | ------------- |----------| -------------| -------------|
 | 09:00	09:25 | Jo Cook, OSGeo Introduction || |
 | 09:30	10:00 |🗺️ Ant Scott [ArcGIS to QGIS in One Easy Lesson with SLYR](https://uk.osgeo.org/foss4gukonline2020/sessions.html#arcgis-to-qgis-in-one-easy-lesson-demo) |🌍 Emily Selwood, [The bloody guts of Tiff files](https://uk.osgeo.org/foss4gukonline2020/sessions.html#the-bloody-guts-of-tiff-files-presentation)|🏛️ Pascal Coulon, [Managing Open Data with an Open Architecture](https://uk.osgeo.org/foss4gukonline2020/sessions.html#managing-open-data-with-an-open-architecture-demo)|
