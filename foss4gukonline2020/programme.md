@@ -12,6 +12,8 @@ The themes are:
 
 Note that to trigger recording, each stream will be briefly turned on and off between talks, so if you unable to get in at any point, please keep trying.
 
+The detailed session listing is [here](https://uk.osgeo.org/foss4gukonline2020/sessions.html).
+
 *All times are London (BST).*
 
 | Time  | 🐦 Nightingale  | 🛰️ Sentinel  | ⛵ Mercator |
