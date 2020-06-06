@@ -28,7 +28,7 @@ Andrew Cutts, freelancer: 🐦 ⚡ 12:50
 
 _Finding Earth Observation code is hard. awesome-earthobservation-code attempts to address this. It has over 270+ resources in one place._
 
-Earth Observation is one of the fastest growing areas of Geospatial today. Yet finding information about Earth Observation code (or even available commerical satellites) is harder than it should be. awesome-earthobservation-code attempts to address this. Built after a lunchtime scenefromabove discussion it currently has over 270+ resources in one place. I will set out some of the key information problems facing Earth Observation today and how awesome-earthobservation-code is a small step into building a bigger more vibrant community of collaborators.  https://github.com/acgeospatial/awesome-earthobservation-code 
+Earth Observation is one of the fastest growing areas of Geospatial today. Yet finding information about Earth Observation code (or even available commerical satellites) is harder than it should be. awesome-earthobservation-code attempts to address this. Built after a lunchtime scenefromabove discussion it currently has over 270+ resources in one place. I will set out some of the key information problems facing Earth Observation today and how awesome-earthobservation-code is a small step into building a bigger more vibrant community of collaborators.  [https://github.com/acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code). 
 
 # ArcGIS to QGIS in One Easy Lesson (demo)
 
@@ -52,7 +52,7 @@ Cristina Andra Vrînceanu,	geo-spatial.org: ⛵ 14:50
 
 _Geo-spatial.org’s Covid-19 app, built entirely on FOSS, delivers correct, complete and updated official information on the virus spread in Romania._
 
-Our platform contains several maps and graphs depicting the different dimensions of the pandemic in Romania, ranging from confirmed cases/deaths/healed patients and related statistics, to hospital infrastructure, quarantine zones to pollution/mobility indexes, as well as other impact indicators of this epidemic in our country. Unfortunately, the Romanian authorities have failed in communicating the evolution of the COVID-19, resulting in numerous glitches in different reports. Thus, we have been volunteering our time to collect detailed information from the local/national media, compare it to the official reporting, sort it and deliver it in a structured manner. The application is built using Node.js, PostgreSQL+PostGIS, R on the backend and OpenLayers, Angular, charts.js, Plotly and D3.js for the frontend. The source code is on GitHub [https://github.com/geospatialorg/covid19], MIT licensed. The infrastructure is supported by Sage Group [http://www.sage.ieat.ro/] on AWS and by Carto.
+Our platform contains several maps and graphs depicting the different dimensions of the pandemic in Romania, ranging from confirmed cases/deaths/healed patients and related statistics, to hospital infrastructure, quarantine zones to pollution/mobility indexes, as well as other impact indicators of this epidemic in our country. Unfortunately, the Romanian authorities have failed in communicating the evolution of the COVID-19, resulting in numerous glitches in different reports. Thus, we have been volunteering our time to collect detailed information from the local/national media, compare it to the official reporting, sort it and deliver it in a structured manner. The application is built using Node.js, PostgreSQL+PostGIS, R on the backend and OpenLayers, Angular, charts.js, Plotly and D3.js for the frontend. The source code is on GitHub [https://github.com/geospatialorg/covid19](https://github.com/geospatialorg/covid19), MIT licensed. The infrastructure is supported by Sage Group [http://www.sage.ieat.ro/](http://www.sage.ieat.ro/) on AWS and by Carto.
 
 # Women in Geospatial+ - Changing the status-quo by creating a strong network of Women in Geospatial+ leaders and changemakers (presentation)
 
@@ -76,7 +76,7 @@ Denise McKenzie,	Benchmark Initiative, Geovation: 🛰️ 16:10
 
 _The Locus Charter is an international set of principles and guidance for ethical and good practice in using location data._
 
-In 2019 the Omidyar Network funded 2 programmes of work looking at ethical implications of using location data - Benchmark Initiative in the UK and EthicalGEO in the USA. Since then the world has seen an unprecedented situation arise with the spread of COVID-19 across most countries in the world. Location data has been at the fore of understand, predicting and trying to manage the outbreak. A key topic that has arisen during this has been the question "what constitutes ethical use of location data?" This is being openly debated particularly in the use of contact tracing apps that are being developed by many governments across the world. The Locus Charter is a collaboration between the teams a Benchmark and EthicalGEO to develop an agreed set of international principles to help guide practitioners towards the ethical and responsible use of location data in their projects. The program will be reaching its public consultation phase in June.   www.benchmarkinitiative.com www.ethicalgeo.org
+In 2019 the Omidyar Network funded 2 programmes of work looking at ethical implications of using location data - Benchmark Initiative in the UK and EthicalGEO in the USA. Since then the world has seen an unprecedented situation arise with the spread of COVID-19 across most countries in the world. Location data has been at the fore of understand, predicting and trying to manage the outbreak. A key topic that has arisen during this has been the question "what constitutes ethical use of location data?" This is being openly debated particularly in the use of contact tracing apps that are being developed by many governments across the world. The Locus Charter is a collaboration between the teams a Benchmark and EthicalGEO to develop an agreed set of international principles to help guide practitioners towards the ethical and responsible use of location data in their projects. The program will be reaching its public consultation phase in June.   [www.benchmarkinitiative.com]() [www.ethicalgeo.org]()
 
 # Stay home and innovate: redesigning an Earth Observation-fuelled accelerator supporting SMEs and start-ups (lightning talk)
 
@@ -100,7 +100,7 @@ Emily Selwood,	Satellite Applications Catapult Limited: 🛰️ 09:30
 
 _The humble tiff file is used for storing raster data, this talk will take a dive into the internal structure of the format._
 
-The humble tiff file is used for storing raster data, when creating them there are many options, it can be difficult to know exactly what options mean and what the implications of them. This talk will dive into the internals of the file format, explaining the overall structure and the historical reasons for some of the options. Then we will go deeper into the bits and bytes and why things are laid out the way they are.  This talk will make use of the tiffhax project to explain things (https://github.com/emilyselwood/tiffhax).
+The humble tiff file is used for storing raster data, when creating them there are many options, it can be difficult to know exactly what options mean and what the implications of them. This talk will dive into the internals of the file format, explaining the overall structure and the historical reasons for some of the options. Then we will go deeper into the bits and bytes and why things are laid out the way they are.  This talk will make use of the tiffhax project to explain things [https://github.com/emilyselwood/tiffhax](https://github.com/emilyselwood/tiffhax).
 
 # OGC APIs and the evolution of OGC standards - an update (presentation)
 
@@ -132,7 +132,7 @@ Jáchym Čepický,	OpenGeoLabs: ⛵ 10:10
 
 _Gisquick is an open source geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries._
 
-Gisquick is an open source (GNU/GPL) geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries. We are going to demonstrate it's new features, like vector data editing, setting of user access rights to each layer and direct on-the-fly publishing of projects form QGIS Desktop to Gisquick server.   See more at http://gisquick.org or try your own demo at https://projects.gisquick.org.
+Gisquick is an open source (GNU/GPL) geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries. We are going to demonstrate it's new features, like vector data editing, setting of user access rights to each layer and direct on-the-fly publishing of projects form QGIS Desktop to Gisquick server.   See more at [http://gisquick.org](http://gisquick.org) or try your own demo at [https://projects.gisquick.org](https://projects.gisquick.org).
 
 # Solving Geospatial Problems with JavaScript (presentation)
 
@@ -196,7 +196,7 @@ Nick Bearman,	Geospatial Training Solutions / UCL: 🛰️ 11:30
 
 _Teaching short courses using QGIS. I will cover the QGIS Certification Programme and discuss how I hosted QGIS in Amazon WorkSpaces._
 
-I will show how I teach my GIS short courses using QGIS, covering two different areas.  I will cover the QGIS Certification Programme (https://changelog.qgis.org/en/qgis/about/) and how this funds QGIS. I will also discuss how the scheme is promoted to clients/users, and the mechanism of creating certificates for course attendees. I will also discuss how I hosted QGIS in Amazon WorkSpaces on a recent course, where some of the participants couldn't install QGIS locally onto their own laptop because they didn't have admin rights. I will also discuss other options, such as OSGeoLive. 
+I will show how I teach my GIS short courses using QGIS, covering two different areas.  I will cover the QGIS Certification Programme [https://changelog.qgis.org/en/qgis/about/](https://changelog.qgis.org/en/qgis/about/) and how this funds QGIS. I will also discuss how the scheme is promoted to clients/users, and the mechanism of creating certificates for course attendees. I will also discuss how I hosted QGIS in Amazon WorkSpaces on a recent course, where some of the participants couldn't install QGIS locally onto their own laptop because they didn't have admin rights. I will also discuss other options, such as OSGeoLive. 
 
 # Managing Open Data with an Open Architecture (demo)
 
@@ -212,7 +212,7 @@ Paul van Genuchten,	GeoCat BV, Jo Cook, Astun Technology: 🛰️ 15:30
 
 _An evaluation of Search Engine Optimisation in GeoNetwork and how to optimize the SEO via configuration._
 
-In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The group found that Search engines generate a substantial amount of their portal usage. For that reason they have developed a best practice document on Search Engine Optimisation (SEO) for (spatial) data portals https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf. In this presentation I present an evaluation of the standard GeoNetwork software against that best practice document and share some hints on how an administrator or data steward can optimize and monitor the SEO via configuration. I’ll also give an introduction to schema.org in GeoNetwork which feeds amongst others Google Dataset Search.
+In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The group found that Search engines generate a substantial amount of their portal usage. For that reason they have developed a best practice document on Search Engine Optimisation (SEO) for (spatial) data portals [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf). In this presentation I present an evaluation of the standard GeoNetwork software against that best practice document and share some hints on how an administrator or data steward can optimize and monitor the SEO via configuration. I’ll also give an introduction to schema.org in GeoNetwork which feeds amongst others Google Dataset Search.
 
 # Collecting data using QGIS and Input app (demo)
 
