@@ -1,9 +1,14 @@
-_This is the provisional listing of sessions (in alpha order by lead presenter) for FOSS4G UK Online 2020 - the full programme will be released soon. In the meantime the listings below are subject to change over the coming weeks._
+_This is the listing of sessions (in alpha order by lead presenter) for FOSS4G UK Online 2020. Check the programme on the day for any last-minute changes - the schedule is [here](https://uk.osgeo.org/foss4gukonline2020/programme.html)._
+
+Times and rooms are listed against each presenter (for lightning talks, the time indicated is the session, not individual presenter):
+* 🐦 Nightingale
+* 🛰️ Sentinel
+* ⛵ Mercator
 
 
 # Improving severe-weather resilience for Mongolian and Kyrgyz herding communities using earth observation imagery (presentation)
 
-Alison Hopkin, Deimos Space UK	
+Alison Hopkin, Deimos Space UK: 🐦 14:10	
 
 _SIBELIUs uses an Open Data Cube to provide improved pasture monitoring capabilities in Mongolia and Kyrgyzstan to support their herding communities._
 
@@ -11,7 +16,7 @@ SIBELIUs uses Open Data Cube (ODC) technology to provide improved pasture monito
 
 # GeoServer 2.17 Updates!	(presentation)
 
-Andrea Aime, Jody Garnett,	GeoServer Project Steering Committee
+Andrea Aime, Jody Garnett,	GeoServer Project Steering Committee: ⛵ 16:50
 
 _What is new with GeoServer 2.17!_ 
 
@@ -19,7 +24,7 @@ A cheerful tour of new extensions, the latest research and development, improved
 
 # awesome-earthobservation-code (lightning talk)
 
-Andrew Cutts, freelancer
+Andrew Cutts, freelancer: 🐦 ⚡ 12:50
 
 _Finding Earth Observation code is hard. awesome-earthobservation-code attempts to address this. It has over 270+ resources in one place._
 
@@ -27,7 +32,7 @@ Earth Observation is one of the fastest growing areas of Geospatial today. Yet f
 
 # ArcGIS to QGIS in One Easy Lesson (demo)
 
-Ant Scott, MapAction	
+Ant Scott, MapAction: 🐦 09:30
 
 _This demo will showcase SLYR, an ArcGIS to QGIS toolkit from North Road, and its use by MapAction to support interoperability and partnership._
 
@@ -35,7 +40,7 @@ SLYR is a QGIS plugin which has been developed by North Road Software to provide
 
 # My Thirty Years of Spatial Disease Modelling (presentation)
 
-Barry Rowlingson,	Lancaster University	
+Barry Rowlingson,	Lancaster University: 🛰️ 12:50	
 
 _A review of "Open" in spatial epidemiology over the past thirty years._
 
@@ -43,7 +48,7 @@ Nearly thirty years ago I quit my Physics PhD and began to drag GIS, statistics 
 
 # Using FOSS4G to track COVID-19 in Romania (demo)
 
-Cristina Andra Vrînceanu,	geo-spatial.org
+Cristina Andra Vrînceanu,	geo-spatial.org: ⛵ 14:50
 
 _Geo-spatial.org’s Covid-19 app, built entirely on FOSS, delivers correct, complete and updated official information on the virus spread in Romania._
 
@@ -51,7 +56,7 @@ Our platform contains several maps and graphs depicting the different dimensions
 
 # Women in Geospatial+ - Changing the status-quo by creating a strong network of Women in Geospatial+ leaders and changemakers (presentation)
 
-Cristina Vrînceanu, Julia Wagemann,	Women in Geospatial +
+Cristina Vrînceanu, Julia Wagemann,	Women in Geospatial +: 🐦 16:10
 
 _Women in Geospatial+ is a professional network promoting gender-equality and diversity in geospatial field, aimed at women and other minority genders._
 
@@ -59,7 +64,7 @@ Women in Geospatial+ started in March 2019 and grew into a vibrant and active co
 
 # Don’t Lose Your Way!  Crowd sourcing the nation's forgotten paths (presentation)
 
-Dan Ormsby, Jack Cornish, Matt Walker,	The Ramblers & Astun Technology
+Dan Ormsby, Jack Cornish, Matt Walker,	The Ramblers & Astun Technology: ⛵ 12:50
 
 _Walking charity the Ramblers, crowd sourced every lost historic path in England and Wales in just 6 weeks.  We’ll look back at how, why and what next!_
 
@@ -67,7 +72,7 @@ In February and March 2020, every lost historic path in England and Wales was ma
 
 # Locus Charter - Helping to use location data ethically and responsibly (presentation)
 
-Denise McKenzie,	Benchmark Initiative, Geovation
+Denise McKenzie,	Benchmark Initiative, Geovation: 🛰️ 16:10
 
 _The Locus Charter is an international set of principles and guidance for ethical and good practice in using location data._
 
@@ -75,7 +80,7 @@ In 2019 the Omidyar Network funded 2 programmes of work looking at ethical impli
 
 # Stay home and innovate: redesigning an Earth Observation-fuelled accelerator supporting SMEs and start-ups (lightning talk)
 
-Dimitrios Papadakis,	Evenflow SPRL
+Dimitrios Papadakis,	Evenflow SPRL: 🐦 ⚡ 12:50
 
 _The PARSEC Accelerator, distributing €2.5 Million to SMEs and start-ups, enabled innovation from the safety of home as a response to the COVID-19._
 
@@ -83,7 +88,7 @@ The PARSEC Accelerator, which will distribute €2.5 Million in equity-free fund
 
 # Using FOSS to develop a spatial and temporal visualisation of COVID-19 data (lightning talk)
 
-Eddie Boyle,	University of Edinburgh	
+Eddie Boyle,	University of Edinburgh: 🐦 ⚡ 12:50
 
 _A visualisation of the spatial and temporal distribution of the 2020 COVID-19 pandemic using open technologies and resources._
 
@@ -91,7 +96,7 @@ There are many visualisations on all media platforms of datasets relating to the
 
 # The bloody guts of Tiff files (presentation)
 
-Emily Selwood,	Satellite Applications Catapult Limited
+Emily Selwood,	Satellite Applications Catapult Limited: 🛰️ 09:30
 
 _The humble tiff file is used for storing raster data, this talk will take a dive into the internal structure of the format._
 
@@ -99,7 +104,7 @@ The humble tiff file is used for storing raster data, when creating them there a
 
 # OGC APIs and the evolution of OGC standards - an update (presentation)
 
-Gobe Hobona,	OGC
+Gobe Hobona,	OGC: 🛰️ 12:10
 
 _State-of-play of the OGC API development. The work has been progressing, to develop various OGC API standards that support a variety of resources._
 
@@ -107,7 +112,7 @@ API technologies are in focus of standardization discussions within the geospati
 
 # What every GIS user should know about projections (presentation)
 
-Ian Turton,	Astun Technology
+Ian Turton,	Astun Technology: 🐦 11:30
 
 _A frequent query raised by newcomers to QGIS is "Why don't my layers line up?"._
 
@@ -115,7 +120,7 @@ A frequent query raised by new comers to QGIS (and other GIS systems) is "Why do
 
 # Multispectral WebGL (demo)
 
-Iván Sánchez Ortega
+Iván Sánchez Ortega: 🛰️ 10:10
 
 _How graphics tech (WebGL, texture formats and shaders) and multispectral imagery (GeoTIFFs with multiple bands or samples) are a perfect match._
 
@@ -123,7 +128,7 @@ An overview on the work done in Leaflet.TileLayer.GL (and its OpenLayers port) t
 
 # Gisquick demo presentation (demo)
 
-Jáchym Čepický,	OpenGeoLabs
+Jáchym Čepický,	OpenGeoLabs: ⛵ 10:10
 
 _Gisquick is an open source geospatial data publishing platform, developed around QGIS Server, Django and Vue.js libraries._
 
@@ -131,7 +136,7 @@ Gisquick is an open source (GNU/GPL) geospatial data publishing platform, develo
 
 # Solving Geospatial Problems with JavaScript (presentation)
 
-James Milner,	Dent Reality
+James Milner,	Dent Reality: 🐦 10:10
 
 _A overview of solving common geometry problems in JavaScript with tools like Turf.js and JSTS._
 
@@ -139,7 +144,7 @@ We deal with points, lines and polygons all day. Making them bend to our will ca
 
 # Labelling cans on a production line: automating metadata creation (demo)
 
-Jo Cook,	Astun Technology
+Jo Cook,	Astun Technology: 🛰️ 14:50
 
 _A demo of new tools for automatically creating metadata from spatial files or databases._
 
@@ -147,7 +152,7 @@ Feeling overwhelmed by the thought of creating and maintaining metadata on your 
 
 # Processing Large Geospatial Datasets on the Cloud, using FOSS (presentation)
 
-Joana Simoes,	EarthPulse
+Joana Simoes,	EarthPulse: ⛵ 11:30
 
 _Learn how we tackled the tech challenges involved in processing a large volume of noisy, geospatial data, using FOSS and cloud computing._
 
@@ -155,7 +160,7 @@ Large volumes of geotagged network data, are generated everyday using sensor dev
 
 # GeoServer Orientation (presentation)
 
-Jody Garnett,	GeoCat
+Jody Garnett,	GeoCat: ⛵ 15:30
 
 _Welcome to GeoServer, a popular web service for publishing your geospatial data using industry standards for vector, raster and mapping._
 
@@ -163,7 +168,7 @@ Welcome to GeoServer, a popular web service for publishing your geospatial data 
 
 # GeoNetwork Orientation (presentation)
 
-Jody Garnett,	GeoCat
+Jody Garnett,	GeoCat: 🛰️ 14:10
 
 _Welcome to GeoNetwork, a leading web service for keeping track of spatial information used by your organization._
 
@@ -171,7 +176,7 @@ Welcome to GeoNetwork, a leading web service for keeping track of the spatial in
 
 # Delivering a digital register of common land in Wales with the help of Open Source Geo (demo)
 
-Kathryn Ratcliffe,	CGI
+Kathryn Ratcliffe,	CGI: ⛵ 14:10
 
 _The project showcases the benefits of enhancing commercial technologies and products with those available in the open source geo community._
 
@@ -179,7 +184,7 @@ The Electronic Register of Common Land and Towns and Village Greens in Wales ena
 
 # Working with big spatial data workflows (or, what would John Snow do?) (keynote)
 
-María Arias de Reyna Domínguez,	Red Hat
+María Arias de Reyna Domínguez,	Red Hat: 🐦 🔑 12:30
 
 _In situations where we have to handle big spatial data, I wonder: What would John Snow do? He would like us to use the proper FOSS4G tools._
 
@@ -187,7 +192,7 @@ Most of our software is fueled by data. But when we deal with big spatial data, 
 
 # Teaching QGIS: Certification and Running QGIS in the Cloud (presentation)
 
-Nick Bearman,	Geospatial Training Solutions / UCL
+Nick Bearman,	Geospatial Training Solutions / UCL: 🛰️ 11:30
 
 _Teaching short courses using QGIS. I will cover the QGIS Certification Programme and discuss how I hosted QGIS in Amazon WorkSpaces._
 
@@ -195,7 +200,7 @@ I will show how I teach my GIS short courses using QGIS, covering two different 
 
 # Managing Open Data with an Open Architecture (demo)
 
-Pascal Coulon, CGI, Tom Colley, Welsh Government
+Pascal Coulon, CGI, Tom Colley, Welsh Government: ⛵ 09:30
 
 _Delivering Open Data in Wales with the help of Open Source Geo._
 
@@ -203,7 +208,7 @@ The Welsh Government is responsible for the managment and publication of Open Da
 
 # GeoNetwork & SEO (presentation)
 
-Paul van Genuchten,	GeoCat BV, Jo Cook, Astun Technology 
+Paul van Genuchten,	GeoCat BV, Jo Cook, Astun Technology: 🛰️ 15:30
 
 _An evaluation of Search Engine Optimisation in GeoNetwork and how to optimize the SEO via configuration._
 
@@ -211,7 +216,7 @@ In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The
 
 # Collecting data using QGIS and Input app (demo)
 
-Peter Wells,	Lutra Consulting
+Peter Wells,	Lutra Consulting: ⛵ 12:10
 
 _Using QGIS and Input app, users can go out (!!!) and collect data. Input app is a free and open source app based on QGIS with a simplified interface._
 
@@ -219,7 +224,7 @@ Data collection is a key part of most GIS workflows. We have created an open sou
 
 # Extracting OpenStreetMap data for region highlights compatible with OpenMapTiles (presentation)
 
-Roman Karavia,	Neue Zürcher Zeitung (NZZ)	
+Roman Karavia,	Neue Zürcher Zeitung (NZZ): 🐦 10:50
 
 _Want to show Hubei Province (China) on an OpenMapTiles map? This talk shows how to extract region polygons for the entire planet from OpenStreetMap._
 
@@ -227,7 +232,7 @@ Mapbox Vector Tiles are an established standard to create web maps with custom s
 
 # Native support for vector tiles in QGIS (presentation)
 
-Saber Razmjooei,	Lutra Consulting	
+Saber Razmjooei,	Lutra Consulting: 🐦 12:10
 
 _With QGIS 3.14, we have introduced native support for vector tiles in QGIS. It allows users to load, render, style and generate vector tiles in QGIS._
 
@@ -235,16 +240,23 @@ Earlier in 2020, we ran a crowdfunding campaign to add support for vector tile i
 
 # Mapping the World in 3D using Commodity Video and Photos (presentation)
 
-Sean Gorman,	Pixel8earth Inc.	
+Sean Gorman,	Pixel8earth Inc.: 🐦 14:50
 
 _Empower the community to create a high accuracy 3D point cloud of the world using commodity cameras and open data._
 
 There is an increasing demand for 3D data to power augmented reality, autonomy and gaming. Traditionally creating this data requires expensive specialty equipment like LiDAR, 3D scanners or sensor laden vehicles. Pixel8.earth is using a combination of computer vision and geomatics to achieve the same results using commodity photos and videos. The goal is to enable the community to use their existing cameras to crowdsource a a high accuracy 3D point cloud of the world.
 
+# OpenAQ: An open source platform to understand the world’s air quality (lightning talk)
+
+Sruti Modekurty,	OpenAQ: 🐦 ⚡ 12:50
+
+_OpenAQ uses the power of open air quality data and open source tools to convene and empower communities around the world to fight air pollution._
+
+The OpenAQ platform aggregates real-time and historical geospatial air quality data from all over the world, and is entirely open source. It has over 500 million data points from 93 countries and serves 33 million API requests per month. The data have been used for a wide variety of applications, from air quality forecasts produced by NASA scientists to data-driven media reports by the general public. By providing this foundational data infrastructure, OpenAQ is able to convene people and organizations from across the globe to further raise awareness and develop innovative solutions to combat air pollution. The talk will give a technical overview of the platform, highlighting a new averaging tool being developed on top of the platform to get pollutant averages across various spatial and temporal resolutions.
 
 # Running an online FOSS4G - some reflections (keynote)
 
-Steven Feldman,	KnowWhere Consulting	
+Steven Feldman,	KnowWhere Consulting: 🐦 🔑 16:50
 
 _This is the first online FOSS4G event, how did we get here? What can we learn? What does the future hold?_
 
@@ -252,7 +264,7 @@ This is the first online FOSS4G event, how did we get here? What can we learn? W
 
 # Optimized publishing of map and dataservices with GeoServer, GeoStyler, GeoWebCache and MapProxy (presentation)
 
-Till Adams,	terrestris GmbH & Co. KG
+Till Adams,	terrestris GmbH & Co. KG: ⛵ 16:10
 
 _The talk presents one Open Source toolset for the set-up of geodata-services that consists of GeoServer/GeoWebCache, GeoStyler and MapProxy._
 
@@ -260,7 +272,7 @@ Just a few years ago, the very existence of geo-services based on an uniform API
 
 # Big Earth Observation- and Geodata analysis with actinia and GRASS GIS (presentation)
 
-Till Adams,	mundialis GmbH & Co. KG
+Till Adams,	mundialis GmbH & Co. KG: 🛰️ 10:50
 
 _We present a cloudbased technology, that allows "big geodata analysis" in process chains, that make use of actinia and GRASS GIS._
 
@@ -268,7 +280,7 @@ Geo- and EO-data are more and more available, especially the growing Open Data p
 
 # Serverless PostGIS (demo)
 
-Tomas Holderness,	Addresscloud	
+Tomas Holderness,	Addresscloud: ⛵ 10:50
 
 _Learn how to create an on-demand pay-as-you-go PostGIS database with Amazon Aurora._
 
@@ -276,16 +288,8 @@ PostGIS, the leading relational spatial database, is now available to use with A
 
 # Thinking Strategically about (open) geospatial (presentation)
 
-Will Cadell,	Sparkgeo	
+Will Cadell,	Sparkgeo: 🐦 15:30
 
 _It's easy to build something because it's fun. But thinking strategically can turn a fun project into a million-dollar business, we should do that._
 
 Geospatial people are really good at building geospatial things for geospatial people. But if we think strategically about what we are doing and why then we can identify how to make a much bigger impact on our communities. This talk will dig into what thinking strategically about open geospatial technology means, and present some tools to help the participants think through their own projects.
-
-# OpenAQ: An open source platform to understand the world’s air quality (lightning talk)
-
-Sruti Modekurty,	OpenAQ	
-
-_OpenAQ uses the power of open air quality data and open source tools to convene and empower communities around the world to fight air pollution._
-
-The OpenAQ platform aggregates real-time and historical geospatial air quality data from all over the world, and is entirely open source. It has over 500 million data points from 93 countries and serves 33 million API requests per month. The data have been used for a wide variety of applications, from air quality forecasts produced by NASA scientists to data-driven media reports by the general public. By providing this foundational data infrastructure, OpenAQ is able to convene people and organizations from across the globe to further raise awareness and develop innovative solutions to combat air pollution. The talk will give a technical overview of the platform, highlighting a new averaging tool being developed on top of the platform to get pollutant averages across various spatial and temporal resolutions.
