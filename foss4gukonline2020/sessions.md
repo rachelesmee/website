@@ -48,7 +48,7 @@ Nearly thirty years ago I quit my Physics PhD and began to drag GIS, statistics 
 
 # Using FOSS4G to track COVID-19 in Romania (demo)
 
-Cristina Andra Vrînceanu,	geo-spatial.org: ⛵ 14:50
+Cristina Andra Vrînceanu,	geo-spatial.org: ⛵ 12:10
 
 _Geo-spatial.org’s Covid-19 app, built entirely on FOSS, delivers correct, complete and updated official information on the virus spread in Romania._
 
@@ -216,7 +216,7 @@ In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The
 
 # Collecting data using QGIS and Input app (demo)
 
-Peter Wells,	Lutra Consulting: ⛵ 12:10
+Peter Wells,	Lutra Consulting: ⛵ 14:50
 
 _Using QGIS and Input app, users can go out (!!!) and collect data. Input app is a free and open source app based on QGIS with a simplified interface._
 
