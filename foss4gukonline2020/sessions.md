@@ -152,7 +152,7 @@ Feeling overwhelmed by the thought of creating and maintaining metadata on your 
 
 # Processing Large Geospatial Datasets on the Cloud, using FOSS (presentation)
 
-Joana Simoes,	EarthPulse: ⛵ 11:30
+Joana Simoes, EarthPulse and Christian Rouffaert, Teragence: ⛵ 11:30
 
 _Learn how we tackled the tech challenges involved in processing a large volume of noisy, geospatial data, using FOSS and cloud computing._
 
@@ -173,14 +173,6 @@ Jody Garnett,	GeoCat: 🛰️ 14:10
 _Welcome to GeoNetwork, a leading web service for keeping track of spatial information used by your organization._
 
 Welcome to GeoNetwork, a leading web service for keeping track of the spatial information used by your organization.  Jody is an experienced open source community member, digging into what this technology offers, and how it is used. This presentation shares these findings with you, and touches on what makes GeoNetwork succeed:  - We look at what GeoNetwork is for, the business challenge it is faced with, and the amazing technical approach taken by the technology. - For context we look at the core layer publishing workflow to see what is required - We peek under the hood at how the editor works, and discover the central super-power of GeoNetwork - Look at examples of how GeoNetwork has been extended by organizations to see what is possible with this technology  Attend this presentation for an informative tour of the GeoNetwork ecosystem. 
-
-# Delivering a digital register of common land in Wales with the help of Open Source Geo (demo)
-
-Kathryn Ratcliffe,	CGI: ⛵ 14:10
-
-_The project showcases the benefits of enhancing commercial technologies and products with those available in the open source geo community._
-
-The Electronic Register of Common Land and Towns and Village Greens in Wales enables the Public to access register pages and maps freely online and local authorities will be able to, for the first time, update the registers and maps digitally. This saves time and cost for both the Public and LA’s and provides a unified register of Common Land.  The application harnesses a range of open source technologies, including GeoServer, OpenLayers, .NET Core and Linux containers, working in tandem with more commercial products, such as SQL Server to provide a performant, flexible and secure application. All of which is hosted using Microsoft’s Azure cloud platform. The project helps showcase the possibilities and benefits of enhancing what would traditionally be an application comprised of commercial, closed source technologies and products, with those available in the open source geo community.
 
 # Working with big spatial data workflows (or, what would John Snow do?) (keynote)
 
@@ -213,6 +205,14 @@ Paul van Genuchten,	GeoCat BV, Jo Cook, Astun Technology: 🛰️ 15:30
 _An evaluation of Search Engine Optimisation in GeoNetwork and how to optimize the SEO via configuration._
 
 In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The group found that Search engines generate a substantial amount of their portal usage. For that reason they have developed a best practice document on Search Engine Optimisation (SEO) for (spatial) data portals [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf). In this presentation I present an evaluation of the standard GeoNetwork software against that best practice document and share some hints on how an administrator or data steward can optimize and monitor the SEO via configuration. I’ll also give an introduction to schema.org in GeoNetwork which feeds amongst others Google Dataset Search.
+
+# Delivering a digital register of common land in Wales with the help of Open Source Geo (demo)
+
+Peter Marlow and Kathryn Ratcliffe,	CGI: ⛵ 14:10
+
+_The project showcases the benefits of enhancing commercial technologies and products with those available in the open source geo community._
+
+The Electronic Register of Common Land and Towns and Village Greens in Wales enables the Public to access register pages and maps freely online and local authorities will be able to, for the first time, update the registers and maps digitally. This saves time and cost for both the Public and LA’s and provides a unified register of Common Land.  The application harnesses a range of open source technologies, including GeoServer, OpenLayers, .NET Core and Linux containers, working in tandem with more commercial products, such as SQL Server to provide a performant, flexible and secure application. All of which is hosted using Microsoft’s Azure cloud platform. The project helps showcase the possibilities and benefits of enhancing what would traditionally be an application comprised of commercial, closed source technologies and products, with those available in the open source geo community.
 
 # Collecting data using QGIS and Input app (demo)
 
