@@ -142,13 +142,13 @@ _A overview of solving common geometry problems in JavaScript with tools like Tu
 
 We deal with points, lines and polygons all day. Making them bend to our will can be tricky, especially on the web where our tooling might be slightly more restrained than on the desktop. This talk will dive into solve geospatial problems that require us to do things like manipulating geometries and dealing with the relationships between them. We can expect to see how we might do operations like scaling, rotating and moving geometries as well as seeing if they intersect or overlap with others. We will take a look specifically at the Turf.js and JSTS libraries that are available as JavaScript modules. It is recommended attendees have a basic understanding of JavaScript.
 
-# Labelling cans on a production line: automating metadata creation (demo)
+# Labelling cans on a production line: automating metadata creation (presentation)
 
 Jo Cook,	Astun Technology: 🛰️ 14:50
 
-_A demo of new tools for automatically creating metadata from spatial files or databases._
+_An overview of a new tool for automatically creating metadata from spatial files or databases._
 
-Feeling overwhelmed by the thought of creating and maintaining metadata on your many spatial datasets? Can't face the thought of editing thousands of metadata records? Never fear, metadata crawler is here. I'll demo it in action, showing how it will help you go from metadata zero to hero.
+Feeling overwhelmed by the thought of creating and maintaining metadata on your many spatial datasets? Can't face the thought of editing thousands of metadata records? Never fear, metadata crawler is here. I'll show you how it will help you go from metadata zero to hero.
 
 # Processing Large Geospatial Datasets on the Cloud, using FOSS (presentation)
 
