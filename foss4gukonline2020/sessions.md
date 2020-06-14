@@ -30,13 +30,13 @@ _Finding Earth Observation code is hard. awesome-earthobservation-code attempts 
 
 Earth Observation is one of the fastest growing areas of Geospatial today. Yet finding information about Earth Observation code (or even available commerical satellites) is harder than it should be. awesome-earthobservation-code attempts to address this. Built after a lunchtime scenefromabove discussion it currently has over 270+ resources in one place. I will set out some of the key information problems facing Earth Observation today and how awesome-earthobservation-code is a small step into building a bigger more vibrant community of collaborators.  [https://github.com/acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code). 
 
-# ArcGIS to QGIS in One Easy Lesson (demo)
+# ArcGIS to QGIS in One Easy Lesson with SLYR (demo)
 
 Ant Scott, MapAction: 🐦 09:30
 
 _This demo will showcase SLYR, an ArcGIS to QGIS toolkit from North Road, and its use by MapAction to support interoperability and partnership._
 
-SLYR is a QGIS plugin which has been developed by North Road Software to provide a route for the conversion of ArcGIS artefacts for use in QGIS. While the process is not yet 100 % faithful to the original, it’s improving with regular releases. As well as a drag and drop facility for e.g. MSDs and layer files, the plugin also installs a set of tools in the Processing Toolbox which can be used independently and incoporated into processing models.  The context for the demo will be MapAction’s use of SLYR to support interoperability between its work with Arc (mainly used in emergency missions) and QGIS (used in training and capacity building), and in particular to allow Arc products created in humanitarian response missions to be converted to QGIS for handover at the end of the mission to partners who are QGIS users.  While the plugin has not yet been released as open source, North Road plan to do so once a specific funding threshold for development has been reached, with a six month delay. 
+SLYR is a QGIS plugin which has been developed by North Road to provide a route for the conversion of ArcGIS artefacts for use in QGIS. While the process is not yet 100% faithful to the original, it’s improving with regular releases. As well as a drag and drop facility for e.g. MXDs and layer files, the plugin also installs a set of tools in the Processing Toolbox which can be used independently and incoporated into processing models.  The context for the demo will be MapAction’s use of SLYR to support interoperability between its work with Arc (mainly used in emergency missions) and QGIS (used in training and capacity building), and in particular to allow Arc products created in humanitarian response missions to be converted to QGIS for handover at the end of the mission to partners who are QGIS users.  While the plugin has not yet been released as open source, North Road plan to do so once a specific funding threshold for development has been reached, with a six month delay. 
 
 # My Thirty Years of Spatial Disease Modelling (presentation)
 
