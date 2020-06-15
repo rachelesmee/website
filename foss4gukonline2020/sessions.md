@@ -174,6 +174,14 @@ _Welcome to GeoNetwork, a leading web service for keeping track of spatial infor
 
 Welcome to GeoNetwork, a leading web service for keeping track of the spatial information used by your organization.  Jody is an experienced open source community member, digging into what this technology offers, and how it is used. This presentation shares these findings with you, and touches on what makes GeoNetwork succeed:  - We look at what GeoNetwork is for, the business challenge it is faced with, and the amazing technical approach taken by the technology. - For context we look at the core layer publishing workflow to see what is required - We peek under the hood at how the editor works, and discover the central super-power of GeoNetwork - Look at examples of how GeoNetwork has been extended by organizations to see what is possible with this technology  Attend this presentation for an informative tour of the GeoNetwork ecosystem. 
 
+# Optimized publishing of map and dataservices with GeoServer, GeoStyler, GeoWebCache and MapProxy (presentation)
+
+Marc Jansen,	terrestris GmbH & Co. KG: ⛵ 16:10
+
+_The talk presents one Open Source toolset for the set-up of geodata-services that consists of GeoServer/GeoWebCache, GeoStyler and MapProxy._
+
+Just a few years ago, the very existence of geo-services based on an uniform API alone aroused admiration. Now more than 10 years of INSPIRE later, this question often no longer arises. With UMN MapServer, GeoServer, deegree or QGIS Server, to name just a few, there are a number of software packages in the Open Source world, that can be used to transform geodata into standardized services. Once published as WMS or WFS, one can rely on a whole range of additional tools, functions and interfaces. Thus a user is often faced with the question on which tools can be used to achieve an optimal result in the shortest possible time.  In my talk I present one possible solution for setting-up of geodata-services. I want to show functions, possibilities and interactions of the OSGeo project GeoServer & GeoWebCache with the OSGeo Community Projects GeoStyler and MapProxy based on some examples. The talk is peppered with some hints on styling, performance tuning and caching of services.
+
 # Working with big spatial data workflows (or, what would John Snow do?) (keynote)
 
 María Arias de Reyna Domínguez,	Red Hat: 🐦 🔑 12:30
@@ -261,14 +269,6 @@ Steven Feldman,	KnowWhere Consulting: 🐦 🔑 16:50
 _This is the first online FOSS4G event, how did we get here? What can we learn? What does the future hold?_
 
 This is the first online FOSS4G event, how did we get here? What can we learn? What does the future hold?  It's going to be a while before we can start meeting face to face again and even longer before we are likely to travel across continents to attend conferences. What does that mean for our OSGeo community?  FOSS4GUK Online could be a great success or stuff may have gone disastrously wrong. This presentation will be pretty spontaneous, we won't have finished FOSS4GUK online when it is delivered. I will share some of our experiences running the event, what we have already learnt and consider how online events may be a key part of our community and outreach in the future.
-
-# Optimized publishing of map and dataservices with GeoServer, GeoStyler, GeoWebCache and MapProxy (presentation)
-
-Till Adams,	terrestris GmbH & Co. KG: ⛵ 16:10
-
-_The talk presents one Open Source toolset for the set-up of geodata-services that consists of GeoServer/GeoWebCache, GeoStyler and MapProxy._
-
-Just a few years ago, the very existence of geo-services based on an uniform API alone aroused admiration. Now more than 10 years of INSPIRE later, this question often no longer arises. With UMN MapServer, GeoServer, deegree or QGIS Server, to name just a few, there are a number of software packages in the Open Source world, that can be used to transform geodata into standardized services. Once published as WMS or WFS, one can rely on a whole range of additional tools, functions and interfaces. Thus a user is often faced with the question on which tools can be used to achieve an optimal result in the shortest possible time.  In my talk I present one possible solution for setting-up of geodata-services. I want to show functions, possibilities and interactions of the OSGeo project GeoServer & GeoWebCache with the OSGeo Community Projects GeoStyler and MapProxy based on some examples. The talk is peppered with some hints on styling, performance tuning and caching of services.
 
 # Big Earth Observation- and Geodata analysis with actinia and GRASS GIS (presentation)
 
