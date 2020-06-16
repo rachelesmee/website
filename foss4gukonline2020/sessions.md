@@ -78,14 +78,6 @@ _The Locus Charter is an international set of principles and guidance for ethica
 
 In 2019 the Omidyar Network funded 2 programmes of work looking at ethical implications of using location data - Benchmark Initiative in the UK and EthicalGEO in the USA. Since then the world has seen an unprecedented situation arise with the spread of COVID-19 across most countries in the world. Location data has been at the fore of understand, predicting and trying to manage the outbreak. A key topic that has arisen during this has been the question "what constitutes ethical use of location data?" This is being openly debated particularly in the use of contact tracing apps that are being developed by many governments across the world. The Locus Charter is a collaboration between the teams a Benchmark and EthicalGEO to develop an agreed set of international principles to help guide practitioners towards the ethical and responsible use of location data in their projects. The program will be reaching its public consultation phase in June.   [www.benchmarkinitiative.com]() [www.ethicalgeo.org]()
 
-# Stay home and innovate: redesigning an Earth Observation-fuelled accelerator supporting SMEs and start-ups (lightning talk)
-
-Dimitrios Papadakis,	Evenflow SPRL: 🐦 ⚡ 12:50
-
-_The PARSEC Accelerator, distributing €2.5 Million to SMEs and start-ups, enabled innovation from the safety of home as a response to the COVID-19._
-
-The PARSEC Accelerator, which will distribute €2.5 Million in equity-free funding for Earth Observation-based innovation, was one of the Copernicus-enabled business opportunities that Evenflow presented at the FOSS4G Bucharest in August 2019. After the successful start to 2020, with the PARSEC Open Call 1 attracting 348 SMEs and start-ups from 36 different countries and resulting in 100 competitive winners (#100PARSEC), the COVID-19 pandemic changed the rules of the game. The international team behind the accelerator committed to continue supporting innovation of SMEs, and therefore redesigned the first stage and the second Open Call of the accelerator. This enabled innovation to continue from the safety of home within the PARSEC ecosystem, and created a more open and borderless accelerator.
-
 # Using FOSS to develop a spatial and temporal visualisation of COVID-19 data (lightning talk)
 
 Eddie Boyle,	University of Edinburgh: 🐦 ⚡ 12:50
@@ -238,6 +230,13 @@ _Want to show Hubei Province (China) on an OpenMapTiles map? This talk shows how
 
 Mapbox Vector Tiles are an established standard to create web maps with custom styling. They contain minimal data for rendering a base map, which includes boundaries between regions (countries and subdivisions) but not polygons of the regions themselves. So we can draw boundaries as needed, but we lack the data to highlight one specific region, which is a recurring need in data visualization.  We wanted our highlighted regions to line up nicely with the boundaries on the base map, so we set out to extract compatible data from OpenStreetMap. The process, which uses various existing Open Source solutions and services (Overpass API, mapshaper, tippecanoe) will be presented in this talk.  The result is an open dataset of regions which cover the entire planet. In our locator map tool, this dataset allows reporters and editors, who are not GIS experts, to highlight regions with a few simple clicks. These maps are routinely used in the online and print editons of the NZZ newspaper.
 
+# Stay home and innovate: redesigning an Earth Observation-fuelled accelerator supporting SMEs and start-ups (lightning talk)
+
+Ruuta Skujina,	Evenflow SPRL: 🐦 ⚡ 12:50
+
+_The PARSEC Accelerator, distributing €2.5 Million to SMEs and start-ups, enabled innovation from the safety of home as a response to the COVID-19._
+
+The PARSEC Accelerator, which will distribute €2.5 Million in equity-free funding for Earth Observation-based innovation, was one of the Copernicus-enabled business opportunities that Evenflow presented at the FOSS4G Bucharest in August 2019. After the successful start to 2020, with the PARSEC Open Call 1 attracting 348 SMEs and start-ups from 36 different countries and resulting in 100 competitive winners (#100PARSEC), the COVID-19 pandemic changed the rules of the game. The international team behind the accelerator committed to continue supporting innovation of SMEs, and therefore redesigned the first stage and the second Open Call of the accelerator. This enabled innovation to continue from the safety of home within the PARSEC ecosystem, and created a more open and borderless accelerator.
 # Native support for vector tiles in QGIS (presentation)
 
 Saber Razmjooei,	Lutra Consulting: 🐦 12:10
