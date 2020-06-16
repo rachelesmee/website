@@ -118,7 +118,7 @@ _How graphics tech (WebGL, texture formats and shaders) and multispectral imager
 
 An overview on the work done in Leaflet.TileLayer.GL (and its OpenLayers port) to let web applications consume raw GeoTIFF data (including multiple bands and pixel formats), in order to perform raster algebra in the web browser itself (that's called "edge computing" for buzzword-loving people).
 
-# Gisquick demo presentation (demo)
+# Gisquick demo presentation (CANCELLED)
 
 Jáchym Čepický,	OpenGeoLabs: ⛵ 10:10	BST (UTC+1)
 
