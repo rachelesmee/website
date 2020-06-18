@@ -14,7 +14,7 @@ _SIBELIUs uses an Open Data Cube to provide improved pasture monitoring capabili
 
 SIBELIUs uses Open Data Cube (ODC) technology to provide improved pasture monitoring capabilities in Mongolia and Kyrgyzstan to support their large and economically significant herding communities. Satellite Earth observation provides an efficient means for monitoring environmental parameters, such as pasture, snow and drought, over large regions, which can facilitate improved pasture management decisions. The SIBELIUs team is working with key Mongolian and Kyrgyz stakeholders to develop ODC Technology to serve a wide range of users. SIBELIUS is supported by the UK Space Agency’s International Partnership Programme (IPP). In both Mongolia and Kyrgyzstan, SIBELIUs is using three existing networks to deliver the benefits of the project to the herding communities: (1) government agencies coordinating livestock and land use, (2) directly to the herders through social media, text messaging and television broadcasts, (3) through finance and insurance sectors.
 
-# GeoServer 2.17 Updates!	(presentation)
+# GeoServer 2.17 Updates!	([slides](https://t.co/IYti2vMDfr?amp=1))
 
 Andrea Aime, Jody Garnett,	GeoServer Project Steering Committee: ⛵ 16:50 BST (UTC+1)
 
