@@ -265,7 +265,7 @@ _OpenAQ uses the power of open air quality data and open source tools to convene
 
 The OpenAQ platform aggregates real-time and historical geospatial air quality data from all over the world, and is entirely open source. It has over 500 million data points from 93 countries and serves 33 million API requests per month. The data have been used for a wide variety of applications, from air quality forecasts produced by NASA scientists to data-driven media reports by the general public. By providing this foundational data infrastructure, OpenAQ is able to convene people and organizations from across the globe to further raise awareness and develop innovative solutions to combat air pollution. The talk will give a technical overview of the platform, highlighting a new averaging tool being developed on top of the platform to get pollutant averages across various spatial and temporal resolutions.
 
-# Running an online FOSS4G - some reflections (keynote)
+# Running an online FOSS4G - some reflections ([slides](https://docs.google.com/presentation/d/1VhViqXxRUQjMwc4ubVPrjE0dec31uwR12yVQBfVesc4/edit#slide=id.p1))
 
 Steven Feldman,	KnowWhere Consulting: 🐦 🔑 16:50	BST (UTC+1)
 
