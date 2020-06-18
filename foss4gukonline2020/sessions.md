@@ -30,7 +30,7 @@ _Finding Earth Observation code is hard. awesome-earthobservation-code attempts 
 
 Earth Observation is one of the fastest growing areas of Geospatial today. Yet finding information about Earth Observation code (or even available commerical satellites) is harder than it should be. awesome-earthobservation-code attempts to address this. Built after a lunchtime scenefromabove discussion it currently has over 270+ resources in one place. I will set out some of the key information problems facing Earth Observation today and how awesome-earthobservation-code is a small step into building a bigger more vibrant community of collaborators.  [https://github.com/acgeospatial/awesome-earthobservation-code](https://github.com/acgeospatial/awesome-earthobservation-code). 
 
-# ArcGIS to QGIS in One Easy Lesson with SLYR (demo)
+# ArcGIS to QGIS in One Easy Lesson with SLYR ([slides](https://uk.osgeo.org/foss4gukonline2020/slides/MapAction_foss4g2020.pdf))
 
 Ant Scott, MapAction: 🐦 09:30	BST (UTC+1)
 
@@ -186,7 +186,7 @@ _In situations where we have to handle big spatial data, I wonder: What would Jo
 
 Most of our software is fueled by data. But when we deal with big spatial data, we have to deal with different data sources, formats, protocols,... that have to be processed at a speed we can't handle manually.   All of those are tedious and repetitive tasks that make developers quickly jump into scripting rough code, reinventing the wheel. Also, on this custom code, we are coupling something that should be decoupled. Could it be possible to decouple the systems while they are connected?   With Integration Processes frameworks we can make it simpler and reuse expertise from other developers. We just have to worry defining the workflow and the data mappings and our FOSS will take care of the details. If one step of our data workflow changes, we could easily upgrade our workflow definition to adapt.   On this demo we will do a basic example of how to create a spatial data workflow with free and open source tools.
 
-# Teaching QGIS: Certification and Running QGIS in the Cloud (presentation)
+# Teaching QGIS: Certification and Running QGIS in the Cloud ([slides](https://t.co/oDKZ8hesyq?amp=1))
 
 Nick Bearman,	Geospatial Training Solutions / UCL: 🛰️ 11:30	BST (UTC+1)
 
@@ -226,7 +226,7 @@ _Using QGIS and Input app, users can go out (!!!) and collect data. Input app is
 
 Data collection is a key part of most GIS workflows. We have created an open source app based on QGIS for Android, iOS and Windows, which allows users to take their data and QGIS projects to field. The app comes with a built-in smart syn, allowing collaborative editing of data offline between multiple users offline. 
 
-# Extracting OpenStreetMap data for region highlights compatible with OpenMapTiles (presentation)
+# Extracting OpenStreetMap data for region highlights compatible with OpenMapTiles ([slides](https://t.co/GlBdghlzED?amp=1))
 
 Roman Karavia,	Neue Zürcher Zeitung (NZZ): 🐦 10:50	BST (UTC+1)
 
