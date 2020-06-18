@@ -136,7 +136,7 @@ We deal with points, lines and polygons all day. Making them bend to our will ca
 
 # Introduction and welcome ([slides](https://archaeogeek.github.io/foss4guk2020welcome/#/))
 
-Jo Cock, OSGeo:UK Chair
+Jo Cook, OSGeo:UK Chair
 
 # Labelling cans on a production line: automating metadata creation ([slides](https://archaeogeek.github.io/foss4guk2020-metadata/#/))
 
