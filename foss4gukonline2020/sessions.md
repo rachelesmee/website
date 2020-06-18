@@ -22,7 +22,7 @@ _What is new with GeoServer 2.17!_
 
 A cheerful tour of new extensions, the latest research and development, improved map rendering and more!	The GeoServer team shares what is new with GeoServer 2.17!  GeoServer is a popular OSGeo project for publishing your geospatial data using industry standards for vector, raster and mapping.   To support online presentation we are scaling back our “state of talk” to strictly focus on new features available in GeoServer 2.17. Attend this presentation for a cheerful tour of new extensions, the latest research and development, improved map rendering and more!
 
-# awesome-earthobservation-code ([slides](https://t.co/S41ag011fE?amp=1))
+# awesome-earthobservation-code ([slides](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/presentations/20200617_FOSS4GUK_Awesome-EarthObservation-Code.pdf))
 
 Andrew Cutts, freelancer: 🐦 ⚡ 12:50	BST (UTC+1)
 
