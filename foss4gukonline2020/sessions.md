@@ -22,7 +22,7 @@ _What is new with GeoServer 2.17!_
 
 A cheerful tour of new extensions, the latest research and development, improved map rendering and more!	The GeoServer team shares what is new with GeoServer 2.17!  GeoServer is a popular OSGeo project for publishing your geospatial data using industry standards for vector, raster and mapping.   To support online presentation we are scaling back our “state of talk” to strictly focus on new features available in GeoServer 2.17. Attend this presentation for a cheerful tour of new extensions, the latest research and development, improved map rendering and more!
 
-# awesome-earthobservation-code (lightning talk)
+# awesome-earthobservation-code ([slides](https://t.co/S41ag011fE?amp=1))
 
 Andrew Cutts, freelancer: 🐦 ⚡ 12:50	BST (UTC+1)
 
@@ -38,7 +38,7 @@ _This demo will showcase SLYR, an ArcGIS to QGIS toolkit from North Road, and it
 
 SLYR is a QGIS plugin which has been developed by North Road to provide a route for the conversion of ArcGIS artefacts for use in QGIS. While the process is not yet 100% faithful to the original, it’s improving with regular releases. As well as a drag and drop facility for e.g. MXDs and layer files, the plugin also installs a set of tools in the Processing Toolbox which can be used independently and incoporated into processing models.  The context for the demo will be MapAction’s use of SLYR to support interoperability between its work with Arc (mainly used in emergency missions) and QGIS (used in training and capacity building), and in particular to allow Arc products created in humanitarian response missions to be converted to QGIS for handover at the end of the mission to partners who are QGIS users.  While the plugin has not yet been released as open source, North Road plan to do so once a specific funding threshold for development has been reached, with a six month delay. 
 
-# My Thirty Years of Spatial Disease Modelling (presentation)
+# My Thirty Years of Spatial Disease Modelling ([slides](https://docs.google.com/presentation/d/1Jpel3-c4UvmrnjjB2r9r17Mq6flulD2k-qWzMnymzsQ/edit?usp=sharing))
 
 Barry Rowlingson,	Lancaster University: 🛰️ 12:50	BST (UTC+1)
 
@@ -70,7 +70,7 @@ _Walking charity the Ramblers, crowd sourced every lost historic path in England
 
 In February and March 2020, every lost historic path in England and Wales was mapped in a crowd sourcing campaign run by the Ramblers using OS-Geo technologies at its heart. Attracting national media attention, over 3,500 volunteers did a “spot the difference” comparison of over 150,000 sq km of historic and contemporary OS maps and digitised the missing paths. The exercise is Phase 1 in a program to save historic rights of way before a legislative deadline of 2026 beyond which they will be lost forever. In this talk by Ramblers project lead Jack Cornish with Dan Ormsby and Matt Walker from Astun we’ll look at how, why and what next.
 
-# Locus Charter - Helping to use location data ethically and responsibly (presentation)
+# Locus Charter - Helping to use location data ethically and responsibly ([slides](https://www.slideshare.net/DeniseMcKenzie/locus-charter-helping-to-use-location-data-ethically-and-responsibly))
 
 Denise McKenzie,	Benchmark Initiative, Geovation: 🛰️ 16:10	BST (UTC+1)
 
@@ -102,7 +102,7 @@ _State-of-play of the OGC API development. The work has been progressing, to dev
 
 API technologies are in focus of standardization discussions within the geospatial community. Discussions and initiatives in the OGC reached a milestone in 2018: the release of the first of the OGC API standards. Since then work has been progressing to develop additional OGC API standards supporting a variety of resources.  OGC members & staff investigated the potential value that OpenAPI could offer to geospatial services. Existing web service standards were effectively web APIs, modernizing their means of getting content to the web required a fairly fundamental change in the underlying design. The first OGC API standard approved & published was Part 1 of the OGC API – Features standard.  The pattern “OGC API [resource]” was coined and led to initiatives to define and test draft OGC APIs for Coverages, Maps, Tiles, Styles & Processes. Outputs will support the evolution of a solid, common core and the advancement of a new generation of OGC standards leveraging modern Web API approaches
 
-# What every GIS user should know about projections (presentation)
+# What every GIS user should know about projections ([slides](https://www.ianturton.com/talks/projections.pdf))
 
 Ian Turton,	Astun Technology: 🐦 11:30	BST (UTC+1)
 
@@ -134,7 +134,11 @@ _A overview of solving common geometry problems in JavaScript with tools like Tu
 
 We deal with points, lines and polygons all day. Making them bend to our will can be tricky, especially on the web where our tooling might be slightly more restrained than on the desktop. This talk will dive into solve geospatial problems that require us to do things like manipulating geometries and dealing with the relationships between them. We can expect to see how we might do operations like scaling, rotating and moving geometries as well as seeing if they intersect or overlap with others. We will take a look specifically at the Turf.js and JSTS libraries that are available as JavaScript modules. It is recommended attendees have a basic understanding of JavaScript.
 
-# Labelling cans on a production line: automating metadata creation (presentation)
+# Introduction and welcome ([slides](https://archaeogeek.github.io/foss4guk2020welcome/#/))
+
+Jo Cokk, OSGeo:UK Chair
+
+# Labelling cans on a production line: automating metadata creation ([slides](https://archaeogeek.github.io/foss4guk2020-metadata/#/))
 
 Jo Cook,	Astun Technology: 🛰️ 14:50	BST (UTC+1)
 
@@ -150,7 +154,7 @@ _Learn how we tackled the tech challenges involved in processing a large volume 
 
 Large volumes of geotagged network data, are generated everyday using sensor devices. If processed, these data could have an important impact in location assessment and network design and planning.  The main goal of this project was to identify Areas of Coverage (AoC) of telco antennas, within a large volume of noisy, point data. This brought two technological challenges: to find an algorithm that enabled us to detect the AoC, discarding the points which are not relevant; and to run this algorithm at scale, processing a large dataset, which covers the entire UK. The two challenges were tackled using a stack of FOSS. The resulting application was virtualised into a set of docker containers, and deployed on the AWS cloud, where the processing took place. In this presentation, we would like to present the final pipeline that successfully transformed the signals in AoC, and share some lessons learned during the design, implementation and deployment process.
 
-# GeoServer Orientation (presentation)
+# GeoServer Orientation ([slides](https://t.co/fvBTLMia6f?amp=1))
 
 Jody Garnett,	GeoCat: ⛵ 15:30	BST (UTC+1)
 
@@ -166,7 +170,7 @@ _Welcome to GeoNetwork, a leading web service for keeping track of spatial infor
 
 Welcome to GeoNetwork, a leading web service for keeping track of the spatial information used by your organization.  Jody is an experienced open source community member, digging into what this technology offers, and how it is used. This presentation shares these findings with you, and touches on what makes GeoNetwork succeed:  - We look at what GeoNetwork is for, the business challenge it is faced with, and the amazing technical approach taken by the technology. - For context we look at the core layer publishing workflow to see what is required - We peek under the hood at how the editor works, and discover the central super-power of GeoNetwork - Look at examples of how GeoNetwork has been extended by organizations to see what is possible with this technology  Attend this presentation for an informative tour of the GeoNetwork ecosystem. 
 
-# Optimized publishing of map and dataservices with GeoServer, GeoStyler, GeoWebCache and MapProxy (presentation)
+# Optimized publishing of map and dataservices with GeoServer, GeoStyler, GeoWebCache and MapProxy ([slides](https://t.co/t7hj5J64as?amp=1))
 
 Marc Jansen,	terrestris GmbH & Co. KG: ⛵ 16:10	BST (UTC+1)
 
@@ -174,7 +178,7 @@ _The talk presents one Open Source toolset for the set-up of geodata-services th
 
 Just a few years ago, the very existence of geo-services based on an uniform API alone aroused admiration. Now more than 10 years of INSPIRE later, this question often no longer arises. With UMN MapServer, GeoServer, deegree or QGIS Server, to name just a few, there are a number of software packages in the Open Source world, that can be used to transform geodata into standardized services. Once published as WMS or WFS, one can rely on a whole range of additional tools, functions and interfaces. Thus a user is often faced with the question on which tools can be used to achieve an optimal result in the shortest possible time.  In my talk I present one possible solution for setting-up of geodata-services. I want to show functions, possibilities and interactions of the OSGeo project GeoServer & GeoWebCache with the OSGeo Community Projects GeoStyler and MapProxy based on some examples. The talk is peppered with some hints on styling, performance tuning and caching of services.
 
-# Working with big spatial data workflows (or, what would John Snow do?) (keynote)
+# Working with big spatial data workflows (or, what would John Snow do?) ([slides](https://slides.delawen.com/2020/foss4guk/))
 
 María Arias de Reyna Domínguez,	Red Hat: 🐦 🔑 12:30	BST (UTC+1)
 
