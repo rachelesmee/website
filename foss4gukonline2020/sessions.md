@@ -46,7 +46,7 @@ _A review of "Open" in spatial epidemiology over the past thirty years._
 
 Nearly thirty years ago I quit my Physics PhD and began to drag GIS, statistics and epidemiology kicking and screaming together, which I've been doing ever since. From a world with no WWW, no Linux, and no Open Source, we've come to a place where politically-motivated groups attack disease modellers on github over code used to inform government COVID-19 pandemic policy.  The talk will introduce some ideas in spatial statistics, epidemiology, and disease surveillance. It will show how the landscape has changed and how Open Source and Open Data are now influencing the debate around disease surveillance in the COVID-19 era. I'll outline how new technologies for reproducible research can bring about more openness and accountability for disease outbreak epidemiology.
 
-# Using FOSS4G to track COVID-19 in Romania (demo)
+# Using FOSS4G to track COVID-19 in Romania ([slides](https://bit.ly/2BlIin6))
 
 Cristina Andra Vrînceanu,	geo-spatial.org: ⛵ 12:10	BST (UTC+1)
 
@@ -54,7 +54,7 @@ _Geo-spatial.org’s Covid-19 app, built entirely on FOSS, delivers correct, com
 
 Our platform contains several maps and graphs depicting the different dimensions of the pandemic in Romania, ranging from confirmed cases/deaths/healed patients and related statistics, to hospital infrastructure, quarantine zones to pollution/mobility indexes, as well as other impact indicators of this epidemic in our country. Unfortunately, the Romanian authorities have failed in communicating the evolution of the COVID-19, resulting in numerous glitches in different reports. Thus, we have been volunteering our time to collect detailed information from the local/national media, compare it to the official reporting, sort it and deliver it in a structured manner. The application is built using Node.js, PostgreSQL+PostGIS, R on the backend and OpenLayers, Angular, charts.js, Plotly and D3.js for the frontend. The source code is on GitHub [https://github.com/geospatialorg/covid19](https://github.com/geospatialorg/covid19), MIT licensed. The infrastructure is supported by Sage Group [http://www.sage.ieat.ro/](http://www.sage.ieat.ro/) on AWS and by Carto.
 
-# Women in Geospatial+ - Changing the status-quo by creating a strong network of Women in Geospatial+ leaders and changemakers (presentation)
+# Women in Geospatial+ - Changing the status-quo by creating a strong network of Women in Geospatial+ leaders and changemakers ([slides](https://bit.ly/3debl9q))
 
 Cristina Vrînceanu, Julia Wagemann,	Women in Geospatial +: 🐦 16:10	BST (UTC+1)
 
