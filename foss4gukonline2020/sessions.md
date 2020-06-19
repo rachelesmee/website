@@ -162,7 +162,7 @@ _Welcome to GeoServer, a popular web service for publishing your geospatial data
 
 Welcome to GeoServer, a popular web service for publishing your geospatial data using industry standards for vector, raster and mapping.  Are you just getting started with GeoServer, or considering it for the first time?  This presentation is here to help, with an orientation covering: Usage: Concepts used to connect to your data and publish as a spatial service. Context: What role GeoServer plays in your organization and what value the application provides. Community: How the project is managed, and a discussion of the upcoming activities.  Attend this presentation to get a running start on using GeoServer in your organization.
 
-# GeoNetwork Orientation (presentation)
+# GeoNetwork Orientation ([slides](https://docs.google.com/presentation/d/13e2q9zbF6glZmlcdC_2CrSdAUPkLZTn-2RS64hmWL9c/edit#slide=id.g43ec82f6d8_1_15))
 
 Jody Garnett,	GeoCat: 🛰️ 14:10	BST (UTC+1)
 
