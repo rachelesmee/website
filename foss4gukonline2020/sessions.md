@@ -62,7 +62,7 @@ _Women in Geospatial+ is a professional network promoting gender-equality and di
 
 Women in Geospatial+ started in March 2019 and grew into a vibrant and active community with more than 1200 registered members from all over the world and over 4000 followers on social media. The fast growing pace of this community is a sign that many of us still witness gender-bias in the workplace and more diversity-focused initiatives are needed.   We provide our members with a safe platform for open and honest communication and exchange, sharing opportunities for career and personal development. To feature the work and achievements of women geospatial leaders, we hold regular in-person meetups at different geospatial events, run a mentorship program and have recently launched a speakers database.    We will highlight key activities of our network, current facts and figures on diversity in geospatial and explain how to join and contribute to the community’s success and expansion. Let’s change the status quo together by creating a strong network of leaders and change-makers.
 
-# Don’t Lose Your Way!  Crowd sourcing the nation's forgotten paths (presentation)
+# Don’t Lose Your Way!  Crowd sourcing the nation's forgotten paths ([slides](https://astuntechnology.com/media/website/downloads/case-studies/Ramblers-Astun-DLYW-FOSS4GUKOnline.pdf))
 
 Dan Ormsby, Jack Cornish, Matt Walker,	The Ramblers & Astun Technology: ⛵ 12:50	BST (UTC+1)
 
