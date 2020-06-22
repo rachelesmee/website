@@ -237,6 +237,7 @@ _An evaluation of Search Engine Optimisation in GeoNetwork and how to optimize t
 In 2019 the UK GeoSpatial Commission studied the usage of the UK dataportal. The group found that Search engines generate a substantial amount of their portal usage. For that reason they have developed a best practice document on Search Engine Optimisation (SEO) for (spatial) data portals [https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/865259/SEO_for_Data_Publishers_Best_Practice_Guide.pdf). In this presentation I present an evaluation of the standard GeoNetwork software against that best practice document and share some hints on how an administrator or data steward can optimize and monitor the SEO via configuration. I’ll also give an introduction to schema.org in GeoNetwork which feeds amongst others Google Dataset Search.
 
 # Delivering a digital register of common land in Wales with the help of Open Source Geo (demo)
+[Recording](https://youtu.be/H8UWboFZFY0)
 
 Peter Marlow and Kathryn Ratcliffe,	CGI: ⛵ 14:10	BST (UTC+1)
 
