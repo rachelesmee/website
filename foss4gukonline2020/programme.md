@@ -1,4 +1,4 @@
-The programme is divided into eight themes, running in three parallel streams. If you have registered, you will in due course be sent links for all streams, and you can jump in an out as you wish. _The programme may still change - so please check nearer the time for any updates_.
+The programme is divided into eight themes, running in three parallel streams.
 
 The themes are:
 * 🗃️ Metadata: Discussing the data about data
@@ -10,9 +10,7 @@ The themes are:
 * 😷 Covid19: Spatial epidemiology and lockdown projects 
 * 🖥️ Geoserver: Serving data to all 
 
-Note that to trigger recording, each stream will be briefly turned on and off between talks, so if you unable to get in at any point, please keep trying.
-
-The detailed session listing is [here](https://uk.osgeo.org/foss4gukonline2020/sessions.html).
+The detailed session listing is [here](https://uk.osgeo.org/foss4gukonline2020/sessions.html) - you will also find here links to recordings for all sessions, and slides where published.
 
 *All times are London, BST (UTC+1).*
 
