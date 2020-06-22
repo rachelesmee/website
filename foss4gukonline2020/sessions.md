@@ -7,7 +7,6 @@ Times and rooms are listed against each presenter (for lightning talks, the time
 
 Recordings are live from 12:00 BST on 23rd June 2020. All recordings are around 30 minutes, including questions.
 
-
 # Improving severe-weather resilience for Mongolian and Kyrgyz herding communities using earth observation imagery (presentation)
 [Recording](https://www.youtube.com/watch?v=AfhVosQ1Ssk)
 
@@ -27,7 +26,7 @@ _What is new with GeoServer 2.17!_
 A cheerful tour of new extensions, the latest research and development, improved map rendering and more!	The GeoServer team shares what is new with GeoServer 2.17!  GeoServer is a popular OSGeo project for publishing your geospatial data using industry standards for vector, raster and mapping.   To support online presentation we are scaling back our “state of talk” to strictly focus on new features available in GeoServer 2.17. Attend this presentation for a cheerful tour of new extensions, the latest research and development, improved map rendering and more!
 
 # awesome-earthobservation-code ([slides](https://github.com/acgeospatial/awesome-earthobservation-code/blob/master/presentations/20200617_FOSS4GUK_Awesome-EarthObservation-Code.pdf))
-[Recording](https://www.youtube.com/watch?v=Up7ergMImQk)
+[Recording: at 12:20 mins](https://www.youtube.com/watch?v=Up7ergMImQk)
 
 Andrew Cutts, freelancer: 🐦 ⚡ 12:50	BST (UTC+1)
 
@@ -90,7 +89,7 @@ _The Locus Charter is an international set of principles and guidance for ethica
 In 2019 the Omidyar Network funded 2 programmes of work looking at ethical implications of using location data - Benchmark Initiative in the UK and EthicalGEO in the USA. Since then the world has seen an unprecedented situation arise with the spread of COVID-19 across most countries in the world. Location data has been at the fore of understand, predicting and trying to manage the outbreak. A key topic that has arisen during this has been the question "what constitutes ethical use of location data?" This is being openly debated particularly in the use of contact tracing apps that are being developed by many governments across the world. The Locus Charter is a collaboration between the teams a Benchmark and EthicalGEO to develop an agreed set of international principles to help guide practitioners towards the ethical and responsible use of location data in their projects. The program will be reaching its public consultation phase in June.   [www.benchmarkinitiative.com]() [www.ethicalgeo.org]()
 
 # Using FOSS to develop a spatial and temporal visualisation of COVID-19 data (lightning talk)
-[Recording](https://www.youtube.com/watch?v=Up7ergMImQk)
+[Recording: at 0 mins](https://www.youtube.com/watch?v=Up7ergMImQk)
 
 Eddie Boyle,	University of Edinburgh: 🐦 ⚡ 12:50	BST (UTC+1)
 
@@ -264,7 +263,7 @@ _Want to show Hubei Province (China) on an OpenMapTiles map? This talk shows how
 Mapbox Vector Tiles are an established standard to create web maps with custom styling. They contain minimal data for rendering a base map, which includes boundaries between regions (countries and subdivisions) but not polygons of the regions themselves. So we can draw boundaries as needed, but we lack the data to highlight one specific region, which is a recurring need in data visualization.  We wanted our highlighted regions to line up nicely with the boundaries on the base map, so we set out to extract compatible data from OpenStreetMap. The process, which uses various existing Open Source solutions and services (Overpass API, mapshaper, tippecanoe) will be presented in this talk.  The result is an open dataset of regions which cover the entire planet. In our locator map tool, this dataset allows reporters and editors, who are not GIS experts, to highlight regions with a few simple clicks. These maps are routinely used in the online and print editons of the NZZ newspaper.
 
 # Stay home and innovate: redesigning an Earth Observation-fuelled accelerator supporting SMEs and start-ups (lightning talk)
-[Recording](https://www.youtube.com/watch?v=Up7ergMImQk)
+[Recording: at 6:20 mins](https://www.youtube.com/watch?v=Up7ergMImQk)
 
 Ruuta Skujina,	Evenflow SPRL: 🐦 ⚡ 12:50	BST (UTC+1)
 
@@ -291,7 +290,7 @@ _Empower the community to create a high accuracy 3D point cloud of the world usi
 There is an increasing demand for 3D data to power augmented reality, autonomy and gaming. Traditionally creating this data requires expensive specialty equipment like LiDAR, 3D scanners or sensor laden vehicles. Pixel8.earth is using a combination of computer vision and geomatics to achieve the same results using commodity photos and videos. The goal is to enable the community to use their existing cameras to crowdsource a a high accuracy 3D point cloud of the world.
 
 # OpenAQ: An open source platform to understand the world’s air quality (lightning talk)
-[Recording](https://www.youtube.com/watch?v=Up7ergMImQk)
+[Recording: at 20:40](https://www.youtube.com/watch?v=Up7ergMImQk)
 
 Sruti Modekurty,	OpenAQ: 🐦 ⚡ 12:50	BST (UTC+1)
 
