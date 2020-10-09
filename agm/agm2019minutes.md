@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### OSGeo:UK 2018 AGM Minutes
+### OSGeo:UK 2019 AGM Minutes
 
 19th September 2019
 
