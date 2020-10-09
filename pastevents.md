@@ -4,6 +4,11 @@ layout: default
 
 ### Past events
 
+### 2020
+
+* [FOSS4GUK Online 2020](/foss4gukonline2020/) 
+
+
 #### 2019
 
 * [FOSS4G UK 2019](/foss4guk2019/)
