@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Minutes of OSGeo:UK 2019 AGM, held during FOSS4G UK 2020 at Dyynamic Earth, Edinburgh
+### Minutes of OSGeo:UK 2019 AGM, held during FOSS4G UK 2020 at Dynamic Earth, Edinburgh
 
 19th September 2019
 
