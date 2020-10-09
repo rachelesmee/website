@@ -4,9 +4,11 @@ layout: default
 
 # OSGeo:UK AGM 2020
 
-It's time for the OSGeo:UK AGM again - last year we were able to hold it in summy Edinburgh, this year we will be online again. It will be held on **Tuesday October 28th from 12pm - 1pm**. As in previous years, we'll use a Google Hangout with details sent to the [OSGeo:UK mailing list](https://lists.osgeo.org/mailman/listinfo/uk) on the morning of the 28th. An agenda will be posted soon - please post any items you would like added on the list.
+It's time for the OSGeo:UK AGM again - last year we were able to hold it in summy Edinburgh, this year we will be online again. It will be held on **Tuesday October 28th from 12pm - 1pm**. As in previous years, we'll use a Google Hangout with details sent to the [OSGeo:UK mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and posted here on the morning of the 28th. 
 
-The AGM is open to anyone working in, or interested in, open source GIS in the UK - if you are not already, please sign up to the mailing list for updates on all things OS GIS UK, and/or follow us on [Twitter](https://twitter.com/osgeouk).
+The proposed agenda is [here](/agm2020/) - please post any items you would like added to it on the mailing list.
+
+The AGM is open to anyone working in or interested in open source GIS in the UK - if you are not already, please sign up to the mailing list for updates on all things OS GIS UK, and/or follow us on [Twitter](https://twitter.com/osgeouk). We'd really like as many people as possible to dial in for a chat about OSGeo in the UK - we could do with some new voices in the discussion!
 
 
 ### Events
