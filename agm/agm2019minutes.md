@@ -27,7 +27,7 @@ Jo reported on the activities of the past year, including:
 * OpenLayers 6
 * Regina Obe Postgres/PostGIS developement - Patreon sponsorship
 
-A FOSS4G even could be held in 2020 dependant on volunteers stepping forward to organise it.
+A FOSS4G event could be held in 2020 dependant on volunteers stepping forward to organise it.
 
 ### Financial report
 
