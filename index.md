@@ -4,7 +4,7 @@ layout: default
 
 # OSGeo:UK AGM 2020
 
-It's time for the OSGeo:UK AGM again - last year we were able to hold it in summy Edinburgh, this year we will be online again. It will be held on **Tuesday October 28th from 12pm - 1pm**. As in previous years, we'll use a Google Hangout with details sent to the [OSGeo:UK mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and posted here on the morning of the 28th. 
+It's time for the OSGeo:UK AGM again - last year we were able to hold it in summy Edinburgh, this year we will be online again. It will be held on **Wednesday October 28th from 12pm - 1pm**. As in previous years, we'll use a Google Hangout with details sent to the [OSGeo:UK mailing list](https://lists.osgeo.org/mailman/listinfo/uk) and posted here on the morning of the 28th. 
 
 The proposed agenda is [here](/agm/agm2020.html) - please post any items you would like added to it on the mailing list.
 
