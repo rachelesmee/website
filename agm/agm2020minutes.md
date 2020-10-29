@@ -4,7 +4,7 @@ layout: default
 
 ### Minutes of OSGeo:UK 2020 AGM
 
-28th October 2020
+28th October 2020 at 12pm, online
 
 ### Officers and Trustees Present
 Jo Cook (Chair), Matt Travis (Treasurer), Ant Scott (Secretary), Alistair Graham, Steven Feldman (Trustees) and seven other members.
