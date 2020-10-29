@@ -7,7 +7,7 @@ layout: default
 28th October 2020
 
 ### Officers and Trustees Present
-Jo Cook (Chair), Matt Travis (Treasurer), Ant Scott (Secretary) Alistair Graham, Steven Feldman (Trustees) and seven other members.
+Jo Cook (Chair), Matt Travis (Treasurer), Ant Scott (Secretary), Alistair Graham, Steven Feldman (Trustees) and seven other members.
 
 #### Apologies for Absence
 Dave Barter
@@ -70,7 +70,7 @@ All officers are happy to continue in post for now, though Jo would like to stan
 Steven would like to step down as a Trustee, and was thanked for his enormous contribution to OSGeo:UK over the years. Tom Chadwin volunteered to take his place, and this as unanimously agreed.
 
 ### AoB
-It was proposed that we should sponsor QGIS to the tune of 500 euros. This was agreed in principle, but we should also research other projects with funding requirements. Tom will do this and share the results - Nick suggested something ecosystem, and Tom Armitage suggested asking for suggestions on the mailing list, along with a social media push.
+It was proposed that we should sponsor QGIS to the tune of 500 euros. This was agreed in principle, but we should also research other projects with funding requirements. Tom C will do this and share the results - Nick suggested something ecosystem, and Tom Armitage suggested asking for proposals on the mailing list, along with a social media push.
 
 Jo noted that the training calendar should be kept up to date via GitHub.
 
