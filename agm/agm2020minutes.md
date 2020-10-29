@@ -19,7 +19,7 @@ The [minutes of the 2019](https://uk.osgeo.org/agm/agm2019minutes.html) AGM were
 The Treasurer presented a summary of the accounts, and these were accepted.
 
 * Total Income: £40,495.55 (15,500.00 accrued from 2018/19)
-* Total Expenditure: £37,012.09 (3,240.00 pre-paid from 2018/19
+* Total Expenditure: £37,012.09 (3,240.00 pre-paid from 2018/19)
 * Profit: £3,483.46 🎉
 * Current Balance: £15,408.20 (includes all accounts)
 
