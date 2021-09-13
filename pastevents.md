@@ -7,7 +7,7 @@ layout: default
 ### 2020
 
 * [FOSS4GUK Online 2020](/foss4gukonline2020/) 
-
+* [OSGeo:UK AGM 2020](agm/agm2020minutes.html)
 
 #### 2019
 
