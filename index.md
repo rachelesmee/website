@@ -5,6 +5,8 @@ layout: default
 
 ### Events
 
+**The [2021 AGM](agm/agm2021/){:target="_newpage"} will be held online on 27th October 2021 at 12:00 BST - all are welcome, it will probably last about 30-45 minutes. A link to the call will be posted to the OSGeo:UK mailing list on the morning of the event. Please come along if you want to find out more about open source geospatial in the UK, want to get involved, or have some ideas for events or activities.**
+
 Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
 See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
