@@ -40,7 +40,7 @@ OSGeo:UK is an unincorporated organisation. Our constitution, adopted in March 2
 
 __Officers__
 
-* Chair: [Jo Cook](https://twitter.com/archaeogeek)
+* Chair: [Nick Bearman](https://twitter.com/NickBearmanUK)
 * Secretary: [Antony Scott](https://twitter.com/antscott)
 * Treasurer: [Matt Travis](https://twitter.com/Yakus)
 
@@ -49,6 +49,8 @@ __Committee__
 * [Dave Barter](https://twitter.com/NautoGuide)
 * [Tom Chadwin](https://twitter.com/chadwin)
 * [Alastair Graham](https://twitter.com/ajggeoger)
+* [Tom Armitage](https://twitter.com/MapNav_Tom)
+* [Joseph Seddon](https://twitter.com/josephseddon)
 
 ### Funding
 
