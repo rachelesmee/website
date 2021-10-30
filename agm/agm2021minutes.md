@@ -17,7 +17,7 @@ The [minutes of the 2020](https://uk.osgeo.org/agm/agm2020minutes.html) AGM were
 ### Accounts 2020-2021
 The Treasurer presented a summary of the accounts, and these were accepted.
 
-* Total Income: £2,256
+* Total Income: £2,526
 * Total Expenditure: £2,040
 * Profit: £485
 * Current Balance: £14,271 (current + PayPal)
