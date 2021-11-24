@@ -4,6 +4,10 @@ layout: default
 
 ### Past events
 
+### 2021
+
+* [OSGeo:UK AGM 2021](agm/agm2021minutes.html)
+
 ### 2020
 
 * [FOSS4GUK Online 2020](/foss4gukonline2020/) 
