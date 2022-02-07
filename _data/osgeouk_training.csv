@@ -1,7 +1,4 @@
 description,date,organisation,location,link
-Introduction to Spatial Data & Using R as a GIS, 1-2 February 2022,Geospatial Training Solutions,Online,https://bit.ly/3sXufJy
-PostGIS Essentials,1-2 February 2022, Astun Technology, Online, https://www.astuntechnology.com/training
-QGIS Beginner, 3-4 February 2022, Idox (thinkWhere), Online, https://www.thinkwhere.com/services/open-source-gis-training/
 Confident Spatial Analysis and Statistics in R & GeoDa, 8-9 February 2022,Geospatial Training Solutions,Online,https://bit.ly/37YUYgH
 QGIS Fast Track, 16 February 2022, Idox (thinkWhere), Online, https://www.thinkwhere.com/services/open-source-gis-training/
 QGIS Advanced, 25 February 2022, Idox (thinkWhere), Online, https://www.thinkwhere.com/services/open-source-gis-training/
@@ -13,6 +10,7 @@ QGIS Advanced,16 March 2022, Astun Technology, Online, https://www.astuntechnolo
 PostGIS DBA Essentials,23 March 2022, Astun Technology, Online, https://www.astuntechnology.com/training
 QGIS Beginner, 28-29 March 2022, Idox (thinkWhere), Online, https://www.thinkwhere.com/services/open-source-gis-training/
 Geoserver Advanced,30 March 2022, Astun Technology, Online, https://www.astuntechnology.com/training
+QGIS Essentials, 5-6 April 2022, Astun Technology, Online, https://www.astuntechnology.com/training
 Python for QGIS,20 April 2022, Astun Technology, Online, https://www.astuntechnology.com/training
 QGIS Fast Track, 3 May 2022, Idox (thinkWhere), Online, https://www.thinkwhere.com/services/open-source-gis-training/
 QGIS Beginner, 25-26 May 2022, Idox (thinkWhere), Online, https://www.thinkwhere.com/services/open-source-gis-training/
