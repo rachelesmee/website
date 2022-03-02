@@ -11,6 +11,21 @@ See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for 
 
 ### News
 
+We are planning on running [FOSS4GUK:Local] on Thu 17 Nov 2022. We are proposing a new approach and are aiming to meet both in person and 'in the cloud' on PostGIS day: Thu 17th Nov 2022. This will be a hybrid conference, but with a twist: there will be no central physical location. The idea is to have a range of venues, geographically dispersed, where you can physically meet up, with some sessions streamed to all venues, and other sessions run locally. 
+
+We hope to have at least four meet up locations, but will aim for a lot more. There is no minimum size location, so you can meet up with a couple of friends locally, or get together with a much larger number in a big town or city. You will also be able to join remotely, from wherever you are, if you can't get to a venue. 
+
+This is where we need you! We need local organisers to step forward and offer to host an event at their location. Please contact us if you are interested in helping to deliver FOSS4G UK 2022.
+
+Current Planned Locations
+
+Location | Organiser(s)
+--- | ---
+Bristol | Anthony Scott / Alastair Graham 
+South Coast | Nick Bearman (TBC)
+
+For more details, check out [this email on the OSGeo:UK Mailing List]. 
+
 [FOSS4GUK Online 2020](/foss4gukonline2020/) was a big success - for an outlay of around £200, we had:
 
 * 600 delegates from 77 countries
