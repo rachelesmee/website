@@ -23,6 +23,7 @@ Location | Organiser(s)
 --- | ---
 Bristol | Anthony Scott / Alastair Graham 
 South Coast | Nick Bearman (TBC)
+Scotland | Tom Armitage 
 
 For more details, check out [this email on the OSGeo:UK Mailing List](https://lists.osgeo.org/pipermail/uk/2022-March/001139.html). 
 
