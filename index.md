@@ -22,8 +22,9 @@ Current Planned Locations
 Location | Organiser(s)
 --- | ---
 Bristol | Anthony Scott / Alastair Graham 
-South Coast | Nick Bearman (TBC)
+Dorchester | Paul Wittle / Nick Bearman (TBC)
 Scotland | Tom Armitage 
+Lancaster / Manchester | Barry Rowlingson (TBC)
 
 For more details, check out [this email on the OSGeo:UK Mailing List](https://lists.osgeo.org/pipermail/uk/2022-March/001139.html). 
 
