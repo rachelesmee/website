@@ -22,10 +22,13 @@ This is where we need you! We need local organisers to step forward and offer to
 Location | Organiser(s)
 --- | ---
 Bristol | Ant Scott / Alastair Graham 
-Dorchester | Paul Whittle / Nick Bearman (TBC)
+Birmingham / Midlands | Mark Wilcox
+Leeds	| Robin Lovelace / Tom Holderness
+London | Simon Miles
+South West / Dartmoor National Park | Matt Travis / Dave Barter
+South West / Southampton | Paul Wittle
 Scotland | Tom Armitage 
-Lancaster / Manchester | Barry Rowlingson (TBC)
-Birmingham | Mark Wilcox
+Lancaster / Manchester / Liverpool | Barry Rowlingson (TBC)
 
 For more details, check out [this email on the OSGeo:UK Mailing List](https://lists.osgeo.org/pipermail/uk/2022-March/001139.html). 
 
