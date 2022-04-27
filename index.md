@@ -23,11 +23,11 @@ Location | Organiser(s)
 --- | ---
 Bristol | Ant Scott / Alastair Graham 
 Birmingham / Midlands | Mark Wilcox
-Leeds	| Robin Lovelace / Tom Holderness
+Leeds	| Mike West / Robin Lovelace
 London | Simon Miles
 South West / Dartmoor National Park | Matt Travis / Dave Barter
-South West / Southampton | Paul Wittle
-Scotland | Tom Armitage 
+South West / Southampton | Paul Wittle / Paul Naylor
+Scotland | Tom Armitage / Ana Basiri
 Liverpool | Patrick Ballantyne
 
 For more details, check out [this email on the OSGeo:UK Mailing List](https://lists.osgeo.org/pipermail/uk/2022-March/001139.html). 
