@@ -64,7 +64,7 @@ National sponsorship allows us to support the overall event, and additional room
 - your logo on the website
 - your logo on the welcome and intermission slides of the keynote presentations
 
-For more details, please contact Nick Bearman, and.or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+For more details, please contact Nick Bearman, and/or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
 
 Local venue sponsorship helps us pay for room hire and catering at a specific venue. These are key to the success of this conference. Local venue sponsorship will give you:
 
@@ -82,7 +82,7 @@ For regular updates follow us on [Twitter](https://twitter.com/foss4guk)/[#FOSS4
 Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct).
 
 
-## Contact
+## Contact **UPDATE**
 [@FOSS4GUK](https://twitter.com/foss4guk) or [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
 
 <p>&nbsp;</p>
