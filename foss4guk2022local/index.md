@@ -83,6 +83,6 @@ Participants at FOSS4G UK Online 2020 are expected to act respectfully toward ot
 
 
 ## Contact **UPDATE**
-[@FOSS4GUK](https://twitter.com/foss4guk) or [foss4guk.osgeouk@gmail.com](mailto:foss4guk.osgeouk@gmail.com).
+[@FOSS4GUK](https://twitter.com/foss4guk) or [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
 
 <p>&nbsp;</p>
