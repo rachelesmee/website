@@ -12,11 +12,11 @@ These are our local venues. Details of specific venues will be posted on here as
 Location | Chair(s)
 --- | ---
 Birmingham / Midlands | Mark Wilcox
-Bovey Tracy (Dartmoor National Park) | Matt Travis / Dave Barter
-Bristol | [Ant Scott](https://twitter.com/antscott) / Alastair Graham 
+Bovey Tracy (Dartmoor National Park) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
+Bristol | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
 Cardiff | *TBC*
-Glasgow | Tom Armitage / Ana Basiri
-Leeds	| Mike West / Robin Lovelace
+Glasgow | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
+Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
 Manchester | Jonny Huck
 Southampton (Ordnance Survey) | Paul Wittle / Paul Naylor
@@ -47,7 +47,29 @@ We have three great keynote presentations, which will be streamed to all the ven
 - Tim Sutton
 - Anita Graser
 
-## Tickets/Registration/Cost **UPDATE**
+## Sponsorship
+
+We have two sponsorship options for this conference: **Local venue** and **National**. 
+
+**Local venue** sponsorship helps us pay for room hire and catering at a specific venue. These are key to the success of this conference. Local venue sponsorship will give you:
+
+- logo on the website
+- logo on the national welcome slide at the beginning of the conference
+- a call-out at the local venue 
+- ability to have a roll-up banner displayed at the local venue
+- table space for a stall at the local venue
+- opportunity to distribute swag at the local venue
+
+*This is all subject to agreement of the host organisation and suitable space at the venue. For more details, please contact the local session chair, contact details listed on the website.* **
+
+**National** sponsorship allows us to support the overall event, and additional room hire and catering costs for venues where we can't get local sponsorship. National sponsorship will give you:
+
+- your logo on the website
+- your logo on the welcome and intermission slides of the keynote presentations
+
+For more details, please contact Nick Bearman, and/or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+
+## Tickets/Registration/Cost
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
@@ -55,34 +77,17 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 * [MapAction](https://mapaction.org/donate/)
 * A charity of your choice
 
-## Sponsorship
+More details on delegate registration will be provided nearer to the conference. 
 
-We have two sponsorship options for this conference: **National** and **Local venue**. 
-
-National sponsorship allows us to support the overall event, and additional room hire and catering costs for venues where we can't get local sponsorship. National sponsorship will give you:
-
-- your logo on the website
-- your logo on the welcome and intermission slides of the keynote presentations
-
-For more details, please contact Nick Bearman, and/or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
-
-Local venue sponsorship helps us pay for room hire and catering at a specific venue. These are key to the success of this conference. Local venue sponsorship will give you:
-
-- ability to have a roll-up banner displayed at the local venue
-- table space for a stall at the local venue
-- opportunity to distribute swag at the local venue
-
-*This is all subject to agreement of the host organisation and suitable space at the venue. For more details, please contact the local session chair, contact details listed on the website.* 
-
-## News **UPDATE**
-For regular updates follow us on [Twitter](https://twitter.com/foss4guk)/[#FOSS4GUKOnline](https://twitter.com/search?q=%23FOSS4GUKOnline&src=typed_query).
+## News
+For regular updates follow us on [Twitter](https://twitter.com/osgeouk)/[#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query).
 
 
-## Code of Conduct **UPDATE**
-Participants at FOSS4G UK Online 2020 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct).
+## Code of Conduct
+Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *TL;DR: everyone is welcome, make everyone welcome, be nice.*
 
 
-## Contact **UPDATE**
-[@FOSS4GUK](https://twitter.com/foss4guk) or [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
+## Contact
+[@OSGeoUK](https://twitter.com/osgeouk) or [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
 
 <p>&nbsp;</p>
