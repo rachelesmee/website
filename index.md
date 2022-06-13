@@ -2,10 +2,10 @@
 layout: default
 ---
 
+---
 
 
-
-### FOSS4GUK:Local 2022 - Call for Papers!
+### FOSS4G:UK Local 2022 - Call for Papers!
 
 We are [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 9 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. 
 
@@ -20,7 +20,7 @@ Venues:
 - Manchester
 - Southampton (Ordnance Survey)
 
-The Call for Papers is now open, for more details, check out [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/).
+The Call for Papers is now open, for more details, check out the [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) site.
 
 ----
 
@@ -32,6 +32,8 @@ The Call for Papers is now open, for more details, check out [FOSS4G:UK 2022 Loc
 * 270 subscribers to our YouTube channel
 
 [FOSS4GUK 2019](/foss4guk2019/){:target="_newpage"} has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.
+
+---
 
 ### Events
 
