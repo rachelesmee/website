@@ -55,16 +55,17 @@ We have two sponsorship options for this conference: **Local venue** and **Natio
 
 - logo on the website
 - logo on the national welcome slide at the beginning of the conference
-- a call-out at the local venue 
+- a thank you at the local venue 
 - ability to have a roll-up banner displayed at the local venue
 - table space for a stall at the local venue
 - opportunity to distribute swag at the local venue
 
-*This is all subject to agreement of the host organisation and suitable space at the venue. For more details, please contact the local session chair, contact details listed on the website.* **
+*This is all subject to agreement of the host organisation and suitable space at the venue. For more details, please contact the local session chair, contact details listed above.* 
 
 **National** sponsorship allows us to support the overall event, and additional room hire and catering costs for venues where we can't get local sponsorship. National sponsorship will give you:
 
 - your logo on the website
+- a thank you during the national welcome presentation 
 - your logo on the welcome and intermission slides of the keynote presentations
 
 For more details, please contact Nick Bearman, and/or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
@@ -80,11 +81,11 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 More details on delegate registration will be provided nearer to the conference. 
 
 ## News
-For regular updates follow us on [Twitter](https://twitter.com/osgeouk)/[#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query).
+For regular updates follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query).
 
 
 ## Code of Conduct
-Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *TL;DR: everyone is welcome, make everyone welcome, be nice.*
+Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
 
 
 ## Contact
