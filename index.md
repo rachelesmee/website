@@ -3,34 +3,26 @@ layout: default
 ---
 
 
-### Events
 
-Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
 
-See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
+### FOSS4GUK:Local 2022 - Call for Papers!
 
-### FOSS4GUK:Local 2022 - Save the date!
+We are [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 9 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. 
 
-We are planning on running [FOSS4GUK:Local](https://lists.osgeo.org/pipermail/uk/2022-March/001139.html) on *Thu 17 Nov 2022*. We are proposing a new approach and are aiming to meet both in person and 'in the cloud' on PostGIS day. This will be a hybrid conference, but with a twist: there will be no central physical location. The idea is to have a range of venues, geographically dispersed, where you can physically meet up, with some sessions streamed to all venues, and other sessions run locally. 
+Venues:
+- Birmingham / Midlands
+- Bovey Tracy (Dartmoor National Park)
+- Bristol
+- Cardiff
+- Glasgow
+- Leeds
+- London
+- Manchester
+- Southampton (Ordnance Survey)
 
-We hope to have at least four meet up locations, but will aim for a lot more. There is no minimum size location, so you can meet up with a couple of friends locally, or get together with a much larger number in a big town or city. You will also be able to join remotely, from wherever you are, if you can't get to a venue. 
+The Call for Papers is now open, for more details, check out [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/).
 
-This is where we need you! We need local organisers to step forward and offer to host an event at their location. Please contact us if you are interested in helping to deliver FOSS4G UK 2022.
-
-#### Current Planned Locations
-
-Location | Organiser(s)
---- | ---
-Bristol | Ant Scott / Alastair Graham 
-Birmingham / Midlands | Mark Wilcox
-Leeds	| Mike West / Robin Lovelace
-London | Simon Miles
-South West / Dartmoor National Park | Matt Travis / Dave Barter
-South West / Southampton | Paul Wittle / Paul Naylor
-Scotland | Tom Armitage / Ana Basiri
-Liverpool | Patrick Ballantyne
-
-For more details, check out [this email on the OSGeo:UK Mailing List](https://lists.osgeo.org/pipermail/uk/2022-March/001139.html). 
+----
 
 [FOSS4GUK Online 2020](/foss4gukonline2020/) was a big success - for an outlay of around £200, we had:
 
@@ -41,6 +33,11 @@ For more details, check out [this email on the OSGeo:UK Mailing List](https://li
 
 [FOSS4GUK 2019](/foss4guk2019/){:target="_newpage"} has been and gone, and was an enormously successful event. Our thanks go out to the organising committee, sponsors and delegates. Videos are available on our [YouTube channel](https://www.youtube.com/channel/UCg0wX857AHUGM3qCzR6PcwQ){:target="_newpage"}. Also see the twitter hashtags [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK){:target="_newpage"} and [#FOSS4GUK2019](https://twitter.com/search?q=%23foss4guk2019){:target="_newpage"} for a sense of what it was like.
 
+### Events
+
+Thinking of an Open Source GIS event, and after some support? Contact us on the mailing list below and tell us your idea! See our [past events](pastevents.html){:target="_newpage"} page for details of events we have supported or organised in the past.
+
+See also our [guidelines page](foss4gukguidelines.html){:target="_newpage"} for information on setting up a FOSS4GUK event.
 
 ### Contact
 
