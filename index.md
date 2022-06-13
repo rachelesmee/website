@@ -2,8 +2,6 @@
 layout: default
 ---
 
----
-
 
 ### FOSS4G:UK Local 2022 - Call for Papers!
 
