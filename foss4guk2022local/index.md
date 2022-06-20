@@ -1,7 +1,9 @@
 ## FOSS4G:UK Local 2022
 <img src="images/logo.png" width="300" align="middle">
 
-[OSGeo:UK](https://uk.osgeo.org/) are running a one day FOSS4G event on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 9 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue. 
+[OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
+
+We running a FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 9 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue. 
 
 If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have a Matrix room to allow people to chat to each other before, during and after the event. 
 
@@ -24,6 +26,19 @@ Southampton (Ordnance Survey) | Paul Wittle / Paul Naylor
 
 ## Call for Talks
 
+We want to hear from you! We are open to any talks about FOSS4G (free and open source software for geospatial). Currently we only need a brief paragraph on what you would like to talk - no detailed submissions. Talks, presentations, workshops, and show & tell sessions can be about:
+
+- New/updated FOSS4G software
+- Interesting applications of FOSS4G across industry, commercial, public sector or third sector
+- How to use FOSS4G and related software at a range of levels
+
+We also have a number of different formats and lengths, or you can proposed your own: 
+
+- Lightning talks (5-10 min)
+- Presentations (30 min)
+- Workshops (1hr or 2hr)
+- Show and tell (short & variable)
+	
 The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). Any venue specific query please contact the local venue chair, listed above. 
 
 ## Schedule
@@ -49,7 +64,7 @@ We have three great keynote presentations, which will be streamed to all the ven
 
 ## Sponsorship
 
-We have three sponsorship options for this conference: **Local venue**, **Business Supporter** and  **National**. 
+We have three sponsorship options for this conference: **Local venue**, **Business supporter** and  **National**. 
 
 **Local venue** sponsorship helps us pay for room hire and catering at a specific venue. These are key to the success of this conference. Local venue sponsorship will give you:
 
