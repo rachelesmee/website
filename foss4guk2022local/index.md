@@ -1,6 +1,6 @@
 ## FOSS4G:UK Local 2022
 
-[Venues](#venues-&-organisers) | [Talks](#call-for-talks) | [Schedule](#schedule) | [Keynotes](#keynote-presentations) | [Sponsership](sponsership.html) | [Registeration](#tickets/registeration/cost)
+[Venues](#venues) | [Talks](#call-for-talks) | [Schedule](#schedule) | [Keynotes](#keynote-presentations) | [Sponsership](sponsorship.html) | [Registeration](#registeration)
 
 <img src="images/logo.png" width="300" align="middle">
 
@@ -10,7 +10,7 @@ We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://p
 
 If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event. 
 
-## Venues & Organisers
+## Venues
 
 These are our local venues. Details of specific venues will be posted on here as they are confirmed.
 
@@ -65,7 +65,9 @@ We have three great keynote presentations, which will be streamed to all the ven
 - Tim Sutton
 - Anita Graser
 
-## Tickets/Registration/Cost
+## Registration
+
+Registeration will open nearer the event, but follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or keep an eye on here for more details. 
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
