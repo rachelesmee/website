@@ -45,10 +45,10 @@ The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will 
 
 The national schedule for Thurs 17th Nov 2022 is:
 - 09:30 - 10:00 - Opening and welcome
-- 10:00 - 10:30 - Anita Graser: Shaping Open Spatial Data Science
-- 10:30 - 11:00 - Tim Sutton: 
+- 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/): Shaping Open Spatial Data Science
+- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/en/people/person/tim/): 
 - 11:00 - 16:00 - local arrangements
-- 16:00 - 16:30 - Regina Obe: Post GIS Vision: Past, Present, and Future
+- 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe): Post GIS Vision: Past, Present, and Future
 - 16:30 - 16:45 - Wrap-up
 - 16:45 onwards - local arrangements
 
