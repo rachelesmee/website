@@ -1,6 +1,6 @@
 ## FOSS4G:UK Local 2022
 
-[Venues](index.html#venues) | [Talks](index.html#call-for-talks) | [Schedule](index.html#schedule) | [Keynotes](index.html#keynote-presentations) | [Sponsership](index.htmlsponsorship.html) | [Registration](index.html#registration)
+[Venues](index.html#venues) | [Talks](index.html#call-for-talks) | [Schedule](index.html#schedule) | [Keynotes](index.html#keynote-presentations) | [Sponsership](sponsorship.html) | [Registration](index.html#registration)
 
 ## Sponsorship
 
