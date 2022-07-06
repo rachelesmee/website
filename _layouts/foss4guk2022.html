@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+    {% include head.html %}
+  <body>
+    <div class="wrapper">
+      <header class="sticky" id="stickymenu">
+        <a id = "logo" href="/" title="OSGeo:UK"></a>
+        <p>OSGeo UK Local Chapter</p>
+        <a href="#venues">Venues</a><br>
+        <a href="#call-for-talks">Talks</a><br>
+        <a href="#schedule">Schedule</a><br>
+        <a href="#keynote-presentations">Keynotes</a><br>
+        <a href="sponsorship.html">Sponsership</a><br>
+        <a href="#registration">Registration</a><br>
+      </header>
+      <section class="content">
+          {{ content }}
+      </section>
+    </div>
+<div class="wrapper foot">
+      {% include footer_foss4guk2016.html %}
+</div>
+    <script src="/javascripts/scale.fix.js"></script>
+  </body>
+</html>
