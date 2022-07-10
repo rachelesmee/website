@@ -1,6 +1,8 @@
-## FOSS4G:UK Local 2022
+---
+layout: foss4guk2022
+---
 
-[Venues](index.html#venues) | [Talks](index.html#call-for-talks) | [Schedule](index.html#schedule) | [Keynotes](index.html#keynote-presentations) | [Sponsership](sponsorship.html) | [Registration](index.html#registration)
+## FOSS4G:UK Local 2022
 
 ## Sponsorship
 
