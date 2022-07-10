@@ -268,3 +268,9 @@ footer {
     color:#444;
   }
 }
+
+/* Added by JJH for sticky menu */
+.sticky {
+  position: fixed;
+  top: 0;
+}
