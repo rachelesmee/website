@@ -4,7 +4,6 @@ Local Venue Chairs: [Paul Wittle]() & [Paul Naylor]()
 
 ### Location & Travel
 
-Address:  <br>
 Ordnance Survey <br>
 Explorer House  <br>
 Adanac Drive  <br>
@@ -13,9 +12,9 @@ SO16 0AS  <br>
 
 More information: [https://www.ordnancesurvey.co.uk/contact-us/find-us-page](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)
 
-A visitors car park is available. 
+Car: A visitors car park is available. 
 
-Train access is to Southampton Central, then by taxi (about 15 min) or local bus. 
+Train: Best station is Southampton Central, then by taxi (about 15 min) or local bus. 
 
 ### Outline
 
