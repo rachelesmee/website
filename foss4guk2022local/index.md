@@ -25,7 +25,7 @@ Cardiff | *TBC*
 Glasgow | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
-Manchester | Jonny Huck
+Manchester | [Jonny Huck](https://jonnyhuck.co.uk)
 Southampton (Ordnance Survey) | Paul Wittle / Paul Naylor
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
