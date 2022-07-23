@@ -18,15 +18,15 @@ These are our local venues. Details of specific venues will be posted on here as
 
 Location | Chair(s)
 --- | ---
-Birmingham / Midlands | Mark Wilcox
+Worcester | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 Bovey Tracy (Dartmoor National Park) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
 Bristol | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
-Cardiff | *TBC*
+Cardiff | Kevin Williams
 Glasgow | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
 Manchester | [Jonny Huck](https://jonnyhuck.co.uk)
-Southampton (Ordnance Survey) | Paul Wittle / Paul Naylor
+[Southampton](southampton.html) (Ordnance Survey) | Paul Wittle / Paul Naylor
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
 ## Call for Talks
@@ -61,15 +61,11 @@ The local venue chairs will decide what sessions they run between 11:00 - 16:00.
 
 ## Keynote Presentations
 
-We have three great keynote presentations, which will be streamed to all the venues:
-
-- Regina Obe
-- Tim Sutton
-- Anita Graser
+We are delighted to have keynote presentations from three leading contibutors to open source GIS worldwide: Regina Obe, Tim Sutton, and Anita Graser (see above for details) - these will be streamed live to all the venues.
 
 ## Registration
 
-Registration will open nearer the event, but follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) or keep an eye on here for more details. 
+Registration will open soon, but in the meantime follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk), and keep an eye on this site for more details. 
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
@@ -77,11 +73,7 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 * [MapAction](https://mapaction.org/donate/)
 * A charity of your choice
 
-More details on delegate registration will be provided nearer to the conference. 
-
-## News
-For regular updates follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query).
-
+Registration details will be provided shortly. 
 
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
