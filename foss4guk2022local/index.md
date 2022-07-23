@@ -14,7 +14,7 @@ If there is no physical location near you, you could host your own. Venues donâ€
 
 ## Venues
 
-These are our local venues. Details of specific venues will be posted on here as they are confirmed.
+These are our local venues.
 
 Location | Chair(s)
 --- | ---
