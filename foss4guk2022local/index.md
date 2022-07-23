@@ -18,7 +18,7 @@ These are our local venues. Details of specific venues will be posted on here as
 
 Location | Chair(s)
 --- | ---
-Worcester | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
+[Worcester](worcester.html) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 Bovey Tracy (Dartmoor National Park) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
 [Bristol](bristol.html) | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
 Cardiff | Kevin Williams
