@@ -3,7 +3,7 @@
 Local Venue Chairs: [Paul Wittle]() & [Paul Naylor]()
 
 ### Call for talks
-The call for talks in Southampton is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your propsal in now so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks in Southampton is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
 [Ordnance Survey](https://www.openstreetmap.org/#map=19/50.93812/-1.47032)<br>
