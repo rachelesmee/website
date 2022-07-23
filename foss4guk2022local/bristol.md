@@ -19,7 +19,7 @@ Temple Meads<br>
 Bristol<br>
 BS1 6QH<br>
 
-Getting there:[https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)]
+Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)]
 
 We encourage everyone to travel by public transport/car share/under their onw steam if possible.
 
