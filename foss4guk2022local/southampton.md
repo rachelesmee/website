@@ -17,9 +17,9 @@ Adanac Drive<br>
 Southampton<br>
 SO16 0AS<br>
 
-Getting there:[https://www.ordnancesurvey.co.uk/contact-us/find-us-page](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)
+Getting there: [https://www.ordnancesurvey.co.uk/contact-us/find-us-page](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)
 
-We encourage everyone to travel by public transport/car share if possible.
+We encourage everyone to travel by public transport/car share/ under their own steam if possible.
 
 ### Programme
 
