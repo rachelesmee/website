@@ -18,7 +18,7 @@ The call for talks in Worcester is [now open](https://forms.gle/HfBkq5LSrDpCfp4G
 ### Location & Travel
 [New Road Events](https://www.openstreetmap.org/#map=19/52.18923/-2.22680)<br>
 New Road<br>
-Worcester>br>
+Worcester<br>
 WR2 4QQ
 
 Getting there: [https://www.newroadevents.co.uk/how-to-find-us](https://www.newroadevents.co.uk/how-to-find-us)
