@@ -6,7 +6,7 @@ layout: foss4guk2022
 
 Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham ](https://twitter.com/ajggeoger)
 
-<img src="images/engineshed.jpeg" width="300" align="middle">
+<img src="images/engineshed.jpeg" width="600" align="middle">
 
 ### Call for talks
 The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
