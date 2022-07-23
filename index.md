@@ -7,18 +7,7 @@ layout: default
 
 We are [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 9 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. 
 
-Venues:
-- Birmingham / Midlands
-- Bovey Tracy (Dartmoor National Park)
-- Bristol
-- Cardiff
-- Glasgow
-- Leeds
-- London
-- Manchester
-- Southampton (Ordnance Survey)
-
-The Call for Papers is now open, for more details, check out the [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) site.
+For details of the call for talks, venue and all the details, check out the [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) site.
 
 ----
 
