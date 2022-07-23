@@ -20,7 +20,7 @@ Location | Chair(s)
 --- | ---
 Worcester | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 Bovey Tracy (Dartmoor National Park) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
-Bristol | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
+[Bristol](bristol.html) | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
 Cardiff | Kevin Williams
 Glasgow | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
