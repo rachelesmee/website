@@ -10,7 +10,7 @@ Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham
 
 ### Sponsors
 
-We are very grateful for the support of CGI for sponsoring FOSS4G:UK Local at this event.
+We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
