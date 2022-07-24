@@ -1,3 +1,7 @@
+---
+layout: foss4guk2022
+---
+
 ## FOSS4G:UK Local 2022 - Bristol (Engine Shed, Bristol Temple Meads)
 
 Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
