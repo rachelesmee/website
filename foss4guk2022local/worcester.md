@@ -1,7 +1,3 @@
----
-layout: foss4guk2022
----
-
 ## FOSS4G:UK Local 2022 - Worcester (Worcestershire County Cricket Club)
 
 Local Venue Chair: [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
