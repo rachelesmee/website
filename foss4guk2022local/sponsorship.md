@@ -41,10 +41,10 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
-[<img src="images/ordnance-survey.jpg" width="150" align="middle">](https://www.ordnancesurvey.co.uk/)
+[<img src="images/OS logo prime RGB.jpg" width="150" align="middle">](https://www.ordnancesurvey.co.uk/)
 
 ### Business supporters
 
 ### National sponsors
 
-[<img src="images/ordnance-survey.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
+[<img src="images/OS logo prime RGB.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
