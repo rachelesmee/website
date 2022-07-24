@@ -13,7 +13,7 @@ Local Venue Chairs: [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Pa
 
 We are very grateful for the support of [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for supporting FOSS4G:UK Local at this event.
 
-[<img src="images/OS logo prime RGB.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
+[<img src="images/OS logo prime RGB.jpg" width="300" align="middle">](https://www.ordnancesurvey.co.uk/)
 
 ### Call for talks
 The call for talks in Southampton is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
