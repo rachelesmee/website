@@ -1,3 +1,8 @@
+---
+layout: foss4guk2022
+---
+
+
 ## FOSS4G:UK Local 2022 - Southampton (Ordnance Survey)
 
 Local Venue Chairs: [Paul Wittle](mailto:paul.naylor@os.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
@@ -8,7 +13,7 @@ Local Venue Chairs: [Paul Wittle](mailto:paul.naylor@os.uk) & [Paul Naylor](mail
 
 We are very grateful for the support of [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for supporting FOSS4G:UK Local at this event.
 
-[<img src="images/ordnance-survey.jpg" width="200" align="middle">]([https://www.ordnancesurvey.co.uk/](https://www.ordnancesurvey.co.uk/))
+[<img src="images/ordnance-survey.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
 
 ### Call for talks
 The call for talks in Southampton is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
