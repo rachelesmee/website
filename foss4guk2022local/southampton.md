@@ -7,7 +7,7 @@ layout: foss4guk2022
 
 Local Venue Chairs: [Paul Wittle](mailto:paul.naylor@os.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
 
-<img src="images/OS-HQ-exterior-0322-02.jpg" width="300" align="middle">
+<img src="images/OS-HQ-exterior-0322-02.jpg" width="600" align="middle">
 
 ### Sponsors
 
