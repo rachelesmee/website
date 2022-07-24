@@ -30,3 +30,19 @@ We have three sponsorship options for this conference: **Local venue**, **Busine
 - your logo on the welcome and intermission slides of the keynote presentations
 
 For more details, please contact Nick Bearman, and/or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+
+## Sponsors supporting FOSS4G:UK Local 2022
+
+## Local venue
+
+[<img src="images/ASTUN_LOGO.jpg" width="300" align="middle">](https://www.astuntechnology.com)
+
+[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+
+[<img src="images/ordnance-survey.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
+
+## Business supporters
+
+## National sponsors
+
+[<img src="images/ordnance-survey.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
