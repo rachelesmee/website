@@ -33,16 +33,18 @@ For more details, please contact Nick Bearman, and/or [osgeouk@gmail.com](mailto
 
 ## Sponsors supporting FOSS4G:UK Local 2022
 
-## Local venue
+Many thanks to all of our sponsors. Please do check out their websites:
+
+### Local venue
 
 [<img src="images/ASTUN_LOGO.jpg" width="300" align="middle">](https://www.astuntechnology.com)
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
-[<img src="images/ordnance-survey.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
+[<img src="images/ordnance-survey.jpg" width="150" align="middle">](https://www.ordnancesurvey.co.uk/)
 
-## Business supporters
+### Business supporters
 
-## National sponsors
+### National sponsors
 
 [<img src="images/ordnance-survey.jpg" width="200" align="middle">](https://www.ordnancesurvey.co.uk/)
