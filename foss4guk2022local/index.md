@@ -16,7 +16,6 @@ These are our local venues.
 
 Location | Chair(s)
 --- | ---
-[Worcester](worcester.html) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 Bovey Tracy (Dartmoor National Park) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
 [Bristol](bristol.html) | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
 Cardiff | Kevin Williams
@@ -24,7 +23,8 @@ Glasgow | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
 Manchester | [Jonny Huck](https://jonnyhuck.co.uk)
-[Southampton](southampton.html) (Ordnance Survey) | Paul Wittle / Paul Naylor
+[Southampton](southampton.html) (Ordnance Survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) / [Paul Naylor](mailto:paul.naylor@os.uk)
+[Worcester](worcester.html) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
 ## Call for Talks

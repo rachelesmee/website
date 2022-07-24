@@ -5,7 +5,7 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Southampton (Ordnance Survey)
 
-Local Venue Chairs: [Paul Wittle](mailto:paul.naylor@os.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
+Local Venue Chairs: [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
 
 <img src="images/OS-HQ-exterior-0322-02.jpg" width="600" align="middle">
 
