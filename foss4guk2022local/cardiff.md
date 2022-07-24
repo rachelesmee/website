@@ -1,7 +1,3 @@
----
-layout: foss4guk2022
----
-
 ## FOSS4G:UK Local 2022 - Cardiff (Sophia Gardens)
 
 Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
