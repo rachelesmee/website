@@ -19,7 +19,7 @@ Location | Chair(s)
 [Bovey Tracy (Dartmoor National Park)](boveytracey.html) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
 [Bristol](bristol.html) | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
 Cardiff | Kevin Williams
-Glasgow | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
+[Glasgow](glasgow.html) | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
 Manchester | [Jonny Huck](https://jonnyhuck.co.uk)
