@@ -23,7 +23,7 @@ Cardiff | Kevin Williams
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
 Manchester | [Jonny Huck](https://jonnyhuck.co.uk)
-[Southampton](southampton.html) (Ordnance Survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) / [Paul Naylor](mailto:paul.naylor@os.uk)
+[Southampton (Ordnance Survey)](southampton.html) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) / [Paul Naylor](mailto:paul.naylor@os.uk)
 [Worcester](worcester.html) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
