@@ -33,8 +33,6 @@ Train: Best station is Southampton Central, then by taxi (about 15 min) or [loca
 
 Car: A visitors car park is available. 
 
-To minimise the carbon footprint of our event, we would ask participants to consider public transport or car sharing where possible. Various lift sharing websites are available, and you are welcome to offer / ask for car sharing in the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org), or [liftshare.com](liftshare.com) is a car sharing website. *Participants organise lift sharing at their own risk, OSGeo:UK accepts no responsibility for car sharing.*
-
 ### Programme
 
 The schedule for Thurs 17th Nov 2022 is:
