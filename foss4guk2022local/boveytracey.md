@@ -21,8 +21,8 @@ The call for talks at Dartmoor National Park is [now open](https://forms.gle/HfB
 Parke<br>
 Haytor Road<br>
 Bovey Tracey<br>
-DEvon<br>
-TQ13 0JQ<br>
+Devon<br>
+TQ13 9JQ<br>
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
