@@ -2,28 +2,21 @@
 layout: foss4guk2022
 ---
 
-## FOSS4G:UK Local 2022 - Glasgow ()
+## FOSS4G:UK Local 2022 - Glasgow (University of Glasgow)
 
-Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
+Local Venue Chairs: [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 
-<img src="images/engineshed.jpeg" width="600" align="middle">
+<img src="images/uni-of-glasgow.jpg" width="600" align="middle">
 
-### Sponsors
-We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.<br>
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
 ### Call for talks
-The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks in Glasgow is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
-[Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
-Engine Shed<br>
-Station Approach<br>
-Temple Meads<br>
-Bristol<br>
-BS1 6QH<br>
 
-Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)
+[University of Glasgow](https://www.openstreetmap.org/way/26624925#map=17/55.87326/-4.28901)<br>
+Glasgow<br>
+G12 8QQ<br>
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
