@@ -43,7 +43,7 @@ We also have a number of different formats and lengths, or you can proposed your
 - Show and tell (short & variable)
 	
 
-The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). Any venue specific query please contact the local venue chair, listed above. 
+The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above. 
 
 ## Schedule
 
@@ -79,6 +79,15 @@ Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward oth
 
 
 ## Contact
-[@OSGeoUK](https://twitter.com/osgeouk) or [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
+[@OSGeoUK](https://twitter.com/osgeouk) or <span class="osgeoemail"></span>.
 
 <p>&nbsp;</p>
+
+<!-- Jonny Huck Email Obfuscator -->
+<!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
+<script src="/javascripts/tea-block.js"></script><script>
+    let spans = document.getElementsByClassName('osgeoemail');
+    for (let i = 0; i < spans.length; i++){
+        spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
+    }
+</script>
