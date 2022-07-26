@@ -22,7 +22,7 @@ Cardiff | Kevin Williams
 [Glasgow](glasgow.html) | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 Leeds	| [Mike West](mailto:foss4g@addresscloud.com) / Robin Lovelace
 London | Simon Miles
-Manchester | [Jonny Huck](https://jonnyhuck.co.uk)
+[Manchester](manchester.html) | [Jonny Huck](https://jonnyhuck.co.uk)
 [Southampton (Ordnance Survey)](southampton.html) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) / [Paul Naylor](mailto:paul.naylor@os.uk)
 [Worcester](worcester.html) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
@@ -42,6 +42,7 @@ We also have a number of different formats and lengths, or you can proposed your
 - Workshops (1hr or 2hr)
 - Show and tell (short & variable)
 	
+
 The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or [osgeouk@gmail.com](mailto:osgeouk@gmail.com). Any venue specific query please contact the local venue chair, listed above. 
 
 ## Schedule
