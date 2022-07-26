@@ -37,9 +37,13 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 ### Local venue
 
+[<img src="images/leeds-addresscloud-logo.png" width="250" align="middle">](https://www.addresscloud.com)
+
 [<img src="images/ASTUN_LOGO.jpg" width="300" align="middle">](https://www.astuntechnology.com)
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+
+[<img src="images/leeds-jbarisk-logo.png" width="200" align="middle">](https://www.jbarisk.com)
 
 [<img src="images/OS logo prime RGB.jpg" width="250" align="middle">](https://www.ordnancesurvey.co.uk/)
 

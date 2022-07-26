@@ -2,28 +2,29 @@
 layout: foss4guk2022
 ---
 
-## FOSS4G:UK Local 2022 - Leeds ()
+## FOSS4G:UK Local 2022 - Leeds (Platform)
 
-Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
+Local Venue Chairs: Tomas Holderness, Michael West and Robin Lovelace
 
-<img src="images/engineshed.jpeg" width="600" align="middle">
+<img src="images/leeds-platform.jpg" width="600" align="middle">
 
 ### Sponsors
-We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.<br>
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+We are very grateful for the support of [Addresscloud](https://www.addresscloud.com/) and [JBA](https://www.jbarisk.com/) for sponsoring FOSS4G:UK Local at this event.<br>
+[<img src="images/leeds-addresscloud-logo.png" width="250" style="margin: 10px" align="middle">](https://www.addresscloud.com)
+[<img src="images/leeds-jbarisk-logo.png" width="200" style="margin: 10px" align="middle">](https://www.jbarisk.com)
 
 ### Call for talks
-The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks in Leeds is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
-[Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
-Engine Shed<br>
-Station Approach<br>
-Temple Meads<br>
-Bristol<br>
-BS1 6QH<br>
+[Platform](https://www.openstreetmap.org/#map=19/53.7949385/-1.5466345)<br>
+New Station St<br>
+Leeds<br>
+LS1 4JB<br>
 
-Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)
+Website: [https://bruntwood.co.uk/our-locations/leeds/platform/](https://bruntwood.co.uk/our-locations/leeds/platform/)
+
+Getting there: Platform is adjacent to Leeds train station meaning that it is excellently served by both train and bus services.
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
