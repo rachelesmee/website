@@ -6,11 +6,11 @@ layout: foss4guk2022
 
 Local Venue Chair: [Jonny Huck](https://jonnyhuck.co.uk)
 
-<img src="images/engineshed.jpeg" width="600" align="middle">
+<img src="https://www.alliancembs.manchester.ac.uk/media/ambs/content-assets/images/about/banner-about-whitworth-entrance.jpg" width="600" align="middle">
 
-### Sponsors
+<!-- ### Sponsors
 We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.<br>
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)-->
 
 ### Call for talks
 The call for talks in Manchester is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
@@ -21,12 +21,9 @@ Oxford Rd<br>
 Manchester<br>
 M13 9PL<br>
 
-Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)
-
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
+Click [here](https://www.manchester.ac.uk/discover/maps/) for information on traveling to The University of Manchester. We encourage everyone to travel by public transport / car share / under their own steam if possible.
 
 ### Programme
-
 The schedule for Thurs 17th Nov 2022 is:
 - 09:00 - 09:30 - Arrivals and coffee
 - 09:30 - 10:00 - Opening and welcome
@@ -38,5 +35,4 @@ The schedule for Thurs 17th Nov 2022 is:
 - 16:45 onwards - local arrangements
 
 ### Registration 
-
 Registration link to follow in due course - the event is free to attend but we strongly encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
