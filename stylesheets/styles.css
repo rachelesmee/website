@@ -269,8 +269,27 @@ footer {
   }
 }
 
-/* Added by JJH for sticky menu */
-.sticky {
-  position: fixed;
-  top: 0;
+
+/* Jonny Huck CSS for UK Local Conference 2022 below here  */
+
+/* JJH: sticky menu for desktop version */
+@media print, screen and (min-width: 960px) {
+  .sticky {
+    position: fixed;
+    top: 0;
+  }
 }
+
+ /* JJH: remove line breaks for mobile/tablet version */
+@media print, screen and (max-width: 960px) {
+  .desktop-only {
+    display: none !important;
+  }
+}
+
+/* JJH: replaces <center> tags */
+header {
+  text-align: center;
+}
+
+/* Jonny Huck CSS ends */

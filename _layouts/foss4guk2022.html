@@ -3,30 +3,41 @@
     {% include head.html %}
   <body>
     <div class="wrapper">
-      <header class="sticky" id="stickymenu">
-		<p><a href="index.html"><img src="images/logo.png" width="300"></a></p>
-		<center>
-			<a href="index.html#venues">Venues</a><br>
-			<a href="index.html#call-for-talks">Talks</a><br>
-			<a href="index.html#schedule">Schedule</a><br>
-			<a href="index.html#keynote-presentations">Keynotes</a><br>
-			<a href="sponsorship.html">Sponsorship</a><br>
-			<a href="index.html#registration">Registration</a><br>
-		<p></p>
-		<p><i>Many thanks to our national sponsors supporting FOSS4G:UK Local 2022:</i></p>
-		<p><a href="https://www.ordnancesurvey.co.uk/"><img src="images/OS logo prime RGB.jpg" width="200" align="middle"></a></p>
-		<p><i><a href="sponsorship.html">Please check out all of our sponsors who are supporting FOSS4G:UK Local 2022</a></i></p>
-		</center>
-      </header>
-      <section class="content">
-          {{ content }}
-      </section>
+
+		<!-- This goes in the left column, everything in here is 'sticky' -->
+		<header class="sticky" id="stickymenu">
+
+			<!-- FOSS4G UK Logo -->
+			<p><a href="index.html"><img src="images/logo.png" width="300" alt="FOSS4G UK Logo"></a></p>
+
+			<!-- Menu -->
+			<a href="index.html#venues">Venues</a>&nbsp;<br class="desktop-only">
+			<a href="index.html#call-for-talks">Talks</a>&nbsp;<br class="desktop-only">
+			<a href="index.html#schedule">Schedule</a>&nbsp;<br class="desktop-only">
+			<a href="index.html#keynote-presentations">Keynotes</a>&nbsp;<br class="desktop-only">
+			<a href="sponsorship.html">Sponsorship</a>&nbsp;<br class="desktop-only">
+			<a href="index.html#registration">Registration</a>&nbsp;<br class="desktop-only">
+
+			<br><br>
+			<p><i>Many thanks to our national sponsors supporting FOSS4G:UK Local 2022:</i></p>
+			<a href="https://www.ordnancesurvey.co.uk/"><img src="./images/OS logo prime RGB.jpg" alt="OS Logo" width="300"></a>
+			<p><i><a href="sponsorship.html">Please check out all of our sponsors who are supporting FOSS4G:UK Local 2022</a></i></p>
+		
+		</header>
+
+		<!-- This goes in the right column -->
+		<section class="content">
+			{{ content }}
+		</section>
     </div>
-<div class="wrapper foot">
-	<a id = "logo" href="/" title="OSGeo:UK"></a>
-	<p>OSGeo UK Local Chapter</p>
-      {% include footer_foss4guk2016.html %}
-</div>
+
+	<!-- This goes in the left column at the bottom - it is NOT sticky -->
+	<div class="wrapper foot">
+		<a id = "logo" href="/" title="OSGeo:UK"></a>
+		<p>OSGeo UK Local Chapter</p>
+		{% include footer_foss4guk2016.html %}
+	</div>
+
     <script src="/javascripts/scale.fix.js"></script>
   </body>
 </html>
