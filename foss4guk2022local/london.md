@@ -6,7 +6,7 @@ layout: foss4guk2022
 
 Local Venue Chair: Simon Miles
 
-<img src="images/blm.png" width="600" align="middle">
+<img src="images/blm.png" width="400" align="middle">
 
 ### Sponsors
 We are very grateful for the support of [GeoXphere]([https://www.cgi.com/en](https://www.geoxphere.com) for sponsoring FOSS4G:UK Local at this event.<br>
