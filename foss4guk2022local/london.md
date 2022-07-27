@@ -2,21 +2,21 @@
 layout: foss4guk2022
 ---
 
-## FOSS4G:UK Local 2022 - London (BLM, Fenchurch St)
+## FOSS4G:UK Local 2022 - London (Clyde & Co, Fenchurch St)
 
 Local Venue Chair: [Simon Miles](https://twitter.com/geosmiles)
 
 <img src="images/blm.png" width="400" align="middle">
 
 ### Sponsors
-We are very grateful for the support of [GeoXphere](https://www.geoxphere.com) for sponsoring FOSS4G:UK Local at this event.<br>
+We are very grateful for the support of [Geoxphere](https://www.geoxphere.com) for sponsoring FOSS4G:UK Local at this event.<br>
 [<img src="images/geoxphere.png" width="200" align="middle">](https://www.geoxphere.com)
 
 ### Call for talks
 The call for talks in London is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
-[BLM](https://www.openstreetmap.org/way/615035502#map=19/51.51119/-0.08209)<br>
+[Clyde & Co](https://www.openstreetmap.org/way/615035502#map=19/51.51119/-0.08209)<br>
 30 Fenchurch Street<br>
 London<br>
 EC3M 3BL<br>
