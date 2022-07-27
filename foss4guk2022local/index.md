@@ -29,7 +29,7 @@ Cardiff | Kevin Williams
 
 ## Call for Talks
 
-We want to hear from you! We are open to any talks about FOSS4G (free and open source software for geospatial). Currently we only need a brief paragraph on what you would like to talk - no detailed submissions. Talks, presentations, workshops, and show & tell sessions can be about:
+We want to hear from you! We are open to any talks about FOSS4G (free and open source software for geospatial). Currently we only need a brief paragraph on what you would like to talk about - no detailed submissions. Talks, presentations, workshops, and show & tell sessions can be about:
 
 - New/updated FOSS4G software
 - Interesting applications of FOSS4G across industry, commercial, public sector or third sector
