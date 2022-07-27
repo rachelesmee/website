@@ -4,7 +4,7 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - London (BLM, Fenchurch St)
 
-Local Venue Chair: Simon Miles
+Local Venue Chair: [Simon Miles](https://twitter.com/geosmiles)
 
 <img src="images/blm.png" width="400" align="middle">
 
