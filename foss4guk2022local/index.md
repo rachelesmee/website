@@ -21,7 +21,7 @@ Location | Chair(s)
 Cardiff | Kevin Williams
 [Glasgow](glasgow.html) | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
 [Leeds](leeds.html)	| [Mike West](mailto:foss4g@addresscloud.com) / [Tomas Holderness](mailto:foss4g@addresscloud.com) / Robin Lovelace
-[London](london.html) | Simon Miles
+[London](london.html) | [Simon Miles](https://twitter.com/geosmiles)
 [Manchester](manchester.html) | [Jonny Huck](https://jonnyhuck.co.uk)
 [Southampton (Ordnance Survey)](southampton.html) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) / [Paul Naylor](mailto:paul.naylor@os.uk)
 [Worcester](worcester.html) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
