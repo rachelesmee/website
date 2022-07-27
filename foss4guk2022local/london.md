@@ -9,7 +9,7 @@ Local Venue Chair: Simon Miles
 <img src="images/blm.png" width="400" align="middle">
 
 ### Sponsors
-We are very grateful for the support of [GeoXphere]([https://www.cgi.com/en](https://www.geoxphere.com) for sponsoring FOSS4G:UK Local at this event.<br>
+We are very grateful for the support of [GeoXphere](https://www.geoxphere.com) for sponsoring FOSS4G:UK Local at this event.<br>
 [<img src="images/geoxphere.png" width="200" align="middle">](https://www.geoxphere.com)
 
 ### Call for talks
