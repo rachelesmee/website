@@ -16,7 +16,7 @@ These are our local venues.
 
 Location | Chair(s)
 --- | ---
-[Bovey Tracy (Dartmoor National Park)](boveytracey.html) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
+[Bovey Tracy (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Matt Travis](https://twitter.com/Yakus) / Dave Barter
 [Bristol](bristol.html) | [Ant Scott](https://twitter.com/antscott) / [Alastair Graham ](https://twitter.com/ajggeoger)
 Cardiff | Kevin Williams
 [Glasgow](glasgow.html) | [Tom Armitage](https://twitter.com/MapNav_Tom) / Ana Basiri
