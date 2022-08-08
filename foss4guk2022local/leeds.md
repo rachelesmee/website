@@ -4,7 +4,7 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Leeds (Platform)
 
-Local Venue Chairs: [Mike West](mailto:foss4g@addresscloud.com) / [Tomas Holderness](mailto:foss4g@addresscloud.com) / Robin Lovelace
+Local Venue Chairs: [Mike West](mailto:foss4g@addresscloud.com), [Tomas Holderness](mailto:foss4g@addresscloud.com) & Robin Lovelace
 
 <img src="images/leeds-platform.jpg" width="600" align="middle">
 

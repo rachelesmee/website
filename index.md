@@ -5,7 +5,7 @@ layout: default
 
 ### FOSS4G:UK Local 2022 - Call for Papers!
 
-We are [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 9 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. 
+We are [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) on *Thu 17 Nov 2022*. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. 
 
 For details of the call for talks, venue and all the details, check out the [FOSS4G:UK 2022 Local](https://uk.osgeo.org/foss4guk2022local/) site.
 
