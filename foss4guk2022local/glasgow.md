@@ -14,6 +14,7 @@ The call for talks in Glasgow is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9)
 
 ### Location & Travel
 
+Senate Room<br>
 [University of Glasgow](https://www.openstreetmap.org/way/26624925#map=17/55.87326/-4.28901)<br>
 Glasgow<br>
 G12 8QQ<br>
