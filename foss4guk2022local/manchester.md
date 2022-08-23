@@ -16,11 +16,11 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponso
 The call for talks in Manchester is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
-<p>[Core Technology Facility](https://www.openstreetmap.org/way/136502890)</p>
-<p>46 Grafton St</p>
-<p>The University of Manchester</p>
-<p>Manchester</p>
-<p>M13 9WU</p>
+[Core Technology Facility](https://www.openstreetmap.org/way/136502890)<br>
+46 Grafton St<br>
+The University of Manchester<br>
+Manchester<br>
+M13 9WU<br>
 
 Click [here](https://www.manchester.ac.uk/discover/maps/) for information on traveling to The University of Manchester. We encourage everyone to travel by public transport / car share / under their own steam if possible.
 
