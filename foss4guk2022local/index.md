@@ -63,7 +63,7 @@ We are delighted to have keynote presentations from three leading contibutors to
 
 ## Registration
 
-Registration will open soon, but in the meantime follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk), and keep an eye on this site for more details. 
+[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087). Follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk), and keep an eye on this site for more details. 
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
