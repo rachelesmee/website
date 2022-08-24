@@ -71,8 +71,6 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 * [MapAction](https://mapaction.org/donate/)
 * A charity of your choice
 
-Registration details will be provided shortly. 
-
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
 
