@@ -3,35 +3,40 @@ layout: foss4guk2022
 ---
 
 
-## FOSS4G:UK Local 2022 - Keyworth (British Geological Survey)
+
+## FOSS4G:UK Local 2022 - Keyworth, Nottinghamshire (British Geological Survey)
+
+# 🚧🚧 WORK IN PROGRESS! 🚧🚧
 
 Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
 
-<img src="images/OS-HQ-exterior-0322-02.jpg" width="600" align="middle">
+<img src="https://www.bgs.ac.uk/wp-content/uploads/2020/09/P786623-960x640.jpg" width="600" align="middle">
 
 ### Sponsors
 
-We are very grateful for the support of [British Geological Survey](https://www..co.uk/) for supporting FOSS4G:UK Local at this event.
+We are very grateful for the support of [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
 
-[<img src="images/OS logo prime RGB.jpg" width="300" align="middle">](https://www.ordnancesurvey.co.uk/)
-
-### Call for talks
-The call for talks in Keyworth is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2020/03/BGS-logo-large.png" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 ### Location & Travel
-[Ordnance Survey](https://www.openstreetmap.org/#map=19/50.93812/-1.47032)<br>
-Explorer House<br>
-Adanac Drive<br>
-Southampton<br>
-SO16 0AS<br>
 
-Getting there: [https://www.ordnancesurvey.co.uk/contact-us/find-us-page](https://www.ordnancesurvey.co.uk/contact-us/find-us-page)
+British Geological Survey<br>
+Nicker Hill<br>
+Keyworth<br>
+Nottinghamshire<br>
+NG12 5GG<br>
 
-We encourage everyone to travel by public transport/car share/ under their own steam if possible.
+Public transport:
 
-Train: Best station is Southampton Central, then by taxi (about 15 min) or [local bus number 17](https://www.bluestarbus.co.uk/services/BLUS/17). 
+Train ...
+Bus ...
+Car ...
 
-Car: A visitors car park is available. 
+
+### Call for talks
+
+The call for talks in Keyworth is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+
 
 ### Programme
 
