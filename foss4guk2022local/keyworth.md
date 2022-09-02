@@ -3,10 +3,7 @@ layout: foss4guk2022
 ---
 
 
-
 ## FOSS4G:UK Local 2022 - Keyworth, Nottinghamshire (British Geological Survey)
-
-# 🚧🚧 WORK IN PROGRESS! 🚧🚧
 
 Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
 
