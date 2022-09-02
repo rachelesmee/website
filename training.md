@@ -32,3 +32,7 @@ layout: default
 #### Adding courses
 
 To add courses to this page: sign-up for a GitHub account, edit [osgeouk_training.csv](https://github.com/osgeouk/website/blob/gh-pages/_data/osgeouk_training.csv) to include your courses and submit a pull request.
+
+Courses should be added in date order, and if two are on the same day, alphabetically. 
+
+Please also remove old courses for your organisation when they go out of date.
