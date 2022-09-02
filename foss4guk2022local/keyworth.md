@@ -10,13 +10,9 @@ layout: foss4guk2022
 
 Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
 
-
-
-
-
 ### Location & Travel
 
-The BGS headquarters are located in Keyworth, southeast of Nottingham.
+The British Geological Survey (BGS) headquarters are located in Keyworth, southeast of Nottingham, in the Midlands of England.
 
 **Address**
 
@@ -45,16 +41,9 @@ The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps d
 
 ### Registration 
 
-Please register via [the FOSS4GUK form](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) (Deadline 10 November 2022).  Numbers of delegates are required in order to plan catering.  Lunch is not provided, but there is an on-site cafe.  Please indicate in the "dietary requirements" section if you plan to buy lunch there on the day.
+Please register via [the FOSS4GUK form](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) (Deadline 10 November 2022).  Due to limitations on the room size, the number of delegates is limited to 25 on a first-come, first-served basis.  If there is demand we will look to increase this closer to the time.  Coffee and lunch will be provided; please indicate any dietary requirements on the form.
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
-
-### Call for talks
-
-Delegates at the Keyworth venue are invited propose "Lightning Talks" via the [Call for Talks form](https://forms.gle/HfBkq5LSrDpCfp4G9) (Deadline: Sun 18th Sept 2022).
-These presentations will be offline and local-only.
-For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
-
 
 ### Programme
 
@@ -64,16 +53,24 @@ The schedule for Thurs 17th Nov 2022 is:
 - 09:30 - 10:00 - Opening and welcome
 - 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science
 - 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/en/people/person/tim/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-- 11:00 - 16:00 - *local arrangements will be confirmed nearer the time*
+- 11:00 - 16:00 - *Local sessions: Lightning talks and workshops*
 - 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future
 - 16:30 - 16:45 - Wrap-up
 - 16:45 onwards - local arrangements
 
+### Local sessions: Lightning talks and workshops
+
+In the middle part of the day, between the streamed keynotes, we will have a lightning talks and workshop sessions.
+Delegates are invited submit "Lightning Talks" via the [Call for Talks form](https://forms.gle/HfBkq5LSrDpCfp4G9) (Deadline: Sun 18th Sept 2022).
+These presentations will be offline and local-only and will be 5-10 minutes long, depending on how many are submitted.
+
+There will be a workshop on "Using BGS Open Data in QGIS" and a room will be available for watching presentations streamed from other venues.
+
 ### Sponsors
 
-We are very grateful for the support of [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
+We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
 
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2020/03/BGS-logo-large.png" width="300" align="middle">](https://www.bgs.ac.uk/)
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 ## Code of Conduct
 
@@ -81,4 +78,4 @@ Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward oth
 
 ### Questions
 
-Any questions, please contact the local venue chairs (details above) or email [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
+Any questions, please contact [John Stevenson](mailto:jostev@bgs.ac.uk) and [Chris Williams](mailto:chrwil@bgs.ac.uk) or email [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
