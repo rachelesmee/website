@@ -9,8 +9,9 @@ Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham
 <img src="images/engineshed.jpeg" width="600" align="middle">
 
 ### Sponsors
-We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.<br>
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+We are very grateful for the support of [CGI](https://www.cgi.com/en) for fully sponsoring the venue for FOSS4G:UK Local in Bristol. We also thank [Sparkgeo](https://www.sparkgeo.com) for helping with additional sponsorship at this event <br>
+[<img src="images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/en) &nbsp;
+[<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
 
 ### Call for talks
 The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
