@@ -3,23 +3,28 @@ layout: foss4guk2022
 ---
 
 
-## FOSS4G:UK Local 2022 - Keyworth, Nottinghamshire (British Geological Survey)
+## FOSS4G:UK Local 2022 - Keyworth (British Geological Survey)
 
 Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
+
+<img src="https://www.bgs.ac.uk/wp-content/uploads/2020/09/P786623-960x640.jpg" width="600" align="middle">
+
+### Sponsors
+
+We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
+
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 ### Location & Travel
 
 The British Geological Survey (BGS) headquarters are located in Keyworth, southeast of Nottingham, in the Midlands of England.
 
 **Address**
-
-British Geological Survey<br>
+[British Geological Survey](https://www.openstreetmap.org/way/244466711#map=19/52.87877/-1.07860)<br>
 Nicker Hill<br>
 Keyworth<br>
 Nottinghamshire<br>
 NG12 5GG<br>
-
-<img src="https://www.bgs.ac.uk/wp-content/uploads/2020/09/P786623-960x640.jpg" width="600" align="middle">
 
 **Getting there**
 
@@ -63,11 +68,7 @@ These presentations will be offline and local-only and will be 5-10 minutes long
 
 There will be a workshop on "Using BGS Open Data in QGIS" and a room will be available for watching presentations streamed from other venues.
 
-### Sponsors
 
-We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
-
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 ## Code of Conduct
 
