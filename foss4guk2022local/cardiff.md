@@ -4,26 +4,22 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Cardiff (Sophia Gardens)
 
-Local Venue Chairs: [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
-
-<img src="images/engineshed.jpeg" width="600" align="middle">
+Local Venue Chairs: [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 
 ### Sponsors
-We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.<br>
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+We are very grateful for the support of [Environment Systems](https://www.envsys.co.uk/) for sponsoring FOSS4G:UK Local at this event.<br>
+[<img src="images/environment-systems-logo-165.png" align="middle">](https://www.cgi.com/en)
 
 ### Call for talks
-The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks in Cardiff is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
-[Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
-Engine Shed<br>
-Station Approach<br>
-Temple Meads<br>
-Bristol<br>
-BS1 6QH<br>
+[Glamorgan Cricket]()<br>
+Sophia Gardens<br>
+Cardiff<br> 
+CF11 9XR<br>
 
-Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)
+Getting there: 
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
