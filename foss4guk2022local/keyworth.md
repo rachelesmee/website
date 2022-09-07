@@ -19,7 +19,7 @@ We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) 
 
 The British Geological Survey (BGS) headquarters are located in Keyworth, southeast of Nottingham, in the Midlands of England.
 
-**Address**
+**Address**<br>
 [British Geological Survey](https://www.openstreetmap.org/way/244466711#map=19/52.87877/-1.07860)<br>
 Nicker Hill<br>
 Keyworth<br>
