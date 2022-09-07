@@ -8,6 +8,7 @@ Local Venue Chairs: [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 
 ### Sponsors
 We are very grateful for the support of [Environment Systems](https://www.envsys.co.uk/) for sponsoring FOSS4G:UK Local at this event.<br>
+
 [<img src="images/environment-systems-logo-165.png" align="middle">](https://www.cgi.com/en)
 
 ### Call for talks
