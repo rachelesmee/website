@@ -67,3 +67,15 @@ Many thanks to all of our sponsors. Please do check out their websites:
         spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
     }
 </script>
+
+### Support for crowd funding
+
+[OSGeo:UK](https://uk.osgeo.org/) wants to promote free and open source software for geospatial (FOSS4G) within the UK. 
+You can help by promoting FOSS4G and contributing to the open community within the UK but also by supporting open source projects financially. 
+
+To help with this we would like to promote any UK crowd funding project at the conference. 
+
+This will be achieved by displaying posters at each venue showing projects currently looking for funding. 
+
+As a minimum we would like you to include information about what you are trying to do, how it will benefit the open source community and how we can get involved.
+If you would like a project to be included please complete [this form](https://forms.gle/MakeAForm!!!).
