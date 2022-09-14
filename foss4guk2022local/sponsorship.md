@@ -39,7 +39,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/leeds-addresscloud-logo.png" width="250" align="middle">](https://www.addresscloud.com)
 
-[<img src="images/ASTUN_LOGO.jpg" width="300" align="middle">](https://www.astuntechnology.com)
+[<img src="images/ASTUN_LOGO.jpg" width="250" align="middle">](https://www.astuntechnology.com)
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
@@ -53,9 +53,9 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 ### National sponsors
 
-[<img src="images/env-sys.jpg" align="middle">](https://www.envsys.co.uk/)
+[<img src="images/env-sys.jpg" width="300" align="middle">](https://www.envsys.co.uk/)
 
-[<img src="images/OS logo prime RGB.jpg" width="300" align="middle">](https://www.ordnancesurvey.co.uk/)
+[<img src="images/OS logo prime RGB.jpg" width="350" align="middle">](https://www.ordnancesurvey.co.uk/)
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
