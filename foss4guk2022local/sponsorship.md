@@ -75,4 +75,4 @@ We want to encourage others to donate to FOSS4G projects by showing what has bee
 
 As a minimum we would like you to include information about what you did / are trying to do, how it did/will benefit the open source community and how people can get involved.
 
-If you would like a project to be included please complete [this form](https://forms.gle/u1a3MER3RrjxoCwY7).
+If you would like a project to be included please complete [this form](https://forms.gle/u1a3MER3RrjxoCwY7){:target="_blank"}.
