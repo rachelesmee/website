@@ -9,7 +9,7 @@ Local Venue Chair: [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 ### Sponsors
 We are very grateful for the support of [Environment Systems](https://www.envsys.co.uk/) for sponsoring FOSS4G:UK Local at this event.<br>
 
-[<img src="images/env-sys.png" align="middle">](https://www.envsys.co.uk/)
+[<img src="images/env-sys.jpg" align="middle">](https://www.envsys.co.uk/)
 
 ### Call for talks
 The call for talks in Cardiff is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
