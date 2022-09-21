@@ -4,6 +4,8 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022
 
+**Call for Talks extended to Fri 14th Oct 2022**
+
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
 We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue. 
@@ -28,7 +30,7 @@ Location | Chair(s)
 [Worcester](worcester.html#oss4guk-local-2022---worcester-worcestershire-county-cricket-club) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
-## Call for Talks
+## Call for Talks - **EXTENDED to 14th Oct 2022**
 
 We want to hear from you! We are open to any talks about FOSS4G (free and open source software for geospatial). Currently we only need a brief paragraph on what you would like to talk about - no detailed submissions. Talks, presentations, workshops, and show & tell sessions can be about:
 
@@ -44,7 +46,7 @@ We also have a number of different formats and lengths, or you can proposed your
 - Show and tell (short & variable)
 	
 
-The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above. 
+The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above. 
 
 ## Schedule
 

@@ -12,7 +12,7 @@ We are very grateful for the support of [Environment Systems](https://www.envsys
 [<img src="images/env-sys.jpg" align="middle">](https://www.envsys.co.uk/)
 
 ### Call for talks
-The call for talks in Cardiff is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks in Cardiff is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
 

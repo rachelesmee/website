@@ -63,7 +63,7 @@ The schedule for Thurs 17th Nov 2022 is:
 ### Local sessions: Lightning talks and workshops
 
 In the middle part of the day, between the streamed keynotes, we will have a lightning talks and workshop sessions.
-Delegates are invited submit "Lightning Talks" via the [Call for Talks form](https://forms.gle/HfBkq5LSrDpCfp4G9) (Deadline: Sun 18th Sept 2022).
+Delegates are invited submit "Lightning Talks" via the [Call for Talks form](https://forms.gle/HfBkq5LSrDpCfp4G9) (Deadline: Fri 14th Oct 2022).
 These presentations will be offline and local-only and will be 5-10 minutes long, depending on how many are submitted.
 
 There will be a workshop on "Using BGS Open Data in QGIS" and a room will be available for watching presentations streamed from other venues.

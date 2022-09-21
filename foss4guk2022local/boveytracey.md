@@ -14,7 +14,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponso
 -->
 
 ### Call for talks
-The call for talks at Dartmoor National Park is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks at Dartmoor National Park is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
 [Dartmoor National Park](https://www.openstreetmap.org/#map=19/50.59490/-3.68893)<br>

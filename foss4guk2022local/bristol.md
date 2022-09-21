@@ -14,7 +14,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for fully 
 [<img src="images/sparkgeo-logo-black.png" width="150" align="middle">](https://www.sparkgeo.com)
 
 ### Call for talks
-The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Sun 18th Sept 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+The call for talks in Bristol is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
 [Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
