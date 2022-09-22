@@ -8,9 +8,9 @@ layout: foss4guk2022
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
-We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue. 
+We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
 
-If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event. 
+If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
 
 ## Venues
 
@@ -38,22 +38,22 @@ We want to hear from you! We are open to any talks about FOSS4G (free and open s
 - Interesting applications of FOSS4G across industry, commercial, public sector or third sector
 - How to use FOSS4G and related software at a range of levels
 
-We also have a number of different formats and lengths, or you can proposed your own: 
+We also have a number of different formats and lengths, or you can proposed your own:
 
 - Lightning talks (5-10 min)
 - Presentations (30 min)
 - Workshops (1hr or 2hr)
 - Show and tell (short & variable)
-	
 
-The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above. 
+
+The call for talks is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022. Please note you will be required which venue you would like to travel to to present your talk. Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above.
 
 ## Schedule
 
 The national schedule for Thurs 17th Nov 2022 is:
 - 09:30 - 10:00 - Opening and welcome
 - 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/en/people/person/tim/): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
+- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 - 11:00 - 16:00 - local arrangements
 - 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe): PostGIS Vision: Past, Present, and Future
 - 16:30 - 16:45 - Wrap-up
@@ -67,7 +67,7 @@ We are delighted to have keynote presentations from three leading contibutors to
 
 ## Registration
 
-[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) Follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk), and keep an eye on this site for more details. 
+[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) Follow us on [Twitter](https://twitter.com/osgeouk) / [#FOSS4GUK](https://twitter.com/search?q=%23FOSS4GUK&src=typed_query), join our [mailing list](https://lists.osgeo.org/mailman/listinfo/uk), and keep an eye on this site for more details.
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
