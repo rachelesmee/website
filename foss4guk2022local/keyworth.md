@@ -41,7 +41,7 @@ Car:
 
 The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps directions](https://www.google.com/maps/dir//NG12+5GD,+Nicker+Hill,+Keyworth,+Nottingham/@52.879317,-1.0820298,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4879c4b073bb09fb:0x31e767532086c11d!2m2!1d-1.081564!2d52.8795395). There is visitor parking on site.  You will need to record your car registration number on arrival.
 
-### Registration 
+### Registration
 
 Please register via [the FOSS4GUK form](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) (Deadline 10 November 2022).  Due to limitations on the room size, the number of delegates is limited to 25 on a first-come, first-served basis.  If there is demand we will look to increase this closer to the time.  Coffee and lunch will be provided; please indicate any dietary requirements on the form.
 
@@ -54,7 +54,7 @@ The schedule for Thurs 17th Nov 2022 is:
 - 09:00 - 09:30 - Arrivals and coffee
 - 09:30 - 10:00 - Opening and welcome
 - 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/en/people/person/tim/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
+- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 - 11:00 - 16:00 - *Local sessions: Lightning talks and workshops*
 - 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future
 - 16:30 - 16:45 - Wrap-up
