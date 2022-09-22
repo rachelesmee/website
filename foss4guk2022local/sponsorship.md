@@ -57,7 +57,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/env-sys.jpg" width="300" align="middle">](https://www.envsys.co.uk/)
 
-[<img src="images/mergin-maps.svg" width="300" align="middle">](https://merginmaps.com/)
+[<img src="images/mergin-maps.svg" width="300" align="middle">](https://merginmaps.com/?utm_campaign=merginmaps&utm_medium=banner&utm_source=foss4guk2022)
 
 [<img src="images/OS logo prime RGB.jpg" width="350" align="middle">](https://www.ordnancesurvey.co.uk/)
 
