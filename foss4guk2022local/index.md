@@ -65,7 +65,7 @@ The local venue chairs will decide what sessions they run between 11:00 - 16:00.
 
 We are delighted to have keynote presentations from three leading contibutors to open source GIS worldwide: [Regina Obe](https://twitter.com/reginaobe), [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/), and [Anita Graser](https://anitagraser.com/) - these will be streamed live to all the venues.
 
-<img src="images/graser.jpg" width="150"><br>[Anita Graser](https://anitagraser.com/) | <img src="images/tim-sutton.jpg" width="150"><br>[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) | <img src="images/regina-obe.jpg" width="150"><br>[Regina Obe](https://twitter.com/reginaobe)
+<img src="images/graser.jpg" width="150"><br><center>[Anita Graser](https://anitagraser.com/)</center> | <img src="images/tim-sutton.jpg" width="150"><br><center>[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/)</center> | <img src="images/regina-obe.jpg" width="150"><br><center>[Regina Obe](https://twitter.com/reginaobe)</center>
 
 
 ## Registration
