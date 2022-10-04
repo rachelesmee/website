@@ -63,7 +63,10 @@ The local venue chairs will decide what sessions they run between 11:00 - 16:00.
 
 ## Keynote Presentations
 
-We are delighted to have keynote presentations from three leading contibutors to open source GIS worldwide: Regina Obe, Tim Sutton, and Anita Graser (see above for details) - these will be streamed live to all the venues.
+We are delighted to have keynote presentations from three leading contibutors to open source GIS worldwide: [Regina Obe](https://twitter.com/reginaobe), [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/), and [Anita Graser](https://anitagraser.com/) - these will be streamed live to all the venues.
+
+<img src="images/graser.jpg" width="150"><br>[Anita Graser](https://anitagraser.com/) | <img src="images/tim-sutton.jpg" width="150"><br>[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) | <img src="images/regina-obe.jpg" width="150"><br>[Regina Obe](https://twitter.com/reginaobe)
+
 
 ## Registration
 
