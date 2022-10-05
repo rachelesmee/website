@@ -2,7 +2,7 @@
 layout: foss4guk2022
 ---
 
-## FOSS4G:UK Local 2022 - Cardiff (TBC)
+## FOSS4G:UK Local 2022 - Cardiff (Jurys Inn)
 
 Local Venue Chair: [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 
