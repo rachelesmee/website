@@ -28,9 +28,7 @@ var map = new ol.Map({
     layers: layersList,
     view: new ol.View({
          maxZoom: 14, 
-         minZoom: 1,
-         center: [0, 0],
-         zoom: 5
+         minZoom: 1
     })
 });
 
