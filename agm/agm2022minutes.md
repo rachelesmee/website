@@ -17,11 +17,11 @@ The [minutes of the 2021](https://uk.osgeo.org/agm/agm2021minutes.html) AGM were
 ### Accounts 2020-2021
 The Treasurer presented a summary of the accounts, and these were accepted.
 
-Total Income: £0
-Total Expenditure: £1558.34
-Loss: £1558.34
-Balance at year end was £11,765.25
-Current balance in the accounts is £16,676.18 (13/10/2022)
+*Total Income: £0
+*Total Expenditure: £1558.34
+*Loss: £1558.34
+*Balance at year end was £11,765.25
+*Current balance in the accounts is £16,676.18 (13/10/2022)
 
 ### Future Events
 Current focus is on [FOSS4G:UK Local 2022](https://uk.osgeo.org/foss4guk2022local/).
