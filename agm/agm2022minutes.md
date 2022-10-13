@@ -28,8 +28,6 @@ Future events will be considered later in the year - options include a tradition
 The current officers and committee are all willing to continue, and were elected unopposed. The committee will consider whether to co-opt additional members after FOSS4G. Noted that Joseph Seddon is a co-opted non-voting member.
 
 ## Funding of Open Source Geo Projects
-    - [Document listing proposed projects](https://docs.google.com/document/d/1cHdzrLIAEsp73neJiXGagaz_zeh4GAiH6gVgMZIwPQw/edit?usp=sharing)
-
 The following decisions were taken on funding.
 * Funding for Patreonship of Regina Obe: $60 per month to continue
 * James Milner, development of TerraDraw, £800
@@ -37,7 +35,9 @@ The following decisions were taken on funding.
 * Lutra Crowdfunding: Point cloud processing in QGIS, £1,000
 * North Road/Nyall Dawson QGIS HTML formatting in labels, £1,000
 
-A total of: £3,874.11
+A total of: £3,874.11.
+
+The Treasurer will process these payments.
 
 For the remaining proposals, the following was decided:
 * Paul Wittle, Dorset Council, £200 - to be discussed in Spring when Paul has more details
