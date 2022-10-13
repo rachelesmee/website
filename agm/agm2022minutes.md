@@ -6,7 +6,7 @@ layout: default
 11th October 2022 at 12pm, online
 
 ### Officers and Trustees Present
-Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Dave Barter, Tom Chadwin, Joseph Seddon (Committee), James Milner, Paul Wittle, S Alvanides, Barry Rowlinson.
+Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Dave Barter, Tom Chadwin, Joseph Seddon (Committee), James Milner, Paul Wittle, Seraphim Alvanides, Barry Rowlinson.
 
 #### Apologies for Absence
 Alastair Graham, Tom Armitage, Matt Walker
@@ -28,10 +28,10 @@ Current focus is on [FOSS4G:UK Local 2022](https://uk.osgeo.org/foss4guk2022loca
 
 Future events will be considered later in the year - options include a traditional in person, single-venue event, if a group is willing to organise, or a series of events on the lines of [FOSS4G:UK Local 2022](https://uk.osgeo.org/foss4guk2022local/).
 
-A survey will be carried out after FOSS4G of delegates and mailing list asking for assessment of the event, and views on next year's event.
+A survey will be carried out after FOSS4G:UK Local 2022 of delegates and mailing list asking for assessment of the event, and views on next year's event.
 
 ### Election of Officers
-The current officers and committee are all willing to continue, and were elected unopposed. The committee will consider whether to co-opt additional members after FOSS4G. Noted that Joseph Seddon is a co-opted non-voting member.
+The current officers and committee are all willing to continue, and were elected unopposed. The committee will consider whether to co-opt additional members after FOSS4G:UK Local 2022. Noted that Joseph Seddon is a co-opted non-voting member.
 
 ### Funding of Open Source Geo Projects
 The following decisions were taken on funding.
@@ -54,7 +54,7 @@ Potentially about £1,000 remaining for allocation at a later date.
 Possible funding for next year:
 * OpenLayers, support developer directly
 * GeoServer
-* QGIS integration with toolsets commonly used in UK local authorities - possible funding from LAs
+* QGIS integration with toolsets commonly used in UK local authorities, for example the use of Open UPRN from Ordnance Survey. Paul Wittle and Matt Travis to follow up. Also include potential funding / match funding from LAs
 
 ### AOB
 There was no AOB.
