@@ -27,7 +27,7 @@ Future events will be considered later in the year - options include a tradition
 ### Election of Officers
 The current officers and committee are all willing to continue, and were elected unopposed. The committee will consider whether to co-opt additional members after FOSS4G. Noted that Joseph Seddon is a co-opted non-voting member.
 
-## Funding of Open Source Geo Projects
+### Funding of Open Source Geo Projects
 The following decisions were taken on funding.
 * Funding for Patreonship of Regina Obe: $60 per month to continue
 * James Milner, development of TerraDraw, £800
