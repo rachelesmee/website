@@ -24,6 +24,8 @@ Current focus is on [FOSS4G:UK Local 2022](https://uk.osgeo.org/foss4guk2022loca
 
 Future events will be considered later in the year - options include a traditional in person, single-venue event, if a group is willing to organise, or a series of events on the lines of [FOSS4G:UK Local 2022](https://uk.osgeo.org/foss4guk2022local/).
 
+A survey will be carried out after FOSS4G of delegates and mailing list asking for assessment of the event, and views on next year's event.
+
 ### Election of Officers
 The current officers and committee are all willing to continue, and were elected unopposed. The committee will consider whether to co-opt additional members after FOSS4G. Noted that Joseph Seddon is a co-opted non-voting member.
 
