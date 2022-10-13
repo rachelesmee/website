@@ -6,7 +6,7 @@ layout: default
 11th October 2022 at 12pm, online
 
 ### Officers and Trustees Present
-Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Dave Barter, Tom Chadwin, Joseph Seddon (Trustees), James Milner, Paul Wittle, S Alvanides, Barry Rowlinson.
+Nick Bearman (Chair), Ant Scott (Secretary), Matt Travis (Treasurer), Alastair Graham, Dave Barter, Tom Chadwin, Joseph Seddon (Committee), James Milner, Paul Wittle, S Alvanides, Barry Rowlinson.
 
 #### Apologies for Absence
 Alastair Graham, Tom Armitage, Matt Walker
