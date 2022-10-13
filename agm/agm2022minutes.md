@@ -37,7 +37,7 @@ The current officers and committee are all willing to continue, and were elected
 The following decisions were taken on funding.
 * Funding for Patreonship of Regina Obe: $60 per month to continue
 * James Milner, development of TerraDraw, £800
-* QGIS Sustaining Membership, £440 (per year)
+* QGIS Sustaining Membership, €500 [£440] (per year)
 * Lutra Crowdfunding: Point cloud processing in QGIS, £1,000
 * North Road/Nyall Dawson QGIS HTML formatting in labels, £1,000
 
