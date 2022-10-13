@@ -74,9 +74,17 @@ We are delighted to have keynote presentations from three leading contibutors to
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) to one of these causes:
 
-* [OSGeo:UK](https://paypal.me/osgeouk)
-* [MapAction](https://mapaction.org/donate/)
-* A charity of your choice
+### OSGeo:UK
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="42G7PKK5YV6NU">
+<input type="image" src="https://www.paypalobjects.com/en_US/GB/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+### MapAction 
+[MapAction](https://mapaction.org/donate/)
+
 
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
