@@ -6,13 +6,13 @@ layout: default
 
 #### 2021-22 
 
-[As agreed at 2022 AGM](https://uk.osgeo.org/agm/agm2022.html):
+[As agreed at 2022 AGM](https://uk.osgeo.org/agm/agm2022.html){:target="_newpage"}:
 
-* [Funding for Patreonship of Regina Obe: $60 per month](https://www.patreon.com/reginaobe/overview) : $60 per month inc VAT [£638.52 per year]
-* [James Milner, development of TerraDraw, £800](https://github.com/LoxoIndustries/terra-draw)
-* [QGIS Sustaining Membership, small level €500 [£440] (per year)](https://www.qgis.org/en/site/about/sustaining_members.html)
-* [Lutra Crowdfunding: Point cloud processing in QGIS, £1,000](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/)
-* [North Road/Nyall Dawson QGIS HTML formatting in labels, £1,000](https://north-road.com/)
+* [Funding for Patreonship of Regina Obe: $60 per month](https://www.patreon.com/reginaobe/overview){:target="_newpage"} : $60 per month inc VAT [£638.52 per year]
+* [James Milner, development of TerraDraw, £800](https://github.com/LoxoIndustries/terra-draw){:target="_newpage"}
+* [QGIS Sustaining Membership, small level €500 £440 (per year)](https://www.qgis.org/en/site/about/sustaining_members.html){:target="_newpage"}
+* [Lutra Crowdfunding: Point cloud processing in QGIS, £1,000](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/){:target="_newpage"}
+* [North Road/Nyall Dawson QGIS HTML formatting in labels, £1,000](https://north-road.com/){:target="_newpage"}
 * Potentially about £1,000 remaining for allocation at a later date.
 
 #### 2019-20
