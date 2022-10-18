@@ -14,7 +14,10 @@ We are very grateful for the support of [Astun Technology](https://www.astuntech
 [<img src="images/ASTUN_LOGO.jpg" width="300" align="middle">](https://www.astuntechnology.com)
 
 ### Call for talks
-The call for talks in Worcester is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+
+The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
+
+For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
 [New Road Events](https://www.openstreetmap.org/#map=19/52.18923/-2.22680)<br>

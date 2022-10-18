@@ -14,7 +14,10 @@ We are very grateful for the support of [Addresscloud](https://www.addresscloud.
 [<img src="images/leeds-jbarisk-logo.png" width="200" style="margin: 10px" align="middle">](https://www.jbarisk.com)
 
 ### Call for talks
-The call for talks in Leeds is [now open](https://forms.gle/HfBkq5LSrDpCfp4G9), and will close on Fri 14th Oct 2022 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
+
+The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
+
+For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
 
 ### Location & Travel
 [Platform](https://www.openstreetmap.org/#map=19/53.7949385/-1.5466345)<br>
