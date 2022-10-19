@@ -16,7 +16,7 @@ layout: default
 * Potentially about £1,000 remaining for allocation at a later date.
 
 
-[<img src="images/rgs-giscrg-logo.png" width="300">](https://geoinfo.science/)
+[<img src="images/rgs-giscrg-logo.png" width="200">](https://geoinfo.science/)
 
 With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
 
