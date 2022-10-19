@@ -15,6 +15,13 @@ layout: default
 * [North Road/Nyall Dawson QGIS HTML formatting in labels](https://north-road.com/){:target="_newpage"} : £1,000
 * Potentially about £1,000 remaining for allocation at a later date.
 
+
+[<img src="images/rgs-giscrg-logo.png" width="300">](https://geoinfo.science/)
+
+With thanks to the [RGS-IBG GIScience Research Group](https://geoinfo.science/){:target="_newpage"} who have provided funding of £250 to support the above projects. If your organisation is interested supporting future funding, please email [osgeouk@gmail.com](mailto:osgeouk@gmail.com). 
+
+
+
 #### 2019-20
 * [PostGIS via Regina Obe](https://www.patreon.com/reginaobe/overview) : $60 per month inc VAT
 * [QGIS Silver Sponsorship](https://www.qgis.org/en/site/about/sponsorship.html): €3000
