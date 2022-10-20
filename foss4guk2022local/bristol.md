@@ -15,7 +15,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for fully 
 
 ### Call for talks
 
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
+The Call for Talks is now closed. 
 
 ### Location & Travel
 [Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
