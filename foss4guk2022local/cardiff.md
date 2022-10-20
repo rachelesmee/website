@@ -42,7 +42,6 @@ Time | Speaker | Title
 13:30 - 14:00 |Carl Morris (Mapio Cymru) |	Mapio Cymru talk 1 - Switch2OSM
 14:00 - 14:30|Sam Franklin (CGI)/Tom Colley(Welsh Gov.) |	Mapio Cymru talk 2 - DataMapWales Azure Cloud
 14:30 - 15:00 |Tom Colley (Welsh Gov)  |PGaudit and Active Travel
-
 15:00 - 15:30 | Break
 15:30 - 16:00 |Dave Dowdin (SparkGeo)|	Deploying a simple web map to AWS
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
