@@ -41,7 +41,16 @@ Time | Speaker | Title
 09:30 - 10:00|Nick Bearman|Opening and welcome
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-11:00 - 16:00|*local arrangements will be confirmed nearer the time* 
+11:00 - 11:30| Break
+11:30 - 12:00 | Margriet Groenendijk |Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
+12:00 - 12:30 | Christopher Brown | Why 99% of humanity doesn’t use GIS, and what we plan to do about it
+12:30 - 13:30 | Lunch
+13:30 - 14:00 | Yann Ziegler |	Open source GUI software for geolocated time series visualisation
+14:00 - 14:30|Sean McGee |	Adding Audio to Maps 
+14:30 - 14:45 |Alastair Graham  |From EO to geo development: some observations
+14:45 - 15:00 | David Kerr | Grids - the future of small area statistical geographies?
+15:00 - 15:30 | Break
+15:30 - 16:00 |Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
 16:30 - 16:45|Wrap-up
 16:45 onwards|local arrangements
