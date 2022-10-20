@@ -48,7 +48,7 @@ The Treasurer will process these payments.
 For the remaining proposals, the following was decided:
 * Paul Wittle, Dorset Council, £200 - to be discussed in Spring when Paul has more details
 * Kevin Williams, Welsh Government, £2,000 - LOG4J and Geoserver discussions, Tom Chadwin to follow up
-* GDAL funding, Nick Bearman to followup, in particular how much of GDAL initial funding bid is left, are there interested in a continued funding option?
+* GDAL funding, Nick Bearman to followup, in particular how much of GDAL initial funding bid is left, are they interested in a continued funding option?
 
 Potentially about £1,000 remaining for allocation at a later date.
 
