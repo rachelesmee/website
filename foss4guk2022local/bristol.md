@@ -52,7 +52,7 @@ Time | Speaker | Title
 15:00 - 15:30 | Break
 15:30 - 16:00 |Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
-16:30 - 16:45|Wrap-up
+16:30 - 16:45|Nick Bearnan| Wrap up
 16:45 onwards|local arrangements
 
 ### Registration
