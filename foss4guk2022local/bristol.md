@@ -42,7 +42,7 @@ Time | Speaker | Title
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 11:00 - 11:30| Break
-11:30 - 12:00 | Margriet Groenendijk 
+11:30 - 12:00 | Margriet Groenendijk | Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
 12:00 - 12:30 | Christopher Brown | Why 99% of humanity doesn’t use GIS, and what we plan to do about it
 12:30 - 13:30 | Lunch
 13:30 - 14:00 | Yann Ziegler |	Open source GUI software for geolocated time series visualisation
