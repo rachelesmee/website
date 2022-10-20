@@ -17,8 +17,6 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for fully 
 
 The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
 
-For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
-
 ### Location & Travel
 [Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
 Engine Shed<br>
@@ -52,7 +50,7 @@ Time | Speaker | Title
 15:00 - 15:30 | Break
 15:30 - 16:00 |Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
-16:30 - 16:45|Nick Bearnan| Wrap up
+16:30 - 16:45|Nick Bearman| Wrap up
 16:45 onwards|local arrangements
 
 ### Registration
