@@ -33,7 +33,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme
 
-The schedule for Thurs 17th Nov 2022 is:
+The schedule for Thurs 17th Nov 2022 is below - for the full programme, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
 
 Time | Speaker | Title
 :-----|:-----|:-----
@@ -42,7 +42,7 @@ Time | Speaker | Title
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 11:00 - 11:30| Break
-11:30 - 12:00 | Margriet Groenendijk |Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
+11:30 - 12:00 | Margriet Groenendijk 
 12:00 - 12:30 | Christopher Brown | Why 99% of humanity doesn’t use GIS, and what we plan to do about it
 12:30 - 13:30 | Lunch
 13:30 - 14:00 | Yann Ziegler |	Open source GUI software for geolocated time series visualisation
