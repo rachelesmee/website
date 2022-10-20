@@ -13,7 +13,7 @@ We are very grateful for the support of [Environment Systems](https://www.envsys
 
 ### Call for talks
 
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
+The Call for Talks is now closed. 
 
 ### Location & Travel
 
