@@ -34,8 +34,8 @@ We encourage everyone to travel by public transport/car share/under their own st
 ### Programme
 
 The schedule for Thurs 17th Nov 2022 is:
-Time | Speaker | Title
-:-----:|:-----:|:-----:
+|Time | Speaker | Title|
+|:-----|:-----|:-----|
 09:00 - 09:30|Arrivals and coffee
 09:30 - 10:00|Nick Bearman|Opening and welcome
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
