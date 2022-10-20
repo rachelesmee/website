@@ -34,14 +34,14 @@ We encourage everyone to travel by public transport/car share/under their own st
 ### Programme
 
 The schedule for Thurs 17th Nov 2022 is:
-- 09:00 - 09:30 - Arrivals and coffee
-- 09:30 - 10:00 - Opening and welcome
-- 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-- 11:00 - 16:00 - *local arrangements will be confirmed nearer the time*
-- 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future
-- 16:30 - 16:45 - Wrap-up
-- 16:45 onwards - local arrangements
+|09:00 - 09:30|Arrivals and coffee|
+|09:30 - 10:00|Opening and welcome|
+|10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science|
+|10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon|
+|11:00 - 16:00|*local arrangements will be confirmed nearer the time*|
+|16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future|
+|16:30 - 16:45|Wrap-up|
+|16:45 onwards|local arrangements|
 
 ### Registration
 
