@@ -28,15 +28,25 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme
 
-The schedule for Thurs 17th Nov 2022 is:
-- 09:00 - 09:30 - Arrivals and coffee
-- 09:30 - 10:00 - Opening and welcome
-- 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-- 11:00 - 16:00 - *local arrangements will be confirmed nearer the time*
-- 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future
-- 16:30 - 16:45 - Wrap-up
-- 16:45 onwards - local arrangements
+The schedule for Thurs 17th Nov 2022 is below - for the full programme, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
+
+Time | Speaker | Title
+:-----|:-----|:-----
+09:00 - 09:30|Arrivals and coffee
+09:30 - 10:00|Nick Bearman|Opening and welcome
+10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
+10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
+11:00 - 11:30| Break
+11:30 - 12:00 | Gobe Hobona | Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
+12:00 - 12:30 | Tom Huntley | Building a Web GIS - a full stack overview.
+12:30 - 13:30 | Lunch
+13:30 - 14:00 | James Milner |	TerraDraw: Drawing for any map on the web
+14:00 - 14:30| Rupert Allan |	Community Mapping COVID vulnerability and Food Deserts 
+14:30 - 15:00 | Ibrahim Saricicek  | Disaster Ninja; an open source event management solution providing information about disasters
+15:00 - 16:00 | Break / Networking / Q&A / adhoc Lightning Talks
+16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
+16:30 - 16:45|Nick Bearman| Wrap up
+16:45 onwards|local arrangements
 
 ### Registration
 
