@@ -40,7 +40,6 @@ Car: A visitors car park is available.
 
 The schedule for Thurs 17th Nov 2022 is below.
 
-
 Time | Speaker | Title
 :-----|:-----|:-----
 09:00 - 09:30|Arrivals and coffee
