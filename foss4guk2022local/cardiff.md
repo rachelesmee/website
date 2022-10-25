@@ -6,6 +6,8 @@ layout: foss4guk2022
 
 Local Venue Chair: [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 
+<img src="images/JurysInnCardiff.jpg" width="600" align="middle">
+
 ### Sponsors
 We are very grateful for the support of [Environment Systems](https://www.envsys.co.uk/) for sponsoring FOSS4G:UK Local at this event.<br>
 
