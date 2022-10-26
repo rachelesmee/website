@@ -60,6 +60,33 @@ The schedule for Thurs 17th Nov 2022 is:
 - 16:30 - 16:45 - Wrap-up
 - 16:45 onwards - local arrangements
 
+| Time | Speaker	| Title	| Location	| Notes |
+|---|---|---|---|---|
+| 09:00 - 09:30	| John/Chris |	Keyworth welcome and overview / coffee and networking	| Keyworth venue	||
+
+09:30 - 10:00	Nick Bearman	Opening and welcome	Keyworth venue / Online	
+10:00 - 10:30 	Anita Graser	Shaping Open Spatial Data Science	Keyworth venue / Online	
+10:30 - 11:00 	Tim Sutton	20 Years of QGIS: Successes and Failures of a Global Phenomenon	Keyworth venue / Online	
+11:00 - 11:30 	-	Coffee and networking	Keyworth venue	
+11:30 - 11:40	Alex Donald	Open-source geospatial software for small teams	Keyworth venue	
+11:40 - 11:50	Rachel Heaven	Prez: A Content-by-profile Linked Data presentation tool for spatial data	Keyworth venue	
+11:50 - 12:00	Edward Lewis	BGS & OGC APIs	Keyworth venue	
+12:00- 12:10	Daniel Warren	An example implementation of Leaflet – a lightweight interactive mapping tool	Keyworth venue	
+12:10 - 12:20	-	Break	Keyworth venue	
+12:20 - 12:30	Dr Chris Williams	An open source approach to geomorphometric analysis and terrain feature classification	Keyworth venue	
+12:30 - 12:40	Dr Kathryn Leeming	R for geospatial analysis	Keyworth venue	
+12:40- 12:50	Dr Matthew Haines	The use of OSS4G in a capability study of a digital twin of UK soils	Keyworth venue	
+12:50 - 13:00	Nikki Smith	Open source for BGS international work	Keyworth venue	
+13:00 - 13:30	-	Lunch and networking	Keyworth venue	
+13:30 - 14:00	Dr John A Stevenson	Discussion session: Increasing open source adoption at the British Geological Survey	Keyworth venue	
+14:00 - 14:30	All	Data capture / Unconference	Keyworth venue	Unconference - arranged on day between participants
+14:30 - 15:00	All	BGS open data in QGIS (demo) / Unconference	Keyworth venue	Unconference - arranged on day between participants
+15:00 - 15:30	All	Unconference / Unconference	Keyworth venue	Unconference - arranged on day between participants
+15:30 - 16:00	-	Coffee and networking	Keyworth venue	
+16:00 - 16:30 	Regina Obe	PostGIS Vision: Past, Present, and Future	Keyworth venue / Online	
+16:30 - 16:45 	Nick Bearman	Wrap-up	Keyworth venue / Online	
+* Talks from other venues can be viewed in the 3D Visualisation room / or on personal laptops				
+
 ### Local sessions: Lightning talks and workshops
 
 In the middle part of the day, between the streamed keynotes, we will have a lightning talks and workshop sessions.
