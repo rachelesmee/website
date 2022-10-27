@@ -26,14 +26,18 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 ### Programme
 
 The event will be held in MR 1+2, beside the canteen.
-In addition, the 3D visualisation suite will be available for viewing streamed
+National keynotes will be streamed to watch together and the start and end of the day.
+There will be local presentations and sessions between 11:00 and 16:00.
+
+There will be [Unconference](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) sessions between 14:30 and 16:00.
+Delegates will suggest topics for discussion on the day and vote on which will
+run.
+MR 1 and 2 will be partitioned to allow two streams to run in parallel.
+
+The 3D Visualisation Suite will be available all day for collective viewing of streamed
 sessions from other venues on the big screen.
 
-The topics for the afternoon
-[Unconference](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) sessions are yet to be decided.
-Delegates will suggest topics for discussion on the day and vote on which to
-cover.
-MR 1 and 2 will be partitioned to allow two streams to run in parallel.
+*National keynotes*
 
 Time | Speaker| Title|
 :-----|:-----|:-----
@@ -41,6 +45,10 @@ Time | Speaker| Title|
 09:30 - 10:00|Nick Bearman|Opening and welcome
 10:00 - 10:30|Anita Graser|Shaping Open Spatial Data Science
 10:30 - 11:00|Tim Sutton|20 Years of QGIS: Successes and Failures of a Global Phenomenon
+
+*Local sessions*
+
+Time | Speaker| Title|
 11:00 - 11:30|-|Coffee and networking
 11:30 - 11:40|Alex Donald|Open-source geospatial software for small teams
 11:40 - 11:50|Rachel Heaven|Prez: A Content-by-profile Linked Data presentation tool for spatial data
@@ -57,6 +65,10 @@ Time | Speaker| Title|
 14:30 - 15:00|All|BGS open data in QGIS (demo) / Unconference
 15:00 - 15:30|All|Unconference / Unconference
 15:30 - 16:00|-|Coffee and networking
+
+*National keynotes*
+
+Time | Speaker| Title|
 16:00 - 16:30|Regina Obe|PostGIS Vision: Past, Present, and Future
 16:30 - 16:45|Nick Bearman|Wrap-up
 
