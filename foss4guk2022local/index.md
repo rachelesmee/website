@@ -6,7 +6,7 @@ layout: foss4guk2022
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
-We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
+We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
 
 If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
 
@@ -25,7 +25,6 @@ Location | Chair(s)
 [London](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
 [Manchester](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
 [Southampton (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
-[Worcester](worcester.html#oss4guk-local-2022---worcester-worcestershire-county-cricket-club) | [Mark Wilcox](https://twitter.com/MarkJWilcox0801)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
 ## Call for Talks
