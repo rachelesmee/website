@@ -4,7 +4,7 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Leeds (Platform)
 
-Local Venue Chairs: [Mike West](mailto:foss4g@addresscloud.com), [Tomas Holderness](mailto:foss4g@addresscloud.com) & Robin Lovelace
+Local Venue Chairs: [Mike West](mailto:foss4g@addresscloud.com) & [Tomas Holderness](mailto:foss4g@addresscloud.com)
 
 <img src="images/leeds-platform.jpg" width="600" align="middle">
 
@@ -33,15 +33,29 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme
 
-The schedule for Thurs 17th Nov 2022 is:
-- 09:00 - 09:30 - Arrivals and coffee
-- 09:30 - 10:00 - Opening and welcome
-- 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-- 11:00 - 16:00 - *local arrangements will be confirmed nearer the time*
-- 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future
-- 16:30 - 16:45 - Wrap-up
-- 16:45 onwards - local arrangements
+The schedule for Thurs 17th Nov 2022 is below - for the full programme for all venues, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
+
+Time | Speaker | Title
+:-----|:-----|:-----
+09:15 - 09:30|*Coffee and local welcome*
+09:30 - 10:00|Nick Bearman|Opening and welcome
+10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
+10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
+11:00 - 11:30| *Break (coffee and networking)*
+11:30 - 12:00 | Dennis Bauszus |Composing Software: Spatial for the JAMstack generation
+12:00 - 12:30 | Peter Wells	| Mergin Maps: an open source platform for your field data collection
+12:30 - 13:20 | *Lunch (food provided)*
+13:20 - 13:30 | Chris Larkin | Prioritisation of Obstruction Removal on Active Travel Networks (Lightning Talk)
+13:30 - 13:40 | Clara Peiret-Garcia | Developing an inclusive accessibility index for UK cities. (Lightning Talk)
+13:40 - 13:50 | Rachael Sanderson | Experimenting with Social Media data using Open Source Software (Lightning Talk)
+13:50 - 14:10 | Oliver Burdekin	| FOSS meets not FOSS (Show & Tell)
+14:10 - 14:40 | David Wood | APIs for assessing flood risk anywhere in the world
+14:40 - 15:10 | Tomas Holderness | Serverless Tile Services in the Cloud
+15:10 - 15:30 | *Break (coffee and networking)*
+15:30 - 16:00 | Michael West | PostGIS Out-DB Rasters in AWS Batch
+16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
+16:30 - 16:45|Nick Bearman| Wrap up
+16:45 onwards|*Local arrangements*
 
 ### Registration
 
