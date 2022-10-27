@@ -37,7 +37,7 @@ Time | Speaker | Title
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 11:00 - 11:30| Break
-11:30 - 12:00 | Gobe Hobona | Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
+11:30 - 12:00 | Gobe Hobona | Serving executable processes on the web through open source implementations of the OGC API - Processes Standard
 12:00 - 12:30 | Tom Huntley | Building a Web GIS - a full stack overview.
 12:30 - 13:30 | Lunch
 13:30 - 14:00 | James Milner |	TerraDraw: Drawing for any map on the web
