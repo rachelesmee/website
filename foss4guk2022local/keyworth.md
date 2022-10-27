@@ -49,6 +49,7 @@ Time | Speaker| Title|
 *Local sessions*
 
 Time | Speaker| Title|
+:-----|:-----|:-----
 11:00 - 11:30|-|Coffee and networking
 11:30 - 11:40|Alex Donald|Open-source geospatial software for small teams
 11:40 - 11:50|Rachel Heaven|Prez: A Content-by-profile Linked Data presentation tool for spatial data
@@ -69,6 +70,7 @@ Time | Speaker| Title|
 *National keynotes*
 
 Time | Speaker| Title|
+:-----|:-----|:-----
 16:00 - 16:30|Regina Obe|PostGIS Vision: Past, Present, and Future
 16:30 - 16:45|Nick Bearman|Wrap-up
 
