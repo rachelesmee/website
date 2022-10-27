@@ -11,9 +11,9 @@ Local Venue Chairs: [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Pa
 
 ### Sponsors
 
-We are very grateful for the support of [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for supporting FOSS4G:UK Local at this event.
+We are very grateful for the support of [Ordnance Survey](https://www.ordnancesurvey.co.uk/) and [Envitia](https://www.envitia.com/) for supporting FOSS4G:UK Local at this event.
 
-[<img src="images/OS logo prime RGB.jpg" width="300" align="middle">](https://www.ordnancesurvey.co.uk/)
+[<img src="images/OS logo prime RGB.jpg" width="300" align="middle">](https://www.ordnancesurvey.co.uk/)[<img src="images/Envitia-logo.jpg" width="300" align="middle">](https://www.envitia.com/)
 
 ### Call for talks
 
@@ -48,7 +48,7 @@ Time | Speaker | Title
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 11:00 - 11:30| Break
 11:30 - 12:00 | Andrew Bell | A safe route to school with PgRouting and QGIS
-12:00 - 12:30 | Paul Wittle & Robert Quincey | Going open the journey so far at Dorset Council
+12:00 - 12:30 | Paul Wittle & Robert Quincey | Going open - the journey so far at Dorset Council
 12:30 - 13:30 | Lunch
 13:30 - 14:30 | Michael Gordon & Tim Martin |	Workshop - Using the OS Data Hub to automate Open Data ETL to open source databases
 14:45 - 15:00 | Sarah Cole | Asset Management Applications Using GeoServer, Benefits and Drawbacks? 
