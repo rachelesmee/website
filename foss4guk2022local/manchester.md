@@ -6,11 +6,13 @@ layout: foss4guk2022
 
 Local Venue Chair: [Jonny Huck](https://jonnyhuck.co.uk)
 
-<img src="https://www.alliancembs.manchester.ac.uk/media/ambs/content-assets/images/about/banner-about-whitworth-entrance.jpg" width="600" align="middle">
+<img src="https://www.alliancembs.manchester.ac.uk/media/ambs/content-assets/images/about/banner-about-whitworth-entrance.jpg" width="600">
 
-<!-- ### Sponsors
-We are very grateful for the support of [CGI](https://www.cgi.com/en) for sponsoring FOSS4G:UK Local at this event.<br>
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)-->
+### Sponsors
+We are very grateful for the support of [Informed Solutions](https://www.informed.com/) and [WSP](https://www.wsp.com/en-gb) for sponsoring FOSS4G:UK Local in Manchester.
+<br><br>
+[<img src="images/informed-solutions.png" width="200" clear="none">](https://www.informed.com/)
+[<img src="images/wsp.png" width="200" clear="none">](https://www.wsp.com/en-gb)
 
 ### Call for talks
 
@@ -29,14 +31,23 @@ Click [here](https://www.manchester.ac.uk/discover/maps/) for information on tra
 
 ### Programme
 The schedule for Thurs 17th Nov 2022 is:
-- 09:00 - 09:30 - Arrivals and coffee
-- 09:30 - 10:00 - Opening and welcome
-- 10:00 - 10:30 - [Anita Graser](https://anitagraser.com/) (online): Shaping Open Spatial Data Science
-- 10:30 - 11:00 - [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online): 20 Years of QGIS: Successes and Failures of a Global Phenomenon
-- 11:00 - 16:00 - *local arrangements will be confirmed nearer the time*
-- 16:00 - 16:30 - [Regina Obe](https://twitter.com/reginaobe) (online): PostGIS Vision: Past, Present, and Future
-- 16:30 - 16:45 - Wrap-up
-- 16:45 onwards - local arrangements
+
+Time | Speaker | Title
+:-----|:-----|:-----
+09:00 - 09:30 | Arrivals | *Coffee and networking*
+09:30 - 10:00 | Nick Bearman (Streamed) | Opening and welcome
+10:00 - 10:30 | [Anita Graser](https://anitagraser.com/) (Streamed) |Shaping Open Spatial Data Science
+10:30 - 11:00 | [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (Streamed)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
+11:00 - 11:30 | Break | *Coffee and networking*
+11:30 - 12:00 | Andrew Bell (Streamed) | A safe route to school with PgRouting and QGIS
+12:00 - 12:30 | Tom Huntley (Streamed) | Building a Web GIS - a full stack overview.
+12:30 - 13:30 | Lunch | ***Not Provided***
+13:30 - 14:30 | Lightning Talks (In Person) | A selection of short talks and demonsrations
+14:30 - 15:00 | WSP (In Person) | *Title TBC*
+15:00 - 15:30 | Break | *Coffee and networking*
+15:30 - 16:00 | Ant Scott (Streamed) |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
+16:00 - 16:30 | [Regina Obe](https://twitter.com/reginaobe) (Streamed)|  PostGIS Vision: Past, Present, and Future
+16:30 - 16:45 | Nick Bearman (Streamed) | Wrap up
 
 ### Registration
 
