@@ -53,7 +53,9 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/nautoguide-logo.png" width="250" align="middle">](https://nautoguide.com/)
 
-### Business supporters
+[<img src="images/wsp.png" width="250" align="middle">](https://www.wsp.com/en-gb)
+
+<!-- ### Business supporters -->
 
 ### National sponsors
 
@@ -64,6 +66,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 [<img src="images/mergin-maps.svg" width="300" align="middle">](https://merginmaps.com/?utm_campaign=merginmaps&utm_medium=banner&utm_source=foss4guk2022)
 
 [<img src="images/OS logo prime RGB.jpg" width="350" align="middle">](https://www.ordnancesurvey.co.uk/)
+
+[<img src="images/informed-solutions.png" width="350" align="middle">](https://www.informed.com/)
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
