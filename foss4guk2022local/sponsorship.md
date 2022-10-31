@@ -51,6 +51,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/OS logo prime RGB.jpg" width="250" align="middle">](https://www.ordnancesurvey.co.uk/)
 
+[<img src="images/Envitia-logo.jpg" width="250" align="middle">](https://www.envitia.com/)
+
 [<img src="images/nautoguide-logo.png" width="250" align="middle">](https://nautoguide.com/)
 
 [<img src="images/wsp.png" width="250" align="middle">](https://www.wsp.com/en-gb)
