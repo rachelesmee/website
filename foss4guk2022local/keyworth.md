@@ -25,6 +25,8 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 
 ### Programme
 
+The meeting is on Thursday 17 November 2022.
+
 The event will be held in MR 1+2, beside the canteen.
 National keynotes will be streamed to watch together and the start and end of the day.
 There will be local presentations and sessions between 11:00 and 16:00.
@@ -36,6 +38,7 @@ MR 1 and 2 will be partitioned to allow two streams to run in parallel.
 
 The 3D Visualisation Suite will be available all day for collective viewing of streamed
 sessions from other venues on the big screen.
+See the [main FOSS4GUK landing page](https://uk.osgeo.org/foss4guk2022local/index.html) for schedules of presentations at other sites.
 
 *National keynotes*
 
