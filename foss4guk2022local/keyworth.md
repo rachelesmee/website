@@ -17,9 +17,7 @@ We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) 
 
 ### Registration
 
-There are still a few places available.
-Please register via [the FOSS4GUK form](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) (Deadline 10 November 2022).
-Coffee and lunch will be provided; please indicate any dietary requirements on the form.
+Places for the Keyworth meeting are now sold out.
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
 
