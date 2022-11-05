@@ -20,11 +20,11 @@ Location | Chair(s)
 [Bristol](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham ](https://twitter.com/ajggeoger)
 [Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 [Glasgow](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) | [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
-[Keyworth (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
+[*Keyworth- Sold out* (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
 [Leeds](leeds.html#foss4guk-local-2022---leeds-platform)	| [Mike West](mailto:foss4g@addresscloud.com) & [Tomas Holderness](mailto:foss4g@addresscloud.com)
-[London](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
-[Manchester](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
-[Southampton (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
+[*London - Sold out*](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
+[*Manchester - Sold out*](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
+[*Southampton - Sold out* (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
 ## Call for Talks
