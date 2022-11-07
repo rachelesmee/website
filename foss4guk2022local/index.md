@@ -8,7 +8,7 @@ layout: foss4guk2022
 
 We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
 
-If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
+If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view most of the streamed sessions from wherever you are if you can’t get to a venue - links to sessions will be posted soon. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
 
 ## Venues
 
@@ -16,7 +16,7 @@ These are our local venues.
 
 Location | Chair(s)
 --- | ---
-[Bovey Tracy (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
+[Bovey Tracey (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
 [*Bristol - Sold out*](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham ](https://twitter.com/ajggeoger)
 [Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 [Glasgow](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) | [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
@@ -29,7 +29,7 @@ Location | Chair(s)
 
 ## Call for Talks
 
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
+The Call for Talks is now closed - we have been in touch confirming if your talk has been accepted. 
 
 Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail">osgeouk@gmail.com</span>. Any venue specific query please contact the local venue chair, listed above.
 
@@ -44,7 +44,7 @@ The national schedule for Thurs 17th Nov 2022 is:
 - 16:30 - 16:45 - Wrap-up
 - 16:45 onwards - local arrangements
 
-For the full programme, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
+For the full programme, with details of speakers and talk descriptions, and links to streamed versions of the sessions (coming soon) see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
 
 The local venue programmes are also on the venue pages above - there will be sizable networking opportunities as well as lunch, alongside the sessions!
 
