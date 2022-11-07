@@ -44,7 +44,9 @@ The national schedule for Thurs 17th Nov 2022 is:
 - 16:30 - 16:45 - Wrap-up
 - 16:45 onwards - local arrangements
 
-The local venue chairs will decide what sessions they run between 11:00 - 16:00. We have recommended sizable networking opportunities as well as lunch, alongside the sessions!
+For the full programme, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
+
+The local venue programmes are also on the venue pages above - there will be sizable networking opportunities as well as lunch, alongside the sessions!
 
 ## Keynote Presentations
 
