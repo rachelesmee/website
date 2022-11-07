@@ -31,7 +31,7 @@ Location | Chair(s)
 
 The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
 
-Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above.
+Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail">osgeouk@gmail.com</span>. Any venue specific query please contact the local venue chair, listed above.
 
 ## Schedule
 
