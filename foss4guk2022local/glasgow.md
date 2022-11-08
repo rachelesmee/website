@@ -11,7 +11,8 @@ Local Venue Chairs: [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
 ### Sponsors
 We are very grateful for the support of [idox](https://www.thinkwhere.com/) for fully sponsoring the venue for FOSS4G:UK Local in Bristol. 
 
-[<img src="images/idox_logo.jpg" width="300" align="middle">](https://www.thinkwhere.com/)
+[<img src="images/idox_logo.jpg" width="200" align="middle">](https://www.thinkwhere.com/)
+
 
 ### Call for talks
 

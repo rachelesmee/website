@@ -43,7 +43,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
-[<img src="images/idox_logo.jpg" width="250" align="middle">](https://www.thinkwhere.com/)
+[<img src="images/idox_logo.jpg" width="150" align="middle">](https://www.thinkwhere.com/)
 
 [<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
 
