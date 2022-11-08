@@ -57,7 +57,7 @@ Time | Speaker| Title|
 11:50 - 12:00|Edward Lewis|BGS & OGC APIs
 12:00 - 12:10|Daniel Warren|An example implementation of Leaflet – a lightweight interactive mapping tool
 12:10 - 12:20|-|Break
-12:20 - 12:30|Dr Chris Williams|An open source approach to geomorphometric analysis and terrain feature classification
+12:20 - 12:30|Sophie Taylor|Filling gaps in Lidar data with a coarser DTM using open source python libraries
 12:30 - 12:40|Dr Kathryn Leeming|R for geospatial analysis
 12:40 - 12:50|Dr Matthew Haines|The use of OSS4G in a capability study of a digital twin of UK soils
 12:50 - 13:00|Nikki Smith|Open source for BGS international work
