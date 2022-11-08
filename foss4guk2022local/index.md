@@ -8,7 +8,11 @@ layout: foss4guk2022
 
 We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
 
-If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view most of the streamed sessions from wherever you are if you can’t get to a venue - links to sessions will be posted soon. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
+If you haven't been able to get a ticket to an in-person event, or can't attend one, we are streaming some of FOSS4G:UK Local 2022 on YouTube. Links to the streams on YouTube will be made available on our website before the event, and you can ask questions via the YouTube chat option.
+
+<!-- Link to Agenda to add when links are added to it https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM -->
+
+You are also welcome to chat with other online participants through the OSGeo:UK Matrix Room: https://matrix.to/#/#OSGeoUK:matrix.org. Check out this page https://nickbearman.github.io/installing-software/element-matrix and this video https://youtu.be/HU3mKxbH-zc for details on how to sign up. All participants are expected to follow the Code of Conduct: https://uk.osgeo.org/foss4guk2022local/code-of-conduct/. 
 
 ## Venues
 
