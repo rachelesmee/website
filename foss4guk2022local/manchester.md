@@ -9,9 +9,9 @@ Local Venue Chair: [Jonny Huck](https://jonnyhuck.co.uk)
 <img src="https://www.alliancembs.manchester.ac.uk/media/ambs/content-assets/images/about/banner-about-whitworth-entrance.jpg" width="600">
 
 ### Sponsors
-We are very grateful for the support of [Informed Solutions](https://www.informed.com/) and [WSP](https://www.wsp.com/en-gb) for sponsoring FOSS4G:UK Local in Manchester.
+We are very grateful for the support of <!-- [Informed Solutions](https://www.informed.com/) and --> [WSP](https://www.wsp.com/en-gb) for sponsoring FOSS4G:UK Local in Manchester.
 <br><br>
-[<img src="images/informed-solutions.png" width="200" clear="none">](https://www.informed.com/)
+<!-- [<img src="images/informed-solutions.png" width="200" clear="none">](https://www.informed.com/) -->
 [<img src="images/wsp.png" width="200" clear="none">](https://www.wsp.com/en-gb)
 
 ### Call for talks

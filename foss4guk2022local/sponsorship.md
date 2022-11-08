@@ -71,7 +71,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/OS logo prime RGB.jpg" width="350" align="middle">](https://www.ordnancesurvey.co.uk/)
 
-[<img src="images/informed-solutions.png" width="350" align="middle">](https://www.informed.com/)
+<!-- [<img src="images/informed-solutions.png" width="350" align="middle">](https://www.informed.com/) -->
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
