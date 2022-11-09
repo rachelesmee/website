@@ -46,14 +46,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/OS logo prime RGB.jpg" width="350" align="middle">](https://www.ordnancesurvey.co.uk/)
 
-<!-- Jonny Huck Email Obfuscator -->
-<!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
-<script>
-    let spans = document.getElementsByClassName('osgeoemail');
-    for (let i = 0; i < spans.length; i++){
-        spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
-    }
-</script>
+
 
 ### Support for crowd funding
 
@@ -91,3 +84,13 @@ We have three sponsorship options for this conference: **Local venue**, **Busine
 - your logo on the welcome and intermission slides of the keynote presentations
 
 For more details, please contact Nick Bearman, and/or <span class="osgeoemail"></span>. 
+
+
+<!-- Jonny Huck Email Obfuscator -->
+<!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
+<script>
+    let spans = document.getElementsByClassName('osgeoemail');
+    for (let i = 0; i < spans.length; i++){
+        spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
+    }
+</script>
