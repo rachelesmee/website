@@ -59,7 +59,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/wsp.png" width="250" align="middle">](https://www.wsp.com/en-gb)
 
-[<img src="images/informed-solutions.png" width="350" align="middle">](https://www.informed.com/)
+[<img src="images/informed-solutions.png" width="250" align="middle">](https://www.informed.com/)
 
 <!-- ### Business supporters -->
 
