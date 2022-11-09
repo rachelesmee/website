@@ -2,13 +2,11 @@
 layout: foss4guk2022
 ---
 
-## FOSS4G:UK Local 2022
-
 ## Sponsors supporting FOSS4G:UK Local 2022
 
 Many thanks to all of our sponsors. Please do check out their websites:
 
-### Local venue
+## Local venue sponsors
 
 [<img src="images/leeds-addresscloud-logo.png" width="250" align="middle">](https://www.addresscloud.com)
 
@@ -16,27 +14,27 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
-[<img src="images/idox_logo.jpg" width="150" align="middle">](https://www.thinkwhere.com/)
-
-[<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
+[<img src="images/Envitia-logo.jpg" width="250" align="middle">](https://www.envitia.com/)
 
 [<img src="images/geoxphere.png" width="200" align="middle">](https://www.geoxphere.com)
 
-[<img src="images/leeds-jbarisk-logo.png" width="200" align="middle">](https://www.jbarisk.com)
-
-[<img src="images/OS logo prime RGB.jpg" width="250" align="middle">](https://www.ordnancesurvey.co.uk/)
-
-[<img src="images/Envitia-logo.jpg" width="250" align="middle">](https://www.envitia.com/)
-
-[<img src="images/nautoguide-logo.png" width="250" align="middle">](https://nautoguide.com/)
-
-[<img src="images/wsp.png" width="250" align="middle">](https://www.wsp.com/en-gb)
+[<img src="images/idox_logo.jpg" width="150" align="middle">](https://www.thinkwhere.com/)
 
 [<img src="images/informed-solutions.png" width="250" align="middle">](https://www.informed.com/)
 
+[<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
+
+[<img src="images/leeds-jbarisk-logo.png" width="200" align="middle">](https://www.jbarisk.com)
+
+[<img src="images/nautoguide-logo.png" width="250" align="middle">](https://nautoguide.com/)
+
+[<img src="images/OS logo prime RGB.jpg" width="250" align="middle">](https://www.ordnancesurvey.co.uk/)
+
+[<img src="images/wsp.png" width="250" align="middle">](https://www.wsp.com/en-gb)
+
 <!-- ### Business supporters -->
 
-### National sponsors
+## National sponsors
 
 [<img src="images/env-sys.jpg" width="300" align="middle">](https://www.envsys.co.uk/)
 
@@ -47,8 +45,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 [<img src="images/OS logo prime RGB.jpg" width="350" align="middle">](https://www.ordnancesurvey.co.uk/)
 
 
-
-### Support for crowd funding
+## Support for crowd funding
 
 [OSGeo:UK](https://uk.osgeo.org/) wants to promote free and open source software for geospatial (FOSS4G) within the UK. You can help by promoting FOSS4G and contributing to the open community within the UK but also by supporting open source projects financially by donating to OSGeo:UK or projects directly. 
 We want to encourage others to donate to FOSS4G projects by showing what has been crowdfunded previously as well as which projects are currently looking for funding. 
@@ -84,7 +81,6 @@ We have three sponsorship options for this conference: **Local venue**, **Busine
 - your logo on the welcome and intermission slides of the keynote presentations
 
 For more details, please contact Nick Bearman, and/or <span class="osgeoemail"></span>. 
-
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
