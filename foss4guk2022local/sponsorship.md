@@ -20,7 +20,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/idox_logo.jpg" width="150" align="middle">](https://www.thinkwhere.com/)
 
-[<img src="images/informed-solutions.png" width="250" align="middle">](https://www.informed.com/)
+[<img src="images/informed-solutions.png" width="200" align="middle">](https://www.informed.com/)
 
 [<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
 
@@ -30,7 +30,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/OS logo prime RGB.jpg" width="250" align="middle">](https://www.ordnancesurvey.co.uk/)
 
-[<img src="images/wsp.png" width="250" align="middle">](https://www.wsp.com/en-gb)
+[<img src="images/wsp.png" width="200" align="middle">](https://www.wsp.com/en-gb)
 
 <!-- ### Business supporters -->
 
