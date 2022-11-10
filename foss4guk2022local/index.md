@@ -74,12 +74,10 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 </form>
 
 ### MapAction 
-[MapAction](https://mapaction.org/donate/)
-
+[<img src="images/MapAction_Tagline_Logo_Positive_RGB_Small.png" width="150"><br>MapAction](https://mapaction.org/donate/)
 
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
-
 
 ## Contact
 [@OSGeoUK](https://twitter.com/osgeouk) or <span class="osgeoemail"></span>.
