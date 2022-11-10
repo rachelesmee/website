@@ -74,7 +74,8 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 </form>
 
 ### MapAction 
-[MapAction](https://mapaction.org/donate/)
+[<img src="images/MapAction_Tagline_Logo_Positive_RGB_Small.png" width="150"><br>MapAction](https://mapaction.org/donate/)
+
 
 
 ## Code of Conduct
