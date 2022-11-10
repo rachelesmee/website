@@ -27,7 +27,7 @@ Location | Chair(s)
 [*Keyworth - Sold out* (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
 [*Leeds - Sold out*](leeds.html#foss4guk-local-2022---leeds-platform)	| [Mike West](mailto:foss4g@addresscloud.com) & [Tomas Holderness](mailto:foss4g@addresscloud.com)
 [*London - Sold out*](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
-[*Manchester - Sold out*](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
+[Manchester](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
 [*Southampton - Sold out* (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
