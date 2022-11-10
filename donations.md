@@ -1,5 +1,9 @@
+---
+layout: default
+---
+
 ## Donating to OSGeo:UK
-If you would like to donate to OSGeo:UK, click the Donate button, or contact us using the details below. All surpluses from OSGeo:UK to to fund open source GIS projects in the UK and elsewhere.
+If you would like to donate to OSGeo:UK, click the Donate button, or contact us using the details below. All surpluses from OSGeo:UK to to fund open source GIS projects in the UK and elsewhere - see [past donations](pastdonations.html){:target="_newpage"} for yearly breakdowns on the projects we have supported to date.
 
 ### PayPal
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
