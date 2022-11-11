@@ -51,7 +51,7 @@ Time | Speaker | Title
 15:30 - 16:00 |Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
 16:30 - 16:45|Nick Bearman| Wrap up
-16:45 onwards|local arrangements
+16:45 onwards|Meetup for refreshments at the [Barley Mow](https://www.openstreetmap.org/directions?from=&to=51.45330%2C-2.57739#map=19/51.45331/-2.57740), Barton Road, < 15 mins walk from the venue 
 
 ### Registration
 
