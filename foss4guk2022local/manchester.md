@@ -44,7 +44,7 @@ Time | Speaker | Title
 12:30 - 13:30 | Lunch | ***Not Provided***
 13:30 - 13:50 | John Donovan (In Person) | DIY RTK GNSS
 13:50 - 14:00 | Richard Kingston (In Person) | Bringing 40+ petabytes of NERC environmental data to more users
-14:00 - 14:30 | WSP (In Person) | *Title TBC*
+14:00 - 14:30 | Patrick Reynolds (In Person) | Free and Open Source Geospatial Software within a Modern Consulting Organisation
 14:30 - 15:00 | Robert Coup | Kart: an introduction to practical data versioning for geospatial
 15:00 - 15:30 | Break | *Coffee and networking*
 15:30 - 16:00 | Ant Scott (Streamed) |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
