@@ -51,7 +51,7 @@ Time | Speaker | Title
 12:00 - 12:30 | Paul Wittle & Robert Quincey | Going open - the journey so far at Dorset Council
 12:30 - 13:30 | Lunch
 13:30 - 14:30 | Michael Gordon & Tim Martin |	Workshop - Using the OS Data Hub to automate Open Data ETL to open source databases
-14:45 - 15:00 | Sarah Cole | Asset Management Applications Using GeoServer, Benefits and Drawbacks? 
+14:30 - 15:00 | Sarah Cole | Asset Management Applications Using GeoServer, Benefits and Drawbacks? 
 15:00 - 15:30 | Break
 15:30 - 16:00 | Giovanni Allegri |	State of GeoNode
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
