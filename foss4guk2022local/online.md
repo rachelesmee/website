@@ -20,7 +20,7 @@ If you can't make it to any of the venues, most of the sessions will be availabl
 
 ### How to watch the recordings after the event
 
-* Just select a session from our YouTube channelthe [FOSS4G UK YouTube channel](https://www.youtube.com/c/FOSS4GUK/streams) - all the sessions we were able to record will be available permanently
+* Just select a session from the [FOSS4G UK YouTube channel](https://www.youtube.com/c/FOSS4GUK/streams) - all the sessions we were able to record will be available permanently
 
 ### Contribute to the event
 
