@@ -8,7 +8,7 @@ layout: foss4guk2022
 
 We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
 
-If you haven't been able to get a ticket to an in-person event, or can't attend one, we are streaming some of FOSS4G:UK Local 2022 on YouTube. Links to the streams on YouTube will be made available on our website before the event, and you can ask questions via the YouTube chat option.
+If you haven't been able to get a ticket to an in-person event, or can't attend one, we are streaming some of [FOSS4G:UK Local 2022 on YouTube](online.html). Links to the streams on YouTube will be made available on our website before the event, and you can ask questions via the YouTube chat option.
 
 <!-- Link to Agenda to add when links are added to it https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM -->
 
@@ -30,6 +30,7 @@ Location | Chair(s)
 [Manchester](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
 [*Southampton - Sold out* (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
+[Online](online.html) | View most sessions online if you can't make a local event 
 
 ## Call for Talks
 
