@@ -12,9 +12,9 @@ If you can't make it to any of the venues, most of the sessions will be availabl
 
 * Check [the event agenda here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/)
 * Choose the session you want to watch
-* At the scheduled time, click the link to watch the  (links coming soon...)
+* At the scheduled time, click the link to watch the session
 * When the session finishes, repeat the process for the next session you want to watch - *you will need to do this even if the session is in the same venue*
-* If you have questions for the presenter, use the YouTube comments to ask them - the venue leads will try to fit in as many questions as possible
+* If you have questions for the presenter, use the YouTube chat to ask them - the venue leads will try to fit in as many questions as possible
 * To chat with other delegates, online or at the venues, use the [OSGeo UK Matrix channel](https://matrix.to/#/#OSGeoUK:matrix.org), or #foss4guk2022 on [Twitter](https://twitter.com/foss4guk).
 * Please respond to our survey to give us feedback on the event - the link will be available in the opening and closing session slides
 
