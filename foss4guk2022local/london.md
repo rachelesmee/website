@@ -40,7 +40,7 @@ Time | Speaker | Title
 11:30 - 12:00 | Gobe Hobona | Serving executable processes on the web through open source implementations of the OGC API - Processes Standard
 12:00 - 12:30 | Tom Huntley | Building a Web GIS - a full stack overview.
 12:30 - 13:30 | Lunch
-13:30 - 14:00 | James Milner |	TerraDraw: Drawing for any map on the web
+13:30 - 14:00 | James Milner |	Terra Draw: Drawing for any map on the web
 14:00 - 14:30| Rupert Allan |	Community Mapping COVID vulnerability and Food Deserts 
 14:30 - 15:00 | Ibrahim Saricicek  | Disaster Ninja; an open source event management solution providing information about disasters
 15:00 - 16:00 | Break / Networking / Q&A / adhoc Lightning Talks
