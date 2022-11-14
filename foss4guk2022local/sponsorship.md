@@ -12,7 +12,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/ASTUN_LOGO.jpg" width="250" align="middle">](https://www.astuntechnology.com)
 
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="200" align="middle">](https://www.bgs.ac.uk/)
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="175" align="middle">](https://www.bgs.ac.uk/)
 
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
@@ -38,13 +38,13 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 ## National sponsors
 
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="275" align="middle">](https://www.bgs.ac.uk/)
 
 [<img src="images/env-sys.jpg" width="300" align="middle">](https://www.envsys.co.uk/)
 
 [<img src="images/geolytix-logo.png" width="300" align="middle">](https://geolytix.com/)
 
-[<img src="images/locate-press-logo.png" width="275" align="middle">](https://locatepress.com/)
+[<img src="images/locate-press-logo.png" width="250" align="middle">](https://locatepress.com/)
 
 [<img src="images/mergin-maps.svg" width="300" align="middle">](https://merginmaps.com/?utm_campaign=merginmaps&utm_medium=banner&utm_source=foss4guk2022)
 
