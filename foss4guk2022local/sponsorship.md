@@ -22,8 +22,6 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/informed-solutions.png" width="200" align="middle">](https://www.informed.com/)
 
-[<img src="images/locate-press-logo.png" width="200" align="middle">](https://locatepress.com/)
-
 [<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
 
 [<img src="images/leeds-jbarisk-logo.png" width="200" align="middle">](https://www.jbarisk.com)
@@ -41,6 +39,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 [<img src="images/env-sys.jpg" width="300" align="middle">](https://www.envsys.co.uk/)
 
 [<img src="images/geolytix-logo.png" width="300" align="middle">](https://geolytix.com/)
+
+[<img src="images/locate-press-logo.png" width="300" align="middle">](https://locatepress.com/)
 
 [<img src="images/mergin-maps.svg" width="300" align="middle">](https://merginmaps.com/?utm_campaign=merginmaps&utm_medium=banner&utm_source=foss4guk2022)
 
