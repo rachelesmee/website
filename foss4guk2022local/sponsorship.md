@@ -12,6 +12,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/ASTUN_LOGO.jpg" width="250" align="middle">](https://www.astuntechnology.com)
 
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="200" align="middle">](https://www.bgs.ac.uk/)
+
 [<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
 [<img src="images/Envitia-logo.jpg" width="250" align="middle">](https://www.envitia.com/)
@@ -35,6 +37,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 <!-- ### Business supporters -->
 
 ## National sponsors
+
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 [<img src="images/env-sys.jpg" width="300" align="middle">](https://www.envsys.co.uk/)
 
