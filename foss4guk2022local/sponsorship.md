@@ -22,6 +22,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/informed-solutions.png" width="200" align="middle">](https://www.informed.com/)
 
+[<img src="images/locate-press-logo.png" width="200" align="middle">](https://locatepress.com/)
+
 [<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://www.sparkgeo.com)
 
 [<img src="images/leeds-jbarisk-logo.png" width="200" align="middle">](https://www.jbarisk.com)
