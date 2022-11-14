@@ -18,7 +18,7 @@ We are very grateful for the support of [CGI](https://www.cgi.com/en) for fully 
 The Call for Talks is now closed. 
 
 ### Location & Travel
-[Brunel Room](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
+[The Junction](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
 Engine Shed<br>
 Station Approach<br>
 Temple Meads<br>
@@ -40,7 +40,7 @@ Time | Speaker | Title
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) |Shaping Open Spatial Data Science
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| 20 Years of QGIS: Successes and Failures of a Global Phenomenon
 11:00 - 11:30| Break
-11:30 - 12:00 | Margriet Groenendijk | Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
+11:30 - 12:00 |Norman Barker (online) | Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
 12:00 - 12:30 | Christopher Brown | Why 99% of humanity doesn’t use GIS, and what we plan to do about it
 12:30 - 13:30 | Lunch
 13:30 - 14:00 | Yann Ziegler |	Open source GUI software for geolocated time series visualisation
@@ -51,7 +51,7 @@ Time | Speaker | Title
 15:30 - 16:00 |Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  PostGIS Vision: Past, Present, and Future
 16:30 - 16:45|Nick Bearman| Wrap up
-16:45 onwards|local arrangements
+16:45 onwards|Meetup for refreshments at the [Barley Mow](https://www.openstreetmap.org/directions?from=&to=51.45330%2C-2.57739#map=19/51.45331/-2.57740), Barton Road, < 15 mins walk from the venue 
 
 ### Registration
 

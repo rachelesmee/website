@@ -8,7 +8,9 @@ layout: foss4guk2022
 
 We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
 
-If there is no physical location near you, you could host your own. Venues don’t need to be big - you can meet up with a couple of friends locally if that works for you. If you would like to host an extra venue please let us know. You will also be able to join remotely and view the streamed sessions from wherever you are, if you can’t get to a venue. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
+If you haven't been able to get a ticket to an in-person event, or can't attend one, we are streaming some of FOSS4G:UK Local 2022 on our [YouTube channel](https://www.youtube.com/c/FOSS4GUK/streams). The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM), and details of how to follow online are in the [Online](online.html) page under Venues below. You can ask questions too, using the YouTube chat option.
+
+You are also welcome to chat with other online participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct/). 
 
 ## Venues
 
@@ -16,22 +18,23 @@ These are our local venues.
 
 Location | Chair(s)
 --- | ---
-[Bovey Tracy (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
+[Bovey Tracey (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
 [Bristol](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham ](https://twitter.com/ajggeoger)
 [Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 [Glasgow](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) | [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
-[Keyworth (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
-[Leeds](leeds.html#foss4guk-local-2022---leeds-platform)	| [Mike West](mailto:foss4g@addresscloud.com) & [Tomas Holderness](mailto:foss4g@addresscloud.com)
-[London](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
+[*Keyworth - Sold out* (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
+[*Leeds - Sold out*](leeds.html#foss4guk-local-2022---leeds-platform)	| [Mike West](mailto:foss4g@addresscloud.com) & [Tomas Holderness](mailto:foss4g@addresscloud.com)
+[*London - Sold out*](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) | [Simon Miles](https://twitter.com/geosmiles)
 [Manchester](manchester.html#foss4guk-local-2022---manchester-the-university-of-manchester) | [Jonny Huck](https://jonnyhuck.co.uk)
-[Southampton (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
+[*Southampton - Sold out* (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
 *National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
+[Online](online.html) | View most sessions online if you can't make a local event 
 
 ## Call for Talks
 
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
+The Call for Talks is now closed - we have been in touch confirming if your talk has been accepted. 
 
-Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above.
+Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail">osgeouk@gmail.com</span>. Any venue specific query please contact the local venue chair, listed above.
 
 ## Schedule
 
@@ -44,7 +47,9 @@ The national schedule for Thurs 17th Nov 2022 is:
 - 16:30 - 16:45 - Wrap-up
 - 16:45 onwards - local arrangements
 
-The local venue chairs will decide what sessions they run between 11:00 - 16:00. We have recommended sizable networking opportunities as well as lunch, alongside the sessions!
+For the full programme, with details of speakers and talk descriptions, and links to streamed versions of the sessions (coming soon) see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
+
+The local venue programmes are also on the venue pages above - there will be sizable networking opportunities as well as lunch, alongside the sessions!
 
 ## Keynote Presentations
 
@@ -68,12 +73,10 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 </form>
 
 ### MapAction 
-[MapAction](https://mapaction.org/donate/)
-
+[<img src="images/MapAction_Tagline_Logo_Positive_RGB_Small.png" width="150"><br>MapAction](https://mapaction.org/donate/)
 
 ## Code of Conduct
-Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4GUK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
-
+Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
 
 ## Contact
 [@OSGeoUK](https://twitter.com/osgeouk) or <span class="osgeoemail"></span>.

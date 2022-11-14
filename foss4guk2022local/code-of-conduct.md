@@ -19,12 +19,12 @@ OSGeo welcomes and encourages participation by everyone. We are committed to bei
 
 ## Escalating and/Reporting a Problem
 
-Issues that cannot be handled by the presentation host and co-host should be escalated to the OSGeo:UK conference committee by [e-mail](mailto:foss4guk.osgeouk@gmail.com).
+Issues that cannot be handled by the presentation host and co-host should be escalated to the OSGeo:UK conference committee by [e-mail](mailto:osgeouk@gmail.com).
 
 
 ## Meeting recordings
 
-Most presentations will be recorded and uploaded to the OSGeo:UK YouTube channel for public viewing. This is done on an opt-in basis, when you submit to the call for talks. We will also take photos during the events, and use these for publicity. This is done on an opt-in basis, when you register.  If you wish to change your mind, then you must explicitly contact the OSGeo:UK conference committee by [e-mail](mailto:osgeouk@gmail.com).
+Most presentations will be recorded and uploaded to the FOSS4G:UK YouTube channel for public viewing. This is done on an opt-in basis, when you submit to the call for talks. We will also take photos during the events, and use these for publicity. This is done on an opt-in basis, when you register.  If you wish to change your mind, then you must explicitly contact the OSGeo:UK conference committee by [e-mail](mailto:osgeouk@gmail.com).
 
 Presentations where a code of conduct violation is known to have occurred will be treated separately and a joint decision between the presenter, co-host, and the conference organising committee will be made as to whether the recording should be made available.
 

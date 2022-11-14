@@ -8,6 +8,11 @@ Local Venue Chairs: [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
 
 <img src="images/uni-of-glasgow.jpg" width="600" align="middle">
 
+### Sponsors
+We are very grateful for the support of [idox](https://www.thinkwhere.com/) for sponsoring FOSS4G:UK Local at this event. 
+
+[<img src="images/idox_logo.jpg" width="200" align="middle">](https://www.thinkwhere.com/)
+
 
 ### Call for talks
 

@@ -10,7 +10,7 @@ layout: default
 
 * [Funding for Patreonship of Regina Obe](https://www.patreon.com/reginaobe/overview){:target="_newpage"} : $60 per month inc VAT [£638.52 per year]
 * [QGIS Sustaining Membership, small level](https://www.qgis.org/en/site/about/sustaining_members.html){:target="_newpage"} : €500 per year [£440 per year]
-* [James Milner, development of TerraDraw](https://github.com/LoxoIndustries/terra-draw){:target="_newpage"} : £800
+* [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw){:target="_newpage"} : £800
 * [Lutra Crowdfunding: Point cloud processing in QGIS](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/){:target="_newpage"} : £1,000
 * [North Road/Nyall Dawson QGIS HTML formatting in labels](https://north-road.com/){:target="_newpage"} : £1,000
 * Potentially about £1,000 remaining for allocation at a later date.
