@@ -108,3 +108,7 @@ Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward oth
 ### Questions
 
 Any questions, please contact [John Stevenson](mailto:jostev@bgs.ac.uk) and [Chris Williams](mailto:chrwil@bgs.ac.uk) or email [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
+
+### Feedback
+
+Following the meeting, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfMWtZh-MwV_TMyiVlTFku7qX6lAlg0ZMkth4MVThckDMqTng/viewform) to provide feedback.  Some respondents will be selected at random to win a prize.
