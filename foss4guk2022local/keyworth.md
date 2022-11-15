@@ -59,7 +59,7 @@ Time | Speaker| Title|
 12:10 - 12:20|-|Break
 12:20 - 12:30|Sophie Taylor|Filling gaps in Lidar data with a coarser DTM using open source python libraries
 12:30 - 12:40|Dr Kathryn Leeming|R for geospatial analysis
-12:40 - 12:50|Dr Matthew Haines|The use of OSS4G in a capability study of a digital twin of UK soils
+12:40 - 12:50|Dr Matthew Haines|The use of FOSS4G in a capability study of a digital twin of UK soils
 12:50 - 13:00|Nikki Smith|Open source for BGS international work
 13:00 - 13:30|-|Lunch and networking
 13:30 - 14:00|Dr John A Stevenson|Discussion session: Increasing open source adoption at the British Geological Survey
