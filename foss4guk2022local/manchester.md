@@ -45,7 +45,7 @@ Time | Speaker | Title
 13:30 - 13:50 | John Donovan (In Person) | DIY RTK GNSS
 13:50 - 14:00 | Richard Kingston (In Person) | Bringing 40+ petabytes of NERC environmental data to more users
 14:00 - 14:30 | Patrick Reynolds (In Person) | Free and Open Source Geospatial Software within a Modern Consulting Organisation
-14:30 - 15:00 | Robert Coup | Kart: an introduction to practical data versioning for geospatial
+14:30 - 15:00 | Robert Coup (Streamed) | Kart: an introduction to practical data versioning for geospatial
 15:00 - 15:30 | Break | *Coffee and networking*
 15:30 - 16:00 | Ant Scott (Streamed) |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30 | [Regina Obe](https://twitter.com/reginaobe) (Streamed)|  PostGIS Vision: Past, Present, and Future
@@ -53,6 +53,7 @@ Time | Speaker | Title
 
 ### Registration
 
-[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087)
+Registration is now closed!
+<!-- [Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087) -->
 
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
