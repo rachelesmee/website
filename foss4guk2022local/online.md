@@ -4,6 +4,8 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Online access
 
+### Thu 17th Nov 2022 09:30 - 16:45 (GMT/UK-London)
+
 If you can't make it to any of the venues, most of the sessions will be available live online, and will also be recorded so you can watch them later. We will be using the [FOSS4G UK YouTube channel](https://www.youtube.com/c/FOSS4GUK/streams) for this. You don't need to register - just follow the instructions and links below.
 
 *However* - not all sessions will be streamed, and we can't guarantee that streaming will work all the time from all the venues, so please bear with us, and if a session you want to watch isn't available, try another one!
