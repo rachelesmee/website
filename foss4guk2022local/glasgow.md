@@ -4,7 +4,7 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Glasgow (University of Glasgow)
 
-Local Venue Chairs: [Tom Armitage](https://twitter.com/MapNav_Tom) & Ana Basiri
+Local Venue Chairs: [Tom Armitage](https://twitter.com/MapNav_Tom), [Ana Basiri](https://twitter.com/anahidbasiri) & [Piet Gerrits](https://pgerrits.com/)
 
 <img src="images/uni-of-glasgow.jpg" width="600" align="middle">
 
