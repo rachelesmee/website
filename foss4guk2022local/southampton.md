@@ -34,7 +34,7 @@ We encourage everyone to travel by public transport/car share/ under their own s
 
 Train: Best station is Southampton Central, then by taxi (about 15 min) or [local bus number 17](https://www.bluestarbus.co.uk/services/BLUS/17).
 
-Car: A visitors car park is available.
+Car: A visitors car park is available, you will need to press the button at the barrier and you will be let in by reception.
 
 ### Programme
 
