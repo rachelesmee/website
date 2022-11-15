@@ -15,9 +15,7 @@ If you would like to donate to OSGeo:UK, click the Donate button, or contact us 
 
 ## Contact
 
-For more information, please contact <span class="osgeoemail"></span>.
-
-<p>&nbsp;</p>
+For more details, please contact <span class="osgeoemail"></span>. 
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
@@ -27,4 +25,3 @@ For more information, please contact <span class="osgeoemail"></span>.
         spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
     }
 </script>
-
