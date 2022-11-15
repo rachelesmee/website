@@ -14,7 +14,8 @@ If you would like to donate to OSGeo:UK, click the Donate button, or contact us 
 </form>
 
 ## Contact
-[@OSGeoUK](https://twitter.com/osgeouk) or <span class="osgeoemail"></span>.
+
+For more information, please contact <span class="osgeoemail"></span>.
 
 <p>&nbsp;</p>
 
@@ -25,3 +26,5 @@ If you would like to donate to OSGeo:UK, click the Donate button, or contact us 
     for (let i = 0; i < spans.length; i++){
         spans[i].innerHTML = Tea.decrypt("TaP7QMCgFhScZikfQl5S2WfHPdfSh44LhvA4yCJITheD063TvlsEuDlGFtNkE+SCMIKiymkA/88=", "foss4g");
     }
+</script>
+
