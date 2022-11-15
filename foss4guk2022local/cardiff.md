@@ -41,7 +41,7 @@ Time | Speaker | Title
 11:30 - 12:00 | John Cook (Welsh Gov.) | Improving user experience with Cloud Optimised Geotiffs (COGs)
 12:00 - 12:30 | Seb Clarke (Environment Systems) | Making the Intractable, Manageable
 12:30 - 13:30 | Sandwich Buffet Lunch
-13:30 - 14:00 |Carl Morris (Mapio Cymru) |	Mapio Cymru talk 1 - Switch2OSM
+13:30 - 14:00 |Carl Morris (Mapio Cymru) |	Mapio Cymru talk 1 - OpenStreetMap in a lesser-resourced language
 14:00 - 14:30|Sam Franklin (CGI)/Tom Colley(Welsh Gov.) |	Mapio Cymru talk 2 - DataMapWales Azure Cloud
 14:30 - 15:00 |Tom Colley (Welsh Gov)  |PGaudit and Active Travel
 15:00 - 15:30 | Break
