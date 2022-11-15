@@ -54,7 +54,7 @@ __Officers__
 __Committee__
 
 * [Dave Barter](https://twitter.com/NautoGuide)
-* [Tom Chadwin](https://twitter.com/chadwin)
+* [Tom Chadwin](https://twitter.com/tomchadwin)
 * [Alastair Graham](https://twitter.com/ajggeoger)
 * [Tom Armitage](https://twitter.com/MapNav_Tom)
 * [Joseph Seddon](https://twitter.com/josephseddon)
