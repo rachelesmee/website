@@ -15,7 +15,7 @@ If you would like to donate to OSGeo:UK, click the Donate button, or contact us 
 
 ## Contact
 
-For more details, please contact <span class="osgeoemail"></span>. 
+For more details, please contact [osgeouk@gmail.com](mailto:osgeouk@gmail.com) <span class="osgeoemail"></span>. 
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
