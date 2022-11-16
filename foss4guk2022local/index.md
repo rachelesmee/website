@@ -77,6 +77,10 @@ The event is free to attend but we *strongly* encourage attendees (and/or their 
 ### MapAction 
 [<img src="images/MapAction_Tagline_Logo_Positive_RGB_Small.png" width="150"><br>MapAction](https://mapaction.org/donate/)
 
+## Feedback
+
+This is the first time we have run a conference over multiple venues with an online component. We really want to get your views on how we did, so please complete our [feedback form](https://forms.gle/gsAEa7bnn4Ui6jnk6). Remember to complete it by 17:00 on Thursday 24th November 2022 to be in with a chance of winning a Locate Press book. 
+
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.*
 
