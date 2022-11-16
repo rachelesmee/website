@@ -10,7 +10,7 @@ We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://p
 
 If you haven't been able to get a ticket to an in-person event, or can't attend one, we are streaming some of FOSS4G:UK Local 2022 on our [YouTube channel](https://www.youtube.com/c/FOSS4GUK/streams). The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM), and details of how to follow online are in the [Online](online.html) page under Venues below. You can ask questions too, using the YouTube chat option.
 
-You are also welcome to chat with other online participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct/). 
+You are also welcome to chat with other online participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
 
 ## Venues
 
