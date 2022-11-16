@@ -19,7 +19,7 @@ These are our local venues.
 Location | Chair(s)
 --- | ---
 [*Bovey Tracey - Sold out* (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
-[Bristol](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
+[*Bristol -Sold out*](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
 [Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 [*Glasgow - Sold out*](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) | [Tom Armitage](https://twitter.com/MapNav_Tom), [Ana Basiri](https://twitter.com/anahidbasiri) & [Piet Gerrits](https://pgerrits.com/)
 [*Keyworth - Sold out* (British Geological Survey)](keyworth.html#foss4guk-local-2022---keyworth-british-geological-survey) | [John Stevenson](mailto:jostev@bgs.ac.uk) & [Chris Williams](mailto:chrwil@bgs.ac.uk)
