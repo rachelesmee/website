@@ -12,7 +12,7 @@ layout: default
 * [QGIS Sustaining Membership, small level](https://www.qgis.org/en/site/about/sustaining_members.html){:target="_newpage"} : €500 per year [£440 per year]
 * [James Milner, development of Terra Draw](https://github.com/JamesLMilner/terra-draw){:target="_newpage"} : £800
 * [Lutra Crowdfunding: Point cloud processing in QGIS](https://www.lutraconsulting.co.uk/crowdfunding/pointcloud-processing-qgis/){:target="_newpage"} : £1,000
-* [North Road/Nyall Dawson QGIS HTML formatting in labels](https://north-road.com/){:target="_newpage"} : £1,000
+* [North Road/Nyall Dawson QGIS HTML formatting in labels](https://github.com/qgis/QGIS/pull/50848){:target="_newpage"} : £1,000
 * Potentially about £1,000 remaining for allocation at a later date.
 
 
