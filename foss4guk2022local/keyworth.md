@@ -62,7 +62,7 @@ Time | Speaker| Title|
 12:40 - 12:50|Dr Matthew Haines|The use of FOSS4G in a capability study of a digital twin of UK soils
 12:50 - 13:00|Nikki Smith|Open source for BGS international work
 13:00 - 13:30|-|Lunch and networking
-13:30 - 14:00|Dr John A Stevenson|Discussion session: Increasing open source adoption at the British Geological Survey
+13:30 - 14:00|Dr John A Stevenson|[Discussion session: Increasing open source adoption at the British Geological Survey](https://github.com/volcan01010/foss4g2022local)
 14:00 - 14:30|All|Field data capture / Unconference
 14:30 - 15:00|All|BGS open data in QGIS (demo) / Unconference
 15:00 - 15:30|All|Unconference / Unconference
