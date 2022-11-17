@@ -36,7 +36,7 @@ MR 1 and 2 will be partitioned to allow two streams to run in parallel.
 
 The 3D Visualisation Suite will be available all day for collective viewing of streamed
 sessions from other venues on the big screen.
-See the [main FOSS4GUK landing page](https://uk.osgeo.org/foss4guk2022local/index.html) for schedules of presentations at other sites.
+See the [this spreadsheet]([https://uk.osgeo.org/foss4guk2022local/index.html](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148)) for schedules of presentations at other sites.
 
 *National keynotes*
 
@@ -62,7 +62,7 @@ Time | Speaker| Title|
 12:40 - 12:50|Dr Matthew Haines|The use of FOSS4G in a capability study of a digital twin of UK soils
 12:50 - 13:00|Nikki Smith|Open source for BGS international work
 13:00 - 13:30|-|Lunch and networking
-13:30 - 14:00|Dr John A Stevenson|Discussion session: Increasing open source adoption at the British Geological Survey
+13:30 - 14:00|Dr John A Stevenson|[Discussion session: Increasing open source adoption at the British Geological Survey](https://github.com/volcan01010/foss4g2022local)
 14:00 - 14:30|All|Field data capture / Unconference
 14:30 - 15:00|All|BGS open data in QGIS (demo) / Unconference
 15:00 - 15:30|All|Unconference / Unconference
