@@ -36,7 +36,7 @@ MR 1 and 2 will be partitioned to allow two streams to run in parallel.
 
 The 3D Visualisation Suite will be available all day for collective viewing of streamed
 sessions from other venues on the big screen.
-See the [this spreadsheet]([https://uk.osgeo.org/foss4guk2022local/index.html](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148)) for schedules of presentations at other sites.
+See the [this spreadsheet](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM) for schedules of presentations at other sites.
 
 *National keynotes*
 
