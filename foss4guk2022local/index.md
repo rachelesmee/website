@@ -36,7 +36,7 @@ Location | Chair(s)
 [London](london.html#foss4guk-local-2022---london-clyde--co-fenchurch-st) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOm0Y9zT_q8QahTqWooF4fkg" target="_blank"><img src="images/youtube.png" height="15"></a> | [Simon Miles](https://twitter.com/geosmiles)
 [Manchester](manchester.html) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOld6NNnuqZQGMMJ2uTcWZHo" target="_blank"><img src="images/youtube.png" height="15"></a> | [Jonny Huck](https://jonnyhuck.co.uk)
 [Southampton (Ordnance Survey)](southampton.html#foss4guk-local-2022---southampton-ordnance-survey) <a href="https://www.youtube.com/playlist?list=PLCvveKqdciOnZAXPuzE6kiGo4V4XV89W9" target="_blank"><img src="images/youtube.png" height="15"></a> | [Paul Wittle](mailto:paul.wittle@dorsetcouncil.gov.uk) & [Paul Naylor](mailto:paul.naylor@os.uk)
-*National Chair* | [Nick Bearman](https://twitter.com/nickbearmanuk)
+*National Chair* <a href="https://www.youtube.com/watch?v=HDgwwCYhBts&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp" target="_blank"><img src="images/youtube.png" height="15"></a> | [Nick Bearman](https://twitter.com/nickbearmanuk)
 
 
 ## Donations
