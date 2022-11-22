@@ -4,13 +4,11 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022
 
-[OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
+We ran FOSS4G:UK Local 2022 on *Thu 17 Nov 2022*. This was a hybrid conference, but with a twist: there was no central physical location. We had 9 venues geographically dispersed across the UK, and online access. Videos of the presentations are available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams) with links on each venue page. 
 
-We are running FOSS4G:UK Local 2022 on Thu 17th Nov 2022, on [PostGIS](https://postgisday.rocks/) day. This will be a hybrid conference, but with a twist: there will be no central physical location. We have nine venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
+You are also welcome to continue chatting with participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
 
-If you haven't been able to get a ticket to an in-person event, or can't attend one, we are streaming some of FOSS4G:UK Local 2022 on our [YouTube channel](https://www.youtube.com/c/FOSS4GUK/streams). The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM), and details of how to follow online are in the [Online](online.html) page under Venues below. You can ask questions too, using the YouTube chat option.
-
-You are also welcome to chat with other online participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
+ The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
 
 ## Venues
 
@@ -18,7 +16,7 @@ These are our local venues.
 
 Location | Chair(s)
 --- | ---
-[*Bovey Tracey - Sold out* (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
+[Bovey Tracey (Dartmoor National Park)](boveytracey.html#foss4guk-local-2022---bovey-tracy-dartmoor-national-park-offices) [<img src="images/youtube.png" height="20"](https://www.youtube.com/playlist?list=PLCvveKqdciOkw46JctT9y8tq-A0C8x3ER){:target="_newpage"} | [Dave Barter](https://twitter.com/NautoGuide) & [Matt Travis](https://twitter.com/yakus)
 [*Bristol -Sold out*](bristol.html#foss4guk-local-2022---bristol-engine-shed-bristol-temple-meads) | [Ant Scott](https://twitter.com/antscott) & [Alastair Graham](https://twitter.com/ajggeoger)
 [Cardiff](cardiff.html#foss4guk-local-2022---cardiff-jurys-inn) | [Kevin Williams](mailto:Kevin.Williams001@gov.wales)
 [*Glasgow - Sold out*](glasgow.html#foss4guk-local-2022---glasgow-university-of-glasgow) | [Tom Armitage](https://twitter.com/MapNav_Tom), [Ana Basiri](https://twitter.com/anahidbasiri) & [Piet Gerrits](https://pgerrits.com/)
