@@ -21,7 +21,7 @@ This is the first time we have run a conference over multiple venues with an onl
 
 We had three thought provoking keynote presentations:
 
-<img src="images/graser.jpg" width="150"><br>[Shaping Open Spatical Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4) by [Anita Graser](https://anitagraser.com/) | <img src="images/tim-sutton.jpg" width="120"><br>[20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3) by [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) | <img src="images/regina-obe.jpg" width="150"><br> [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2) by [Regina Obe](https://twitter.com/reginaobe)
+<img src="images/graser.jpg" width="140"><br>[Shaping Open Spatical Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4) by [Anita Graser](https://anitagraser.com/) | <img src="images/tim-sutton.jpg" width="100"><br>[20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3) by [Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) | <img src="images/regina-obe.jpg" width="150"><br> [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2) by [Regina Obe](https://twitter.com/reginaobe)
 
 ## Venues
 
