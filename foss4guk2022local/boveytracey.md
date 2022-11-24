@@ -12,22 +12,6 @@ We are very grateful for the support of [Nautoguide](https://nautoguide.com/) fo
 [<img src="images/nautoguide-logo.png" width="250" align="middle">](https://nautoguide.com/)
 
 
-### Call for talks
-
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
-
-For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
-
-### Location & Travel
-[Dartmoor National Park](https://www.openstreetmap.org/#map=19/50.59490/-3.68893)<br>
-Parke<br>
-Haytor Road<br>
-Bovey Tracey<br>
-Devon<br>
-TQ13 9JQ<br>
-
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
-
 ### Programme
 
 The schedule for Thurs 17th Nov 2022 is below - for the full programme for all venues, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
@@ -53,6 +37,15 @@ Time | Speaker | Title
 
 ### Registration
 
-[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087)
-
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
+
+### Location & Travel
+[Dartmoor National Park](https://www.openstreetmap.org/#map=19/50.59490/-3.68893)<br>
+Parke<br>
+Haytor Road<br>
+Bovey Tracey<br>
+Devon<br>
+TQ13 9JQ<br>
+
+We encourage everyone to travel by public transport/car share/under their own steam if possible.
+
