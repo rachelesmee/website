@@ -20,13 +20,12 @@ The schedule for Thurs 17th Nov 2022 is below - for the full programme, with det
 Time | Speaker | Title
 :-----|:-----|:-----
 09:00 - 09:30|Arrivals and coffee
-09:30 - 10:00|Nick Bearman|Opening and welcome
 09:30 - 10:00|Nick Bearman| [Opening and welcome](https://www.youtube.com/watch?v=DLwNwLpkwOI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=5)
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) | [Shaping Open Spatial Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4)
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| [20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3)
 11:00 - 11:30| Break
 11:30 - 12:00 | Gobe Hobona | [Serving executable processes on the web through open source implementations of the OGC API - Processes Standard](https://www.youtube.com/watch?v=EbdI6R2p5Eg&list=PLCvveKqdciOm0Y9zT_q8QahTqWooF4fkg&index=7)
-12:00 - 12:30 | Tom Huntley | Building a Web GIS - a full stack overview.
+12:00 - 12:30 | Tom Huntley | Building a Web GIS - a full stack overview
 12:30 - 13:30 | Lunch
 13:30 - 14:00 | James Milner |	[Terra Draw: Drawing for any map on the web](https://www.youtube.com/watch?v=OLefUQtGxLY&list=PLCvveKqdciOm0Y9zT_q8QahTqWooF4fkg&index=4)
 14:00 - 14:30| Rupert Allan |	[Community Mapping COVID vulnerability and Food Deserts](https://www.youtube.com/watch?v=SnzMDOuMG_g&list=PLCvveKqdciOm0Y9zT_q8QahTqWooF4fkg&index=3) 
