@@ -39,8 +39,7 @@ Time | Speaker | Title
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) | [Shaping Open Spatial Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4)
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| [20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3)
 11:00 - 11:30| Break
-11:30 - 12:00 | Sam Lavender |	[Using open-source code and data to ask questions about the environment](https://youtu.be/V-GHNGIzJUQ)
-12:00 - 12:30 | Dave Partridge	| [Helping to develop an urban tree planting strategy using QGIS]((https://www.youtube.com/watch?v=7nrxZMjXvRo&list=PLCvveKqdciOkw46JctT9y8tq-A0C8x3ER&index=2))
+11:30 - 12:00 | Sam Lavender |	Using open-source code and data to ask questions about the environment 12:00 - 12:30 | Dave Partridge	| [Helping to develop an urban tree planting strategy using QGIS](https://www.youtube.com/watch?v=7nrxZMjXvRo&list=PLCvveKqdciOkw46JctT9y8tq-A0C8x3ER&index=2)
 12:30 - 13:30 | Lunch
 13:30 - 14:00 | Matt Travis |	[Automating data downloads from the new OS National Geographic Database (NDG)](https://youtu.be/7nrxZMjXvRo)
 14:00 - 14:30 | Tom Thomson	| Georeferencing non-standardised and very old map/plans via QGIS and other tools.
