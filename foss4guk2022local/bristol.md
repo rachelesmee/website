@@ -30,7 +30,7 @@ Time | Speaker | Title
 13:30 - 14:00 | Yann Ziegler |	Open source GUI software for geolocated time series visualisation
 14:00 - 14:30| Sean McGee |	[Adding Audio to Maps](https://youtu.be/iGxJNvcgm5E)
 14:30 - 14:45 |Alastair Graham | [From EO to geo development: some observations](https://youtu.be/4IyJuFVHw0E) 
-14:45 - 15:00 | David Kerr | [Grids - the future of small area statistical geographies?] (https://youtu.be/9G4l-HB9vPc)
+14:45 - 15:00 | David Kerr | [Grids - the future of small area statistical geographies?](https://youtu.be/9G4l-HB9vPc)
 15:00 - 15:30 | Break
 15:30 - 16:00 | Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
