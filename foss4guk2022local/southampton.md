@@ -26,7 +26,7 @@ Time | Speaker | Title
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) | [Shaping Open Spatial Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4)
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| [20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3)
 11:00 - 11:30| Break
-11:30 - 12:00 | Andrew Bell | [A safe route to school with PgRouting and QGIS, incomplete recording](https://www.youtube.com/watch?v=8gszNPKXA44&list=PLCvveKqdciOnZAXPuzE6kiGo4V4XV89W9&index=4)
+11:30 - 12:00 | Andrew Bell | [A safe route to school with PgRouting and QGIS *incomplete recording*](https://www.youtube.com/watch?v=8gszNPKXA44&list=PLCvveKqdciOnZAXPuzE6kiGo4V4XV89W9&index=4)
 12:00 - 12:30 | Paul Wittle & Robert Quincey | Going open - the journey so far at Dorset Council
 12:30 - 13:30 | Lunch
 13:30 - 14:30 | Michael Gordon & Tim Martin |	Workshop - Using the OS Data Hub to automate Open Data ETL to open source databases
