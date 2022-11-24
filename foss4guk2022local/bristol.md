@@ -20,7 +20,7 @@ The schedule for Thurs 17th Nov 2022 is below - for the full programme, with det
 Time | Speaker | Title
 :-----|:-----|:-----
 09:00 - 09:30|Arrivals and coffee
-09:30 - 10:00|Nick Bearman|Opening and welcome
+09:30 - 10:00|Nick Bearman| [Opening and welcome](https://www.youtube.com/watch?v=DLwNwLpkwOI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=5)
 10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) | [Shaping Open Spatial Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4)
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| [20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3)
 11:00 - 11:30| Break
@@ -34,7 +34,7 @@ Time | Speaker | Title
 15:00 - 15:30 | Break
 15:30 - 16:00 | Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
-16:30 - 16:45|Nick Bearman| Wrap up
+16:30 - 16:45| Nick Bearman| [Wrap up](https://www.youtube.com/watch?v=HDgwwCYhBts&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
 16:45 onwards|Meetup for refreshments at the [Barley Mow](https://www.openstreetmap.org/directions?from=&to=51.45330%2C-2.57739#map=19/51.45331/-2.57740), Barton Road, < 15 mins walk from the venue 
 
 ### Registration
