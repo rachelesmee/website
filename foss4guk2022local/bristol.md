@@ -32,7 +32,7 @@ Time | Speaker | Title
 14:30 - 14:45 |Alastair Graham | [From EO to geo development: some observations](https://youtu.be/4IyJuFVHw0E) 
 14:45 - 15:00 | David Kerr | [Grids - the future of small area statistical geographies?](https://youtu.be/9G4l-HB9vPc)
 15:00 - 15:30 | Break
-15:30 - 16:00 | Ant Scott |	Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler
+15:30 - 16:00 | Ant Scott |	[Analysing Access to UK Public Rights of Way with the QGIS Graphical Modeler](https://uk.osgeo.org/foss4guk2022local/slides/FOSS4G_UK%202022%20QGIS%20Graphical%20Modeler%20Ant%20Scott.pdf)
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
 16:30 - 16:45| Nick Bearman| [Wrap up](https://www.youtube.com/watch?v=HDgwwCYhBts&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
 16:45 onwards|Meetup for refreshments at the [Barley Mow](https://www.openstreetmap.org/directions?from=&to=51.45330%2C-2.57739#map=19/51.45331/-2.57740), Barton Road, < 15 mins walk from the venue 
