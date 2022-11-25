@@ -10,13 +10,6 @@ This was a hybrid conference, but with a twist: there was no central physical lo
 
 You are also welcome to continue chatting with participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
 
-
-
-## Feedback
-
-This is the first time we have run a conference over multiple venues with an online component. We really want to get your views on how we did, so please complete our [feedback form](https://forms.gle/gsAEa7bnn4Ui6jnk6). Remember to complete it by 17:00 on Thursday 24th November 2022 to be in with a chance of winning a Locate Press book. 
-
-
 ## Keynotes
 
 We had three thought provoking keynote presentations:
