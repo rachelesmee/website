@@ -13,24 +13,6 @@ We are very grateful for the support of [Addresscloud](https://www.addresscloud.
 [<img src="images/leeds-addresscloud-logo.png" width="250" style="margin: 10px" align="middle">](https://www.addresscloud.com)
 [<img src="images/leeds-jbarisk-logo.png" width="200" style="margin: 10px" align="middle">](https://www.jbarisk.com)
 
-### Call for talks
-
-The Call for Talks is now closed. We will be in touch soon confirming if your talk has been accepted. 
-
-For more details see [here](https://uk.osgeo.org/foss4guk2022local/index.html#call-for-talks).
-
-### Location & Travel
-[Platform](https://www.openstreetmap.org/#map=19/53.7949385/-1.5466345)<br>
-New Station St<br>
-Leeds<br>
-LS1 4JB<br>
-
-Website: [https://bruntwood.co.uk/our-locations/leeds/platform/](https://bruntwood.co.uk/our-locations/leeds/platform/)
-
-Getting there: Platform is adjacent to Leeds train station meaning that it is excellently served by both train and bus services.
-
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
-
 ### Programme
 
 The schedule for Thurs 17th Nov 2022 is below - for the full programme for all venues, with details of speakers and talk descriptions, see [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
@@ -59,6 +41,16 @@ Time | Speaker | Title
 
 ### Registration
 
-[Registration is now open!](https://www.eventbrite.co.uk/e/foss4g-uk-local-2022-tickets-405826868087)
-
 The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
+
+### Location & Travel
+[Platform](https://www.openstreetmap.org/#map=19/53.7949385/-1.5466345)<br>
+New Station St<br>
+Leeds<br>
+LS1 4JB<br>
+
+Website: [https://bruntwood.co.uk/our-locations/leeds/platform/](https://bruntwood.co.uk/our-locations/leeds/platform/)
+
+Getting there: Platform is adjacent to Leeds train station meaning that it is excellently served by both train and bus services.
+
+We encourage everyone to travel by public transport/car share/under their own steam if possible.
