@@ -27,7 +27,7 @@ Time | Speaker | Title
 11:30 - 12:00 | Norman Barker | Straight to the Point: Visualize Massive 3D Point Clouds with TileDB and BabylonJS
 12:00 - 12:30 | Christopher Brown | [Why 99% of humanity doesn’t use GIS, and what we plan to do about it](https://youtu.be/5edFlsQ7NGc)
 12:30 - 13:30 | Lunch
-13:30 - 14:00 | Yann Ziegler |	Open source GUI software for geolocated time series visualisation
+13:30 - 14:00 | Yann Ziegler |	[Open source GUI software for geolocated time series visualisation](https://uk.osgeo.org/foss4guk2022local/slides/FOSS4G-Pygoda-ziegler-pub.pdf)
 14:00 - 14:30| Sean McGee |	[Adding Audio to Maps](https://youtu.be/iGxJNvcgm5E)
 14:30 - 14:45 |Alastair Graham | [From EO to geo development: some observations](https://youtu.be/4IyJuFVHw0E) 
 14:45 - 15:00 | David Kerr | [Grids - the future of small area statistical geographies?](https://youtu.be/9G4l-HB9vPc)
