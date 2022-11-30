@@ -10,7 +10,7 @@ Below is a short summary of the [feedback](#feedback) we've received, as well as
 
 ## Feedback
 
-We received 108 responses to the feedback form (~40% of attendees), with 88% saying the conference 'Met or exceeded their expectations' (score 4 or 5 out of 5), 88% rated the quality of the talks as 4 or 5, and 90% rated the venues as 4 or 5. The local venue format worked well, with 90% saying they would attend again, and 57% would like the same format again (national talks streamed and local events across the country). 
+We received 109 responses to the feedback form (~40% of attendees), with 88% saying the conference 'Met or exceeded their expectations' (score 4 or 5 out of 5), 88% rated the quality of the talks as 4 or 5, and 90% rated the venues as 4 or 5. The local venue format worked well, with 90% saying they would attend again, and 57% would like the same format again (national talks streamed and local events across the country). 
 
 <a href="images/lessons-learned-event-expectations.png"><img src="images/lessons-learned-event-expectations.png" height="100"></a>  <a href="images/lessons-learned-talks.png"><img src="images/lessons-learned-talks.png" height="100"></a>
 

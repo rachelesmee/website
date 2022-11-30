@@ -5,9 +5,9 @@ layout: default
 
 ### FOSS4G:UK Local 2022
 
-We had a great [FOSS4G:UK Local 2022](/foss4guk2022local/) conference on Thurs 17th Nov 2022. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams). We are still waiting for videos from Cardiff and Glasgow to be updated and we will post those shortly. 
+We had a great [FOSS4G:UK Local 2022](/foss4guk2022local/) conference on Thurs 17th Nov 2022. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams){:target="_newpage"}. We are still waiting for videos from Cardiff and Glasgow to be updated and we will post those shortly. 
 
-We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We're aiming to run a conference in 2023, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) to find out when we'll be meeting to discuss this. 
+We have done a short [write up](/foss4guk2022local/lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We're aiming to run a conference in 2023, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to find out when we'll be meeting to discuss this. 
 
 ----
 
