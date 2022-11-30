@@ -4,11 +4,24 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022
 
-We ran FOSS4G:UK Local 2022 on *Thu 17 Nov 2022*. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. 
-
-This was a hybrid conference, but with a twist: there was no central physical location. We had 9 venues geographically dispersed across the UK, and online access. Videos of the presentations are available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams) with links on each venue page. The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
+We had a great FOSS4G:UK Local 2022 conference on Thurs 17th Nov, PostGIS day. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. This is many more than we've previously been able to reach at an in person event. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams) with links on each venue page. The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM). We are still waiting for videos from Cardiff and Glasgow to be updated and we will post those shortly. 
 
 You are also welcome to continue chatting with participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
+
+We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We're aiming to run a conference in 2023, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) to find out when we'll be meeting to discuss this. 
+
+Thanks to everyone who took part, and thank you for filling the feedback form. Thanks to sponsorship from Locate Press, we have given away 11 Locate Press books to those who completed the feedback form, including:
+
+- Andrew Bell, who won a print version of [pgRouting: A Practical Guide](https://locatepress.com/book/pgr) by Regina O. Obe and Leo S. Hsu
+- Laurence Hawker, who won a print version of [QGIS Map Design](https://locatepress.com/book/qmd2), by Anita Graser and Gretchen N. Peterson
+- Benas Pekarskis, who attended the London event and won an e-book version of [PyQGIS Programmer's Guide 3](https://locatepress.com/book/ppg3) by Gary Sherman
+- David Schweitzer, who attended the Southampton  event and won an e-book version of [pgRouting: A Practical Guide](https://locatepress.com/book/pgr) by Regina O. Obe and Leo S. Hsu
+- Amy Pritchard, who attended the Cardiff event and won an e-book version of [pgRouting: A Practical Guide](https://locatepress.com/book/pgr) by Regina O. Obe and Leo S. Hsu
+- Colin Blackburn, who attended the Keyworth  event and won an e-book version of [Discover QGIS 3.x](https://locatepress.com/book/dq3) by Kurt Menke
+- Elliot Karikari, who attended the Leeds  event and won an e-book version of [PyQGIS Programmer's Guide 3](https://locatepress.com/book/ppg3) by Gary Sherman
+-  Christopher Race, who attended the  event and won an e-book version of [Discover QGIS 3.x](https://locatepress.com/book/dq3) by Kurt Menke
+
+<!-- - , who attended the  event and won an e-book version of []() by -->
 
 ## Keynotes
 
