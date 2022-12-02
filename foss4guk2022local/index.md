@@ -19,7 +19,9 @@ Thanks to everyone who took part, and thank you for filling the feedback form. T
 - Amy Pritchard, who attended the Cardiff event and won an e-book version of [pgRouting: A Practical Guide](https://locatepress.com/book/pgr){:target="_newpage"} by Regina O. Obe and Leo S. Hsu
 - Colin Blackburn, who attended the Keyworth  event and won an e-book version of [Discover QGIS 3.x](https://locatepress.com/book/dq3){:target="_newpage"} by Kurt Menke
 - Elliot Karikari, who attended the Leeds  event and won an e-book version of [PyQGIS Programmer's Guide 3](https://locatepress.com/book/ppg3){:target="_newpage"} by Gary Sherman
--  Christopher Race, who attended the  event and won an e-book version of [Discover QGIS 3.x](https://locatepress.com/book/dq3){:target="_newpage"} by Kurt Menke
+-  Christopher Race, who attended the Manchester event and won an e-book version of [Discover QGIS 3.x](https://locatepress.com/book/dq3){:target="_newpage"} by Kurt Menke
+-   Diego Pajarito Grajales, who attended the Glasgow event and won an e-book version of [Discover QGIS 3.x](https://locatepress.com/book/dq3){:target="_newpage"} by Kurt Menke
+
 
 <!-- - , who attended the  event and won an e-book version of []() by -->
 
