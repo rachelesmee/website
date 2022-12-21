@@ -15,11 +15,7 @@ We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) 
 
 [<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
-### Registration
 
-Places for the Keyworth meeting are now sold out.
-
-The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
 
 ### Programme
 
@@ -43,9 +39,9 @@ See the [this spreadsheet](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2c
 Time | Speaker| Title|
 :-----|:-----|:-----
 09:00 - 09:30|Local organisers|Local welcome and overview / coffee and networking
-09:30 - 10:00|Nick Bearman|Opening and welcome
-10:00 - 10:30|Anita Graser|Shaping Open Spatial Data Science
-10:30 - 11:00|Tim Sutton|20 Years of QGIS: Successes and Failures of a Global Phenomenon
+09:30 - 10:00|Nick Bearman| [Opening and welcome](https://www.youtube.com/watch?v=DLwNwLpkwOI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=5)
+10:00 - 10:30|[Anita Graser](https://anitagraser.com/) (online) | [Shaping Open Spatial Data Science](https://www.youtube.com/watch?v=Iza34-rtQ4A&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=4)
+10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| [20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3)
 
 *Local sessions*
 
@@ -72,8 +68,12 @@ Time | Speaker| Title|
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-16:00 - 16:30|Regina Obe|PostGIS Vision: Past, Present, and Future
-16:30 - 16:45|Nick Bearman|Wrap-up
+16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
+16:30 - 16:45| Nick Bearman| [Wrap up](https://www.youtube.com/watch?v=HDgwwCYhBts&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
+
+### Registration
+
+The event is free to attend but we *strongly* encourage attendees (and/or their employers) to make a donation of £20 (more if you can afford or less if you can't) - see [here](https://uk.osgeo.org/foss4guk2022local/index.html#registration) for details.
 
 ### Location & Travel
 
@@ -109,6 +109,3 @@ Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward oth
 
 Any questions, please contact [John Stevenson](mailto:jostev@bgs.ac.uk) and [Chris Williams](mailto:chrwil@bgs.ac.uk) or email [osgeouk@gmail.com](mailto:osgeouk@gmail.com).
 
-### Feedback
-
-Following the meeting, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSfMWtZh-MwV_TMyiVlTFku7qX6lAlg0ZMkth4MVThckDMqTng/viewform) to provide feedback.  Some respondents will be selected at random to win a prize.
