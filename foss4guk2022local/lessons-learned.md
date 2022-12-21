@@ -4,7 +4,7 @@ layout: foss4guk2022
 
 ## FOSS4G:UK Local 2022 - Lessons Learned
 
-We had a great FOSS4G:UK Local 2022 conference on Thurs 17th Nov, PostGIS day. We reached about 300 people across the nine venues, which is many more than we've previously been able to reach at an in person event. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available and linked from the programme on the website. We are still waiting for videos from Cardiff and Glasgow and we will post those shortly.
+We had a great FOSS4G:UK Local 2022 conference on Thurs 17th Nov, PostGIS day. We reached about 300 people across the nine venues, which is many more than we've previously been able to reach at an in person event. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available and linked from the programme on the website. 
 
 Below is a short summary of the [feedback](#feedback) we've received, as well as a description of our [technical setup](#technical-setup), and a few lessons learned for next time (both technical and non-technical!). 
 
