@@ -33,7 +33,7 @@ Time | Speaker | Title
 14:00 - 14:30|Ian Turton | [How to get a good response on stackexchange](https://www.youtube.com/watch?v=6PhPb62q0sE&list=PLCvveKqdciOkWG1LlYTrTAlwinlFtRBAD&index=4) | 
 14:30 - 15:00 |Robert Coup |	[Kart: an introduction to practical data versioning for geospatial](https://www.youtube.com/watch?v=fAIh6p4rczY&list=PLCvveKqdciOkWG1LlYTrTAlwinlFtRBAD&index=5)
 15:00 - 15:30 | Break 
-15:30 - 16:00 |Chris McNeill |	[(Yet another talk on) STAC, and how it's making our lives easier](https://www.youtube.com/watch?v=o_p3hCnuras) [*slides*](slides/FOSS4G Local Chris McNeill.pdf) 
+15:30 - 16:00 |Chris McNeill |	[(Yet another talk on) STAC, and how it's making our lives easier](https://www.youtube.com/watch?v=o_p3hCnuras) - [*slides*](slides/FOSS4G Local Chris McNeill.pdf) 
 16:00 - 16:30|[Regina Obe](https://twitter.com/reginaobe) (online)|  [PostGIS Vision: Past, Present, and Future](https://www.youtube.com/watch?v=xnF0PqMB3cI&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
 16:30 - 16:45| Nick Bearman| [Wrap up](https://www.youtube.com/watch?v=HDgwwCYhBts&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=2)
 16:45 onwards|local arrangements
