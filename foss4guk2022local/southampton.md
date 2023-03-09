@@ -27,7 +27,7 @@ Time | Speaker | Title
 10:30 - 11:00|[Tim Sutton](https://kartoza.com/the_team/HR-EMP-00002/) (online)| [20 Years of QGIS: Successes and Failures of a Global Phenomenon](https://www.youtube.com/watch?v=UJWmX16rVQc&list=PLCvveKqdciOnXD8evjaRrDGLkp7vIDNKp&index=3)
 11:00 - 11:30| Break
 11:30 - 12:00 | Andrew Bell | [A safe route to school with PgRouting and QGIS](https://youtu.be/X8ToamgSZY4)
-12:00 - 12:30 | Paul Wittle & Robert Quincey | Going open - the journey so far at Dorset Council
+12:00 - 12:30 | Paul Wittle & Robert Quincey | [Going open - the journey so far at Dorset Council](https://youtu.be/DELa8M6LYUs)
 12:30 - 13:30 | Lunch
 13:30 - 14:30 | Michael Gordon & Tim Martin |	Workshop - Using the OS Data Hub to automate Open Data ETL to open source databases
 14:30 - 15:00 | Warren Vinall | [Asset Management Application Using GeoServer ](https://www.youtube.com/watch?v=z74-L40xUyM&list=PLCvveKqdciOnZAXPuzE6kiGo4V4XV89W9&index=1)
