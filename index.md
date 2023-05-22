@@ -3,6 +3,30 @@ layout: default
 ---
 
 
+### FOSS4G:UK Local 2023
+
+We have a confirmed date for FOSS4G:UK Local 2023 - **Thurs 7th Sept 2023**.
+
+We currently have six venues:
+
+- Lancaster
+- Keyworth
+- London
+- Swansea
+- Bristol 
+- Glasgow
+
+We have two amazing keynotes who are keen to present - we will announce them when they are confirmed. We will also have a panel discussion provisonally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
+
+We are adpoting a similar structure to last year, with the keynotes and panel discussion streamed to all venues and to YouTube. 
+
+More details to follow, but save the date in your diary. 
+
+If you are interested in volunteering at one of the venues above, or would like to run your own venue, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or [OSGeoUK@gmail.com](mailto:osgeouk@gmail.com){:target="_newpage"}. 
+
+
+----
+
 ### FOSS4G:UK Local 2022
 
 We had a great [FOSS4G:UK Local 2022](/foss4guk2022local/) conference on Thurs 17th Nov 2022. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams){:target="_newpage"}. 
