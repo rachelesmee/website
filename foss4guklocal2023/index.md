@@ -6,7 +6,7 @@ layout: foss4guk2023
 
 We have a confirmed date for FOSS4G:UK Local 2023 - **Thurs 7th Sept 2023**.
 
-We currently have six venues:
+We currently have seven venues:
 
 - Lancaster
 - Keyworth
@@ -14,6 +14,7 @@ We currently have six venues:
 - Swansea
 - [Bristol](bristol.html)
 - Glasgow
+- Maynooth
 
 We have two amazing keynotes who are keen to present - we will announce them when they are confirmed. We will also have a panel discussion provisionally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
 
