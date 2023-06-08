@@ -10,7 +10,7 @@ FOSS4G:UK Local 2023 is a hybrid conference, happening in person (at a range of 
 
 These guidelines are meant as a tool to help presenters and attendees have an enjoyable event, and should be read alongside the general [OSGeo Code of Conduct](https://www.osgeo.org/code_of_conduct/), which applies to all platforms and communication mediums.
 
-Participants at FOSS4G:UK Local 2022 are expected to act respectfully toward others in accordance with the [https://berlincodeofconduct.org/](https://berlincodeofconduct.org/).
+Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [https://berlincodeofconduct.org/](https://berlincodeofconduct.org/).
 
 ## Diversity Statement
 
