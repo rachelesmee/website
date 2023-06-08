@@ -22,7 +22,10 @@ We are adopting a similar structure to last year, with the keynotes and panel di
 
 More details to follow, but save the date in your diary. 
 
-If you are interested in volunteering at one of the venues above, or would like to run your own venue, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or <span class="osgeoemail"></span>. 
+If you are interested in volunteering at one of the venues above, or would like to run your own venue, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or <span class="osgeoemail"></span>.
+
+## Code of Conduct
+Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
