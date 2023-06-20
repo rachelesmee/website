@@ -5,7 +5,7 @@ layout: foss4guk2022
 ## FOSS4G:UK Local 2022
 
 We had a great FOSS4G:UK Local 2022 conference on Thurs 17th Nov, PostGIS day. Many thanks to everyone who attended, presented and helped organise the conference. We had 246 attendees in person and ~50 online, meaning we reached a total of about 300 people on the day. This is many more than we've previously been able to reach at an in person event. We raised about £3500 for OSGeo:UK which will go towards our funding of [Open Source Geospatial software](https://uk.osgeo.org/pastdonations.html). Videos for most of the sessions are now available on our [YouTube channel](https://www.youtube.com/@FOSS4GUK/streams) with links on each venue page. The full agenda for all venues, with links to each session is [here](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM).
-
+ [PDF](FOSS4G-UK-local-2022-Agenda - Overview Grid.pdf)
 You are also welcome to continue chatting with participants through the OSGeo:UK Matrix Room: [#OSGeoUK:matrix.org](https://matrix.to/#/#OSGeoUK:matrix.org). Check out this [page](https://nickbearman.github.io/installing-software/element-matrix-public) for details on how to sign up. All participants are expected to follow the [Code of Conduct](https://uk.osgeo.org/foss4guk2022local/code-of-conduct). 
 
 We have done a short [write up](lessons-learned.html), summarising some of the feedback and highlighting a few of the lessons learned for next time. We're aiming to run a conference in 2023, and will be asking for volunteers early next year - so please sign up to the [mailing list](https://lists.osgeo.org/mailman/listinfo/uk) to find out when we'll be meeting to discuss this. 
