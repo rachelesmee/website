@@ -1,5 +1,5 @@
 ---
-layout: foss4guk2022
+layout: foss4guk2023
 ---
 
 ## Sponsors of FOSS4G:UK Local 2023
@@ -7,6 +7,8 @@ layout: foss4guk2022
 Many thanks to all of our sponsors. Please do check out their websites:
 
 ## Local venue sponsors
+
+[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
 
 
 <!-- ### Business supporters -->
