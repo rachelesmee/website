@@ -4,19 +4,25 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Lancaster
 
-Local Venue Chairs: 
+Local Venue Chairs: Barry Rowlingson, Jonny Huck
 
 
 ### Sponsors
 
-We are very grateful for the support of  for supporting sponsorsip of the venue for FOSS4G:UK Local 2023 in Lancaster. <br>
+We are very grateful for the support of [Fraser House Hub](https://fraserhousehub.co.uk) for supporting sponsorsip of the venue for FOSS4G:UK Local 2023 in Lancaster. <br>
 
 ### Location & Travel
 
-[The Junction](https://www.openstreetmap.org/#map=19/51.44889/-2.58330)<br>
+* Venue: [Fraser House Hub](https://www.openstreetmap.org/#map=19/54.04438/-2.79759)
 
+* From Lancaster rail station: [about 15m on foot](https://www.openstreetmap.org/directions?engine=fossgis_valhalla_foot&route=54.0481%2C-2.8073%3B54.0444%2C-2.7976#map=16/54.0464/-2.8025)
 
-Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/find-us/)
+* From Lancaster bus station: [about 15m on foot](https://www.openstreetmap.org/directions?engine=fossgis_valhalla_foot&route=54.0505%2C-2.8007%3B54.0444%2C-2.7976#map=18/54.05002/-2.80047) or get off at White Cross or the Infirmary.
+
+* By car: there may be limited guest parking available.
+
+* By canal boat: moor up near Penny Street Bridge
+
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
