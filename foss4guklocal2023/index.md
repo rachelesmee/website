@@ -21,12 +21,12 @@ We are adopting a similar structure to last year, with the keynotes and panel di
 
 We currently have seven venues:
 
-- [Glasgow](glasgow.html)
-- [Lancaster](lancaster.html)
-- [Keyworth (Nottingham)](keyworth.html)
-- [Maynooth (Ireland)](maynooth.html)
-- [London](london.html)
-- [Swansea](swansea.html)
+- [Glasgow](glasgow.html) *University of Glasgow*
+- [Lancaster](lancaster.html) *Fraser House Hub*
+- [Keyworth (Nottingham)](keyworth.html) *British Geological Society*
+- [Maynooth (Ireland)](maynooth.html) *Maynooth University*
+- [London](london.html) *Geovation*
+- [Swansea](swansea.html) *University of Wales*
 - [Bristol](bristol.html) *Engine Shed*
 
 

@@ -4,11 +4,13 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Glasgow (University of Glasgow)
 
-Local Venue Chairs: 
+Local Venue Chairs: [Piet Gerrits](https://pgerrits.com/), Rachel
 
 <img src="images/uni-of-glasgow.jpg" width="600" align="middle">
 
+
 ### Sponsors
+
 We are very grateful for the support of [University of Glasgow](https://www.gla.ac.uk/) for sponsoring FOSS4G:UK Local 2023 at this event. 
 
 

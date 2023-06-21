@@ -15,6 +15,9 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 ## National sponsors
 
+[<img src="images/addresscloud-logo.png" width="275" align="middle">](https://www.addresscloud.com)
+
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="275" align="middle">](https://www.bgs.ac.uk/)
 
 For more details, please contact Nick Bearman, and/or <span class="osgeoemail"></span>. 
 

@@ -4,27 +4,28 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Maynooth
 
-Local Venue Chairs: 
+Local Venue Chairs: Peter Mooney
 
 
 
 ### Sponsors
-We are very grateful for the support of  for sponsoring FOSS4G:UK Local 2023 at this event. 
+
+We are very grateful for the support of OSGeo:IE for sponsoring FOSS4G:UK Local 2023 at this event. 
 
 
 ### Location & Travel
 
-Senate Room<br>
-[University of Glasgow](https://www.openstreetmap.org/way/26624925#map=17/55.87326/-4.28901)<br>
-Glasgow<br>
-G12 8QQ<br>
+[Maynooth University](https://www.openstreetmap.org/way/337384277#map=17/53.38322/-6.60393)<br>
+Maynooth<br>
+Co. Kildare<br>
+Ireland<br>
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
 
 ### Call for Talks
 
-The call for talks in Glasgow is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6), and will close on Mon 31st July 2023 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guklocal2023/index.html#call-for-talks).
+The call for talks in Maynooth is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6), and will close on Mon 31st July 2023 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guklocal2023/index.html#call-for-talks).
 
 
 ### Registration

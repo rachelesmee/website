@@ -4,14 +4,21 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - London
 
-Local Venue Chair: 
+Local Venue Chair: Steven Feldman
 
 ### Sponsors
-We are very grateful for the support of  for sponsoring FOSS4G:UK Local 2023 at this event. 
+
+We are very grateful for the support of Geovation for sponsoring FOSS4G:UK Local 2023 at this event. 
 
 
 ### Location & Travel
 
+[Geovation](https://www.openstreetmap.org/node/3527722639#map=16/51.5250/-0.0971)<br>
+F4<br>
+Sutton Yard<br>
+65 Goswell Rd.<br>
+London<br>
+EC1V 7EN<br>
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
