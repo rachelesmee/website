@@ -21,6 +21,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 For more details, please contact Nick Bearman, and/or <span class="osgeoemail"></span>. 
 
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/sponsorship.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
+
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
 <script>

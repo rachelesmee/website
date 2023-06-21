@@ -59,7 +59,7 @@ Registration will be open soon. Join our [our mailing list](https://lists.osgeo.
 Any questions, please contact [John Stevenson](mailto:jostev@bgs.ac.uk) and [Chris Williams](mailto:chrwil@bgs.ac.uk) or email <span class="osgeoemail"></span>.
 
 
-*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/keyworth.md){:target="_newpage"} | ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/keyworth.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->

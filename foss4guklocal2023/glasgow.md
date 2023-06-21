@@ -33,4 +33,4 @@ The call for talks in Glasgow is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6)
 
 Registration will be open soon. Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to hear when registration opens. 
 
-*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/glasgow.md){:target="_newpage"} | ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/glasgow.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*

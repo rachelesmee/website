@@ -28,3 +28,5 @@ For more info on how the website works, check the [README.md](https://github.com
 
 For more info on Git & GitHub, have a look at [http://archaeogeek.github.io/foss4gukdontbeafraid/](http://archaeogeek.github.io/foss4gukdontbeafraid/). 
 
+
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/editing-on-github.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
