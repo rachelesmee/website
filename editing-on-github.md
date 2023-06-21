@@ -16,7 +16,9 @@ Through the power of GitHub, any one can make changes to this website.
 
 - Click **Commit changes...** ![](images/github-commit-changes.png)
 
-- By default, you will be asked to **Create a new branch for this commit and start a pull request**. Type in a little note explaining what you have changed and click **Propose changes**. 
+- By default, you will be asked to **Create a new branch for this commit and start a pull request**. 
+
+- Type in a little note explaining what you have changed and click **Propose changes**. ![](images/github-propose-changes.png) 
 
 - This will create a **Pull Request** which someone from OSGeo:UK will review. 
 

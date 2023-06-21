@@ -71,9 +71,7 @@ Any surplus make from the tickets will join any surplus from the sponsorship and
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
 
-----
-
-*Spot a typo or error? Edit on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/index.md). [?](./editing-on-github.html)*
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/index.md){:target="_newpage"} | ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 
 ----
 
