@@ -32,7 +32,7 @@ We currently have seven venues:
 
 ## Keynotes
 
-We have two amazing keynotes who are keen to present - we will announce them when they are confirmed. We will also have a panel discussion provisionally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
+We have two amazing keynotes: Ujaval Gandhi & Helen McKenzie. We will also have a panel discussion provisionally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
 
 
 ## Call for Talks
@@ -70,6 +70,8 @@ Any surplus make from the tickets will join any surplus from the sponsorship and
 
 ## Code of Conduct
 Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
+
+*Spot a typo or error? Edit on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/index.md)*
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
