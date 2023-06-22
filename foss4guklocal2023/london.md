@@ -4,7 +4,7 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - London
 
-Local Venue Chair: Steven Feldman
+Local Venue Chair: [Steven Feldman](mailto:shfeldman@gmail.com) - helpers welcomed!
 
 ### Sponsors
 
