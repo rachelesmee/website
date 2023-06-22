@@ -15,10 +15,13 @@ We are very grateful for the support of  for sponsoring FOSS4G:UK Local 2023 at 
 
 ### Location & Travel
 
-University of Wales campus in Swansea, TBC.
+[Lecture room IQ001](https://www.openstreetmap.org/way/1138254725#map=15/51.6145/-3.9275)<br>
+Waterfront<br>
+IQ Campus University of Wales Trinity<br>
+Swansea<br>
+SA1 8EW<br>
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
-
 
 ### Call for Talks
 
