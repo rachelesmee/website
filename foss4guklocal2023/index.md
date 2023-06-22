@@ -19,7 +19,7 @@ We are adopting a similar structure to last year, with the keynotes and panel di
 
 ## Venues
 
-We currently have seven venues:
+We currently have eight venues:
 
 - [Glasgow](glasgow.html) *University of Glasgow*
 - [Lancaster](lancaster.html) *Fraser House Hub*
@@ -28,6 +28,7 @@ We currently have seven venues:
 - [London](london.html) *Geovation*
 - [Swansea](swansea.html) *University of Wales*
 - [Bristol](bristol.html) *Engine Shed*
+- [Basingstoke](basingstoke.html) *Willis Museum*
 
 
 ## Keynotes
