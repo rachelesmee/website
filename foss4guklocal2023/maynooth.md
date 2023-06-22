@@ -12,6 +12,7 @@ Local Venue Chairs: [Peter Mooney](mailto:peter.mooney@mu.ie)
 
 We are very grateful for the support of OSGeo:IE for sponsoring FOSS4G:UK Local 2023 at this event. 
 
+<img src="./images/osgeo-ie.png" width="370" align="middle">
 
 ### Location & Travel
 TSI Room 128
