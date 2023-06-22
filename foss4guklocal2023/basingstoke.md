@@ -6,7 +6,7 @@ layout: foss4guk2023
 
 Local Venue Chair: [Simon Miles](mailto:Simon.Miles@geoxphere.com)
 
-
+<img src="images/willis-museum.jpg" width="600" align="middle">
 
 ### Sponsors
 

@@ -4,7 +4,7 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Maynooth
 
-Local Venue Chairs: Peter Mooney
+Local Venue Chairs: [Peter Mooney](mailto:peter.mooney@mu.ie)
 
 
 
@@ -15,8 +15,9 @@ We are very grateful for the support of OSGeo:IE for sponsoring FOSS4G:UK Local 
 
 ### Location & Travel
 
-[Maynooth University](https://www.openstreetmap.org/way/337384277#map=17/53.38322/-6.60393)<br>
-Maynooth<br>
+[TSI Building](https://www.openstreetmap.org/?mlat=53.38245&mlon=-6.59999#map=19/53.38245/-6.59999)<br>
+North Campus<br>
+Maynooth University<br>
 Co. Kildare<br>
 Ireland<br>
 
