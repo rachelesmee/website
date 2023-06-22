@@ -10,6 +10,8 @@ Local Venue Chair: Steven Feldman
 
 We are very grateful for the support of Geovation for sponsoring FOSS4G:UK Local 2023 at this event. 
 
+[<img src="geovationfromos-colour.png" width="300" align="middle">](https://geovation.uk/)
+
 
 ### Location & Travel
 
