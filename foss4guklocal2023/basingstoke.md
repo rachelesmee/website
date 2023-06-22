@@ -4,7 +4,7 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Basingstoke
 
-Local Venue Chair: Simon Miles
+Local Venue Chair: [Simon Miles](mailto:Simon.Miles@geoxphere.com)
 
 
 
