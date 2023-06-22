@@ -4,8 +4,9 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Lancaster
 
-Local Venue Chairs: Barry Rowlingson, [Jonny Huck](https://jonnyhuck.co.uk/)
+Local Venue Chairs: [Barry Rowlingson](https://barry.rowlingson.com/contact.html), [Jonny Huck](https://jonnyhuck.co.uk/)
 
+<img src="images/fraser_house_hub.jpg" width="600" align="middle">
 
 ### Sponsors
 
