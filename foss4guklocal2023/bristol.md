@@ -12,6 +12,7 @@ Local Venue Chairs: [Sam Franklin](), [Dan Ormsby](https://linkedin.com/in/danie
 ### Sponsors
 
 We are very grateful for the support of [CGI](https://www.cgi.com/en) for supporting sponsorsip of the venue for FOSS4G:UK Local 2023 in Bristol. <br>
+
 [<img src="images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/en)
 
 

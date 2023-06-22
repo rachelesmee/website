@@ -2,13 +2,13 @@
 layout: foss4guk2023
 ---
 
-### FOSS4G:UK Local 2023
+## FOSS4G:UK Local 2023
 
 We have a confirmed date for FOSS4G:UK Local 2023 - **Thurs 7th Sept 2023**.
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK. Take a look at our previous programmes for [FOSS4G:UK Local 2022](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148),  [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
-This will be a hybrid conference, but with a twist: there will be no central physical location. We have 7 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The three keynote presentations and some additional sessions will be streamed to all venues. Additional sessions will be run at each local venue.
+This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference. The two keynote presentations and panel session will be streamed to all venues. Additional sessions will be run at each local venue.
 
 If there is no physical location near you, you can join remotely and view the streamed sessions from wherever you are. We will also have the [OSGeo:UK Matrix room](https://matrix.to/#/#OSGeoUK:matrix.org) to allow people to chat to each other before, during and after the event.
 
@@ -19,20 +19,21 @@ We are adopting a similar structure to last year, with the keynotes and panel di
 
 ## Venues
 
-We currently have seven venues:
+We currently have eight venues:
 
-- [Glasgow](glasgow.html)
-- [Lancaster](lancaster.html)
-- [Keyworth (Nottingham)](keyworth.html)
-- [Maynooth (Ireland)](maynooth.html)
-- [London](london.html)
-- [Swansea](swansea.html)
+- [Glasgow](glasgow.html) *University of Glasgow*
+- [Lancaster](lancaster.html) *Fraser House Hub*
+- [Keyworth (Nottingham)](keyworth.html) *British Geological Society*
+- [Maynooth (Ireland)](maynooth.html) *Maynooth University*
+- [London](london.html) *Geovation*
+- [Swansea](swansea.html) *University of Wales*
 - [Bristol](bristol.html) *Engine Shed*
+- [Basingstoke](basingstoke.html) *Willis Museum*
 
 
 ## Keynotes
 
-We have two amazing keynotes who are keen to present - we will announce them when they are confirmed. We will also have a panel discussion provisionally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
+We have two amazing keynotes: Ujaval Gandhi & Helen McKenzie. We will also have a panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/),  provisionally titled: *Where have we gone in the last ten years, and where will be in ten years time?*. 
 
 
 ## Call for Talks
@@ -63,13 +64,18 @@ Registration will be open soon. Join our [our mailing list](https://lists.osgeo.
 
 After much discussion, we have decided to charge a nominal fee of £20 for a ticket to attend. This is not a decision we have taken lightly, and is primarily due to a high rate of no shows at some venues last year (up to 40%, see [lessons learned from 2022 for more details](https://uk.osgeo.org/foss4guk2022local/lessons-learned.html)). No shows prevent others who would like to attend from attending and we end up over ordering on catering and wasting food. 
 
-We want FOSS4G:UK Local 2023 to be as accessible as possible, so we have a number of codes available for free tickets. These are available for students, under represented groups, those on a low income, those in precarious employment, those who would like to volunteer and anyone else for who a £20 ticket would be a barrier (financial or administrative). All of these criteria are self defined. We very much encourage you to reach out to <span class="osgeoemail"></span> to ask for a code, stating which group you belong to (no further justification is needed). 
+We want FOSS4G:UK Local 2023 to be as accessible as possible, so we have a number of codes available for free tickets. These are available for students, under represented groups, those on a low income, those in precarious employment, those who would like to volunteer, speakers and anyone else for who a £20 ticket would be a barrier (financial or administrative). All of these criteria are self defined. We very much encourage you to reach out to <span class="osgeoemail"></span> to ask for a code, stating which group you belong to (no further justification is needed). 
 
 Any surplus make from the tickets will join any surplus from the sponsorship and conference as a whole, and be used to allow OSGeo:UK to provide financial support to open source geospatial projects (for example see [Past Donations](https://uk.osgeo.org/pastdonations.html) to see how we have supported open source geospatial project previously). 
 
 
 ## Code of Conduct
+
 Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
+
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/index.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
+
+----
 
 <!-- Jonny Huck Email Obfuscator -->
 <!-- Simply add...  <span class="osgeoemail"></span>  ...wherever you would like the email link to appear -->
@@ -80,5 +86,3 @@ Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward oth
     }
 </script>
 
-
-----

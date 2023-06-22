@@ -4,11 +4,13 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Glasgow (University of Glasgow)
 
-Local Venue Chairs: 
+Local Venue Chairs: [Piet Gerrits](https://pgerrits.com/) <!-- Rachel -->
 
 <img src="images/uni-of-glasgow.jpg" width="600" align="middle">
 
+
 ### Sponsors
+
 We are very grateful for the support of [University of Glasgow](https://www.gla.ac.uk/) for sponsoring FOSS4G:UK Local 2023 at this event. 
 
 
@@ -30,3 +32,5 @@ The call for talks in Glasgow is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6)
 ### Registration
 
 Registration will be open soon. Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to hear when registration opens. 
+
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/glasgow.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*

@@ -4,7 +4,7 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Lancaster
 
-Local Venue Chairs: Barry Rowlingson, Jonny Huck
+Local Venue Chairs: Barry Rowlingson, [Jonny Huck](https://jonnyhuck.co.uk/)
 
 
 ### Sponsors
@@ -36,3 +36,5 @@ The call for talks in Lancaster is [now open](https://forms.gle/hvfkQvwxWjxwMXMN
 ### Registration
 
 Registration will be open soon. Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to hear when registration opens. 
+
+*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/lancaster.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
