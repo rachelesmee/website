@@ -5,24 +5,28 @@ layout: default
 
 ### FOSS4G:UK Local 2023
 
-We have a confirmed date for FOSS4G:UK Local 2023 - **Thurs 7th Sept 2023**.
+We have a confirmed date for [FOSS4G:UK Local 2023](foss4guklocal2023/index.html) - **Thurs 7th Sept 2023**.
 
-We currently have six venues:
+[OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! 
 
-- Lancaster
-- Keyworth
-- London
-- Swansea
-- Bristol 
-- Glasgow
+This will be a hybrid conference, but with a twist: there will be no central physical location. We have 8 venues geographically dispersed across the UK, where you can physically meet up to attend the conference: 
 
-We have two amazing keynotes who are keen to present - we will announce them when they are confirmed. We will also have a panel discussion provisonally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
+- [Glasgow](foss4guklocal2023/glasgow.html) *University of Glasgow*
+- [Lancaster](foss4guklocal2023/lancaster.html) *Fraser House Hub*
+- [Keyworth (Nottingham)](foss4guklocal2023/keyworth.html) *British Geological Society*
+- [Maynooth (Ireland)](foss4guklocal2023/maynooth.html) *Maynooth University*
+- [London](foss4guklocal2023/london.html) *Geovation*
+- [Swansea](foss4guklocal2023/swansea.html) *University of Wales*
+- [Basingstoke](foss4guklocal2023/basingstoke.html) *Willis Museum*
+- [Bristol](foss4guklocal2023/bristol.html) *Engine Shed*
 
-We are adpoting a similar structure to last year, with the keynotes and panel discussion streamed to all venues and to YouTube. 
+We have two amazing keynotes: Ujaval Gandhi & Helen McKenzie. We will also have a panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/),  provisionally titled: *Where have we gone in the last ten years, and where will be in ten years time?*. 
 
-More details to follow, but save the date in your diary. 
+We are adopting a similar structure to last year, with the keynotes and panel discussion streamed to all venues and to YouTube. 
 
-If you are interested in volunteering at one of the venues above, or would like to run your own venue, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or [OSGeoUK@gmail.com](mailto:osgeouk@gmail.com){:target="_newpage"}. 
+For more details, check out the [website](foss4guklocal2023/index.html).  
+
+If you are interested in volunteering at one of the venues above, or have any questions, please get in touch via [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"}, [our Matrix Chat Room](https://matrix.to/#/%23OSGeoUK:matrix.org){:target="_newpage"} or [OSGeoUK@gmail.com](mailto:osgeouk@gmail.com){:target="_newpage"}. 
 
 
 ----
