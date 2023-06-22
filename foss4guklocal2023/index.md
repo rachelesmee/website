@@ -32,7 +32,7 @@ We currently have seven venues:
 
 ## Keynotes
 
-We have two amazing keynotes: Ujaval Gandhi & Helen McKenzie. We will also have a panel discussion provisionally titled: *Where have we gone in the last ten years and where will be in ten years time?*. 
+We have two amazing keynotes: Ujaval Gandhi & Helen McKenzie. We will also have a panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/),  provisionally titled: *Where have we gone in the last ten years, and where will be in ten years time?*. 
 
 
 ## Call for Talks
