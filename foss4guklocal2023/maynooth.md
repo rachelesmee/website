@@ -14,14 +14,14 @@ We are very grateful for the support of OSGeo:IE for sponsoring FOSS4G:UK Local 
 
 
 ### Location & Travel
-
+TSI Room 128
 [TSI Building](https://www.openstreetmap.org/?mlat=53.38245&mlon=-6.59999#map=19/53.38245/-6.59999)<br>
 North Campus<br>
 Maynooth University<br>
 Co. Kildare<br>
 Ireland<br>
 
-We encourage everyone to travel by public transport/car share/under their own steam if possible.
+We encourage everyone to travel by public transport/car share/under their own steam if possible. Information on public transportation options you can use to reach Maynooth University are available on the University webpage [Getting to Maynooth using Public Transport](https://www.maynoothuniversity.ie/location/commuting)
 
 
 ### Call for Talks
