@@ -28,6 +28,10 @@ Keyworth<br>
 Nottinghamshire<br>
 NG12 5GG<br>
 
+**Venue Accessibility**
+The Conference Suite is wheelchair accessible. 
+Full accessibility information of the venue can be found on the [British Geological Survey website](https://www.bgs.ac.uk/about-bgs/services/conference-facilities/?viewFullSite=yes). 
+
 **Getting there**
 
 Public transport:
@@ -56,7 +60,7 @@ Registration will be open soon. Join our [our mailing list](https://lists.osgeo.
 
 ### Questions
 
-Any questions, please contact [John Stevenson](mailto:jostev@bgs.ac.uk) and [Chris Williams](mailto:chrwil@bgs.ac.uk) or email <span class="osgeoemail"></span>.
+Any questions, please contact [Rachel Talbot](mailto:rtalbot@bgs.ac.uk), [John Stevenson](mailto:jostev@bgs.ac.uk) or [Chris Williams](mailto:chrwil@bgs.ac.uk) or email <span class="osgeoemail"></span>.
 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/keyworth.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
