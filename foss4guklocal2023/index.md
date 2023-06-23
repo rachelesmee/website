@@ -26,7 +26,7 @@ We have eight venues:
 - [Keyworth (Nottingham)](keyworth.html) *British Geological Society*
 - [Maynooth (Ireland)](maynooth.html) *Maynooth University*
 - [London](london.html) *Geovation*
-- [Swansea](swansea.html) *University of Wales*
+- [Swansea](swansea.html) *UWTSD IQ Campus*
 - [Basingstoke](basingstoke.html) *Willis Museum*
 - [Bristol](bristol.html) *Engine Shed*
 

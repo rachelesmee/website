@@ -4,12 +4,14 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Swansea
 
-Local Venue Chair: Tom Colley
+Local Venue Chair: [Tom Colley](https://uk.linkedin.com/in/tom-colley-59a0376a)
+
+<img src="images/sa1-swansea-waterfront-iq-building-exterior-wide.jpg" width="600" align="middle">
 
 <!--
 ### Sponsors
 
-We are very grateful for the support of  for sponsoring FOSS4G:UK Local 2023 at this event. 
+We are very grateful for the support of [CGI](https://www.cgi.com/en) for supporting sponsorship of the venue for FOSS4G:UK Local 2023 in Swansea. <br>
 
 --> 
 
