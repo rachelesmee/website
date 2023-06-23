@@ -16,7 +16,7 @@ We are very grateful for the support of Geovation for sponsoring FOSS4G:UK Local
 ### Location & Travel
 
 [Geovation](https://www.openstreetmap.org/node/3527722639#map=16/51.5250/-0.0971)<br>
-F4<br>
+4th Floor<br>
 Sutton Yard<br>
 65 Goswell Rd.<br>
 London<br>
