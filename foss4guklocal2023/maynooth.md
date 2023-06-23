@@ -22,6 +22,8 @@ Maynooth University<br>
 Co. Kildare<br>
 Ireland<br>
 
+<img src="./images/tsi.jpg" width="550" align="middle" alt="The TSI building at Maynooth University">
+
 We encourage everyone to travel by public transport/car share/under their own steam if possible. Information on public transportation options you can use to reach Maynooth University are available on the University webpage [Getting to Maynooth using Public Transport](https://www.maynoothuniversity.ie/location/commuting)
 
 
