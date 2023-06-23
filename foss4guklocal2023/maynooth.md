@@ -6,8 +6,6 @@ layout: foss4guk2023
 
 Local Venue Chairs: [Peter Mooney](mailto:peter.mooney@mu.ie)
 
-
-
 ### Sponsors
 
 We are very grateful for the support of OSGeo:IE for sponsoring FOSS4G:UK Local 2023 at this event. 
@@ -23,6 +21,9 @@ Co. Kildare<br>
 Ireland<br>
 
 <img src="./images/tsi.jpg" width="550" align="middle" alt="The TSI building at Maynooth University">
+
+### Venue Accessibility
+The [Technology, Society and Innovation (TSI) Building](https://www.youtube.com/watch?v=VdoNU-tlfwE&t=432s), Maynooth University’s landmark infrastructural development, is designed to enhance the University’s excellence in research, education and skills development for future generations. The building is situated with very generous public space created outside the main entrance. All spaces in the four storey block are accessible to wheelchair users as are all ground floor entrances. Accessible WC facilities are available at entry level and all other levels. 
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible. Information on public transportation options you can use to reach Maynooth University are available on the University webpage [Getting to Maynooth using Public Transport](https://www.maynoothuniversity.ie/location/commuting)
 
