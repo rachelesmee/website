@@ -29,6 +29,7 @@ Nottinghamshire<br>
 NG12 5GG<br>
 
 **Venue Accessibility**
+
 The Conference Suite is wheelchair accessible. 
 Full accessibility information of the venue can be found on the [British Geological Survey website](https://www.bgs.ac.uk/about-bgs/services/conference-facilities/?viewFullSite=yes). 
 
