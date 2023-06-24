@@ -60,7 +60,7 @@ Any general queries please contact the national chair, Nick Bearman or <span cla
 
 ## Registration
 
-Registration will be open soon. Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to hear when registration opens. 
+[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 After much discussion, we have decided to charge a nominal fee of £20 for a ticket to attend. This is not a decision we have taken lightly, and is primarily due to a high rate of no-shows at some venues last year (up to 40%, see [lessons learned from 2022 for more details](https://uk.osgeo.org/foss4guk2022local/lessons-learned.html)). No-shows prevent others who would like to attend from attending and we end up over ordering on catering and wasting food. 
 
