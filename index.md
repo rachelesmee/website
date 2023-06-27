@@ -19,7 +19,7 @@ This will be a hybrid conference, but with a twist: there will be no central phy
 - [Keyworth (Nottingham)](foss4guklocal2023/keyworth.html) *British Geological Society*
 - [Maynooth (Ireland)](foss4guklocal2023/maynooth.html) *Maynooth University*
 - [London](foss4guklocal2023/london.html) *Geovation*
-- [Swansea](foss4guklocal2023/swansea.html) *University of Wales*
+- [Swansea](foss4guklocal2023/swansea.html) *UWTSD IQ Campus*
 - [Basingstoke](foss4guklocal2023/basingstoke.html) *Willis Museum*
 - [Bristol](foss4guklocal2023/bristol.html) *Engine Shed*
 
