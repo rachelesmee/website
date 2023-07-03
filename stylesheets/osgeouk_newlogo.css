@@ -117,3 +117,11 @@ body.foss4guk2018 #sailingship {
       width: 66%;
     }
 }
+
+#h1ribbon {
+    width: 4em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0.2em;
+}
