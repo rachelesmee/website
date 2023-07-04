@@ -23,7 +23,7 @@ We have eight venues:
 
 - [Glasgow](glasgow.html) *University of Glasgow*
 - [Lancaster](lancaster.html) *Fraser House Hub*
-- [Keyworth (Nottingham)](keyworth.html) *British Geological Society*
+- [Keyworth (Nottingham)](keyworth.html) *British Geological Survey*
 - [Maynooth (Ireland)](maynooth.html) *Maynooth University*
 - [London](london.html) *Geovation*
 - [Swansea](swansea.html) *UWTSD IQ Campus*
