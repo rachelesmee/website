@@ -27,6 +27,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="275" align="middle">](https://www.bgs.ac.uk/)
 
+[<img src="../foss4guk2022local/images/ASTUN_LOGO.jpg" width="275" align="middle">](https://www.astuntechnology.com/)
+
 For more details, please contact Nick Bearman, and/or <span class="osgeoemail"></span>. 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/sponsorship.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
