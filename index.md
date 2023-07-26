@@ -5,6 +5,8 @@ layout: default
 
 ### FOSS4G:UK Local 2023
 
+**Call for Talks Extended to Mon 7th August 2023**
+
 We have a confirmed date for [FOSS4G:UK Local 2023](foss4guklocal2023/index.html) - **Thurs 7th Sept 2023**.
 
 <img title="FOSS4G Uk Local 2023 Logo" src="/foss4guklocal2023/images/foss4guk2023-logo.svg" style="display:block; width: 50%; margin: 0 auto;"/>
