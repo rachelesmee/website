@@ -2,11 +2,11 @@
 layout: foss4guk2023
 ---
 
-## FOSS4G:UK Local 2023
+## FOSS4G:UK Local 
+## Thurs 7<sup>th</sup> Sept 2023
 
-**Call for Talks Extended to Mon 7th August 2023**
+**<a href="#call-for-talks">Call for Talks</a> Extended to Mon 7<sup>th</sup> August 2023**
 
-We have a confirmed date for FOSS4G:UK Local 2023 - **Thurs 7th Sept 2023**.
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK and Ireland. Take a look at our previous programmes for [FOSS4G:UK Local 2022](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148),  [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
@@ -35,7 +35,7 @@ We have eight venues:
 
 ## Keynotes
 
-We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). We will also have a panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), provisionally titled: *Where have we gone in the last ten years, and where will be in ten years time?*. 
+We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). We will also have the **Ten Years After** panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
 
 
 ## Call for Talks
@@ -75,8 +75,6 @@ Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target
 ## Code of Conduct
 
 Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
-
-*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/index.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 
 ----
 
