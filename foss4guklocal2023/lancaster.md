@@ -12,6 +12,9 @@ Local Venue Chairs: [Barry Rowlingson](https://barry.rowlingson.com/contact.html
 
 We are very grateful for the support of [Fraser House Hub](https://fraserhousehub.co.uk) for supporting sponsorship of the venue for FOSS4G:UK Local 2023 in Lancaster. <br>
 
+We are also very grateful to the Lancaster University [Data Science Institute](https://www.lancaster.ac.uk/dsi/) for sponsoring 
+lunch and refreshments.<br>
+
 ### Location & Travel
 
 * Venue: [Fraser House Hub](https://www.openstreetmap.org/#map=19/54.04438/-2.79759)
