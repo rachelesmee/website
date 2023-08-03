@@ -9,7 +9,7 @@ global [FOSS4G 2013](http://2013.foss4g.org/) conference
 in Nottingham, the first (and currently only) time it has
 been held in the UK.
 
-[<img src="images/notts2013.png">](FOSS4G 2013 Logo)
+![FOSS4G2013 Logo](images/notts2013.png "Conference Logo")
 
 For the tenth anniversary of that conference, we have a panel selected
 from the team to look at how things have changed in the geospatial
