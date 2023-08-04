@@ -22,7 +22,7 @@ put them, or summaries, to the panel for discussion.
 
 ## Panel
 
- * **Steven Feldman**: "25 years in geo, ran some companies, invested in and mentored some startups, evangelist for FOSS4G, co-founder of Mappery, co-host of geomob podcast, wondering if it’s time to stop. Find me at [https://mastodon.me.uk/@stevenfeldman](https://mastodon.me.uk/@stevenfeldman)"
+ * **Steven Feldman**: "25 years in geo, ran some companies, invested in and mentored some startups, evangelist for FOSS4G, co-founder of [Mappery](http://mappery.org/), co-host of [geomob podcast](https://thegeomob.com/podcast), wondering if it’s time to stop. Find me at [https://mastodon.me.uk/@stevenfeldman](https://mastodon.me.uk/@stevenfeldman)"
  * **Mark Iliffe**
  * **Abigail Page**
  * **Matt Walker**
