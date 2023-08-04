@@ -41,8 +41,6 @@ The call for talks in Lancaster is [now open](https://forms.gle/hvfkQvwxWjxwMXMN
 
 [Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news.  
 
-*Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/lancaster.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
-
 
 ## Staying On
 
