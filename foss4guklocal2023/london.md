@@ -27,8 +27,11 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Call for Talks
 
-The call for talks in London is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6), and will close on Mon 7th August 2023 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guklocal2023/index.html#call-for-talks).
+The call for talks in London has closed. We will have a short unconference session where you can offer a 6-8 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot.
 
+### After conference drinks
+
+FOSS4G:UK will finish at about 16:45pm, we plan to go for a drink (or two) after the event at the [Sutton Arms, 16 Great Sutton St, London EC1V 0DH](https://www.openstreetmap.org/way/149070189)
 
 ### Registration
 
