@@ -39,8 +39,12 @@ The call for talks in Lancaster is [now open](https://forms.gle/hvfkQvwxWjxwMXMN
 
 ### Registration
 
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news.  
 
+Thanks to generous sponsorship from the Lancaster Data Science Institute you can register **free**. 
+Please contact <a href="mailto:b.rowlingson@gmail.com">Barry Rowlingson (b.rowlingson@gmail.com)</a> for the Eventbrite discount code.
+
+You can then [register via Eventbrite](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"}.
+Apply the code at the first registration form for a full discount. You should not be asked for a payment method.
 
 ## Staying On
 
