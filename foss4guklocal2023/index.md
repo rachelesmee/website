@@ -5,7 +5,7 @@ layout: foss4guk2023
 ## FOSS4G:UK Local 
 ## Thurs 7<sup>th</sup> Sept 2023
 
-**<a href="#call-for-talks">Call for Talks</a> Extended to Mon 7<sup>th</sup> August 2023**
+**Call for Talks is now Closed**
 
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK and Ireland. Take a look at our previous programmes for [FOSS4G:UK Local 2022](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148),  [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
@@ -40,25 +40,14 @@ We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatia
 
 ## Call for Talks
 
-The [Call for Talks](https://forms.gle/hvfkQvwxWjxwMXMN6) is now open and will close on Mon 7th August 2023. 
+The call for talks has now closed, as of Monday 7th August. Thank you to everyone that submitted.
 
-We want to hear from you! We are open to any talks about FOSS4G (Free and Open Source Software for Geospatial). Currently we only need a brief paragraph on what you would like to talk about - no detailed submissions. Talks, presentations, workshops, and show & tell sessions can be about:
+Local event schedules are being finalised and will be released on the local event pages by Monday 14th August. Anyone that submitted will be contacted regarding acceptance before Monday 14th August 2023.
 
+The programme will feature talks, presentations, workshops, and show & tell sessions, covering:
 - New/updated FOSS4G software
 - Interesting applications of FOSS4G across industry, commercial, public sector or third sector
 - How to use FOSS4G and related software at a range of levels
-
-We also have a number of different formats and lengths, or you can propose your own:
-
-- Lightning talks (5-10 min)
-- Presentations (30 min)
-- Workshops (1hr or 2hr)
-- Show and tell (short & variable)
-
-*If you are interested in running a workshop, please note this is not possible at Lancaster because of space, and may not be possible at all locations. Please contact the local venue chair or <span class="osgeoemail"></span> before submitting a workshop proposal.*
-
-Any general queries please contact the national chair, Nick Bearman or <span class="osgeoemail"></span>. Any venue specific query please contact the local venue chair, listed above.
-
 
 ## Registration
 
