@@ -26,7 +26,9 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Call for Talks
 
-The call for talks in Glasgow is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6), and will close on Mon 7th August 2023 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guklocal2023/index.html#call-for-talks).
+The call for talks is now closed, but if you are still interested in presenting contact Guy Solomon (<Guy.Solomon@glasgow.ac.uk>) or 
+Petrus Gerrits (<p.gerrits.1@research.gla.ac.uk>) and
+there may be space in the programme for lightning talks or announcements.
 
 
 ### Registration
