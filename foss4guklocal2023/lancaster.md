@@ -34,13 +34,16 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Call for Talks
 
-The call for talks in Lancaster is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6), and will close on Mon 7th August 2023 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guklocal2023/index.html#call-for-talks).
+The call for talks is now closed, but if you are still interested in presenting contact Barry and
+there may be space in the programme for lightning talks or announcements.
+
 
 
 ### Registration
 
 
-Thanks to generous sponsorship from the Lancaster Data Science Institute you can register **free**. 
+Thanks to generous sponsorship from the Lancaster Data Science Institute you can register **free** for
+attendance at Lancaster.
 Please contact <a href="mailto:b.rowlingson@gmail.com">Barry Rowlingson (b.rowlingson@gmail.com)</a> for the Eventbrite discount code.
 
 You can then [register via Eventbrite](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"}.
