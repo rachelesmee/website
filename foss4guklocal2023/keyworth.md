@@ -51,8 +51,7 @@ The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps d
 
 ### Call for Talks
 
-The call for talks in Keyworth is [now open](https://forms.gle/hvfkQvwxWjxwMXMN6), and will close on Mon 7th August 2023 - please get your proposal in *now* so we can complete the programme below! For more details see [here](https://uk.osgeo.org/foss4guklocal2023/index.html#call-for-talks).
-
+The call for talks  has now *closed*.
 
 ### Registration
 
