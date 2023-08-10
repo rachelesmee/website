@@ -61,6 +61,16 @@ Any surplus made from the tickets will join any surplus from the sponsorship and
 
 Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
+## T-Shirts
+
+Official T-Shirts are now on sale from [T Shirt Studio](https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt)
+at cost price plus P+P. 
+
+<a href="https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt">
+<img src="https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt-front.jpg" width="240" alt="FOSS4G:UK Local 2023 t-shirt" />
+<img src="https://www.tshirtstudio.com/marketplace/osgeo-uk/foss4g-uk-local-2023-t-shirt-back.jpg" width="240" alt="FOSS4G:UK Local 2023 t-shirt" />
+</a>
+
 ## Code of Conduct
 
 Participants at FOSS4G:UK Local 2023 are expected to act respectfully toward others in accordance with the [FOSS4G:UK Online Code of Conduct](code-of-conduct). *Short version: everyone is welcome, make everyone welcome, be nice.* 
