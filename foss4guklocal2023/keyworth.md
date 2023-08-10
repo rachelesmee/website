@@ -51,7 +51,7 @@ The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps d
 
 ### Call for Talks
 
-The call for talks  has now *closed*.
+The official call for talks is now *closed*, but there is still scope for adjustment to the programme, particularly to include talks from traditionally under-represented groups.  Please contact Rachel if you are interested.”
 
 ### Registration
 
