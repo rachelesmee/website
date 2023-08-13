@@ -12,6 +12,9 @@ We are very grateful for the support of Geovation for sponsoring FOSS4G:UK Local
 
 [<img src="images/geovationfromos-colour.png" width="300" align="middle">](https://geovation.uk/)
 
+We are very grateful to Landmark Information for sponsoring lunch in  London at FOSS4G:UK Local 2023
+
+[<img src="images/Landmar_Logo.png" width="400" align="middle">](https://www.landmark.co.uk/)
 
 ### Location & Travel
 
