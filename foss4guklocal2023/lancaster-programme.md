@@ -13,12 +13,12 @@ This is a provisional programme for the Lancaster meeting of the FOSS4G UK 2023 
 <tr><td>0900</td><td>Arrival and registration</td></tr>
 <tr><td>0930</td><td>Local Welcome</td></tr>
 <tr><td>0945</td><td>Keynote Speaker: <span class="speaker">Helen McKenzie</span></td></tr>
-<tr><td>1015</td><td><span class="speaker">Fraser House Hub</span> : <span class="talktitle">Local Sponsor Talk</span>
+<tr><td>1015</td><td><span class="speaker">Rory Southworth</span> : <span class="talktitle">Fraser House Hub &ndash; Local Sponsor</span>
 <p>
 Fraser House is a diverse and inclusive co-working space for Tech and Digital businesses in Lancaster
 </p>
 </td></tr>
-<tr><td>1030</td><td><span class="speaker">Tom Nicholls</span> : <span class="talktitle">Bringing Long Running Geostatistical Calculations to Public Health Professionals in the Developing World</span>
+<tr><td>1025</td><td><span class="speaker">Tom Nicholls</span> : <span class="talktitle">Bringing Long Running Geostatistical Calculations to Public Health Professionals in the Developing World</span>
 <p>
 Epidemiologists at CHICAS (Centre for Health Informatics, Computing, and Statistics) at Lancaster University have developed code to model disease spread of an important group of Neglected Tropical Diseases. The algorithms are typically written as very long-running "R" scripts.  We present an architecture and prototype implementation of an asynchronous, scalable web-based platform that will be used by public health control professionals in the host countries to analyse disease data and design surveys using model-based geostatistics.
 Our eventual aim is to make the design sufficiently flexible so that the software could potentially cope with any type of calculation and input/output combination, including staged calculations.
@@ -27,7 +27,7 @@ Our eventual aim is to make the design sufficiently flexible so that the softwar
 Tom started his career with a PhD in Optical Physics from Imperial College (some time in the dark ages), and since then has worked in a variety of software engineering jobs in industry.  He returned to academia in 2019 and joined the Centre for Health Informatics,  Computing and Statistics at Lancaster University in May 2023.
 </p>
 </td></tr>
-<tr><td>1045</td><td>Coffee and Networking</td></tr>
+<tr><td>1040</td><td>Coffee and Networking</td></tr>
 <tr><td>1115</td><td><span class="speaker">Daniel Evans</span> : <span class="talktitle">From space to GeoTIFF - creating remote sensing data products</span>
 <p>
 What does life look like at the start of the geospatial data trail? Remote sensing data products start as raw datasets that are inherently not geospatially aware. I will describe the process that SatVu applies to create useful thermal imaging products that can be used by geospatial software. This involves steps such as decoding and calibrating the raw data from the satellite, georeferencing the resulting images to create GeoTIFFs, computing all of the relevant metadata, and making the whole product available to customers via a STAC interface.
