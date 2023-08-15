@@ -31,11 +31,34 @@ Getting there: [https://engine-shed.co.uk/find-us/](https://engine-shed.co.uk/fi
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
+### Programme for Bristol
 
-### Call for Talks
+Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.
 
-The call for talks has now *closed*.
-
+* 09:00-09:30: Arrive
+* 09:30-09:45: Conference Start and Welcome
+* 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
+* 10:15-10:45: Local Talk: Elena Robu [Astun Technology] "Unleashing the Potential: How Automated Metadata Creation Can Improve Your Data Quality and Accessibility"
+* 10:45-11:15: Coffee Break
+* 11:15-12:45: Local FOSS4G Use Cases Session
+    * 11:15-11:45: Local Talk: Petya Kangalova [Humanitarian Open Street Map Team] "The collective power: HOT's approach to building open geospatial technology"
+    * 11:45-12:15: Local Talk: Alastair Graham [Centre for Sustainable Energy] "Solar potential modelling for household and community solar"
+    * 12:15-12:30: Local Lightning Talk: Rob Burgess [Inosys] "FOSS4G for Offshore Platform Electrification"
+    * 12:30-12:45: Local Lightning Talk: Javier Garcia Lopez [4 Earth Intelligence] "Satellite Marine Habitat Mapping"
+* 12:45-13:45: Lunch break
+* 13:45-14:45: Local Session Tech Sessions
+    Option 1:
+    * 13:45-14:45: Local Workshop: Jessica Baker [Ordnance Survey] "Geospatial Data Visualisation"
+    Option 2:	
+    * 13:45-14:15: Local Talk: Matt Travis [Addresscloud] "Cloud native Geospatial tools"
+    * 14:15-14:30: Local Lightning Talk: Thomas Statham [] "Moving between traditional and emerging geographic data structures for advanced spatial analysis"
+    * 14:30-14:45 Illya Sparkes-Santos [FATMAP/Strava] "Inception: A very brief introduction to Argo workflows"
+* 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
+* 15:15-15:30: Coffee Break
+* 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
+* 16:30-16:45: Wrap up by National Chair
+* 16:45: Conference close
+* 16:45-? : Local Pub TBC
 
 ### Information for Speakers for Bristol
 
