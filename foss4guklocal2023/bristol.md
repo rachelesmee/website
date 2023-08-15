@@ -47,12 +47,12 @@ Please note, the call for talks has now *closed* and the agenda times and speake
     * 12:30-12:45: Local Lightning Talk: Javier Garcia Lopez [4 Earth Intelligence] "Satellite Marine Habitat Mapping"
 * 12:45-13:45: Lunch break
 * 13:45-14:45: Local Session Tech Sessions
-    Option 1:
-    * 13:45-14:45: Local Workshop: Jessica Baker [Ordnance Survey] "Geospatial Data Visualisation"
-    Option 2:	
-    * 13:45-14:15: Local Talk: Matt Travis [Addresscloud] "Cloud native Geospatial tools"
-    * 14:15-14:30: Local Lightning Talk: Thomas Statham [] "Moving between traditional and emerging geographic data structures for advanced spatial analysis"
-    * 14:30-14:45 Illya Sparkes-Santos [FATMAP/Strava] "Inception: A very brief introduction to Argo workflows"
+    * Option 1:
+        * 13:45-14:45: Local Workshop: Jessica Baker [Ordnance Survey] "Geospatial Data Visualisation"  
+    * Option 2:	
+        * 13:45-14:15: Local Talk: Matt Travis [Addresscloud] "Cloud native Geospatial tools"
+        * 14:15-14:30: Local Lightning Talk: Thomas Statham [] "Moving between traditional and emerging geographic data structures for advanced spatial analysis"
+        * 14:30-14:45 Illya Sparkes-Santos [FATMAP/Strava] "Inception: A very brief introduction to Argo workflows"
 * 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
 * 15:15-15:30: Coffee Break
 * 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
