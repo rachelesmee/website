@@ -25,7 +25,7 @@ put them, or summaries, to the panel for discussion.
  * **Steven Feldman**: "25 years in geo, ran some companies, invested in and mentored some startups, evangelist for FOSS4G, co-founder of [Mappery](http://mappery.org/), co-host of [geomob podcast](https://thegeomob.com/podcast), wondering if it’s time to stop. Find me at [https://mastodon.me.uk/@stevenfeldman](https://mastodon.me.uk/@stevenfeldman)"
  * **Mark Iliffe**
  * **Abigail Page**
- * **Matt Walker**
+ * **Matt Walker**: Principal Geospatial Architect at [Astun Technology](https://www.astuntechnology.com/),  active user, contributor and advocate of open source, OSGeo Charter Member and involved in organising and presenting at a host of OSGeo events.
  
 ## Moderator
 
