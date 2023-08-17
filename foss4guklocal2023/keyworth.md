@@ -9,6 +9,50 @@ Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk), [Rachel Talbot](m
 
 <img src="https://www.bgs.ac.uk/wp-content/uploads/2020/09/P786623-960x640.jpg" width="600" align="middle">
 
+### Programme
+
+The event will be held in the Conference Suite, accessed via the main reception. National keynotes will be streamed to watch together and the start and end of the day. There will be local presentations and sessions between 11:00 and 15:00.
+
+There will be [Unconference](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) sessions between 13:30 and 14:30. Delegates will suggest topics for discussion on the day and vote on which will run.
+
+### Thursday 7th September 2023
+
+*National keynotes*
+
+Time | Speaker| Title|
+:-----|:-----|:-----
+09:00 - 09:30|-|Arrival
+09:30 - 10:00|Local organisers|Local welcome and overview / coffee and networking
+10:00 - 10:30|Helen McKenzie|Geospatial Evangelism
+10:30 - 11:00|-|Coffee break
+
+*Local sessions*
+
+Time | Speaker| Title|
+:-----|:-----|:-----
+11:00 - 11:15|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
+11:15 - 11:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+11:30 - 11:45|TBC
+11:45 - 12:00|TBC
+12:00 - 12:15|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
+12:15 - 12:30|Tony Brookes|Using Qgis to organise 500,000 years of history
+12:30 - 13:00|-|Lunch
+13:00 - 13:15|Matt Arran|Open-source large-dataset geostatistics
+13:15 - 13:30|Dr Matthew Haines|Updating the SDTM - challenges and the future
+13:30 - 14:00|All|Unconference - Field Capture
+14:00 - 14:30|All|TBC
+14:30 - 15:00|-|Coffee break
+
+*National keynotes*
+
+Time | Speaker| Title|
+:-----|:-----|:-----
+15:00 - 15:30|Ujaval Gandhi|Geospatial Careers
+15:15 - 15:30|-|Coffee break
+15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on
+16:30 - 16:45|National Chair|Wrap up
+-|Conference end|-
+16:45 - ?|Evening social event TBC
 
 ### Sponsors
 
