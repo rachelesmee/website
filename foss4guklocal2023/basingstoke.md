@@ -15,7 +15,6 @@ We are very grateful for the support of Geoxphere for sponsoring FOSS4G:UK Local
 [<img src="images/geoxphere.png" width="300" align="middle">](https://www.geoxphere.com/)
 
 
-
 ### Location & Travel
 
 [Willis Museum](https://www.openstreetmap.org/node/616858593#map=16/51.2625/-1.0876)<br>
@@ -23,12 +22,35 @@ Market Place<br>
 Basingstoke<br>
 RG21 7QD<br>
 
+Getting there: [https://goo.gl/maps/FknB7x3K3XDgDj588](https://goo.gl/maps/FknB7x3K3XDgDj588)
+
+
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
+
+### Programme for Basingstoke
+
+* 09:00-09:30: Arrive
+* 09:30-09:45: Conference Start and Welcome
+* 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
+* 10:15-10:45: Local Talk: Dave Barter [Nautoguide] "Developing an opensource geocoder in GeoDjango"
+* 10:45-11:15: Coffee Break
+* 11:15-12:45: Local Session
+    * 11:15-12:45: Local Workshop: Hannah Wight [Ordnance Survey] "Geospatial Data Visualisation"
+* 12:45-13:45: Lunch break
+* 13:45-14:45: Local Session
+        * 13:45-14:15: Local Talk: Simon Miles [Geoxphere] "GDAL & Powershell"
+        * 14:15-14:45: Local Unconference / Lighning Talks
+* 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
+* 15:15-15:30: Coffee Break
+* 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
+* 16:30-16:45: Wrap up by National Chair
+* 16:45: Conference close
+* 16:45-? : Local Pub TBC
 
 
 ### Call for Talks
 
-The call for talks has now *closed*.
+There is still time to submit a talk, but please email Simon directly. [Simon Miles](mailto:Simon.Miles@geoxphere.com)
 
 
 ### Registration
