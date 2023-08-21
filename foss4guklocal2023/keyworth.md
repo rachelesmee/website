@@ -9,17 +9,57 @@ Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk), [Rachel Talbot](m
 
 <img src="https://www.bgs.ac.uk/wp-content/uploads/2020/09/P786623-960x640.jpg" width="600" align="middle">
 
+### Registration
 
-### Sponsors
+[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 14 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
-We are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
+### Programme - Thursday 7th September 2023
 
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
+#### National keynotes - these will be streamed to watch together at the start and end of day
 
+Time | Speaker| Title|
+:-----|:-----|:-----
+09:00 - 09:30|-|Arrival
+09:30 - 10:00|Local organisers|Local welcome and overview / coffee and networking
+10:00 - 10:30|Helen McKenzie|Geospatial Evangelism
+10:30 - 11:00|-|Coffee break
+
+#### Local sessions
+
+Time | Speaker| Title|
+:-----|:-----|:-----
+11:00 - 11:15|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
+11:15 - 11:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+11:30 - 11:45|Tijana Jovanovic|Generating and sharing a two-metre resolution land cover map of London
+11:45 - 12:00|TBC
+12:00 - 12:15|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
+12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history
+12:30 - 13:00|-|Lunch
+13:00 - 13:15|Matt Arran|Open-source large-dataset geostatistics
+13:15 - 13:30|Dr Matthew Haines|Updating the SDTM - challenges and the future
+13:30 - 14:00|All|Field data capture discussion / Unconference
+14:00 - 14:30|All|Unconference / Unconference
+14:30 - 15:00|-|Coffee break
+
+The official call for talks is closed, but there is still scope for adjustment to the programme, particularly to include talks from traditionally under-represented groups.  Please contact Rachel if you are interested.
+
+Talks from the local sessions will be recorded and shared on YouTube post conference.
+There will be [Unconference](http://unconference.net/unconferencing-how-to-prepare-to-attend-an-unconference-2/) sessions between 13:30 and 14:30. Delegates will suggest topics for discussion on the day and vote on which will run.
+
+#### National keynotes - these will be streamed to watch together at the start and end of day
+
+Time | Speaker| Title|
+:-----|:-----|:-----
+15:00 - 15:30|Ujaval Gandhi|Geospatial Careers
+15:15 - 15:30|-|Coffee break
+15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on
+16:30 - 16:45|National Chair|Wrap up
+-|Conference end|-
+16:45 - ?|Evening social event in Nottingham|TBC
 
 ### Location & Travel
 
-The British Geological Survey (BGS) headquarters are located in Keyworth, southeast of Nottingham, in the Midlands of England.
+The event will be held in the BGS Conference Suite, accessed via the main reception. The British Geological Survey (BGS) headquarters are located in Keyworth, southeast of Nottingham, in the Midlands of England.
 
 **Address**<br>
 [British Geological Survey](https://www.openstreetmap.org/way/244466711#map=19/52.87877/-1.07860)<br>
@@ -48,20 +88,16 @@ Car:
 
 The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps directions](https://www.google.com/maps/dir//NG12+5GD,+Nicker+Hill,+Keyworth,+Nottingham/@52.879317,-1.0820298,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4879c4b073bb09fb:0x31e767532086c11d!2m2!1d-1.081564!2d52.8795395). There is visitor parking on site.  You will need to record your car registration number on arrival.
 
+### Sponsors
 
-### Call for Talks
+FOSS4G UK are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
 
-The official call for talks is closed, but there is still scope for adjustment to the programme, particularly to include talks from traditionally under-represented groups.  Please contact Rachel if you are interested.
-
-### Registration
-
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 
 ### Questions
 
 Any questions, please contact [Rachel Talbot](mailto:rtalbot@bgs.ac.uk), [John Stevenson](mailto:jostev@bgs.ac.uk) or [Chris Williams](mailto:chrwil@bgs.ac.uk) or email <span class="osgeoemail"></span>.
-
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/keyworth.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
 
