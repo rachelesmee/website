@@ -12,7 +12,11 @@ This is a provisional programme for the Lancaster meeting of the FOSS4G UK 2023 
 <tr><th>Time</th><th>Details</th></tr>
 <tr><td>0900</td><td>Arrival and registration</td></tr>
 <tr><td>0930</td><td>Local Welcome</td></tr>
-<tr><td>0945</td><td>Keynote Speaker: <span class="speaker">Helen McKenzie</span></td></tr>
+<tr><td>0945</td><td>Keynote Speaker: <span class="speaker">Helen McKenzie</span>
+<p>Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her
+role is to excite people in the application of geospatial technologies.
+</p>
+</td></tr>
 <tr><td>1015</td><td><span class="speaker">Rory Southworth</span> : <span class="talktitle">Fraser House Hub &ndash; Local Sponsor</span>
 <p>
 Fraser House is a diverse and inclusive co-working space for Tech and Digital businesses in Lancaster
@@ -54,7 +58,7 @@ I'm a research fellow in the Lancaster Medical School, working on statistical di
 </td></tr>
 <tr><td>1245</td><td>Lunch Sponsored by the Lancaster Data Science Institute</td></tr>
 <tr><td>1345</td><td>
-<span class="speaker">Ana Maria Pacheco Pascagaza</span> : <span class="talktitle">Connecting Google Colab and Earth Engine for Satellite Imagery Analysis and Vegetation Monitoring</span>
+<span class="speaker">Ana María Pacheco Pascagaza</span> : <span class="talktitle">Connecting Google Colab and Earth Engine for Satellite Imagery Analysis and Vegetation Monitoring</span>
 <p>
 In a rapid changing Earth and escalating environmental degradation, particularly in terms of vegetation, the need for rapid analysis of satellite imagery is urgent. This presentation unveils the seamless integration of Google Colab with Google Earth Engine, tapping into an extensive repository of remote sensing data. Demonstrating Colab's capabilities, we explore satellite image access, computation of essential vegetation indices, and creation of spatial visualisations. I will present an overview on how generate time series analysis, machine learning, and a practical example of blending diverse data sources to produce various remote-sensing-based maps (e.g., land cover, biomass). 
 </p>
@@ -75,7 +79,11 @@ Senior Lecturer in Geographical Information Science at the University of Manches
 </p>
 </td></tr>
 <tr><td>1430</td><td><span class="speaker">Lancaster Data Science Institute</span> : <span class="talktitle">Sponsor Talk</span></td></tr>
-<tr><td>1445</td><td>Keynote Speaker: <span class="speaker">Ujaval Gandhi</span></td></tr>
+<tr><td>1445</td><td>Keynote Speaker: <span class="speaker">Ujaval Gandhi</span>
+<p>
+Ujaval spent over 15 years working on satellite data processing at Google and now works
+on the <a href="http://www.spatialthoughts.com">Spatial Thoughts</a> GIS online learning resource.
+</p></td></tr>
 <tr><td>1515</td><td>Break</td></tr>
 <tr><td>1530</td><td><a href="ten-years-after.html">Panel Discussion: <span class="talktitle">"Ten Years After"</span></a>
 <p>Four presentations from members of the 2013 FOSS4G Global committee on where we've come in the last ten years

@@ -37,6 +37,10 @@ We encourage everyone to travel by public transport/car share/under their own st
 The call for talks is now closed, but if you are still interested in presenting contact Barry and
 there may be space in the programme for lightning talks or announcements.
 
+### Programme
+
+A provisional [Lancaster Programme](lancaster-programme.html) is now online. If you are presenting and 
+the time is awkward for you for any reason, let Barry or Jonny know and we'll try and make adjustments.
 
 ### Registration
 
