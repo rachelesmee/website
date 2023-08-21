@@ -7,7 +7,6 @@ layout: foss4guk2023
 
 **Call for Talks is now Closed**
 
-
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK and Ireland. Take a look at our previous programmes for [FOSS4G:UK Local 2022](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148),  [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
 This will be a hybrid conference, but with a twist: there will be no central physical location. We have eight venues geographically dispersed across the UK and Ireland, where you can physically meet up to attend the conference. The two keynote presentations and panel session will be streamed to all venues. Additional sessions will be run at each local venue.
@@ -40,9 +39,7 @@ We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatia
 
 ## Call for Talks
 
-The call for talks has now closed, as of Monday 7th August. Thank you to everyone that submitted.
-
-Local event schedules are being finalised and will be released on the local event pages by Monday 14th August. Anyone that submitted will be contacted regarding acceptance before Monday 14th August 2023.
+Local event schedules are in the process of being published - see your venue for details.
 
 The programme will feature talks, presentations, workshops, and show & tell sessions, covering:
 - New/updated FOSS4G software
