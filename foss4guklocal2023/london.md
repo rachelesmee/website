@@ -28,9 +28,43 @@ EC1V 7EN<br>
 We encourage everyone to travel by public transport/car share/under their own steam if possible.
 
 
-### Call for Talks
+### Programme for London
 
-The call for talks in London has closed. We will have a short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot.
+Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.
+
+* 09:00-09:30: Arrive
+* 09:30-09:45: Conference Start and Welcome
+* 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
+* 10:15-10:45: Local Talk: Mike Nibele [Groundsure] "Using PySpark and Apache Sedona for Big Data processing in the Cloud"
+* 10:45-11:15: Coffee Break
+* 11:15-11:45: Local Talk: Yogesh Girikumar [HOT] "HOT Tasking Manager - A case-study in mindfully modernising infrastructure"
+* 11:45-12:15: Local Talk: Matt Sandoe	[OS Climate] "Open source data and tools for climate risk, transition & resilience"
+* 12:15-12:45: Local Lightning Talks:
+    * Ali Cass [Transition Zero] "FOSS4G - 4FEO"
+    * Ivann Schlosser [UCL] "Active-travel modelling: a methodological approach to networks for walking and cycling commuting analysis"
+    * James O'Connor [Satellite Vu] "HotSTAC - Satellite Vu's thermal image data built on FOSS"
+* 12:45-13:45: Lunch break
+* 13:45-14:15: Local Session Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)"
+* 14:15- 14:45: Unconference Session: A short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot. Anything goes here, talk about your passion, your project, your aspiration. 
+* 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
+* 15:15-15:30: Coffee Break
+* 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
+* 16:30-16:45: Wrap up by National Chair
+* 16:45: Conference close
+* 16:45-? : Local Pub see below
+
+### Information for Speakers for London
+
+In terms of presenting format and setup, since we're running a "distributed" conference, all talks will be live streamed to youtube via the [Jitsi](https://jitsi.org/) steaming management app. This means we will need to have a "fixed" presentation laptop that is hooked up to the AV system, and so you will be expected to present from this. The presentation laptop will have a good wifi connection.
+
+We encourage you to keep it simple and not to be dependent on any specialist presentation tools. We expect all presenters to provide a standalone PDF of their presentation which will be queued on the presentation laptop before the day. However, if you prefer to use an online format, e.g. google slides (or similar), or even a PDF that's on a URL, that is fine too, but please supply the URL to the presentation in advance too.
+
+Note, the presentation laptop **will not** have a copy of Microsoft Powerpoint. So if you're using Powerpoint to construct your deck, please export to PDF and check it any for any funky formatting quirks, since we'll use your PDF on the day.
+
+If you have indicated you'd like to do a live demo on your submission, you'll be contacted directly about this.
+
+Please supply a copy of your PDF, and if using, a URL to your slide deck, by no later that 17:00 on Tuesday 5th September 2023 to allow us to queue up your material beforehand. Please see your confirmation email for the contact email address for this.
+
 
 ### After conference drinks
 
