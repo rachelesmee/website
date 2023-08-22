@@ -5,7 +5,7 @@ layout: foss4guk2023
 ## FOSS4G:UK Local 
 ## Thurs 7<sup>th</sup> Sept 2023
 
-**Call for Talks is now Closed**
+**Full programme now published! See venue pages for details**
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! A whole day of talks, workshops and networking across the UK and Ireland. Take a look at our previous programmes for [FOSS4G:UK Local 2022](https://docs.google.com/spreadsheets/d/1ChtOtqO0PfZ2ckiZqqJxyV3VhP3Xm-WnkJ6NwZ2UVTM/edit#gid=1605024148),  [FOSS4GUK Online 2020](https://uk.osgeo.org/foss4gukonline2020/programme.html) and [FOSS4GUK 2019 in Edinburgh](https://uk.osgeo.org/foss4guk2019/FOSS4GUK_2019_Programme.pdf) to get a flavour of things to come!
 
@@ -34,7 +34,13 @@ We have eight venues:
 
 ## Keynotes
 
-We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). We will also have the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
+We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). 
+
+### Ujaval Gandhi: Building a Career with Open-Source Technologies (14:45, streamed live to all venues and online)
+
+Ujaval will take you through the evolution of the geospatial industry through the past two decades with his personal journey from working at Google to starting his own academy focused on open-source technologies. You will get to hear how open-source technologies - GDAL, QGIS, and Python - played a key role in his career and helped solve complex geospatial problems and build data pipelines for processing petabytes of data. The talk will conclude by looking at emerging trends and how to prepare oneself to thrive in the current environment.
+
+We will also have the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
 
 
 ## Call for Talks
