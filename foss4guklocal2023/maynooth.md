@@ -30,7 +30,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Call for Talks
 
-The call for talks has now *closed*.
+The call for talks has now *closed*. However, there is still some flexibility if you would really like to tell us about your experiences with FOSS4G and related tools and data. Please contact [Peter Mooney](mailto:peter.mooney@mu.ie) if you would like to explore this opportunity. 
 
 
 ### Registration
