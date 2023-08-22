@@ -28,6 +28,7 @@ Time | Speaker| Title
 
 
 We then have two parallel sessions:
+
 Time | Speaker| Title
 :-----|:-----|:-----
 11:15 - 11:45|Mike Spencer [Smart Data Foundry]|Beyond the *IMD - filling the gap
