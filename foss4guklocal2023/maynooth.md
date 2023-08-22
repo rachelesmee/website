@@ -53,7 +53,7 @@ Local Session #2|11:15 - 11:45|Kevin Credit|**The Walkable Accessibility Score: 
 Local Session #2|11:45 - 12:15|Hrishikesh Ballal|**Urban Sprawl toolkit with open tools**
 Local Session #2|12:15 - 12:45|Paddy Gorry|**Randomly generated spatial datasets - a Python approach**	
 Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
-Local Session #3|13:45 - 14:15|**Paul Holloway|Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets**
+Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets**
 Local Session #3|14:15 - 14:30|Peter Mooney|**FOSS4G in the classroom: observations and ideas**
 Local Session #3|14:30 - 14:45|Everyone locally|**Unconference - discussion of next steps for OSGeoIE** 
 
