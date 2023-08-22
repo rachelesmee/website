@@ -30,27 +30,35 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme for London
 
-Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.
+Please note, the call for talks has now *closed*. 
+The agenda times and speakers could be subject to late change.
 
 * 09:00-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
 * 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
 * 10:15-10:45: Local Talk: Mike Nibele [Groundsure] "Using PySpark and Apache Sedona for Big Data processing in the Cloud"
+
 * 10:45-11:15: Coffee Break
+
 * 11:15-11:45: Local Talk: Yogesh Girikumar [HOT] "HOT Tasking Manager - A case-study in mindfully modernising infrastructure"
 * 11:45-12:15: Local Talk: Matt Sandoe	[OS Climate] "Open source data and tools for climate risk, transition & resilience"
 * 12:15-12:45: Local Lightning Talks:
     * Ali Cass [Transition Zero] "FOSS4G - 4FEO"
     * Ivann Schlosser [UCL] "Active-travel modelling: a methodological approach to networks for walking and cycling commuting analysis"
     * James O'Connor [Satellite Vu] "HotSTAC - Satellite Vu's thermal image data built on FOSS"
+
 * 12:45-13:45: Lunch break
+
 * 13:45-14:15: Local Session Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)"
 * 14:15- 14:45: Unconference Session: A short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot. Anything goes here, talk about your passion, your project, your aspiration. 
 * 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
+
 * 15:15-15:30: Coffee Break
+
 * 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
 * 16:30-16:45: Wrap up by National Chair
 * 16:45: Conference close
+
 * 16:45-? : Local Pub see below
 
 ### Information for Speakers for London
