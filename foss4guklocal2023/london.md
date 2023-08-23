@@ -50,7 +50,7 @@ The agenda times and speakers could be subject to late change.
 * 12:45-13:45: Lunch break
 
 * 13:45-14:15: Local Session Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)"
-* 14:15- 14:45: **Unconference Session**: A short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot. Anything goes here, talk about your passion, your project, your aspiration. 
+* 14:15- 14:45: **Unconference Session**: A short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot. Anything goes here, talk about your passion, your project, your aspiration. *Slides are optional*
 * 14:45-15:15: **Keynote Talk**: Ujaval Gandhi [Google] "Geospatial Careers"
 
 * 15:15-15:30: Coffee Break
