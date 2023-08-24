@@ -42,7 +42,7 @@ Please note, the call for talks has now *closed* and the agenda times and speake
 * 10:45-11:15: Coffee Break
 * 11:15-12:45: Local FOSS4G Use Cases Session
     * 11:15-11:45: Local Talk: Petya Kangalova [Humanitarian Open Street Map Team] "The collective power: HOT's approach to building open geospatial technology"
-    * 11:45-12:15: Local Talk: Alastair Graham [Centre for Sustainable Energy] "Solar potential modelling for household and community solar"
+    * 11:45-12:15: Local Talk: Mark Gibbons [Centre for Sustainable Energy] "Solar potential modelling for household and community solar"
     * 12:15-12:30: Local Lightning Talk: Rob Burgess [Inosys] "FOSS4G for Offshore Platform Electrification"
     * 12:30-12:45: Local Lightning Talk: Javier Garcia Lopez [4 Earth Intelligence] "Satellite Marine Habitat Mapping"
 * 12:45-13:45: Lunch break
