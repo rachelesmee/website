@@ -36,11 +36,11 @@ We have eight venues:
 
 We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). 
 
-### "Helen McKenzie, Geospatial Advocate at CARTO: Getting People Excited about Geo! (09:45, streamed live to all venues and online)
+### Helen McKenzie, Geospatial Advocate at CARTO: Getting People Excited about Geo! (09:45, streamed live to all venues and online)
 
 Helen will share her experiences on how to get non-geospatial professionals excited about geo! Whether you need a project timeline extension, promotion or needing a new hire - communicating the value of GIS is one of the most important soft skills needed in our industry. In this session, hear effective strategies for promoting the value of geospatial, such as emphasizing practical outcomes and commercial benefits.
 
-### Ujaval Gandhi: Building a Career with Open-Source Technologies (14:45, streamed live to all venues and online)
+### Ujaval Gandhi, Educator | Founder @ Spatial Thoughts: Building a Career with Open-Source Technologies (14:45, streamed live to all venues and online)
 
 Ujaval will take you through the evolution of the geospatial industry through the past two decades with his personal journey from working at Google to starting his own academy focused on open-source technologies. You will get to hear how open-source technologies - GDAL, QGIS, and Python - played a key role in his career and helped solve complex geospatial problems and build data pipelines for processing petabytes of data. The talk will conclude by looking at emerging trends and how to prepare oneself to thrive in the current environment.
 
