@@ -27,23 +27,23 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Call for Talks
 
-The call for talks has now *closed*.
+There is still time to submit a talk, but please email Tom directly. [Tom Colley](mailto:tomcolley@gmail.com)
 
 ### Agenda
 
 * 09:00-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
-* 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
-* 10:15-10:45: Paul Shapley [Bannau Brycheiniog NPA] "Updating an Open Source SDI for Mobile Working"
+* 09:45-10:15: Keynote Talk: Helen McKenzie: ["Geospatial Evangelism"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#geospatial-evangelism)
+* 10:15-10:45: Paul Shapley [Bannau Brycheiniog NPA] ["Updating an Open Source SDI for Mobile Working"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#updating-an-open-source-sdi-for-mobile-working)
 * 10:45-11:15: Coffee Break
-* 11:15-11:45: Josh Henley [Welsh Government] "You're so spatial, let's get engaged!"
-* 11:45-12:15: Daniel Clewley [Plymouth Marine Laboratory] "Building The Welsh Data Cube"
-* 12:15-12:45: Matt Walker [Astun Technology and Rhys Wynne-Jones] "Building and maintaining Paths to Wellbeing for Ramblers Cymru"
+* 11:15-11:45: Josh Henley [Welsh Government] ["You're so spatial, let's get engaged!"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#youre-so-spatial-lets-get-engaged)
+* 11:45-12:15: Daniel Clewley [Plymouth Marine Laboratory] ["Building The Welsh Data Cube"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#building-the-welsh-data-cube)
+* 12:15-12:45: Matt Walker [Astun Technology and Rhys Wynne-Jones] ["Building and maintaining Paths to Wellbeing for Ramblers Cymru"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#building-and-maintaining-paths-to-wellbeing-for-ramblers-cymru)
 * 12:45-13:45: Lunch break
 * 13:45-14:45: Workshop TBC
-* 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
+* 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] ["Geospatial Careers"](https://uk.osgeo.org/foss4guklocal2023/swansea-programme#building-a-career-with-open-source-technologies)
 * 15:15-15:30: Coffee Break
-* 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
+* 15:30-16:30: FOSS4G 2013 Panel Session, [Ten Years After](https://uk.osgeo.org/foss4guklocal2023/ten-years-after.html).
 * 16:30-16:45: Wrap up
 * 16:45: Conference close
 * 17:00-? : GeoDrinks @ [Beer Riff](https://beerriffbrewing.com/){:target="_newpage"}
