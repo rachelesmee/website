@@ -11,7 +11,7 @@ Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk), [Rachel Talbot](m
 
 ### Registration
 
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 14 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 7 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 ### Programme - Thursday 7th September 2023
 
@@ -31,7 +31,7 @@ Time | Speaker| Title|
 11:00 - 11:15|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
 11:15 - 11:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
 11:30 - 11:45|Tijana Jovanovic|Generating and sharing a two-metre resolution land cover map of London
-11:45 - 12:00|TBC
+11:45 - 12:00|Raushan Arnhardt|Using QGIS for the Kyrgyzstan Landslides Database
 12:00 - 12:15|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
 12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history
 12:30 - 13:00|-|Lunch
@@ -89,6 +89,9 @@ Car:
 The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps directions](https://www.google.com/maps/dir//NG12+5GD,+Nicker+Hill,+Keyworth,+Nottingham/@52.879317,-1.0820298,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4879c4b073bb09fb:0x31e767532086c11d!2m2!1d-1.081564!2d52.8795395). There is visitor parking on site.  You will need to record your car registration number on arrival.
 
 ### Sponsors
+FOSS4G UK are very grateful to [Idox](https://www.idoxgroup.com/) for supporting FOSS4G:UK Local at this event.
+
+![Idox Logo](foss4guklocal2023/images/Idox_Logo_CMYK.jpg)
 
 FOSS4G UK are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
 
