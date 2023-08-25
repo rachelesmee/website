@@ -57,6 +57,18 @@ Time | Speaker| Title|
 -|Conference end|-
 16:45 - ?|Evening social event in Nottingham|TBC
 
+
+### Sponsors
+
+FOSS4G UK are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for sponsoring and hosting FOSS4G:UK Local at this event.
+
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
+
+FOSS4G UK are also very grateful to [Idox](https://www.idoxgroup.com/) for their local sponsorship support.
+
+[<img src="images/Idox_Logo_CMYK.jpg" width="200" align="middle">](https://www.idoxgroup.com/)
+
+
 ### Location & Travel
 
 The event will be held in the BGS Conference Suite, accessed via the main reception. The British Geological Survey (BGS) headquarters are located in Keyworth, southeast of Nottingham, in the Midlands of England.
@@ -87,15 +99,6 @@ There is bike parking next to reception.
 Car:
 
 The preferred postcode for satellite navigation is NG12 5GD.  See [Google maps directions](https://www.google.com/maps/dir//NG12+5GD,+Nicker+Hill,+Keyworth,+Nottingham/@52.879317,-1.0820298,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x4879c4b073bb09fb:0x31e767532086c11d!2m2!1d-1.081564!2d52.8795395). There is visitor parking on site.  You will need to record your car registration number on arrival.
-
-### Sponsors
-FOSS4G UK are very grateful to [Idox](https://www.idoxgroup.com/) for supporting FOSS4G:UK Local at this event.
-
-![Idox Logo](foss4guklocal2023/images/Idox_Logo_CMYK.jpg)
-
-FOSS4G UK are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for supporting FOSS4G:UK Local at this event.
-
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
 
 
 ### Questions
