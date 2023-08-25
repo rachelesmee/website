@@ -11,7 +11,7 @@ Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk), [Rachel Talbot](m
 
 ### Registration
 
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 7 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 5 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 ### Programme - Thursday 7th September 2023
 
