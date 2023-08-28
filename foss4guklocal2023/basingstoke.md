@@ -29,7 +29,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme for Basingstoke
 
-* 09:00-09:30: Arrive
+* 09:15-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
 * 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
 * 10:15-10:45: Local Talk: Dave Barter [Nautoguide] "Developing an opensource geocoder in GeoDjango"
@@ -39,7 +39,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 * 12:45-13:45: Lunch break
 * 13:45-14:45: Local Session
         * 13:45-14:15: Local Talk: Simon Miles [Geoxphere] "GDAL & Powershell"
-        * 14:15-14:45: Local Unconference / Lighning Talks
+        * 14:15-14:45: Local Unconference / Lightning Talks
 * 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
 * 15:15-15:30: Coffee Break
 * 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
