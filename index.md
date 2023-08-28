@@ -4,8 +4,9 @@ layout: default
 
 
 ### FOSS4G:UK Local 2023
+## Thurs 7<sup>th</sup> Sept 2023
 
-**Call for Talks Extended to Mon 7th August 2023**
+**Full programme now published! See venue pages for details**
 
 We have a confirmed date for [FOSS4G:UK Local 2023](foss4guklocal2023/index.html) - **Thurs 7th Sept 2023**.
 
@@ -25,7 +26,7 @@ This will be a hybrid conference, but with a twist: there will be no central phy
 - [Basingstoke](foss4guklocal2023/basingstoke.html) *Willis Museum*
 - [Bristol](foss4guklocal2023/bristol.html) *Engine Shed*
 
-We have two amazing keynotes: Ujaval Gandhi & Helen McKenzie. We will also have a panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/),  provisionally titled: *Where have we gone in the last ten years, and where will be in ten years time?*. 
+We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) and [Helen McKenzie](https://www.linkedin.com/in/helenmckenzie003/). We will also have the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
 
 We are adopting a similar structure to last year, with the keynotes and panel discussion streamed to all venues and to YouTube. 
 
