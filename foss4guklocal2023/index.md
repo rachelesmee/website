@@ -31,6 +31,7 @@ We have eight venues:
 - [Basingstoke](basingstoke.html) *Willis Museum*
 - [Bristol](bristol.html) *Engine Shed*
 
+You can also watch [online](online.html) if you wish, however the best experience will be in person. You are welcome to chat to other participants in the [OSGeo:UK & FOSS4G:UK Matrix Room](https://matrix.to/#/#OSGeoUK:matrix.org). 
 
 ## Keynotes
 
