@@ -10,7 +10,7 @@ Local Venue Chairs: [Piet Gerrits](https://pgerrits.com/), [Guy Solomon](https:/
 
 ### Registration
 
-We are very happy to announce that due to recent sponsorship the Glasgow event is now FREE. Register with discount code **FOSSGLA** to take advantage of this opportunity. If you would still like to donate to OSGeo and FOSS4G, you can do so [here](https://uk.osgeo.org/donations.html). If you have already registered for the Glasgow event and would like to request reimbursement, please contact Petrus Gerrits (<p.gerrits.1@research.gla.ac.uk>) or 
+We are very happy to announce that due to recent sponsorship the Glasgow event is now FREE. Register with discount code **FOSSGLA** to take advantage of this opportunity. If you would still like to donate to OSGeo:UK and FOSS4G:UK, you can do so [here](https://uk.osgeo.org/donations.html). If you have already registered for the Glasgow event and would like to request reimbursement, please contact Petrus Gerrits (<p.gerrits.1@research.gla.ac.uk>) or 
 Guy Solomon (<Guy.Solomon@glasgow.ac.uk>).
 
 [Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
