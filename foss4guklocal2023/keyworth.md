@@ -9,6 +9,17 @@ Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk), [Rachel Talbot](m
 
 <img src="https://www.bgs.ac.uk/wp-content/uploads/2020/09/P786623-960x640.jpg" width="600" align="middle">
 
+
+### Sponsors
+
+FOSS4G UK are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for sponsoring and hosting FOSS4G:UK Local at this event.
+
+[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="225" align="middle">](https://www.bgs.ac.uk/)
+
+FOSS4G UK are also very grateful to [Idox](https://www.idoxgroup.com/) for their local sponsorship support.
+
+[<img src="images/Idox_Logo_CMYK.jpg" width="150" align="middle">](https://www.idoxgroup.com/)
+
 ### Registration
 
 [Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 5 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
@@ -56,18 +67,6 @@ Time | Speaker| Title|
 16:30 - 16:45|National Chair|Wrap up
 -|Conference end|-
 16:45 - ?|Evening social event in Nottingham|TBC
-
-
-### Sponsors
-
-FOSS4G UK are very grateful to the [British Geological Survey](https://www.bgs.ac.uk/) for sponsoring and hosting FOSS4G:UK Local at this event.
-
-[<img src="https://www.bgs.ac.uk/wp-content/uploads/2022/08/BGS-Logo-Pos-RGB.svg" width="300" align="middle">](https://www.bgs.ac.uk/)
-
-FOSS4G UK are also very grateful to [Idox](https://www.idoxgroup.com/) for their local sponsorship support.
-
-[<img src="images/Idox_Logo_CMYK.jpg" width="200" align="middle">](https://www.idoxgroup.com/)
-
 
 ### Location & Travel
 
