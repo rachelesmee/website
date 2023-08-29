@@ -16,6 +16,8 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/Idox_Logo_CMYK.jpg" width="200" align="middle">](https://www.idoxgroup.com/)
 
+[<img src="images/Landmark_Logo.png" width="300" align="middle">](https://www.landmark.co.uk/)
+
 [<img src="images/locate-press-logo.png" width="200" align="middle">](https://locatepress.com/)
 
 [<img src="images/osgeo-ie.png" width="200" align="middle">](https://wiki.osgeo.org/wiki/Ireland)
