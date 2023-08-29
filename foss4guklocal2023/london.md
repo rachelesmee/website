@@ -29,8 +29,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 
 ### Programme for London
-
-Please note, the call for talks has now closed. 
+ 
 The agenda times and speakers could be subject to late change.
 
 * 09:00-09:30: Arrive
