@@ -22,7 +22,7 @@ put them, or summaries, to the panel for discussion.
 
 ## Panel
 
-[<img src="images/feldman.jpeg" width="125">](https://mastodon.me.uk/@stevenfeldman) [<img src="images/Iliffe.jpeg" width="125">](https://www.linkedin.com/in/iliffemark/) [<img src="images/page.jpeg" width="125">](https://www.linkedin.com/in/abipage/) [<img src="images/Walker.jpg" width="125">](https://www.astuntechnology.com/about/)
+[<img src="images/feldman.jpeg" width="115">](https://mastodon.me.uk/@stevenfeldman) [<img src="images/Iliffe.jpeg" width="115">](https://www.linkedin.com/in/iliffemark/) [<img src="images/page.jpeg" width="115">](https://www.linkedin.com/in/abipage/) [<img src="images/Walker.jpg" width="115">](https://www.astuntechnology.com/about/)
 
  * **[Steven Feldman](https://mastodon.me.uk/@stevenfeldman)**: "25 years in geo, ran some companies, invested in and mentored some startups, evangelist for FOSS4G, co-founder of [Mappery](http://mappery.org/), co-host of [geomob podcast](https://thegeomob.com/podcast), wondering if it’s time to stop." 
  
