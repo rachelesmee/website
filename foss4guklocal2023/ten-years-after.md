@@ -22,10 +22,16 @@ put them, or summaries, to the panel for discussion.
 
 ## Panel
 
- * **Steven Feldman**: "25 years in geo, ran some companies, invested in and mentored some startups, evangelist for FOSS4G, co-founder of [Mappery](http://mappery.org/), co-host of [geomob podcast](https://thegeomob.com/podcast), wondering if it’s time to stop. Find me at [https://mastodon.me.uk/@stevenfeldman](https://mastodon.me.uk/@stevenfeldman)"
- * **Mark Iliffe**
- * **Abigail Page**
- * **Matt Walker**: Principal Geospatial Architect at [Astun Technology](https://www.astuntechnology.com/),  active user, contributor and advocate of open source, OSGeo Charter Member and involved in organising and presenting at a host of OSGeo events.
+[<img src="images/feldman.jpeg" width="115">](https://mastodon.me.uk/@stevenfeldman) [<img src="images/Iliffe.jpeg" width="115">](https://www.linkedin.com/in/iliffemark/) [<img src="images/page.jpeg" width="115">](https://www.linkedin.com/in/abipage/) [<img src="images/Walker.jpg" width="115">](https://www.astuntechnology.com/about/)
+
+ * **[Steven Feldman](https://mastodon.me.uk/@stevenfeldman)**: "25 years in geo, ran some companies, invested in and mentored some startups, evangelist for FOSS4G, co-founder of [Mappery](http://mappery.org/), co-host of [geomob podcast](https://thegeomob.com/podcast), wondering if it’s time to stop." 
+ 
+ * **[Mark Iliffe](https://www.linkedin.com/in/iliffemark/)**: Mark will take a look at the global legacy of Nottingham 2013 and how enabling access to open source has changed. 
+
+ * **[Abigail Page](https://www.linkedin.com/in/abipage/)**: Abi will discuss open source/open data in government and the increasing importance of geospatial (e.g. the existence of the Geospatial Commission).
+ 
+ * **[Matt Walker](https://www.astuntechnology.com/about/)**: Principal Geospatial Architect at [Astun Technology](https://www.astuntechnology.com/),  active user, contributor and advocate of open source, OSGeo Charter Member and involved in organising and presenting at a host of OSGeo events. Matt is going to talk tech about the nuts n bolts of open source. 
+
  
 ## Moderator
 
