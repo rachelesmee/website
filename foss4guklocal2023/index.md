@@ -49,16 +49,6 @@ We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatia
 
 We will also have the [Ten Years After](ten-years-after.html) panel discussion to mark ten years since [FOSS4G 2013 in Nottingham](http://2013.foss4g.org/), themed around "*Where have we gone in the last ten years, and where will be in ten years time?*". 
 
-
-## Call for Talks
-
-Local event schedules are in the process of being published - see your venue for details.
-
-The programme will feature talks, presentations, workshops, and show & tell sessions, covering:
-- New/updated FOSS4G software
-- Interesting applications of FOSS4G across industry, commercial, public sector or third sector
-- How to use FOSS4G and related software at a range of levels
-
 ## Registration
 
 [Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Book early to bag your place - last year almost all venues sold out. Additionally, refunds are available from Eventbrite (less a service fee) up to seven days before the event.
