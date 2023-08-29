@@ -49,7 +49,7 @@ The agenda times and speakers could be subject to late change.
 
 * 12:45-13:45: Lunch break
 
-* 13:45-14:15: **Unconference Session**: A short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot. Anything goes here, talk about your passion, your project, your aspiration (slides are optional)
+* 13:45-14:15: **Unconference Session**: A short unconference session where you can offer a 5-6 minute lightning talk on the day on a first come first served basis, so get there early to grab a slot. Anything goes here, talk about your passion, your project, your aspiration (slides are optional). *The unconference session will not be recorded or streamed.*
 * 14:15- 14:45: Local Session Talk: Matt Sandoe	[OS Climate] "Open source data and tools for climate risk, transition & resilience"
 * 14:45-15:15: **Keynote Talk**: Ujaval Gandhi [Google] "Geospatial Careers"
 
