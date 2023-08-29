@@ -33,32 +33,33 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme for Bristol
 
-Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.
+Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.  
+⚡ = Lightning talk
 
-* 09:00-09:30: Arrive
-* 09:30-09:45: Conference Start and Welcome
-* 09:45-10:15: Keynote Talk: Helen McKenzie: "Geospatial Evangelism"
-* 10:15-10:45: Local Talk: Elena Robu [Astun Technology] "Unleashing the Potential: How Automated Metadata Creation Can Improve Your Data Quality and Accessibility"
-* 10:45-11:15: Coffee Break
-* 11:15-12:45: Local FOSS4G Use Cases Session
-    * 11:15-11:45: Local Talk: Petya Kangalova [Humanitarian Open Street Map Team] "The collective power: HOT's approach to building open geospatial technology"
-    * 11:45-12:15: Local Talk: Mark Gibbons [Centre for Sustainable Energy] "Solar potential modelling for household and community solar"
-    * 12:15-12:30: Local Lightning Talk: Rob Burgess [Inosys] "FOSS4G for Offshore Platform Electrification"
-    * 12:30-12:45: Local Lightning Talk: Javier Garcia Lopez [4 Earth Intelligence] "Satellite Marine Habitat Mapping"
-* 12:45-13:45: Lunch break
-* 13:45-14:45: Local Session Tech Sessions
-    * Option 1:
-        * 13:45-14:45: Local Workshop: Jessica Baker [Ordnance Survey] "Geospatial Data Visualisation"
-    * Option 2:
-        * 13:45-14:15: Local Talk: Matt Travis [Addresscloud] "Cloud native Geospatial tools"
-        * 14:15-14:30: Local Lightning Talk: Thomas Statham [] "Moving between traditional and emerging geographic data structures for advanced spatial analysis"
-        * 14:30-14:45 Illya Sparkes-Santos [FATMAP/Strava] "Inception: A very brief introduction to Argo workflows"
-* 14:45-15:15: Keynote Talk: Ujaval Gandhi [Google] "Geospatial Careers"
-* 15:15-15:30: Coffee Break
-* 15:30-16:30: FOSS4G 2013 Panel Session, 10 years on.
-* 16:30-16:45: Wrap up by National Chair
-* 16:45: Conference close
-* 16:45-? : Local Pub TBC
+| Time         | Description                 | 
+|--------------|-----------------------------|
+| 09:00-09:30  | Arrive                      |
+| 09:30-09:45  | Conference Start and Welcome|
+| 09:45-10:15  | Keynote Talk: Helen McKenzie ([CARTO](https://carto.com/)): "Getting People Excited about Geo!"|
+| 10:15-10:45  | Elena Robu ([Astun Technology](https://www.astuntechnology.com/)) "Unleashing the Potential: How Automated Metadata Creation Can Improve Your Data Quality and Accessibility"
+| 10:45-11:15  | Coffee Break
+| **11:15-12:45**  | **Local FOSS4G Use Cases Session**
+| 11:15-11:45  | Petya Kangalova ([Humanitarian Open Street Map Team](https://www.hotosm.org/)) "The collective power: HOT's approach to building open geospatial technology"|
+| 11:45-12:15  | Mark Gibbons ([Centre for Sustainable Energy](https://www.cse.org.uk/)) "Solar potential modelling for household and community solar"|
+| 12:15-12:30⚡  | Rob Burgess ([Inosys](https://www.inosys.co.uk/)) "FOSS4G for Offshore Platform Electrification"|
+| 12:30-12:45⚡  | Javier Garcia Lopez ([4 Earth Intelligence](https://www.4earthintelligence.com/)) "Satellite Marine Habitat Mapping"
+| 12:45-13:45  | Lunch break
+| **13:45-14:45**  | **Local Session Tech Sessions (Two Tracks)** |
+| 13:45-14:45  | Track 1: Jessica Baker ([Ordnance Survey](https://www.ordnancesurvey.co.uk/)) "Geospatial Data Visualisation"
+| 13:45-14:15  | Track 2: Matt Travis ([Addresscloud](https://www.addresscloud.com/)) "Cloud native Geospatial tools"
+| 14:15-14:30⚡ | Track 2: Thomas Statham ([Allianz Commercial](https://commercial.allianz.com/)) "Moving between traditional and emerging geographic data structures for advanced spatial analysis"
+| 14:30-14:45⚡  | Track 2: Illya Sparkes-Santos ([FATMAP/Strava](https://fatmap.com/)) "Inception: A very brief introduction to Argo workflows"
+| 14:45-15:15  | Keynote Talk: Ujaval Gandhi ([Spatial Thoughts](https://spatialthoughts.com/)) "Geospatial Careers"
+| 15:15-15:30 | Coffee Break
+| 15:30-16:30 | FOSS4G 2013 Panel Session, 10 years on
+| 16:30-16:45 | Wrap up by National Chair
+| 16:45 | Conference close
+| 16:45-? | 🍻 Continue at local Pub "The Sidings" [map](https://goo.gl/maps/h4PXdSu3c9TJkqJN6)
 
 ### Information for Speakers for Bristol
 
