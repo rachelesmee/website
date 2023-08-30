@@ -4,7 +4,7 @@ layout: foss4guk2023
 
 ## FOSS4G:UK Local 2023 - Bristol (Engine Shed, Bristol Temple Meads)
 
-Local Venue Chairs: [Sam Franklin](), [Dan Ormsby](https://linkedin.com/in/danielormsby/), [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/)
+Local Venue Chairs: [Sam Franklin](https://mapstodon.space/@samfranklin), [Dan Ormsby](https://linkedin.com/in/danielormsby/), [Illya Sparkes-Santos](https://www.linkedin.com/in/illyasantos/)
 
 <img src="images/engineshed.jpeg" width="600" align="middle">
 
@@ -13,7 +13,7 @@ Local Venue Chairs: [Sam Franklin](), [Dan Ormsby](https://linkedin.com/in/danie
 
 We are very grateful for the support of [CGI](https://www.cgi.com/en) and [Sparkgeo](https://www.sparkgeo.com) for supporting sponsorship of the venue for FOSS4G:UK Local 2023 in Bristol. <br>
 
-[<img src="images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/en)
+[<img src="images/logo_cgi_color.png" width="300" align="middle">](https://www.cgi.com/uk/en-gb)
 
 [<img src="images/sparkgeo-logo-black.png" width="300" align="middle">](https://sparkgeo.com/)
 
