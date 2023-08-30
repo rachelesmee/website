@@ -8,7 +8,7 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 ## Local venue sponsors
 
-[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/en)
+[<img src="images/logo_cgi_color.png" width="200" align="middle">](https://www.cgi.com/uk/en-gb)
 
 [<img src="images/geovationfromos-colour.png" width="200" align="middle">](https://geovation.uk/)
 
