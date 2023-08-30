@@ -30,27 +30,29 @@ FOSS4G UK are also very grateful to [Idox](https://www.idoxgroup.com/) for their
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-09:00 - 09:30|-|Arrival
-09:30 - 10:00|Local organisers|Local welcome and overview / coffee and networking
-10:00 - 10:30|Helen McKenzie|Geospatial Evangelism
-10:30 - 11:00|-|Coffee break
+09:00 - 09:30|-|Arrival / coffee and networking
+09:30 - 09:45|Local organisers|Local welcome and overview
+09:45 - 10:15|Helen McKenzie|Geospatial Evangelism
+
 
 #### Local sessions
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-11:00 - 11:15|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
-11:15 - 11:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
-11:30 - 11:45|Tijana Jovanovic|Generating and sharing a two-metre resolution land cover map of London
-11:45 - 12:00|Raushan Arnhardt|Using QGIS for the Kyrgyzstan Landslides Database
-12:00 - 12:15|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
+10:15 - 10:30|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
+10:30 - 10:45|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+10:45 - 11:15|-|Coffee break
+11:15 - 11:30|Tijana Jovanovic|Generating and sharing a two-metre resolution land cover map of London
+11:30 - 11:45|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
+11:45 - 12:00|-|Break
+12:00 - 12:15|T.B.C.|
 12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history
 12:30 - 13:00|-|Lunch
-13:00 - 13:15|Matt Arran|Open-source large-dataset geostatistics
-13:15 - 13:30|Dr Matthew Haines|Updating the SDTM - challenges and the future
+13:00 - 13:15|Dr Matt Arran|Open-source large-dataset geostatistics
+13:15 - 13:30|Dr Matthew Paice|Updating the SDTM - challenges and the future
 13:30 - 14:00|All|Field data capture discussion / Unconference
 14:00 - 14:30|All|Unconference / Unconference
-14:30 - 15:00|-|Coffee break
+14:30 - 14:45|-|Break
 
 The official call for talks is closed, but there is still scope for adjustment to the programme, particularly to include talks from traditionally under-represented groups.  Please contact Rachel if you are interested.
 
