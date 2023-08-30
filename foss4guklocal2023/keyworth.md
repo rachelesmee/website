@@ -22,7 +22,7 @@ FOSS4G UK are also very grateful to [Idox](https://www.idoxgroup.com/) for their
 
 ### Registration
 
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open, only 5 spaces remaining! Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+The Keyworth venue is now **sold out**!  But don't worry, you can still watch talks from other venues live online and we plan to record the presentations so you can watch them back later.  Join the [OSGEO UK mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 ### Programme - Thursday 7th September 2023
 
@@ -48,8 +48,8 @@ Time | Speaker| Title|
 12:00 - 12:15|T.B.C.|
 12:15 - 12:30|Tony Brookes|Using QGIS to organise 500,000 years of history
 12:30 - 13:00|-|Lunch
-13:00 - 13:15|Dr Matt Arran|Open-source large-dataset geostatistics
-13:15 - 13:30|Dr Matthew Paice|Updating the SDTM - challenges and the future
+13:00 - 13:15|Matt Arran|Open-source large-dataset geostatistics
+13:15 - 13:30|Matthew Paice|Updating the SDTM - challenges and the future
 13:30 - 14:00|All|Field data capture discussion / Unconference
 14:00 - 14:30|All|Unconference / Unconference
 14:30 - 14:45|-|Break
