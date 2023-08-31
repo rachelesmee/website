@@ -63,7 +63,7 @@ There will be [Unconference](http://unconference.net/unconferencing-how-to-prepa
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-15:00 - 15:30|Ujaval Gandhi|Geospatial Careers
+14:45 - 15:15|Ujaval Gandhi|Geospatial Careers
 15:15 - 15:30|-|Coffee break
 15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on
 16:30 - 16:45|National Chair|Wrap up
