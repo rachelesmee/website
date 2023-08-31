@@ -3,7 +3,7 @@ layout: foss4guk2023
 ---
 
 
-## FOSS4G:UK Local 2023 - Keyworth (British Geological Survey)
+## FOSS4G:UK Local 2023 - Keyworth (Nottingham)
 
 Local Venue Chairs: [John Stevenson](mailto:jostev@bgs.ac.uk), [Rachel Talbot](mailto:rtalbot@bgs.ac.uk), [Chris Williams](mailto:chrwil@bgs.ac.uk)
 
