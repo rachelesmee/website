@@ -13,8 +13,8 @@ We are very grateful for the support of OSGeo:IE for sponsoring FOSS4G:UK Local 
 <img src="./images/osgeo-ie.png" width="370" align="middle">
 
 ### Location & Travel
-TSI Room 128
-[TSI Building](https://www.openstreetmap.org/?mlat=53.38245&mlon=-6.59999#map=19/53.38245/-6.59999)<br>
+Lab 019 - Ground Floor
+[Eolas Building](https://www.openstreetmap.org/?mlat=53.38475&mlon=-6.60153#map=19/53.38475/-6.60153)<br>
 North Campus<br>
 Maynooth University<br>
 Co. Kildare<br>
@@ -23,7 +23,9 @@ Ireland<br>
 <img src="./images/tsi.jpg" width="550" align="middle" alt="The TSI building at Maynooth University">
 
 ### Venue Accessibility
-The [Technology, Society and Innovation (TSI) Building](https://www.youtube.com/watch?v=VdoNU-tlfwE&t=432s), Maynooth University’s landmark infrastructural development, is designed to enhance the University’s excellence in research, education and skills development for future generations. The building is situated with very generous public space created outside the main entrance. All spaces in the four storey block are accessible to wheelchair users as are all ground floor entrances. Accessible WC facilities are available at entry level and all other levels. 
+The Eolas Building is situated in the very heart of the University's North Campus among several of the other science buildings. Outside of the Eolas building is a very generous public space and entrance area. All spaces in the building are accessible to wheelchair users as are all ground floor entrances. Accessible WC facilities are available at entry level and all other levels. 
+
+The Lab 019 is a state-of-the-art Computing teaching lab space usually used for Postgraduate teaching and small groups. Benches are equipped with ergonomic chairs with individual plug sockets and USB outlets. [Eduroam](https://www.eduroam.ie/) WiFi is available in the room for those who have access this network. The public [MU-Guest WiFi network](https://www.maynoothuniversity.ie/it-services/wi-fi) is available to guests who do not have Eduroam access.    
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible. Information on public transportation options you can use to reach Maynooth University are available on the University webpage [Getting to Maynooth using Public Transport](https://www.maynoothuniversity.ie/location/commuting)
 
