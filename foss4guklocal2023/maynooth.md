@@ -47,12 +47,14 @@ STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism (streamed)
 # Local session timetable at Maynooth
 
 ## Local Session #1 Chair/Host - Daniel McInerney
+
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Session #1|10:15 - 10:45|Adriaan Keurhorst|**Deep learning and Sentinel-1 for grazing detection in Ireland**
 Local Break|10:45 - 11:15|-|Coffee/tea break (local)
 
 ## Local Session #2 Chair/Host - Daniel McInerney
+
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Session #2|11:15 - 11:45|Kevin Credit|**The Walkable Accessibility Score: A spatially-granular open-source measure of walkability for the continental US from 1997-2019**
@@ -61,6 +63,7 @@ Local Session #2|12:15 - 12:45|Paddy Gorry|**Randomly generated spatial datasets
 Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
 
 ## Local Session #3 Chair/Host - Hrishikesh Ballal
+
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets**
