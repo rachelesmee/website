@@ -20,12 +20,12 @@ Maynooth University<br>
 Co. Kildare<br>
 Ireland<br>
 
-<img src="./images/tsi.jpg" width="550" align="middle" alt="The TSI building at Maynooth University">
+<img src="./images/eolas.png" width="560" align="middle" alt="The Eolas Building at Maynooth University">
 
 ### Venue Accessibility
 The Eolas Building is situated in the very heart of the University's North Campus among several of the other science buildings. Outside of the Eolas building is a very generous public space and entrance area. All spaces in the building are accessible to wheelchair users as are all ground floor entrances. Accessible WC facilities are available at entry level and all other levels. 
 
-The Lab 019 is a state-of-the-art Computing teaching lab space usually used for Postgraduate teaching and small groups. Benches are equipped with ergonomic chairs with individual plug sockets and USB outlets. [Eduroam](https://www.eduroam.ie/) WiFi is available in the room for those who have access this network. The public [MU-Guest WiFi network](https://www.maynoothuniversity.ie/it-services/wi-fi) is available to guests who do not have Eduroam access.    
+The Lab 019 is the venue room. This room is a state-of-the-art Computing teaching lab space usually used for Postgraduate teaching and small groups. There are over 30 individual seats in the room set out with generous workspace between each seat station. All of the seat stations are equipped with ergonomic chairs with individual plug sockets and USB outlets. [Eduroam](https://www.eduroam.ie/) WiFi is available in the room for those who have access this network. The public [MU-Guest WiFi network](https://www.maynoothuniversity.ie/it-services/wi-fi) is available to guests who do not have Eduroam access.    
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible. Information on public transportation options you can use to reach Maynooth University are available on the University webpage [Getting to Maynooth using Public Transport](https://www.maynoothuniversity.ie/location/commuting)
 
