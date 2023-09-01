@@ -35,6 +35,7 @@ put them, or summaries, to the panel for discussion.
  
 ## Moderator
 
-Barry Rowlingson will moderate the panel unless he find someone
-else to do it! Volunteers please?!
+[Denise McKenzie](https://www.linkedin.com/in/denisemckenzie/) will moderate the discussion
+from audience suggestions.
+
 
