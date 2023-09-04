@@ -19,10 +19,8 @@ If you choose to watch online you are welcome to chat to other participants in t
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-09:00 - 09:30|-|Arrival
-09:30 - 10:00|Local organisers|Local welcome and overview / coffee and networking
-10:00 - 10:30|Helen McKenzie|Geospatial Evangelism
-10:30 - 11:00|-|Coffee break
+09:30 - 09:45|Local organisers|Local welcome and overview / coffee and networking
+09:45 - 10:15|Helen McKenzie|Geospatial Evangelism
 
 #### Local sessions
 
@@ -34,12 +32,11 @@ Please note that some links may not work as planned. If the session you want isn
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-15:00 - 15:30|Ujaval Gandhi|Geospatial Careers
+14:45 - 15:15|Ujaval Gandhi|Geospatial Careers
 15:15 - 15:30|-|Coffee break
 15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on
 16:30 - 16:45|National Chair|Wrap up
 -|Conference end|-
-16:45 - ?|Evening social event in Nottingham|TBC
 
 
 ### Registration
