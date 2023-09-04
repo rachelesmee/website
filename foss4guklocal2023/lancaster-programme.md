@@ -40,15 +40,8 @@ What does life look like at the start of the geospatial data trail? Remote sensi
 Having started my career as an astronomer, I am now a geospatial software engineer. I have previously worked on natural hazard and climate change modelling problems, and am now working on creating thermal imaging products from space.
 </p>
 </td></tr>
-<tr><td>1145</td><td><span class="speaker">Katherine McDonough</span> : <span class="talktitle">MapReader</span>
-<p>
-<a href="https://github.com/Living-with-machines/MapReader">MapReader</a> is a groundbreaking interdisciplinary tool that emerged from a specific set of geospatial historical research questions. It was inspired by methods in biomedical imaging and geographic information science, which were adapted for use by historians. The success of the tool subsequently generated interest from plant phenotype researchers working with large image datasets, and so MapReader is an example of cross-pollination between the humanities and the sciences made possible by reproducible data science.
-</p>
-<p class="bio">
-Katherine McDonough is Lecturer in Digital Humanities in the Department of History at Lancaster University and Senior Research Fellow at The Alan Turing Institute. Her digital work uses computational image, text, and spatial analysis to create new ways of doing historical research with large cultural heritage collections as data. With colleagues from Living with Machines, she co-developed the MapReader software library. She is the UK PI on Machines Reading Maps, a project that creates, curates, and analyses datasets of text on maps for research and discovery applications. In addition to her Turing projects she works on GEODE with colleagues in France.
-</p>
-</td></tr>
-<tr><td>1215</td><td>
+
+<tr><td>1145</td><td>
 <span class="speaker">Barry Rowlingson</span> : <span class="talktitle">Mapping a 1950s Circumnavigation with Open Source and Open Sources.</span>
 <p>
 Covid lockdown. I started re-reading "Earth My Friend", the tale of Group Captain Peter Townsend's 1956-58 world circumnavigation by Land Rover. This time I read it with QGIS open, and mapped all the locations he mentioned. This involved consulting various online gazetteers, place references, old map collections and historical information. I've now released this data in a geopackage and am working on making it into cartographic products. This talk will show some of the challenges both in driving round the world in the 50s, and mapping data in the 2020s.
@@ -56,6 +49,17 @@ Covid lockdown. I started re-reading "Earth My Friend", the tale of Group Captai
 <p class="bio">
 I'm a research fellow in the Lancaster Medical School, working on statistical disease modelling and geospatial applications in health and medicine. </p>
 </td></tr>
+
+
+<tr><td>1215</td><td><span class="speaker">Katherine McDonough</span> : <span class="talktitle">MapReader</span>
+<p>
+<a href="https://github.com/Living-with-machines/MapReader">MapReader</a> is a groundbreaking interdisciplinary tool that emerged from a specific set of geospatial historical research questions. It was inspired by methods in biomedical imaging and geographic information science, which were adapted for use by historians. The success of the tool subsequently generated interest from plant phenotype researchers working with large image datasets, and so MapReader is an example of cross-pollination between the humanities and the sciences made possible by reproducible data science.
+</p>
+<p class="bio">
+Katherine McDonough is Lecturer in Digital Humanities in the Department of History at Lancaster University and Senior Research Fellow at The Alan Turing Institute. Her digital work uses computational image, text, and spatial analysis to create new ways of doing historical research with large cultural heritage collections as data. With colleagues from Living with Machines, she co-developed the MapReader software library. She is the UK PI on Machines Reading Maps, a project that creates, curates, and analyses datasets of text on maps for research and discovery applications. In addition to her Turing projects she works on GEODE with colleagues in France.
+</p>
+</td></tr>
+
 <tr><td>1245</td><td>Lunch Sponsored by the Lancaster Data Science Institute</td></tr>
 <tr><td>1345</td><td>
 <span class="speaker">Ana María Pacheco Pascagaza</span> : <span class="talktitle">Connecting Google Colab and Earth Engine for Satellite Imagery Analysis and Vegetation Monitoring</span>
