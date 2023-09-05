@@ -24,6 +24,11 @@ Many thanks to all of our sponsors. Please do check out their websites:
 
 [<img src="images/sparkgeo-logo-black.png" width="200" align="middle">](https://sparkgeo.com/)
 
+[<img src="images/fraser_house_logo.png" width="200" align="middle">](https://fraserhousehub.co.uk/)
+
+[<img src="images/lancaster-dsi.png" width="200" align="middle">](https://www.lancaster.ac.uk/dsi/)
+
+
 
 <!-- ### Business supporters -->
 
