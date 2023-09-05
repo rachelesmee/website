@@ -29,10 +29,8 @@ The Lab 019 is the venue room. This room is a state-of-the-art Computing teachin
 
 We encourage everyone to travel by public transport/car share/under their own steam if possible. Information on public transportation options you can use to reach Maynooth University are available on the University webpage [Getting to Maynooth using Public Transport](https://www.maynoothuniversity.ie/location/commuting)
 
-### Registration
-
-[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is now open! Register to join us in Maynooth. 
-Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
+### Car Parking
+Some delegates will use their cars to reach Maynooth. We are fortunate that September 7th is still considered outside term time - therefore there should be ample parking available throughout the North Campus of the University. This means that you can park in **any properly designated parking space** within the car parks available. Car park 4 and Car park 5A are the closest car parks to the Eolas Building. You will see signs regarding parking permits for these car parks but, happily, permit-based parking will not be enforced until the end of September. This being said, please ensure that you park in a designated space. 
 
 ### Programme - Thursday 7th September 2023
 
@@ -40,8 +38,8 @@ Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target
 
 Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
-Local Arrivals|09:15 - 09:30|-|Local arrivals, registration, and networking
-Local Arrivals|09:30 - 09:45|Peter Mooney|Local welcome and overview / coffee and networking
+Local Arrivals|09:30 - 09:40|-|Local arrivals, registration, and networking
+Local Arrivals|09:40 - 09:45|Peter Mooney|Local welcome and overview
 STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism (streamed)
 
 # Local session timetable at Maynooth
@@ -78,6 +76,11 @@ STREAMED|14:45 - 15:15|Ujaval Gandhi|Geospatial Careers (streamed)
 Local Break|15:15 - 15:30|-|Coffee/tea break (local)
 STREAMED|15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on (streamed)
 Local Close|16:30 - 16:45|Peter Mooney|Wrap up, thanks and goodbye. 
+
+### Registration
+
+[Registration](https://www.eventbrite.co.uk/e/foss4g-uk-local-2023-tickets-663598610307){:target="_newpage"} is still open! Register to join us in Maynooth. 
+Join our [our mailing list](https://lists.osgeo.org/mailman/listinfo/uk){:target="_newpage"} to keep up to date with news. 
 
 
 *Spot a typo or error? Fix on [GitHub](https://github.com/osgeouk/website/blob/gh-pages/foss4guklocal2023/maynooth.md){:target="_newpage"} ([How?](https://uk.osgeo.org/editing-on-github){:target="_newpage"})*
