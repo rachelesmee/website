@@ -24,9 +24,7 @@ Time | Speaker| Title|
 
 #### Local sessions
 
-**Full programme now published! Overview: [PDF](2023_MAIN_Agenda - Google Sheets.pdf){:target="_newpage"}, [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. See individual [venue pages](#venues) for more details**
-
-Choose from the local venues that are streaming their sessions. You can checkout each [local venue page](index.html#venues), or look at the grid overview [PDF](2023_MAIN_Agenda - Google Sheets.pdf) [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"}. Not all venues are streaming - check the venue page for details. 
+Choose from the local venues that are streaming their sessions. You can checkout each [local venue page](index.html#venues), or look at the grid overview in [PDF](2023_MAIN_Agenda - Google Sheets.pdf) or [Google Sheets](https://docs.google.com/spreadsheets/d/1ewkqvMZqXIwDtyEtCxdKte7czpZxUjqqlCZkY1REmzc/edit?usp=sharing){:target="_newpage"} format. Not all venues are streaming - check the venue page for details. 
 
 Please note that some links may not work as planned. If the session you want isn't working, try another one!
 
