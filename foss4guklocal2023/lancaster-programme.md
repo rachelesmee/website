@@ -84,9 +84,7 @@ Paper2GIS allows users to generate maps either using their own basemap design, o
 Senior Lecturer in Geographical Information Science at the University of Manchester
 </p>
 </td></tr>
-
 <tr><td>1430</td><td><span class="speaker">Barry's House of Map Games</span> : <span class="talktitle">Map and Geography Quiz! Pen and paper ready!</span></td></tr>
-
 <tr><td>1445</td><td>Keynote Speaker: <span class="speaker">Ujaval Gandhi</span>
 <p>
 Ujaval spent over 15 years working on satellite data processing at Google and now works
