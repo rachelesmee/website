@@ -5,7 +5,7 @@ layout: foss4guk2023
 ## FOSS4G:UK Local 2023 - Bristol (Engine Shed, Bristol Temple Meads)
 
 ### Key resources for delegates
-* [Bristol Welcome Slide deck](https://drive.google.com/file/d/1gagOdbqbT_QKLPi3cI_JDMemoLeckwY8/view?usp=sharing)
+* [Bristol Welcome Slide deck](https://drive.google.com/file/d/1KuI3U_bPPQBkU3Ptp_Gb5BF1GuGdKyAs/view?usp=sharing)
 * [Full Programme PDF](https://uk.osgeo.org/foss4guklocal2023/2023_MAIN_Agenda%20-%20Google%20Sheets.pdf)
 * [Live YouTube stream - Morning](https://youtube.com/live/m8H5-JW1vN8?feature=share)
 * [Live YouTube stream - Afternoon](https://youtube.com/live/UmHdWFqXdxg?feature=share)
