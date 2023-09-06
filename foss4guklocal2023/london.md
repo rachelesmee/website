@@ -34,6 +34,8 @@ We encourage everyone to travel by public transport/car share/under their own st
  
 The agenda times and speakers could be subject to late change.
 
+[Morning YouTube stream](https://youtube.com/live/KCIsSJFubEo?feature=share) [Afternoon YouTube stream](https://youtube.com/live/J-TEsDnBsSc?feature=share)
+
 * 09:00-09:30: Arrive
 * 09:30-09:45: Conference Start and Welcome
 * 09:45-10:15: **Keynote Talk**: Helen McKenzie: "Geospatial Evangelism"

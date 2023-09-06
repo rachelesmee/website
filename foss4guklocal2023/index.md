@@ -43,7 +43,7 @@ We have two amazing keynotes: [Ujaval Gandhi](https://www.linkedin.com/in/spatia
 
 ### Ujaval Gandhi, Educator | Founder @ Spatial Thoughts: Building a Career with Open-Source Technologies *(14:45, streamed live to all venues and online)*
 
-[<img src="images/keynote-ujaval-gandhi.jpg" width="150" align="left">](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) Ujaval will take you through the evolution of the geospatial industry through the past two decades with his personal journey from working at Google to starting his own academy focused on open-source technologies. You will get to hear how open-source technologies - GDAL, QGIS, and Python - played a key role in his career and helped solve complex geospatial problems and build data pipelines for processing petabytes of data. The talk will conclude by looking at emerging trends and how to prepare oneself to thrive in the current environment.
+[<img src="images/keynote-ujaval-gandhi.jpg" width="150" align="left">](https://www.linkedin.com/in/spatialthoughts/?originalSubdomain=in) *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)* Ujaval will take you through the evolution of the geospatial industry through the past two decades with his personal journey from working at Google to starting his own academy focused on open-source technologies. You will get to hear how open-source technologies - GDAL, QGIS, and Python - played a key role in his career and helped solve complex geospatial problems and build data pipelines for processing petabytes of data. The talk will conclude by looking at emerging trends and how to prepare oneself to thrive in the current environment.
 
 ### Ten Years After
 
