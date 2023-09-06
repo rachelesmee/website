@@ -33,6 +33,8 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme for Bristol
 
+[Morning YouTube stream](https://youtube.com/live/m8H5-JW1vN8?feature=share) [Afternoon YouTube stream](https://youtube.com/live/UmHdWFqXdxg?feature=share)
+
 Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.  
 ⚡ = Lightning talk
 
@@ -40,7 +42,7 @@ Please note, the call for talks has now *closed* and the agenda times and speake
 |--------------|-----------------------------|
 | 09:00-09:30  | Arrive                      |
 | 09:30-09:45  | Conference Start and Welcome|
-| 09:45-10:15  | Keynote Talk: Helen McKenzie ([CARTO](https://carto.com/)): "Getting People Excited about Geo!"|
+| 09:45-10:15  | Keynote Talk: Helen McKenzie ([CARTO](https://carto.com/)): "Getting People Excited about Geo!" *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*|
 | 10:15-10:45  | Elena Robu ([Astun Technology](https://www.astuntechnology.com/)) "Unleashing the Potential: How Automated Metadata Creation Can Improve Your Data Quality and Accessibility"
 | 10:45-11:15  | Coffee Break
 | **11:15-12:45**  | **Local FOSS4G Use Cases Session**
@@ -54,9 +56,9 @@ Please note, the call for talks has now *closed* and the agenda times and speake
 | 13:45-14:15  | Track 2: Matt Travis ([Addresscloud](https://www.addresscloud.com/)) "Cloud native Geospatial tools"
 | 14:15-14:30⚡ | Track 2: Thomas Statham ([Allianz Commercial](https://commercial.allianz.com/)) "Moving between traditional and emerging geographic data structures for advanced spatial analysis"
 | 14:30-14:45⚡  | Track 2: Illya Sparkes-Santos ([FATMAP/Strava](https://fatmap.com/)) "Inception: A very brief introduction to Argo workflows"
-| 14:45-15:15  | Keynote Talk: Ujaval Gandhi ([Spatial Thoughts](https://spatialthoughts.com/)) "Geospatial Careers"
+| 14:45-15:15  | Keynote Talk: Ujaval Gandhi ([Spatial Thoughts](https://spatialthoughts.com/)) "Geospatial Careers" *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
 | 15:15-15:30 | Coffee Break
-| 15:30-16:30 | FOSS4G 2013 Panel Session, 10 years on
+| 15:30-16:30 | FOSS4G 2013 Panel Session, 10 years on *[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)*
 | 16:30-16:45 | Wrap up by National Chair
 | 16:45 | Conference close
 | 16:45-? | 🍻 Continue at local Pub "The Sidings" [map](https://goo.gl/maps/h4PXdSu3c9TJkqJN6)
