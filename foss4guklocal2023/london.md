@@ -47,7 +47,7 @@ The agenda times and speakers could be subject to late change.
 * 11:45-12:15: Local Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)" *[Google slides](https://docs.google.com/presentation/d/1sq5RdgOE61JLl9t4g0qE6sIUh94uxroCg7OxVft14jc/edit?usp=sharing) [PDF slides](presentations/london-saunt.pdf)*
 * 12:15-12:45: Local Lightning Talks:
     * Ali Cass [Transition Zero] "FOSS4G - 4FEO"
-    * Ivann Schlosser [UCL] "Active-travel modelling: a methodological approach to networks for walking and cycling commuting analysis"
+    * Ivann Schlosser [UCL] "Active-travel modelling: a methodological approach to networks for walking and cycling commuting analysis" *[Slides](https://ischlo.github.io/presentations/foss_pres)*
     * James O'Connor [Satellite Vu] "HotSTAC - Satellite Vu's thermal image data built on FOSS"
 
 * 12:45-13:45: Lunch break
