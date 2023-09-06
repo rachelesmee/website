@@ -17,7 +17,7 @@ Guy Solomon (<Guy.Solomon@glasgow.ac.uk>).
 
 ### Programme - Thursday 7th September 2023
 
-[Morning YouTube stream](https://youtube.com/live/QT4QL6an1gI?feature=share) [Afternoon YouTube stream](https://youtube.com/live/5ZswzqralGo?feature=share)
+[Morning YouTube stream](https://youtube.com/live/QT4QL6an1gI?feature=share) - [Afternoon YouTube stream](https://youtube.com/live/5ZswzqralGo?feature=share)
 
 _Italics denote national events, which will be streamed to watch together_
 

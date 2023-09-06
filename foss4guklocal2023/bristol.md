@@ -33,7 +33,7 @@ We encourage everyone to travel by public transport/car share/under their own st
 
 ### Programme for Bristol
 
-[Morning YouTube stream](https://youtube.com/live/m8H5-JW1vN8?feature=share) [Afternoon YouTube stream](https://youtube.com/live/UmHdWFqXdxg?feature=share)
+[Morning YouTube stream](https://youtube.com/live/m8H5-JW1vN8?feature=share) - [Afternoon YouTube stream](https://youtube.com/live/UmHdWFqXdxg?feature=share)
 
 Please note, the call for talks has now *closed* and the agenda times and speakers could be subject to change.  
 ⚡ = Lightning talk
