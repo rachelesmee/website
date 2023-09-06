@@ -9,6 +9,7 @@ layout: foss4guk2023
 * [Full Programme PDF](https://uk.osgeo.org/foss4guklocal2023/2023_MAIN_Agenda%20-%20Google%20Sheets.pdf)
 * [Live YouTube stream - Morning](https://youtube.com/live/m8H5-JW1vN8?feature=share)
 * [Live YouTube stream - Afternoon](https://youtube.com/live/UmHdWFqXdxg?feature=share)
+* social media hashtag `#foss4guk2023` 
 
 ### Local Organising Team:
 * [Sam Franklin](https://mapstodon.space/@samfranklin)
