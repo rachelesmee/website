@@ -81,8 +81,8 @@ Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 STREAMED|14:45 - 15:15|Ujaval Gandhi|Geospatial Careers ([YouTube Link](https://youtube.com/live/vE9RQBUWWUE?feature=share) streamed)
 Local Break|15:15 - 15:30|-|Coffee/tea break (local)
-STREAMED|15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on (streamed)
-Local Close|16:30 - 16:45|Peter Mooney|Wrap up, thanks and goodbye. 
+STREAMED|15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on ([YouTube Link](https://youtube.com/live/2UReJqFle_Y?feature=share) streamed)
+STREAMED|16:30 - 16:45|Nick Bearman|Wrap up, thanks and goodbye. (streamed)
 
 ### Registration
 
