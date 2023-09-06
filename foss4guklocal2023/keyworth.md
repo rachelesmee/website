@@ -32,15 +32,15 @@ Time | Speaker| Title|
 :-----|:-----|:-----
 09:00 - 09:30|-|Arrival / coffee and networking
 09:30 - 09:45|Local organisers|Local welcome and overview
-09:45 - 10:15|Helen McKenzie|Geospatial Evangelism
+09:45 - 10:15|Helen McKenzie|Geospatial Evangelism *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
 
 
 #### Local sessions
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-10:15 - 10:30|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
-10:30 - 10:45|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+10:15 - 10:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+10:30 - 10:45|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
 10:45 - 11:15|-|Coffee break
 11:15 - 11:30|Chris Jackson|Generating and sharing a two-metre resolution land cover map of London
 11:30 - 11:45|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
@@ -63,9 +63,9 @@ There will be [Unconference](http://unconference.net/unconferencing-how-to-prepa
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-14:45 - 15:15|Ujaval Gandhi|Geospatial Careers
+14:45 - 15:15|Ujaval Gandhi|Geospatial Careers *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
 15:15 - 15:30|-|Coffee break
-15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on
+15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on *[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)*
 16:30 - 16:45|National Chair|Wrap up
 -|Conference end|-
 16:45 - ?|Evening social event in Nottingham|TBC

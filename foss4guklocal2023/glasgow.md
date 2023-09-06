@@ -17,13 +17,15 @@ Guy Solomon (<Guy.Solomon@glasgow.ac.uk>).
 
 ### Programme - Thursday 7th September 2023
 
+[Morning YouTube stream](https://youtube.com/live/QT4QL6an1gI?feature=share) - [Afternoon YouTube stream](https://youtube.com/live/5ZswzqralGo?feature=share)
+
 _Italics denote national events, which will be streamed to watch together_
 
 Time | Speaker| Title
 :-----|:-----|:-----
 09:00 - 09:30|-|Arrival
 09:30 - 09:45|Local organisers|Local welcome and overview
-09:45 - 10:15|_Helen McKenzie_|_Keynote: Geospatial Evangelism_
+09:45 - 10:15|_Helen McKenzie_|_Keynote: Geospatial Evangelism_ *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
 10:15 - 10:30|Brian Johnston [Ordnance Survey]|Accessing OS Downloads API with R
 10:30 - 10:45|Amy Taylor [Cawdor Forestry]|Tree Rings; Visualising forest plan data with R
 10:45 - 10:50|Ana Basiri [University of Glasgow]|Geospatial Data Science at Glasgow
@@ -53,9 +55,9 @@ Time | Speaker| Title
 12:45 - 13:45|-|**Lunch**|
 13:45 - 14:15|Liam O'Connor [Compass Informatics]|MapServer in an asset management system|
 14:15 - 14:45|Robert Coup [Koordinates]|Kart: Practical Data Versioning for rasters, vectors, tables, and point clouds|
-14:45 - 15:15|_Ujaval Gandhi [Google]_|_Keynote: Geospatial Careers_
+14:45 - 15:15|_Ujaval Gandhi [Google]_|_Keynote: Geospatial Careers_ *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
 15:15 - 15:30|-|**Coffee Break**
-15:30 - 16:30|_Panel Session_|_FOSS4G 2013 Panel Session: 10 years on_
+15:30 - 16:30|_Panel Session_|_FOSS4G 2013 Panel Session: 10 years on_ *[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)*
 16:30 - 16:45|_National Chair_|_Wrap up by National Chair_
 16:45|-|**Conference Close**
 

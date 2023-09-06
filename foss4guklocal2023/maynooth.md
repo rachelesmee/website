@@ -34,17 +34,21 @@ Some delegates will use their cars to reach Maynooth. We are fortunate that Sept
 
 ### Programme - Thursday 7th September 2023
 
-#### National keynotes - these will be streamed to watch at our local venue in Maynooth at the start and end of day
+#### National keynotes - these will be streamed (see links below for individual keynotes) to watch at our local venue in Maynooth at the start and end of day
+
+**YouTube Streaming Links: Please note** There is a different YouTube stream link for the morning session (Local Session #1 and #2) and the afternoon session (Local Session #3) at Maynooth (and all venues). This website will always have the correct YouTube links. 
 
 Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Arrivals|09:30 - 09:40|-|Local arrivals, registration, and networking
 Local Arrivals|09:40 - 09:45|Peter Mooney|Local welcome and overview
-STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism (streamed)
+STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism ([YouTube Link](https://youtube.com/live/HWmgegypNBQ?feature=share) streamed)
 
 # Local session timetable at Maynooth
 
 ## Local Session #1 Chair/Host - Daniel McInerney
+
+**Local Session #1 [YouTube Stream Link](https://youtube.com/live/oRyoR-xXiU4?feature=share)**
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
@@ -52,6 +56,8 @@ Local Session #1|10:15 - 10:45|Adriaan Keurhorst|**Deep learning and Sentinel-1 
 Local Break|10:45 - 11:15|-|Coffee/tea break (local)
 
 ## Local Session #2 Chair/Host - Daniel McInerney
+
+**Local Session #2 [YouTube Stream Link](https://youtube.com/live/oRyoR-xXiU4?feature=share)**
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
@@ -62,20 +68,22 @@ Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
 
 ## Local Session #3 Chair/Host - Hrishikesh Ballal
 
+**Local Session #3 [YouTube Stream Link](https://youtube.com/live/9QyNCaj3jpI?feature=share)**
+
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets**
-Local Session #3|14:15 - 14:30|Peter Mooney|**FOSS4G in the classroom: observations and ideas**
-Local Session #3|14:30 - 14:45|Everyone locally|**Unconference - discussion of next steps for OSGeoIE** 
+Local Session #3|14:15 - 14:30|Kevin O'Brien|**R - Dashboards and Shiny Apps** (title TBC)
+Local Session #3|14:30 - 14:45|Everyone locally|**Unconference - discussion of next steps for OSGeoIE** (not streamed!)
 
-#### National keynotes - these will be streamed to watch at our local venue in Maynooth at the start and end of day
+#### National keynotes - these will be streamed (links below) to watch at our local venue in Maynooth at the start and end of day
 
 Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
-STREAMED|14:45 - 15:15|Ujaval Gandhi|Geospatial Careers (streamed)
+STREAMED|14:45 - 15:15|Ujaval Gandhi|Geospatial Careers ([YouTube Link](https://youtube.com/live/vE9RQBUWWUE?feature=share) streamed)
 Local Break|15:15 - 15:30|-|Coffee/tea break (local)
-STREAMED|15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on (streamed)
-Local Close|16:30 - 16:45|Peter Mooney|Wrap up, thanks and goodbye. 
+STREAMED|15:30 - 16:30|Panel Session|FOSS4G 2013, 10 years on ([YouTube Link](https://youtube.com/live/2UReJqFle_Y?feature=share) streamed)
+STREAMED|16:30 - 16:45|Nick Bearman|Wrap up, thanks and goodbye. (streamed)
 
 ### Registration
 
