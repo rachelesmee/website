@@ -8,13 +8,15 @@ venuepage: lancaster.html
 
 This is the programme for the Lancaster meeting of the FOSS4G UK 2023 Conference.
 
+[Morning YouTube stream](https://youtube.com/live/WmPrAx-CqC4?feature=share) - [Afternoon YouTube stream](https://youtube.com/live/HTjURaCkVPM?feature=share)
+
 <table class="programme">
 <tr><th>Time</th><th>Details</th></tr>
 <tr><td>0900</td><td>Arrival and registration</td></tr>
 <tr><td>0930</td><td>Local Welcome</td></tr>
 <tr><td>0945</td><td>Keynote Speaker: <span class="speaker">Helen McKenzie</span>
 <p>Helen is a Geospatial Advocate at CARTO, a location intelligence platform provider since 2012. Her
-role is to excite people in the application of geospatial technologies.
+role is to excite people in the application of geospatial technologies. *[Slides](https://docs.google.com/presentation/d/1gM5Yg-Z4i_zLo9ae1bPUJtxPd6TLC9r74N6x7K19nd4/edit?usp=sharing) [YouTube](https://youtube.com/live/HWmgegypNBQ?feature=share)*
 </p>
 </td></tr>
 <tr><td>1015</td><td><span class="speaker">Rory Southworth</span> : <span class="talktitle">Fraser House Hub &ndash; Local Sponsor</span>
@@ -86,12 +88,12 @@ Senior Lecturer in Geographical Information Science at the University of Manches
 <tr><td>1445</td><td>Keynote Speaker: <span class="speaker">Ujaval Gandhi</span>
 <p>
 Ujaval spent over 15 years working on satellite data processing at Google and now works
-on the <a href="http://www.spatialthoughts.com">Spatial Thoughts</a> GIS online learning resource.
+on the <a href="http://www.spatialthoughts.com">Spatial Thoughts</a> GIS online learning resource. *[YouTube](https://youtube.com/live/vE9RQBUWWUE?feature=share)*
 </p></td></tr>
 <tr><td>1515</td><td>Break</td></tr>
 <tr><td>1530</td><td><a href="ten-years-after.html">Panel Discussion: <span class="talktitle">"Ten Years After"</span></a>
 <p>Four presentations from members of the 2013 FOSS4G Global committee on where we've come in the last ten years
-and where we might be going in the next ten. Followed by a Q+A session.
+and where we might be going in the next ten. Followed by a Q+A session. *[YouTube](https://youtube.com/live/2UReJqFle_Y?feature=share)*
 </p>
 </td></tr>
 <tr><td>1630</td><td>Wrap-up</td></tr>
