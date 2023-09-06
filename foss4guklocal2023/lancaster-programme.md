@@ -6,7 +6,7 @@ venuepage: lancaster.html
 
 ## Programme
 
-This is a provisional programme for the Lancaster meeting of the FOSS4G UK 2023 Conference.
+This is the programme for the Lancaster meeting of the FOSS4G UK 2023 Conference.
 
 <table class="programme">
 <tr><th>Time</th><th>Details</th></tr>

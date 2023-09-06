@@ -6,11 +6,19 @@ layout: foss4guk2023
 
 Local Venue Chairs: [Barry Rowlingson](https://barry.rowlingson.com/contact.html), [Jonny Huck](https://jonnyhuck.co.uk/)
 
-<img src="images/fraser_house_hub.jpg" width="600" align="middle">
+
+### Programme
+
+The [Lancaster Programme](lancaster-programme.html) is now online. If you are presenting and 
+the time is awkward for you for any reason, let Barry or Jonny know and we'll try and make adjustments.
+
 
 ### Sponsors
 
 We are very grateful for the support of [Fraser House Hub](https://fraserhousehub.co.uk) for supporting sponsorship of the venue for FOSS4G:UK Local 2023 in Lancaster. <br>
+
+<img src="images/fraser_house_hub.jpg" width="600" align="middle">
+
 
 We are also very grateful to the Lancaster University [Data Science Institute](https://www.lancaster.ac.uk/dsi/) for sponsoring 
 lunch and refreshments.<br>
@@ -37,10 +45,6 @@ We encourage everyone to travel by public transport/car share/under their own st
 The call for talks is now closed, but if you are still interested in presenting contact Barry and
 there may be space in the programme for lightning talks or announcements.
 
-### Programme
-
-A provisional [Lancaster Programme](lancaster-programme.html) is now online. If you are presenting and 
-the time is awkward for you for any reason, let Barry or Jonny know and we'll try and make adjustments.
 
 ### Registration
 
