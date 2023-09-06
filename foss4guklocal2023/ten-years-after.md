@@ -28,9 +28,13 @@ put them, or summaries, to the panel for discussion.
  
  * **[Mark Iliffe](https://www.linkedin.com/in/iliffemark/)**: Mark will take a look at the global legacy of Nottingham 2013 and how enabling access to open source has changed. 
 
+ * **[Matt Walker](https://www.astuntechnology.com/about/)**: Principal Geospatial Architect at [Astun Technology](https://www.astuntechnology.com/),  active user, contributor and advocate of open source, OSGeo Charter Member and involved in organising and presenting at a host of OSGeo events. Matt is going to talk tech about the nuts n bolts of open source. 
+
+Abi has had to pull out of the conference for personal family reasons, but we thank her for her contribution to the 
+formation of the panel session.
+
  * **[Abigail Page](https://www.linkedin.com/in/abipage/)**: Abi will discuss open source/open data in government and the increasing importance of geospatial (e.g. the existence of the Geospatial Commission).
  
- * **[Matt Walker](https://www.astuntechnology.com/about/)**: Principal Geospatial Architect at [Astun Technology](https://www.astuntechnology.com/),  active user, contributor and advocate of open source, OSGeo Charter Member and involved in organising and presenting at a host of OSGeo events. Matt is going to talk tech about the nuts n bolts of open source. 
 
  
 ## Moderator
