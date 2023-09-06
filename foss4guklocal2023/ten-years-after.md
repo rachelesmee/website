@@ -4,6 +4,8 @@ layout: foss4guk2023
 
 ## Panel Discussion: Ten Years After
 
+*[YouTube stream](https://youtube.com/live/2UReJqFle_Y?feature=share)*
+
 In 2013 a rag-tag team of UK geo-evangelists produced the 
 global [FOSS4G 2013](http://2013.foss4g.org/) conference
 in Nottingham, the first (and currently only) time it has
