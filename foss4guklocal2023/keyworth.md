@@ -39,8 +39,8 @@ Time | Speaker| Title|
 
 Time | Speaker| Title|
 :-----|:-----|:-----
-10:15 - 10:30|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
-10:30 - 10:45|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+10:15 - 10:30|Andres Payo|The journey of Coastal Modeling Environment software (CoastalME) from proof of concept to operational tool and beyond
+10:30 - 10:45|Jin Igarashi|UNDP's one stop shop for cloud based geospatial data visualisation and analytical tool
 10:45 - 11:15|-|Coffee break
 11:15 - 11:30|Chris Jackson|Generating and sharing a two-metre resolution land cover map of London
 11:30 - 11:45|Peter Wells|Mergin Maps: a platform to extend your QGIS to the field
