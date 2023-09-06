@@ -42,7 +42,7 @@ The agenda times and speakers could be subject to late change.
 * 10:45-11:15: Coffee Break
 
 * 11:15-11:45: Local Talk: Yogesh Girikumar [HOT] "HOT Tasking Manager - A case-study in mindfully modernising infrastructure"
-* 11:45-12:15: Local Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)"
+* 11:45-12:15: Local Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)" [slides](presentations/london-saunt.pdf)
 * 12:15-12:45: Local Lightning Talks:
     * Ali Cass [Transition Zero] "FOSS4G - 4FEO"
     * Ivann Schlosser [UCL] "Active-travel modelling: a methodological approach to networks for walking and cycling commuting analysis"
