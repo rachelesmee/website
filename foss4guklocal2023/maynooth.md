@@ -36,7 +36,7 @@ Some delegates will use their cars to reach Maynooth. We are fortunate that Sept
 
 #### National keynotes - these will be streamed (see links below for individual keynotes) to watch at our local venue in Maynooth at the start and end of day
 
-** Streaming Links: Please note ** There is a different YouTube stream link for the morning session (Local Session #1 and #2) and the afternoon session (Local Session #3) at Maynooth (and all venues)
+**YouTube Streaming Links: Please note** There is a different YouTube stream link for the morning session (Local Session #1 and #2) and the afternoon session (Local Session #3) at Maynooth (and all venues). This website will always have the correct YouTube links. 
 
 Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
@@ -48,7 +48,7 @@ STREAMED|09:45 - 10:15|Helen McKenzie|Geospatial Evangelism ([YouTube Link](http
 
 ## Local Session #1 Chair/Host - Daniel McInerney
 
-**Local Session #1 [YouTube Stream Link](https://youtube.com/live/oRyoR-xXiU4?feature=share) **
+**Local Session #1 [YouTube Stream Link](https://youtube.com/live/oRyoR-xXiU4?feature=share)**
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
@@ -57,7 +57,7 @@ Local Break|10:45 - 11:15|-|Coffee/tea break (local)
 
 ## Local Session #2 Chair/Host - Daniel McInerney
 
-**Local Session #2 [YouTube Stream Link](https://youtube.com/live/oRyoR-xXiU4?feature=share) **
+**Local Session #2 [YouTube Stream Link](https://youtube.com/live/oRyoR-xXiU4?feature=share)**
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
@@ -68,14 +68,14 @@ Local Lunch|12:45 - 13:45|-|Lunch served at venue room (local)
 
 ## Local Session #3 Chair/Host - Hrishikesh Ballal
 
-**Local Session #3 [YouTube Stream Link](https://youtube.com/live/9QyNCaj3jpI?feature=share) **
+**Local Session #3 [YouTube Stream Link](https://youtube.com/live/9QyNCaj3jpI?feature=share)**
 
 Session| Time | Speaker| Title|
 :-----|:-----|:-----|:-----
 Local Session #3|13:45 - 14:15|Paul Holloway|**Using FOSS4G to meet UN Sustainable Development Goal (SDG) targets**
 Local Session #3|14:15 - 14:45|Everyone locally|**Unconference - discussion of next steps for OSGeoIE** (not streamed!)
 
-#### National keynotes - these will be streamed to watch at our local venue in Maynooth at the start and end of day
+#### National keynotes - these will be streamed (links below) to watch at our local venue in Maynooth at the start and end of day
 
 Session|Time | Speaker| Title|
 :-----|:-----|:-----|:-----
