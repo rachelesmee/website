@@ -6,10 +6,13 @@ layout: default
 ### FOSS4G:UK Local 2023
 #### Thurs 7<sup>th</sup> Sept 2023
 
-**Full programme now published! See [venue pages](foss4guklocal2023/index.html) for details**
+**FOSS4G:UK Local 2023 is now over! Thanks to everyone who took part**
+
+We will be making videos available through YouTube in due course. 
+
+Please do fill out the [feedback form](https://forms.gle/penyfTYhV733E7Yz5) with your comments and ideas for the future. Remember you have until 17:00 Thurs 21st Sept to be in the draw for a free e-book from [Locate Press](https://locatepress.com/). 
 
 <img title="FOSS4G Uk Local 2023 Logo" src="/foss4guklocal2023/images/foss4guk2023-logo.svg" style="display:block; width: 50%; margin: 0 auto;"/>
-
 
 [OSGeo:UK](https://uk.osgeo.org/) will be bringing together all those interested in free and open source software for geospatial (FOSS4G) for this fantastic event. If you use, promote, develop or want to learn about open source tools and open data for geospatial, then this conference is for you! 
 
