@@ -46,7 +46,7 @@ The agenda times and speakers could be subject to late change.
 * 11:15-11:45: Local Talk: Yogesh Girikumar [HOT] "HOT Tasking Manager - A case-study in mindfully modernising infrastructure" *[PDF slides](presentations/london-girikumar.pdf)*
 * 11:45-12:15: Local Talk: Mike Saunt [Astun Technology] "Back to 2003: A Brief History of Open Source Mapping Adoption in the UK (a non-technical viewpoint)" *[Google slides](https://docs.google.com/presentation/d/1sq5RdgOE61JLl9t4g0qE6sIUh94uxroCg7OxVft14jc/edit?usp=sharing) [PDF slides](presentations/london-saunt.pdf)*
 * 12:15-12:45: Local Lightning Talks:
-    * Ali Cass [Transition Zero] "FOSS4G - 4FEO" *[slides](https://docs.google.com/presentation/d/1scY1db4m3le6UXwUBNQL7Ixbe2TDg1MxqY8i6WVmTQ4/edit#slide=id.g212628386f1_0_138)*
+    * Ali Cass [Transition Zero] "FOSS4G - 4FEO" *[slides](presentations/london-cass.pdf)*
     * Ivann Schlosser [UCL] "Active-travel modelling: a methodological approach to networks for walking and cycling commuting analysis" *[slides](https://ischlo.github.io/presentations/foss_pres)*
     * James O'Connor [Satellite Vu] "HotSTAC - Satellite Vu's thermal image data built on FOSS" *[slides](https://docs.google.com/presentation/d/1oJyT3Uq88XfaJmrtzexE7lj2-040WRWvrUgYaSg2FRM/edit#slide=id.p1)*
 
