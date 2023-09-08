@@ -6,7 +6,7 @@ layout: default
 ### FOSS4G:UK Local 2023
 #### Thurs 7<sup>th</sup> Sept 2023
 
-**FOSS4G:UK Local 2023 is now over! Thanks to everyone who took part**
+**[FOSS4G:UK Local 2023](foss4guklocal2023/index.html) is now over! Thanks to everyone who took part**
 
 We will be making videos available through YouTube in due course. 
 
